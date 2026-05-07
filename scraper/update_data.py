@@ -216,20 +216,16 @@ def fetch_all_entries() -> tuple[list[dict], list[dict]]:
 
 
 def try_update_metrics(data: dict, raw_entries: list[dict]) -> bool:
-    """Detecta de forma independiente casos, muertes, recuperaciones y por país."""
+    """Detecta de forma independiente casos, muertes y recuperaciones (totales)."""
     current = data["current"]
     best_cases     = current["cases"]
     best_deaths    = current["deaths"]
     best_recovered = current.get("recovered", 0)
 
-    # Por país: el mejor número visto para cada país
-    per_country: dict[str, dict] = {}
-
     for entry in raw_entries:
         text = (entry["title"] + " " + entry["summary"]).lower()
         if not any(kw in text for kw in KEYWORDS):
             continue
-        # CLAVE: solo extraer cifras si el artículo es sobre el brote actual
         if not is_current_outbreak_article(text):
             continue
 
@@ -237,18 +233,12 @@ def try_update_metrics(data: dict, raw_entries: list[dict]) -> bool:
         deaths    = extract_first_number(text, DEATH_PATTERNS,    0, 1000)
         recovered = extract_first_number(text, RECOVERED_PATTERNS,0, 10000)
 
-        # Globales — actualiza siempre que el número sea mayor
+        # Solo agregados globales — la atribución por país NO es fiable sin NLP
+        # (un artículo puede mencionar "Argentina" como origen de la cepa pero las
+        # muertes haber sido en otro país). Se mantiene manual.
         if cases     and cases     > best_cases:     best_cases     = cases
         if deaths    and deaths    > best_deaths:    best_deaths    = deaths
         if recovered and recovered > best_recovered: best_recovered = recovered
-
-        # Atribución por país: solo cuando el artículo menciona UN único país
-        countries_in_text = detect_countries(text)
-        if len(countries_in_text) == 1:
-            code = countries_in_text[0]
-            entry_data = per_country.setdefault(code, {"cases": 0, "deaths": 0})
-            if cases  and cases  > entry_data["cases"]:  entry_data["cases"]  = cases
-            if deaths and deaths > entry_data["deaths"]: entry_data["deaths"] = deaths
 
     changed = False
     changes_log: list[str] = []
@@ -267,33 +257,7 @@ def try_update_metrics(data: dict, raw_entries: list[dict]) -> bool:
         current["recovered"] = best_recovered
         changed = True
 
-    # Por país
     countries_arr = data.setdefault("countries", [])
-    for code, vals in per_country.items():
-        country = next((c for c in countries_arr if c["code"] == code), None)
-        if not country:
-            continue  # país no en la lista — no auto-creamos para evitar errores
-        if vals["cases"] > country.get("cases", 0):
-            changes_log.append(f"{code}: casos {country.get('cases', 0)}→{vals['cases']}")
-            country["cases"] = vals["cases"]
-            changed = True
-        if vals["deaths"] > country.get("deaths", 0):
-            changes_log.append(f"{code}: muertes {country.get('deaths', 0)}→{vals['deaths']}")
-            country["deaths"] = vals["deaths"]
-            changed = True
-
-    # Recalcular: total no puede ser menor que la suma de países
-    sum_country_cases  = sum(c.get("cases", 0)  for c in countries_arr)
-    sum_country_deaths = sum(c.get("deaths", 0) for c in countries_arr)
-    if sum_country_cases > current["cases"]:
-        changes_log.append(f"casos (suma países) →{sum_country_cases}")
-        current["cases"] = sum_country_cases
-        changed = True
-    if sum_country_deaths > current["deaths"]:
-        changes_log.append(f"muertes (suma países) →{sum_country_deaths}")
-        current["deaths"] = sum_country_deaths
-        changed = True
-
     countries_with_cases = len([c for c in countries_arr if c.get("cases", 0) > 0])
     if countries_with_cases > current.get("countries", 0):
         current["countries"] = countries_with_cases

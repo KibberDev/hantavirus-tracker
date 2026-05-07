@@ -7,7 +7,7 @@
   },
   "current": {
     "cases": 8,
-    "deaths": 6,
+    "deaths": 3,
     "recovered": 0,
     "countries": 5
   },
@@ -178,35 +178,6 @@
           "deaths": 0
         }
       }
-    },
-    {
-      "date": "2026-05-07",
-      "cases": 8,
-      "deaths": 6,
-      "recovered": 0,
-      "event": "Actualización: 8 casos · 6 fallecidos · 0 recuperados",
-      "snapshot": {
-        "AR": {
-          "cases": 2,
-          "deaths": 3
-        },
-        "NL": {
-          "cases": 2,
-          "deaths": 2
-        },
-        "DE": {
-          "cases": 1,
-          "deaths": 1
-        },
-        "ZA": {
-          "cases": 2,
-          "deaths": 0
-        },
-        "ES": {
-          "cases": 1,
-          "deaths": 0
-        }
-      }
     }
   ],
   "news": [
@@ -343,7 +314,7 @@
       "name": "Argentina",
       "iso_num": "032",
       "cases": 2,
-      "deaths": 3,
+      "deaths": 0,
       "status": "Lugar de exposición probable",
       "first_case": "2026-04-01",
       "notes": "La pareja holandesa contrajo el virus durante actividades en tierra en Argentina antes de embarcar en el MV Hondius. Cepa Andes, endémica en el Cono Sur."
