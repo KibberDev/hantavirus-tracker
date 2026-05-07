@@ -2,7 +2,7 @@ name: Update Hantavirus Data
 
 on:
   schedule:
-    - cron: '*/30 * * * *'   # cada 30 minutos
+    - cron: '*/15 * * * *'   # cada 15 minutos
   workflow_dispatch:           # también ejecutable a mano desde GitHub
 
 permissions:

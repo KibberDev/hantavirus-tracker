@@ -37,19 +37,34 @@ HEADERS = {
 }
 
 CASE_PATTERNS = [
+    # English
     r"(\d+)\s+(?:laboratory[\-\s]?confirmed\s+)?(?:human\s+)?cases?",
     r"total\s+(?:of\s+)?(\d+)\s+cases?",
     r"(\d+)\s+persons?\s+(?:infected|affected|confirmed)",
+    r"(\d+)\s+(?:passengers?|crew\s+members?|people)\s+(?:tested\s+)?(?:positive|infected)",
     r"confirmed[:\s]+(\d+)",
-    r"(\d+)\s+casos?\s+(?:confirmados?|sospechosos?)",
-    r"casos?\s+(?:confirmados?|asciende\s+a)\s*(?:de\s+)?(\d+)",
+    r"rises?\s+to\s+(\d+)",
+    r"climb(?:s|ed)?\s+to\s+(\d+)",
+    r"reach(?:es|ed)?\s+(\d+)",
+    # Spanish
+    r"(\d+)\s+casos?\s+(?:confirmados?|sospechosos?|positivos?)",
+    r"casos?\s+(?:confirmados?|sospechosos?)\s*(?:asciende[n]?\s+a|suben?\s+a|llegan?\s+a)?\s*(?:de\s+|a\s+)?(\d+)",
+    r"(?:asciende[n]?\s+a|suben?\s+a|llegan?\s+a|son\s+ya)\s+(\d+)\s+(?:los\s+)?(?:casos?|infectados?|positivos?|contagiados?)",
+    r"ya\s+son\s+(\d+)\s+(?:casos?|infectados?|positivos?|contagiados?)",
+    r"(\d+)\s+(?:infectados?|contagiados?|positivos?)",
+    r"(?:total\s+de\s+|cifra\s+de\s+)(\d+)\s+(?:casos?|infectados?|contagiados?)",
 ]
 
 DEATH_PATTERNS = [
+    # English
     r"(\d+)\s+(?:deaths?|fatalities?|fatal\s+cases?)",
     r"(\d+)\s+(?:persons?\s+)?(?:have\s+)?died",
-    r"(\d+)\s+(?:fallec|muertos?|víctim|fatales?)",
-    r"(?:fallec|muertos?|víctim)\w*\s*(?:asciende\s+a)?\s*(\d+)",
+    r"death\s+toll\s+(?:rises?|climbs?|reaches?)\s+(?:to\s+)?(\d+)",
+    # Spanish
+    r"(\d+)\s+(?:fallecidos?|muertos?|víctimas?\s+mortales?|fatales?)",
+    r"(?:fallecidos?|muertos?|víctimas?)\s*(?:asciende[n]?\s+a|suben?\s+a|llegan?\s+a)\s+(\d+)",
+    r"(\d+)\s+han\s+(?:fallecido|muerto)",
+    r"ya\s+son\s+(\d+)\s+(?:fallecidos?|muertos?|víctimas?)",
 ]
 
 
