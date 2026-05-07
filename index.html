@@ -422,13 +422,134 @@
       border-top: 1px solid var(--border); padding-top: 8px;
     }
 
-    /* ── NEWS PANEL ── */
+    /* ── NEWS PANEL + RANKING ── */
     #news-panel {
       background: var(--bg-1);
       display: flex;
       flex-direction: column;
       overflow: hidden;
     }
+    .panel-tabs {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      border-bottom: 1px solid var(--border);
+      flex-shrink: 0;
+      position: relative;
+    }
+    .panel-collapse-btn { display: none; }
+    .panel-tab {
+      background: transparent;
+      border: none;
+      color: var(--text-3);
+      padding: 12px 8px;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 1.2px;
+      text-transform: uppercase;
+      cursor: pointer;
+      border-bottom: 2px solid transparent;
+      transition: all 0.15s;
+      font-family: inherit;
+    }
+    .panel-tab:hover { color: var(--text-1); }
+    .panel-tab.active {
+      color: var(--orange);
+      border-bottom-color: var(--orange);
+      background: rgba(255, 107, 53, 0.05);
+    }
+    .panel-tab .badge {
+      display: inline-block;
+      margin-left: 5px;
+      font-size: 9px;
+      background: rgba(255, 107, 53, 0.15);
+      color: var(--orange);
+      padding: 1px 6px;
+      border-radius: 8px;
+      font-weight: 700;
+    }
+    .panel-content {
+      flex: 1;
+      overflow-y: auto;
+      display: none;
+    }
+    .panel-content.active { display: block; }
+    .panel-content::-webkit-scrollbar { width: 4px; }
+    .panel-content::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
+
+    /* Ranking */
+    .rank-item {
+      display: grid;
+      grid-template-columns: 24px 26px 1fr auto;
+      gap: 10px;
+      align-items: center;
+      padding: 10px 14px;
+      border-bottom: 1px solid var(--border);
+      cursor: pointer;
+      transition: background 0.15s;
+    }
+    .rank-item:hover { background: var(--bg-2); }
+    .rank-pos {
+      font-size: 12px;
+      font-weight: 800;
+      color: var(--text-3);
+      text-align: center;
+      font-family: 'Consolas', monospace;
+    }
+    .rank-item:nth-child(1) .rank-pos { color: #ffd166; }
+    .rank-item:nth-child(2) .rank-pos { color: #c0c0c0; }
+    .rank-item:nth-child(3) .rank-pos { color: #cd7f32; }
+    .rank-flag {
+      width: 26px;
+      height: 18px;
+      border-radius: 2px;
+      object-fit: cover;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+    }
+    .rank-info {
+      display: flex;
+      flex-direction: column;
+      gap: 1px;
+      min-width: 0;
+    }
+    .rank-name {
+      font-size: 12.5px;
+      color: var(--text-1);
+      font-weight: 600;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .rank-meta {
+      font-size: 10px;
+      color: var(--text-3);
+    }
+    .rank-stats {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+      gap: 1px;
+    }
+    .rank-cases {
+      font-size: 14px;
+      font-weight: 800;
+      color: var(--orange);
+      font-variant-numeric: tabular-nums;
+      line-height: 1;
+    }
+    .rank-deaths {
+      font-size: 10px;
+      color: var(--red);
+      font-variant-numeric: tabular-nums;
+    }
+    .rank-deaths.zero { color: var(--text-3); }
+    .rank-empty {
+      padding: 24px 16px;
+      text-align: center;
+      color: var(--text-3);
+      font-size: 12px;
+      line-height: 1.5;
+    }
+
     .news-header {
       padding: 12px 16px;
       border-bottom: 1px solid var(--border);
@@ -717,36 +838,47 @@
       }
       #map-legend .legend-row { gap: 6px; margin-bottom: 3px; }
 
-      /* News becomes a bottom sheet */
+      /* News/Ranking becomes a bottom sheet */
       #news-panel {
-        max-height: 40vh;
+        max-height: 42vh;
         border-top: 2px solid var(--orange);
         position: relative;
       }
       #news-panel.collapsed { max-height: 44px; overflow: hidden; }
-      #news-panel.collapsed #news-list { display: none; }
+      #news-panel.collapsed .panel-content { display: none !important; }
 
-      .news-header {
-        padding: 10px 14px;
-        cursor: pointer;
+      .panel-tabs {
         position: sticky;
         top: 0;
         background: var(--bg-1);
         z-index: 5;
+        cursor: pointer;
       }
-      .news-header::after {
-        content: '▼';
-        color: var(--text-3);
-        font-size: 10px;
+      .panel-tab { padding: 11px 6px; font-size: 10px; letter-spacing: 1px; }
+      .panel-collapse-btn {
+        display: flex; align-items: center; justify-content: center;
+        position: absolute;
+        right: 8px;
+        top: 50%;
+        transform: translateY(-50%);
+        width: 28px;
+        height: 28px;
+        background: var(--bg-3);
+        border: 1px solid var(--border);
+        color: var(--text-2);
+        border-radius: 4px;
+        font-size: 12px;
+        cursor: pointer;
+        z-index: 6;
         transition: transform 0.2s;
-        margin-left: auto;
-        padding-left: 8px;
       }
-      #news-panel.collapsed .news-header::after { transform: rotate(180deg); }
+      #news-panel.collapsed .panel-collapse-btn { transform: translateY(-50%) rotate(180deg); }
 
       .news-item { padding: 10px 14px; }
       .news-title { font-size: 12px; }
       .news-desc { font-size: 10.5px; -webkit-line-clamp: 2; max-height: 32px; }
+      .rank-item { padding: 8px 12px; }
+      .rank-name { font-size: 12px; }
 
       /* Country panel slides up from bottom */
       #country-panel {
@@ -942,11 +1074,18 @@
 
     <!-- NEWS PANEL -->
     <aside id="news-panel">
-      <div class="news-header">
-        <h2>Últimas noticias</h2>
-        <span class="news-count" id="news-count">0</span>
+      <div class="panel-tabs">
+        <button class="panel-tab active" data-tab="ranking">
+          Ranking
+          <span class="badge" id="rank-badge">0</span>
+        </button>
+        <button class="panel-tab" data-tab="news">
+          Noticias
+          <span class="badge" id="news-count">0</span>
+        </button>
       </div>
-      <div id="news-list"></div>
+      <div class="panel-content active" id="tab-ranking"></div>
+      <div class="panel-content" id="tab-news"></div>
     </aside>
 
   </main>
@@ -1333,10 +1472,52 @@
     }
 
     // ───────────────────────────────────────────
+    //  RANKING
+    // ───────────────────────────────────────────
+    function renderRanking() {
+      const list = document.getElementById('tab-ranking');
+      list.innerHTML = '';
+      const countries = (DATA.countries || [])
+        .filter(c => (c.cases || 0) > 0)
+        .sort((a, b) => {
+          // Casos desc (primario), muertes desc (desempate)
+          const dCases = (b.cases || 0) - (a.cases || 0);
+          if (dCases !== 0) return dCases;
+          return (b.deaths || 0) - (a.deaths || 0);
+        });
+
+      document.getElementById('rank-badge').textContent = countries.length;
+
+      if (countries.length === 0) {
+        list.innerHTML = '<div class="rank-empty">Sin países con casos confirmados.</div>';
+        return;
+      }
+
+      countries.forEach((c, i) => {
+        const item = document.createElement('div');
+        item.className = 'rank-item';
+        item.innerHTML = `
+          <div class="rank-pos">${i + 1}</div>
+          <img class="rank-flag" src="https://flagcdn.com/w40/${c.code.toLowerCase()}.png" alt="${c.name}" loading="lazy">
+          <div class="rank-info">
+            <div class="rank-name">${c.name}</div>
+            <div class="rank-meta">primer caso ${fmtDate(c.first_case)}</div>
+          </div>
+          <div class="rank-stats">
+            <div class="rank-cases">${c.cases}</div>
+            <div class="rank-deaths ${c.deaths === 0 ? 'zero' : ''}">${c.deaths === 0 ? '—' : '✝ ' + c.deaths}</div>
+          </div>
+        `;
+        item.addEventListener('click', () => openCountryPanel(c.code));
+        list.appendChild(item);
+      });
+    }
+
+    // ───────────────────────────────────────────
     //  NEWS
     // ───────────────────────────────────────────
     function renderNews() {
-      const list = document.getElementById('news-list');
+      const list = document.getElementById('tab-news');
       list.innerHTML = '';
       const items = DATA.news || [];
       document.getElementById('news-count').textContent = items.length;
@@ -1471,6 +1652,7 @@
         if (hash !== lastHash) {
           lastHash = hash;
           buildTimeline();
+          renderRanking();
           renderNews();
           if (timelineIdx === 0 || timelineIdx >= DATA.timeline.length) {
             timelineIdx = DATA.timeline.length - 1;
@@ -1496,6 +1678,7 @@
       await Promise.all([loadData(), loadWorld()]);
       buildMap();
       buildTimeline();
+      renderRanking();
       renderNews();
       timelineIdx = DATA.timeline.length - 1;
       lastHash = dataHash(DATA);
@@ -1513,15 +1696,40 @@
         resizeTimeout = setTimeout(() => { buildMap(); paintMap(); }, 200);
       });
 
-      // Mobile: collapsible news panel (tap header to toggle)
-      const newsPanel = document.getElementById('news-panel');
-      const newsHeader = newsPanel.querySelector('.news-header');
-      function isMobile() { return window.matchMedia('(max-width: 720px)').matches; }
-      // Start collapsed on mobile so the map gets the focus
-      if (isMobile()) newsPanel.classList.add('collapsed');
-      newsHeader.addEventListener('click', () => {
-        if (isMobile()) newsPanel.classList.toggle('collapsed');
+      // Tabs: Ranking / Noticias
+      document.querySelectorAll('.panel-tab').forEach(btn => {
+        btn.addEventListener('click', () => {
+          const target = btn.dataset.tab;
+          document.querySelectorAll('.panel-tab').forEach(b => b.classList.toggle('active', b === btn));
+          document.querySelectorAll('.panel-content').forEach(p => {
+            p.classList.toggle('active', p.id === `tab-${target}`);
+          });
+        });
       });
+
+      // Mobile: collapsible panel (tap tabs row to toggle on mobile)
+      const newsPanel = document.getElementById('news-panel');
+      const tabsBar = newsPanel.querySelector('.panel-tabs');
+      function isMobile() { return window.matchMedia('(max-width: 720px)').matches; }
+      if (isMobile()) newsPanel.classList.add('collapsed');
+      tabsBar.addEventListener('click', (ev) => {
+        if (!isMobile()) return;
+        // If panel is collapsed, expand it (no matter which tab clicked)
+        if (newsPanel.classList.contains('collapsed')) {
+          newsPanel.classList.remove('collapsed');
+          ev.stopPropagation();
+        }
+      });
+      // Add a dedicated handle to collapse again
+      const collapseBtn = document.createElement('button');
+      collapseBtn.className = 'panel-collapse-btn';
+      collapseBtn.innerHTML = '▾';
+      collapseBtn.title = 'Plegar';
+      collapseBtn.addEventListener('click', (ev) => {
+        ev.stopPropagation();
+        newsPanel.classList.toggle('collapsed');
+      });
+      tabsBar.appendChild(collapseBtn);
 
       // Close country panel when tapping outside the panel on mobile
       document.addEventListener('click', (ev) => {
