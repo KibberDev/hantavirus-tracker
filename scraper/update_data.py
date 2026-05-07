@@ -24,10 +24,14 @@ RSS_SOURCES = [
     ("Google News EN", "https://news.google.com/rss/search?q=hantavirus&hl=en&gl=US&ceid=US:en"),
     ("WHO DON",        "https://www.who.int/feeds/entity/don/en/rss.xml"),
     ("BBC Health",     "https://feeds.bbci.co.uk/news/health/rss.xml"),
-    ("Reuters Health", "https://feeds.reuters.com/reuters/healthNews"),
+    ("NPR Health",     "https://feeds.npr.org/1128/rss.xml"),
 ]
 
 KEYWORDS = ["hanta", "mv hondius", "cepa andes", "andes strain"]
+
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (compatible; HantaTracker/1.0; +https://github.com/KibberDev/hantavirus-tracker)"
+}
 
 
 def clean(text: str) -> str:
@@ -40,7 +44,7 @@ def fetch_news() -> list[dict]:
 
     for name, url in RSS_SOURCES:
         try:
-            feed = feedparser.parse(url)
+            feed = feedparser.parse(url, request_headers=HEADERS)
             added = 0
             for entry in (feed.entries or [])[:30]:
                 title   = entry.get("title", "")
@@ -72,7 +76,7 @@ def fetch_news() -> list[dict]:
 def try_update_cases(data: dict) -> bool:
     """Intenta detectar nuevos casos en el RSS de la OMS."""
     try:
-        feed = feedparser.parse("https://www.who.int/feeds/entity/don/en/rss.xml")
+        feed = feedparser.parse("https://www.who.int/feeds/entity/don/en/rss.xml", request_headers=HEADERS)
         for entry in (feed.entries or [])[:10]:
             text = (entry.get("title", "") + " " + clean(entry.get("summary", ""))).lower()
             if not any(kw in text for kw in KEYWORDS):
@@ -86,8 +90,9 @@ def try_update_cases(data: dict) -> bool:
                     data["current"]["cases"] = n
                     if m_deaths:
                         data["current"]["deaths"] = int(m_deaths.group(1))
+                    countries = data.get("countries", [])
                     data["current"]["countries"] = len([
-                        c for c in data["countries"] if c["cases"] > 0
+                        c for c in countries if c.get("cases", 0) > 0
                     ])
                     return True
     except Exception as exc:
