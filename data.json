@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-05-07 00:00 UTC"
+    "updated": "2026-05-07 17:09 UTC"
   },
   "current": {
     "cases": 8,
@@ -14,91 +14,278 @@
   "timeline": [
     {
       "date": "2026-04-01",
-      "cases": 0, "deaths": 0, "recovered": 0,
+      "cases": 0,
+      "deaths": 0,
+      "recovered": 0,
       "event": "Día 0: exposición probable de la pareja holandesa en Argentina",
       "snapshot": {}
     },
     {
       "date": "2026-04-15",
-      "cases": 2, "deaths": 0, "recovered": 0,
+      "cases": 2,
+      "deaths": 0,
+      "recovered": 0,
       "event": "Primeros síntomas detectados a bordo del MV Hondius",
       "snapshot": {
-        "NL": { "cases": 2, "deaths": 0 }
+        "NL": {
+          "cases": 2,
+          "deaths": 0
+        }
       }
     },
     {
       "date": "2026-04-25",
-      "cases": 3, "deaths": 1, "recovered": 0,
+      "cases": 3,
+      "deaths": 1,
+      "recovered": 0,
       "event": "Primera muerte confirmada en el crucero — pasajero holandés",
       "snapshot": {
-        "NL": { "cases": 2, "deaths": 1 },
-        "DE": { "cases": 1, "deaths": 0 }
+        "NL": {
+          "cases": 2,
+          "deaths": 1
+        },
+        "DE": {
+          "cases": 1,
+          "deaths": 0
+        }
       }
     },
     {
       "date": "2026-04-28",
-      "cases": 5, "deaths": 2, "recovered": 0,
+      "cases": 5,
+      "deaths": 2,
+      "recovered": 0,
       "event": "Más casos detectados, barco puesto en alerta sanitaria",
       "snapshot": {
-        "NL": { "cases": 2, "deaths": 2 },
-        "DE": { "cases": 1, "deaths": 0 },
-        "ZA": { "cases": 2, "deaths": 0 }
+        "NL": {
+          "cases": 2,
+          "deaths": 2
+        },
+        "DE": {
+          "cases": 1,
+          "deaths": 0
+        },
+        "ZA": {
+          "cases": 2,
+          "deaths": 0
+        }
       }
     },
     {
       "date": "2026-05-01",
-      "cases": 6, "deaths": 2, "recovered": 0,
+      "cases": 6,
+      "deaths": 2,
+      "recovered": 0,
       "event": "OMS notificada, activación de protocolos internacionales",
       "snapshot": {
-        "NL": { "cases": 2, "deaths": 2 },
-        "DE": { "cases": 1, "deaths": 0 },
-        "ZA": { "cases": 2, "deaths": 0 },
-        "AR": { "cases": 1, "deaths": 0 }
+        "NL": {
+          "cases": 2,
+          "deaths": 2
+        },
+        "DE": {
+          "cases": 1,
+          "deaths": 0
+        },
+        "ZA": {
+          "cases": 2,
+          "deaths": 0
+        },
+        "AR": {
+          "cases": 1,
+          "deaths": 0
+        }
       }
     },
     {
       "date": "2026-05-04",
-      "cases": 7, "deaths": 3, "recovered": 0,
+      "cases": 7,
+      "deaths": 3,
+      "recovered": 0,
       "event": "Alerta internacional: 3 muertos, crucero retenido frente a Cabo Verde",
       "snapshot": {
-        "NL": { "cases": 2, "deaths": 2 },
-        "DE": { "cases": 1, "deaths": 1 },
-        "ZA": { "cases": 2, "deaths": 0 },
-        "AR": { "cases": 2, "deaths": 0 }
+        "NL": {
+          "cases": 2,
+          "deaths": 2
+        },
+        "DE": {
+          "cases": 1,
+          "deaths": 1
+        },
+        "ZA": {
+          "cases": 2,
+          "deaths": 0
+        },
+        "AR": {
+          "cases": 2,
+          "deaths": 0
+        }
       }
     },
     {
       "date": "2026-05-05",
-      "cases": 8, "deaths": 3, "recovered": 0,
+      "cases": 8,
+      "deaths": 3,
+      "recovered": 0,
       "event": "OMS confirma cepa Andes con posible transmisión persona a persona",
       "snapshot": {
-        "NL": { "cases": 2, "deaths": 2 },
-        "DE": { "cases": 1, "deaths": 1 },
-        "ZA": { "cases": 2, "deaths": 0 },
-        "AR": { "cases": 2, "deaths": 0 },
-        "ES": { "cases": 1, "deaths": 0 }
+        "NL": {
+          "cases": 2,
+          "deaths": 2
+        },
+        "DE": {
+          "cases": 1,
+          "deaths": 1
+        },
+        "ZA": {
+          "cases": 2,
+          "deaths": 0
+        },
+        "AR": {
+          "cases": 2,
+          "deaths": 0
+        },
+        "ES": {
+          "cases": 1,
+          "deaths": 0
+        }
       }
     },
     {
       "date": "2026-05-06",
-      "cases": 8, "deaths": 3, "recovered": 0,
+      "cases": 8,
+      "deaths": 3,
+      "recovered": 0,
       "event": "Primer caso en Europa ajeno al crucero. Barco rumbo a Canarias",
       "snapshot": {
-        "NL": { "cases": 2, "deaths": 2 },
-        "DE": { "cases": 1, "deaths": 1 },
-        "ZA": { "cases": 2, "deaths": 0 },
-        "AR": { "cases": 2, "deaths": 0 },
-        "ES": { "cases": 1, "deaths": 0 }
+        "NL": {
+          "cases": 2,
+          "deaths": 2
+        },
+        "DE": {
+          "cases": 1,
+          "deaths": 1
+        },
+        "ZA": {
+          "cases": 2,
+          "deaths": 0
+        },
+        "AR": {
+          "cases": 2,
+          "deaths": 0
+        },
+        "ES": {
+          "cases": 1,
+          "deaths": 0
+        }
       }
     }
   ],
   "news": [
-    { "title": "La OMS confirma cepa Andes con posible transmisión persona a persona", "url": "https://cnnespanol.cnn.com/2026/05/05/mundo/crucero-hantavirus-oms-sospecha-transmision-personas-trax", "date": "2026-05-05", "source": "CNN Español", "desc": "La OMS trabaja bajo la hipótesis de que la pareja holandesa contrajo la infección en Argentina antes de abordar el crucero MV Hondius." },
-    { "title": "El crucero MV Hondius con casos de hantavirus se dirige a Tenerife", "url": "https://www.infobae.com/espana/2026/05/06/hantavirus-ultima-hora-del-crucero-mv-hondius-en-directo-espana-y-la-oms-coordinan-la-escala-del-barco-en-canarias/", "date": "2026-05-06", "source": "Infobae", "desc": "España y la OMS coordinan la escala del barco en Canarias. Margarita Robles confirma cuarentena voluntaria para los pasajeros." },
-    { "title": "Primer caso de hantavirus en Europa no relacionado con el crucero", "url": "https://www.eltiempo.com/mundo/europa/detectan-el-primer-caso-de-contagio-de-hantavirus-en-europa-el-afectado-no-se-encontraba-en-el-crucero-mv-hondius-3553544", "date": "2026-05-06", "source": "El Tiempo", "desc": "El caso detectado sugiere una posible cadena de transmisión independiente fuera del MV Hondius, complicando el rastreo del brote." },
-    { "title": "¿Puede el brote de hantavirus convertirse en pandemia?", "url": "https://expansion.mx/mundo/2026/05/06/brote-de-hantavirus-crucero-puede-convertirse-pandemia-oms", "date": "2026-05-06", "source": "Expansión MX", "desc": "La OMS descarta un escenario similar al COVID-19, pero monitoriza de cerca la transmisión de la cepa Andes entre personas." },
-    { "title": "La alerta por hantavirus moviliza a autoridades en Sudáfrica y Santa Elena", "url": "https://www.infobae.com/america/mundo/2026/05/05/la-alerta-por-hantavirus-moviliza-a-autoridades-en-sudafrica-y-santa-elena/", "date": "2026-05-05", "source": "Infobae", "desc": "Autoridades sanitarias sudafricanas activan protocolos tras detectar casos en pasajeros de un vuelo proveniente de Santa Elena." },
-    { "title": "Hantavirus: qué tan contagiosa es la enfermedad y cuál es el riesgo real", "url": "https://www.infobae.com/mexico/2026/05/06/hantavirus-que-tan-contagiosa-es-esta-enfermedad-y-cual-es-el-riesgo-real-de-una-pandemia-ante-el-brote-en-el-crucero-mv-hondius/", "date": "2026-05-06", "source": "Infobae MX", "desc": "Expertos analizan la transmisibilidad de la cepa Andes y las diferencias con otras cepas del hantavirus conocidas." }
+    {
+      "title": "El avión que traslada a dos pacientes con hantavirus se ve obligado a parar en Gran Canaria por un fallo eléctrico - RTVE.es",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPV2w1TTZobGZNa3Y5TjlwR09tU09iMjJmWWpwbFpHODRNcG5mdnl3ZXAyUWlraWZfbnd2aVdLODVUbDlZU2JJSDR6SmVrSm9PZW9RMmtBVHk0YnFFeGNOZU9Db09vcHgzenp6VDdmUTB4c2RlRjZtYnFnYlhFTktkVEpnRFZJVk5LTXB5VUZSZGpYdTA5MHdTUXdaWS1WWjlYZ18zZXJwd0lkLTltZkpVRmRseW1lR1BYUVZCTUtKa1AwUFdSLXhIRU9FQi1uT2xLejh6UlN2RlJ5NUlBN0pTY09UeUhuYkJ1OUHSAeoBQVVfeXFMT05QQVlKQmk1ZGp3ZDI1RHNEMDVsMFd4aUdCSDV0Rm5DeEZIaWJKWmFNWmIwRnZYSV85azlfbzNlT2ktREg5YndfaWhkTmpTSUNkVkZOZDhMNGZYYjV1cDdmRFNoTGpOanc0NHdBd2M1X2VzUnZzUk1aWEZQU25VMzR2TjBLQm51QWt5dkxnWE9UU0NXMmhqSDlaZVF0QWpJTjVpYW01VG5iT2I5ZkVrWkNuaHlKMzd4STBLZUktUXFoYnZqSWRFZE9xWWJBNXozVUFFa0lxSWt3Uk5CQmZqUzV4RFRZU3R5dHhn?oc=5",
+      "date": "Wed, 06 Ma",
+      "source": "\"hantavirus\" - Google News",
+      "desc": "El avión que traslada a dos pacientes con hantavirus se ve obligado a parar en Gran Canaria por un fallo eléctrico&nbsp;&nbsp;RTVE.es"
+    },
+    {
+      "title": "El gallego a bordo del crucero afectado por el hantavirus es un ornitólogo de Cariño (La Coruña): \"No os alarméis pero están pasando cosas en el barco\" - El Mundo",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYdktYWEJSWnJROVBtUG9iUnNuUUNBZDRPSmtYTEhpdHZRRldleDdjU3VFVWVnWHRxTUN0YmhLdDRGU0x4ZnhDaFlCRnd5cExZZGd4bmZkdVFQSFhOV2RoaXdITkNfOU1XNV96c1dpaXVVVUxjaHB1REhub9IBe0FVX3lxTE9TLTd5bGVFclVFYlhtaU5ZUTJsUUxyeDVZcXptS1hOcndpb1ZHZFlwek8tSjRMd0Z6VFBweVAtQktsQ1BXVWtQUmZReWRSYTB0c0J3OFZ3aEoxNnRURVRoNHk1bEtvRkNRSjdVYmpVMTBKeHNsRVNuUXhPZw?oc=5",
+      "date": "Wed, 06 Ma",
+      "source": "\"hantavirus\" - Google News",
+      "desc": "El gallego a bordo del crucero afectado por el hantavirus es un ornitólogo de Cariño (La Coruña): \"No os alarméis pero están pasando cosas en el barco\"&nbsp;&nbsp;El Mundo"
+    },
+    {
+      "title": "Cruise passengers tell of life on board stranded ship after hantavirus outbreak",
+      "url": "https://www.bbc.com/news/articles/clype7ededzo?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 06 Ma",
+      "source": "BBC News",
+      "desc": "While passengers onboard the MV Hondius say the situation is calm, they face days at sea as officials warn the disease may have spread."
+    },
+    {
+      "title": "Hantavirus strain that spreads between humans found in cruise ship passengers",
+      "url": "https://www.bbc.com/news/articles/ce8pypvjx1ko?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 06 Ma",
+      "source": "BBC News",
+      "desc": "South Africa's health ministry said the Andes strain of the virus was found in two confirmed cases linked to the outbreak."
+    },
+    {
+      "title": "What to know about the hantavirus outbreak on transatlantic cruise",
+      "url": "https://www.npr.org/2026/05/06/nx-s1-5812588/what-to-know-about-the-hantavirus-outbreak-on-transatlantic-cruise",
+      "date": "Wed, 06 Ma",
+      "source": "NPR Topics: Health",
+      "desc": "NPR's A Martinez speaks with Dr. Celine Gounder about the deadly hantavirus outbreak on a cruise ship in the Atlantic Ocean."
+    },
+    {
+      "title": "Hantavirus may have spread between passengers on cruise ship, WHO says",
+      "url": "https://www.bbc.com/news/articles/cm2p186gyp2o?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 05 Ma",
+      "source": "BBC News",
+      "desc": "Two cases of the virus, which rarely spreads between humans, have been confirmed on the ship, and three people have died."
+    },
+    {
+      "title": "Hantavirus on cruise ship confirmed as rare type that can spread human-to-human",
+      "url": "https://www.npr.org/2026/05/05/g-s1-120234/cruise-ship-hantavirus",
+      "date": "Tue, 05 Ma",
+      "source": "NPR Topics: Health",
+      "desc": "While most hantaviruses spread through contact with rodent feces, urine or saliva, officials confirm that the type on the cruise ship is Andes hantavirus, which is known to spread between people."
+    },
+    {
+      "title": "Hantavirus, última hora del crucero MV Hondius, en directo | Cerco al hantavirus: comienzan los confinamientos y se rastrea en muchos países a quienes han tenido contacto con personas contagiadas - El Mundo",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMDVfOU0xNUs0UWtVNDUyc1gwOGRiR0xOaWJhTVlfd1d5OHdZYUJzaGNSZThrOGhBZDliSzNCM2tGWXFfWWpCSU9OMFZEMWxUdVlxZ2VQVGFWZzEzN1VBaV9FUDVXVjllbllnQjV0WjJSME1kcVlyUXJSMVc4WFowSWRfM2k1VGcwb3VNT2JobEJJNE1XekVidNIBmAFBVV95cUxPanhlSmFETWxDbmFnNlVTeF9pVWc5eXFiRjd3azAxRHRRTDBwLWhLWFFMcEhydms4ODRsMEM4UWI4U19Hc3pwa1BhTXpyODlKQWhWNm9OT2V0V2drV1pkcy1zQUhRcnluRzJYTUxnVXJDNThjVkIzb3JtTDBVVDhtT0lmWVJGYUNyT0RLZjdVX1BoSl9qQkRKNg?oc=5",
+      "date": "Thu, 07 Ma",
+      "source": "\"hantavirus\" - Google News",
+      "desc": "Hantavirus, última hora del crucero MV Hondius, en directo | Cerco al hantavirus: comienzan los confinamientos y se rastrea en muchos países a quienes han tenido contacto con personas contagiadas&nbsp;&nbsp;El MundoÚltim"
+    },
+    {
+      "title": "El crucero fondeará en Tenerife sin atracar en puerto y los pasajeros irán a tierra en lancha con equipos de protección - RTVE.es",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY2dlc09GOG1vTHRHeHZBN3VJdFc0REc1Qi1yRXQxa1g1WTVpMmxfOWJWSWhjSzdjQVpDMmJJZUlmQXJTamhqdk5sSDBQLUE2VkJfQy1DczUwcnN6Mng4UUhKU1BQc0VjSHR2VU5ucEwyNUYxVEJmWkpacDl5V04tWDR0aFZyQXVfdjVzdHJGT2kwUUE0ZkU3NjR2WE3SAZwBQVVfeXFMTS1OT1AyWXF6R0M0ZHFkY0JNNFJUNkt3VGxOZHhwLXRfb2lTU3IxeUQ3Z3d5czF5X1NrRFgzU25hRVVrMGdXMFM5ekMxMzk4aFpSYVkzWmtNYnM0blVnQ2lyS21PbFFha25BdHBXakR1TTc0TEpxV0tpT19BNXMwRGdfeEs1NXFZb1ZOSHpUbHFiMjVtN1FlMnpiQ0ZL?oc=5",
+      "date": "Thu, 07 Ma",
+      "source": "\"hantavirus\" - Google News",
+      "desc": "El crucero fondeará en Tenerife sin atracar en puerto y los pasajeros irán a tierra en lancha con equipos de protección&nbsp;&nbsp;RTVE.esClavijo logra que el barco del hantavirus fondee lejos del puerto tras reunirse co"
+    },
+    {
+      "title": "Miedo e improvisación en el aeropuerto de Manises por el aterrizaje del avión del crucero del hantavirus - Las Provincias",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdTVVbXN5YjhCTm1xQXJmVElfb0g3N0lQUFNwMVI5bnlkZ0M0TzBtWFVraFd0YnpELUpiV1R5SG03Nm5GT2lFcnlfaks5a1JsRGpQcHhTeWNQWVRRRnM2YlEyVG1BODI5UFFuVFdQdUNyX3hOM3ZQVks0Qy03cjB1Q3FKUXZfYlpaT0RNMk1BZk5IMGljQm11OFBORVNDdzRMNm80T1hKU216ZTdDLWozd0RBeHdnMnc5aGdadkJUZTU4UWPSAcgBQVVfeXFMTzZGazR6Vjc2cEU0TGZwa3BuQ2ItMlBHUFRpSjZEemVGbWhlTG5xUkU3TG03bXZRUkc5eU51amRMSHVGcGJHNWpMS3VRdGhMUGR1c3k3Zjd6b3MzYzdpWllwTndNNHZnNHplVHNzUzZjOWdORVp1QkxOYTB1UjAyY29lUFk5NF8zY3VZNUxDTDRPa092ZXJqTkVUYk9la3VHWTNXb0JKNmlrenhtV0JUOU9RV1JwUVFlTHJfRjViRmZ1RktmekdKdXg?oc=5",
+      "date": "Thu, 07 Ma",
+      "source": "\"hantavirus\" - Google News",
+      "desc": "Miedo e improvisación en el aeropuerto de Manises por el aterrizaje del avión del crucero del hantavirus&nbsp;&nbsp;Las Provincias"
+    },
+    {
+      "title": "El hantavirus ya llegó a Canarias con dos holandeses enfermos en el avión de Las Palmas: \"Ni siquiera nos mandaron el historial médico\" - El Mundo",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1keVNlQkNWcUo4U255V0o4MWw3ZXFTeDZOZXh5Wjkwbl9iZVEyRWVSY1lZZThSQ3RWUVNldG5WWWo2cWpCLTRGbkpmZjljRlQwYVh3N1hKZHQ0NlJnYUJWRXp2R2FidFhidkVaU0c3YUdFWm82NmQzX0V30gF6QVVfeXFMUFkyOWxjQ0xTVkFQNG5BVldQWHRDVkwxSkh5SVJzU1VhYUxIdDdNeEdtaWxqQy1BZzZqaWNTbjdaUXV2THNQWXZYV05Ec3lZODNLd282Q0lsaXlWdU1kamhaQUhBV0Rubl80OTlrZFdld0QtZHJJS3o3QUE?oc=5",
+      "date": "Thu, 07 Ma",
+      "source": "\"hantavirus\" - Google News",
+      "desc": "El hantavirus ya llegó a Canarias con dos holandeses enfermos en el avión de Las Palmas: \"Ni siquiera nos mandaron el historial médico\"&nbsp;&nbsp;El Mundo"
+    },
+    {
+      "title": "Protección civil actualiza la situación sobre el brote de hantavirus - La Vanguardia",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM1JQcjRkQU9xMmlDVEhfMWRLSWp4WHh5clFZVzBURkdvU1BvYnVTRlZsS2gwNDlXdmgyOW9xUmRES0JYUTFIaHVWX1UyRGNJNEFLZ0ZNc3VSdDJWSDd1eDBGSm1NWlc1dDJvbWpQcmlwNDQteUYxelNSVHRPNklfWm9tWEtKalVIQXpxNXZfNTFWRFlPWmxKTzNZWm0ycm5abS1ZSERBUm40YTZvdjc5WG5BRm9IVjTSAbwBQVVfeXFMUHVKaFQxVjg0X3Vmb2FQc2JIaloyVFBwdFF5MExXai1hajhpNDBKaEFiVTFacDBZWWNiTzkzNTd4bmplVFpTU2pJcUJMMHAwaHVBT0lYM1h3Q0NCRkVVamtwd0hwNVVYa0MyZ25HRElSQVg3WmswQjI2YXowd0VGR21Ic2xxVktHZW9oRjFfWTZnZHFIOU9PSVNHbVZXaVBqSUJpVDhBSnk5NXBDTG1GNXNPZDByOFctcnFVOHg?oc=5",
+      "date": "Thu, 07 Ma",
+      "source": "\"hantavirus\" - Google News",
+      "desc": "Protección civil actualiza la situación sobre el brote de hantavirus&nbsp;&nbsp;La Vanguardia"
+    },
+    {
+      "title": "El ornitólogo cariñés a bordo del crucero con hantavirus confirma que él y sus compañeros «se encuentran bien» - La Voz de Galicia",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOY3BlVXhkYVFUbG5pLU1rcEFaQXo5dG9oV0hRUjRyRHBjYXZIV2tWU2F6d1JCa2JTYUxNOF9hbEk5VlYwRU1uNk5CUkxEdkNFNldCZHUxazhybnA3UFM0YllrY0RsUnd4cXhkN1diQ2hpLW1NS1NEdTJ1T2lKTHNZc19MU2tYd2hBdnltWXdsZXM1anllTnFVMmZhRktBUkNYbzhCM2pRbXdrUFVRX3h3YmdNTGV5cWNBMWJWRU5SR0FzUVU0SHBESEszNU5fVFdhUHpfTWhrd0xLZHRrX1YtYjlzN3huVHpqVldTT0pOUTE3UFQ4bk92Qg?oc=5",
+      "date": "Thu, 07 Ma",
+      "source": "\"hantavirus\" - Google News",
+      "desc": "El ornitólogo cariñés a bordo del crucero con hantavirus confirma que él y sus compañeros «se encuentran bien»&nbsp;&nbsp;La Voz de Galicia"
+    },
+    {
+      "title": "El ornitólogo gallego a bordo del barco infectado del hantavirus: \"Vamos a pagar el pato de tanta ignorancia confinados en Madrid\" - El Mundo",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1LR1lXbVRSUWxmVmltRm43Zms1NnNzUk9iY0puaFZkUkphVGhWMm8tZEJvTVJ5MEFpZGgwZFBVZUMtY0tqSzhMRm1RcHN4WW04eHFxMlhkZDlkaFpoRU52Qy1RR2JHUTY0VVRYVmt2QkVyaVA3eEFRdVZoMNIBe0FVX3lxTE9sdzJpZ3FPa2tkT0Y3ZndtZTM2Z2ExMkYwYXZXOTRNZ0RzWDQ1amU5bUVFSGtnNXo1V2F1b2UxcUxMV1YxdzJ2bGp5RjFXbHF4MklBUmFSajdwUW96VmlaS1hTX2VuYTRuQ3JLVVd1enJOUlBRVUNhTjNfMA?oc=5",
+      "date": "Thu, 07 Ma",
+      "source": "\"hantavirus\" - Google News",
+      "desc": "El ornitólogo gallego a bordo del barco infectado del hantavirus: \"Vamos a pagar el pato de tanta ignorancia confinados en Madrid\"&nbsp;&nbsp;El Mundo"
+    },
+    {
+      "title": "El hantavirus retrata el \"estrés\" del marco legal español en salud pública - Redacción Médica",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcUtuUUNTcWJyMmdUMEV6SXJMcF94V1BxOUZIQmwzOWFnUFRTdkxUUXBydmNFQ1I2VWVRU1ptUjVaeVhBZ09pZVMtVUpvQ0IwRXpnWDhfSXdFQmVicFVaQjIxdWhVT0FNMmUwNm5mdjA1ZDNNTVR0YmdaTUtjaDhvRkRvRmxwSEJjRTkwOXplUU9TUF9rdEp5TEtIZklSdmdXRVFLRXpRMnVEbzE1bVhoVG9oWkdwVWpaSmRVTkI1RnRCeHBsZFHSAcYBQVVfeXFMUEZWcFZXQWZSbWlqZEVvSlItOE1TVTh1dHRvRzVpTmd4NXdoY3ZXdWNQS0gyLUhiQWxUYkI2RDBwRjlGZVpHazZtU3pGYWpkcXVuQjVhS1ZuTlFvaFlULVExd3czdGdudlRjUDhpV0hZZmp3eGszejM4S25vN2dxWWNFdVN0bUVQSG8yYXE0cVZ4TUlVempYQk1jWTUyeVUxMlBnUkVFTFViMFU5UUlsZDQySldGeXQxeUZhaEt3UWpua2tEZm1B?oc=5",
+      "date": "Thu, 07 Ma",
+      "source": "\"hantavirus\" - Google News",
+      "desc": "El hantavirus retrata el \"estrés\" del marco legal español en salud pública&nbsp;&nbsp;Redacción Médica"
+    }
   ],
   "countries": [
     {
