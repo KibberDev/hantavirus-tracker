@@ -1,10 +1,11 @@
 {
   "name": "HantaTracker — Seguimiento Global del Brote",
   "short_name": "HantaTracker",
-  "description": "Seguimiento en tiempo real del brote de hantavirus 2026. Mapa mundial, timeline y calculadora de riesgo.",
-  "start_url": "/",
+  "description": "Seguimiento en tiempo real del brote de hantavirus 2026. Mapa mundial, timeline y noticias.",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
-  "background_color": "#080c18",
+  "background_color": "#06091a",
   "theme_color": "#ff6b35",
   "lang": "es",
   "icons": [

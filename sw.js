@@ -1,5 +1,5 @@
-const CACHE = 'hanta-v1';
-const STATIC = ['/', '/index.html', '/data.json', '/icon.svg', '/manifest.json'];
+const CACHE = 'hanta-v2';
+const STATIC = ['./', './index.html', './data.json', './icon.svg', './manifest.json'];
 
 self.addEventListener('install', e => {
   e.waitUntil(
@@ -33,21 +33,21 @@ self.addEventListener('fetch', e => {
   );
 });
 
-// Push notifications from server (para cuando conectes OneSignal o similar)
 self.addEventListener('push', e => {
   const data = e.data?.json() || { title: 'HantaTracker', body: 'Nueva actualización del brote.' };
+  const scope = self.registration.scope;
   e.waitUntil(
     self.registration.showNotification(data.title, {
       body: data.body,
-      icon: '/icon.svg',
-      badge: '/icon.svg',
+      icon: scope + 'icon.svg',
+      badge: scope + 'icon.svg',
       vibrate: [200, 100, 200],
-      data: { url: data.url || '/' },
+      data: { url: data.url || scope },
     })
   );
 });
 
 self.addEventListener('notificationclick', e => {
   e.notification.close();
-  e.waitUntil(clients.openWindow(e.notification.data?.url || '/'));
+  e.waitUntil(clients.openWindow(e.notification.data?.url || self.registration.scope));
 });
