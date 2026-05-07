@@ -3,10 +3,10 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-05-07 21:31 UTC"
+    "updated": "2026-05-07 21:32 UTC"
   },
   "current": {
-    "cases": 8,
+    "cases": 47,
     "deaths": 3,
     "recovered": 0,
     "countries": 5
@@ -178,134 +178,163 @@
           "deaths": 0
         }
       }
+    },
+    {
+      "date": "2026-05-07",
+      "cases": 47,
+      "deaths": 3,
+      "recovered": 0,
+      "event": "Actualización: 47 casos · 3 fallecidos · 0 recuperados",
+      "snapshot": {
+        "AR": {
+          "cases": 41,
+          "deaths": 0
+        },
+        "NL": {
+          "cases": 2,
+          "deaths": 2
+        },
+        "DE": {
+          "cases": 1,
+          "deaths": 1
+        },
+        "ZA": {
+          "cases": 2,
+          "deaths": 0
+        },
+        "ES": {
+          "cases": 1,
+          "deaths": 0
+        }
+      }
     }
   ],
   "news": [
     {
-      "title": "Hantavirus, última hora del crucero MV Hondius, en directo | Rastreo contrarreloj por todo el mundo para acotar la propagación del hantavirus - El Mundo",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMDVfOU0xNUs0UWtVNDUyc1gwOGRiR0xOaWJhTVlfd1d5OHdZYUJzaGNSZThrOGhBZDliSzNCM2tGWXFfWWpCSU9OMFZEMWxUdVlxZ2VQVGFWZzEzN1VBaV9FUDVXVjllbllnQjV0WjJSME1kcVlyUXJSMVc4WFowSWRfM2k1VGcwb3VNT2JobEJJNE1XekVidNIBmAFBVV95cUxPanhlSmFETWxDbmFnNlVTeF9pVWc5eXFiRjd3azAxRHRRTDBwLWhLWFFMcEhydms4ODRsMEM4UWI4U19Hc3pwa1BhTXpyODlKQWhWNm9OT2V0V2drV1pkcy1zQUhRcnluRzJYTUxnVXJDNThjVkIzb3JtTDBVVDhtT0lmWVJGYUNyT0RLZjdVX1BoSl9qQkRKNg?oc=5",
+      "title": "How worried should we be about hantavirus?",
+      "url": "https://www.bbc.com/news/articles/c98r199e195o?at_medium=RSS&at_campaign=rss",
       "date": "2026-05-07",
-      "source": "\"hantavirus\" - Google News",
-      "desc": "Hantavirus, última hora del crucero MV Hondius, en directo | Rastreo contrarreloj por todo el mundo para acotar la propagación del hantavirus&nbsp;&nbsp;El MundoHantavirus en el crucero MV Hondius, en directo: nuevos casos de contagio y lle"
+      "source": "BBC News",
+      "desc": "Some passengers potentially exposed to hantavirus have already taken flights to numerous countries."
     },
     {
-      "title": "Miedo e improvisación en el aeropuerto de Manises por el aterrizaje del avión del crucero del hantavirus - Las Provincias",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdTVVbXN5YjhCTm1xQXJmVElfb0g3N0lQUFNwMVI5bnlkZ0M0TzBtWFVraFd0YnpELUpiV1R5SG03Nm5GT2lFcnlfaks5a1JsRGpQcHhTeWNQWVRRRnM2YlEyVG1BODI5UFFuVFdQdUNyX3hOM3ZQVks0Qy03cjB1Q3FKUXZfYlpaT0RNMk1BZk5IMGljQm11OFBORVNDdzRMNm80T1hKU216ZTdDLWozd0RBeHdnMnc5aGdadkJUZTU4UWPSAcgBQVVfeXFMTzZGazR6Vjc2cEU0TGZwa3BuQ2ItMlBHUFRpSjZEemVGbWhlTG5xUkU3TG03bXZRUkc5eU51amRMSHVGcGJHNWpMS3VRdGhMUGR1c3k3Zjd6b3MzYzdpWllwTndNNHZnNHplVHNzUzZjOWdORVp1QkxOYTB1UjAyY29lUFk5NF8zY3VZNUxDTDRPa092ZXJqTkVUYk9la3VHWTNXb0JKNmlrenhtV0JUOU9RV1JwUVFlTHJfRjViRmZ1RktmekdKdXg?oc=5",
+      "title": "Hantavirus-hit cruise ship on way to Canary Islands after three evacuated",
+      "url": "https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss",
       "date": "2026-05-07",
-      "source": "\"hantavirus\" - Google News",
-      "desc": "Miedo e improvisación en el aeropuerto de Manises por el aterrizaje del avión del crucero del hantavirus&nbsp;&nbsp;Las Provincias"
+      "source": "BBC News",
+      "desc": "A British man is among three evacuees sent to the Netherlands after displaying symptoms while aboard the MV Hondius."
     },
     {
-      "title": "El hantavirus ya llegó a Canarias con un holandés enfermo en el avión de Las Palmas: \"Ni siquiera nos mandaron el historial médico\" - El Mundo",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1keVNlQkNWcUo4U255V0o4MWw3ZXFTeDZOZXh5Wjkwbl9iZVEyRWVSY1lZZThSQ3RWUVNldG5WWWo2cWpCLTRGbkpmZjljRlQwYVh3N1hKZHQ0NlJnYUJWRXp2R2FidFhidkVaU0c3YUdFWm82NmQzX0V30gF6QVVfeXFMUFkyOWxjQ0xTVkFQNG5BVldQWHRDVkwxSkh5SVJzU1VhYUxIdDdNeEdtaWxqQy1BZzZqaWNTbjdaUXV2THNQWXZYV05Ec3lZODNLd282Q0lsaXlWdU1kamhaQUhBV0Rubl80OTlrZFdld0QtZHJJS3o3QUE?oc=5",
+      "title": "What is hantavirus and how does it spread?",
+      "url": "https://www.bbc.com/news/articles/c8r8j1l6j0go?at_medium=RSS&at_campaign=rss",
       "date": "2026-05-07",
-      "source": "\"hantavirus\" - Google News",
-      "desc": "El hantavirus ya llegó a Canarias con un holandés enfermo en el avión de Las Palmas: \"Ni siquiera nos mandaron el historial médico\"&nbsp;&nbsp;El Mundo"
+      "source": "BBC News",
+      "desc": "The Andes strain of the virus, which can rarely be passed from person to person,  has been confirmed in some passengers."
     },
     {
-      "title": "Xavier Vidal-Folch, sobre la llegada a España del crucero con hantavirus: \"Las administraciones deben ir todas a una\" - Cadena SER",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQR0w2ckhTR3RzLTdtcjJfNnBoWlU4T2pSNlEyVENKTTQxeGIyY1kxZU4xQXRrbTlYdlptSHI0bVl4TGRhRjhaMFNzYXAzdEswX2M5NHNhazFqVkdmS2FSME0tTzRMR2t4dWl0Q0JzeTBxa2ZiNHl5Z3dnb0g0U285dzRqMXRNQUZCR2tESU93bTFkc1NEUDhtbDFSVU9GUkp1N0lwbnI3TTN1UHpDckk4S2Flb2I5bG9mdTZXSVNlRjJZeWJkQjNyMVFHY0FPa3l0cnhqb1Q2X0c2ZE9OdFlvY1ZSTlk2N2pySmplbHVrMVdYbWRJeWNLTnZKSdIBjwJBVV95cUxPWGltdDBSd0ZTaG9SLUJIQjlaQ0M5MXpVVEJOQzFHeklZMzdCbUhxbUtnS24yQ0plWjh6OGhBNU1kanRUM2R3MmVrQVZuYUx0N0tBSXFEczVUYVhfLTFsTUk1bG5ZcDJVRUhXNC1vNXZRWHM4b0QwOHJBY2dxYklkbGhrcXAxQU1SYW1YQlNTaDRvc01KbmQ0NXE1ZlZRVFV6cVpoMGY5dlg5Tm9LYlBoWWtGYkRtaFV3UFZrd1EzVnhLd1VTWGkzM19rQ2M1SG9sTUYwWnpuNUp1c29UalNSRHpELTZITVF4OWZEYWlvMzlBYmUtYXBzRzg5Mm9iLXpZdzJrTHU2OXZJTjNVLW1F?oc=5",
+      "title": "Hantavirus survivor says sickness was like 'hell on earth'",
+      "url": "https://www.bbc.com/news/articles/cy72xmk1114o?at_medium=RSS&at_campaign=rss",
       "date": "2026-05-07",
-      "source": "\"hantavirus\" - Google News",
-      "desc": "Xavier Vidal-Folch, sobre la llegada a España del crucero con hantavirus: \"Las administraciones deben ir todas a una\"&nbsp;&nbsp;Cadena SER"
+      "source": "BBC News",
+      "desc": "Two survivors who caught the hantavirus years earlier told the BBC they both felt lucky to be alive."
     },
     {
-      "title": "La amenaza del hantavirus dispara la tensión política pese a la experiencia del covid - El Confidencial",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQakgyUnYxMVlHUDZvaXBmeTVqRUloVGdHYk0tMDd0TGZXQVBmeWJvNVZoUUlraHBZbmw5cFpRMkFkck1WM0R1UjZxb2RfbXlGWWZFYzRFWm9BbDFjdlhMb25lLWRmQW1nSDJJRXpRLVhtRDNLWUpGeV9mYkE1WXBuSGtyeF96OGgyXzNtaGdjeURUcUczMURuNVdweERIbnljemNfd1RqQk1wdkxNN0Q5SFd4b3VpS0pjRWJlZUdBNzMzWHR4S29COW9NbnZFWWxHSl9CZWtwN2JfWnM?oc=5",
+      "title": "Health officials track dozens who left hantavirus-stricken ship after 1st fatality",
+      "url": "https://www.npr.org/2026/05/07/nx-s1-5814632/passengers-left-ship-hantavirus-st-helena",
       "date": "2026-05-07",
-      "source": "\"hantavirus\" - Google News",
-      "desc": "La amenaza del hantavirus dispara la tensión política pese a la experiencia del covid&nbsp;&nbsp;El Confidencial"
+      "source": "NPR Topics: Health",
+      "desc": "Oceanwide Expeditions has revealed that 30 passengers disembarked from its cruise ship hit by a hantavirus outbreak on April 24, on the remote island of St. Helena, nearly two weeks after the first passenger died."
     },
     {
-      "title": "El Gobierno podrá obligar a una cuarentena a los 14 españoles del buque del hantavirus - elDiario.es",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdmtxdFpIaGh1RDk1LXFFOVR6ZmxPaWR3S1ZUM3JiRE5jUjd0V2dsSEhfRnZxcFdOc0NObGNFei1FSlY5RlE3UUpfaWxWY01GbDFsRXR0UUZmVWI5ODBYRmUxakZlb09hSWpjR1hieVQzenAwWHhfdTUtRnJ0aDNXNDR2VWF0Smx6QnFxMlkteVhBeUxFTGdZNC1vREdOQkJiOUhva2xTRnQyb0RMSnpPNjR30gG3AUFVX3lxTFAxZTUwT21hNmNYWTZNYTdMZUJ0RGxEems2bFV2eG9odTl1V2VwYjVMdFkwZERyWFB5OVliYV9iYzU5REV2N1VwM21QRm9aUzNkU2lOQ29rSnBBVGZFalNmYkp5VnpMZDVIOHVueFQ2bGo5VVFEX3VZbzVaWThMTFVMcXpXRnRwcWFGcXhPeVQ1ekVLZHQ5V2ZQWWNLdFBhbm1nME1UeVB0U0wwdE9rTjc1S2dBbnhkcw?oc=5",
+      "title": "Sánchez llama a Clavijo por la crisis del crucero con hantavirus - Antena 3",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTlNFQ2F1RnpTRGUwY1g1Q3VTamhybDRSSWFtaDk5RGJDYlpuMU9JbUZVd0o2TFNkMzNUUWJUYmZQX2ZTWWZGRDQ1TnY2UTBWQUFmNnY0bHkwYVdGVnA1Q1phTnU1bDZuM0w5V3p1ZUx3WlBlSFlsN0p5dnFoOHJoSm82QUtfWU41bnFfRV9qQjBPbUV3YVNUaEJkUFIxVzZNbVh3S2E1U21UTUk0ZGh3N3o5TS1LN2pGd3huWnJtZ0lsU3fSAcMBQVVfeXFMUEE5c2UySjkwY1FXbm56Y2FCTkNuSk1GZzByZWxoalB2dDlrbmQxUk1YUVZjVkZmSUVOSGtUTnRmZ1RvdkV2SEQwelJaU1ZsUElhZHdJUHctSUYyMGxiSHE0cG1udUxFTW8yVTNsRGhWazZHbW96aEtNMXpTUGlxaTJLanVJcDdWd19MZU5QRjFkZm9DTFM3bGVyaUpwc0IxUXNCM01rMDZpXzJ0R0RPMHA0S2lITXZza0NiOEtPNGdwQVBn?oc=5",
       "date": "2026-05-07",
-      "source": "\"hantavirus\" - Google News",
-      "desc": "El Gobierno podrá obligar a una cuarentena a los 14 españoles del buque del hantavirus&nbsp;&nbsp;elDiario.es"
+      "source": "Antena 3",
+      "desc": "Sánchez llama a Clavijo por la crisis del crucero con hantavirus&nbsp;&nbsp;Antena 3"
     },
     {
-      "title": "La farmacéutica española que hizo la vacuna del Covid afronta el hantavirus con un desplome del 48% en sus ... - OkDiario",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaVN6cnBwRHdjal8zZU1CY3ZEXzlhOVFaYWpaYTFSNjkyRkdYZDRmWHpFcFF5LV9OaERhcGNjR3VRbGF0WnB5Rlg0b2EzMjlMRXlyWGVwbmFYNDVLOUwyMGl4b2FxZXM2LVNJdlBXQnhDbHAwOS1Pa1g0WTRLTWxXZTRyWExkLUdZUmVKSksyZUdqc0tuUEk3WExPQnJiTGVTa0NjazJzMVcwSDc0dlVZVjNKYjBVUFBTYmFQd3pTb2x4SURXcE1pb2J3NmdCMlhuOUlVSFpoSWlRd9IB3wFBVV95cUxOdjhXTWxRZkRva3VVUTM5TjhwMklVYXh1OFlzWWpBQk1BU0sxN1lOelMyeGs0TEtHNURMZW83Z3JkQTJXbkQxcWZhMmswRVRHRzkwdGo5NXd4LUlaenI0ZVpyV3A1OFF0T1RmRkRfb00xelpxYkdWWWJpc3VFX1JpelJBbWFzNlQ1UXBwQ2FKMHo2S0ZGZDZRUjFUeURIQmtxazFULUwyRi1FM1lidmd4M0h2VjdWVDByTTNCY18ycFhwaTVTdTFFb3pMYmxjUGFyQXFaYTJHMWVSMXVydHp3?oc=5",
+      "title": "Feijóo acusa al Gobierno de \"generar confusión\" en la gestión del hantavirus y de \"no hablar con claridad\" - Antena 3",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQ3RWRklsSFdjMzZULVVpMU9FZ2Jfb0JydEk5MTBQVXN6c2NZQ2ZyU1MtOVhoNTV6d0gxS2xLdnM3OThrRktxRXRVeWVibTY0Q0N3Szl5c2c4UzVYbThUS2p0Um1sRnY0cnhiWGZnNXpmOVVqVm5KekdzOGt0dU9fd3pGNmJzay1LSlpjSHBkSWJWcWJJUEp6QVRoOTlyVmNZWEY1akhIZ2hLa0NwVHBVSHlISFNzRDFNX2xvY3dTeWtYNjlGaWJDY1NKeU5selcyRUZFUVJWdTdwWHllQ0c2Q3ZlSmJqTDjSAecBQVVfeXFMTUkzbk5rMlZ0TTI4MDJTRE0wZi1iMDBZMkZKVmcza1JoRmsxOWpUVW1RMjBPdGZOV0prZm1jVWpyOHhKR0JuRzNRUzRveXdPcHFCakZHWGlqeDV6VzVUS0VkdjBfSWRRMEpZNWNfVzdtSkxUeFhFTThHTEJ3dENqaXZZZGV6TU92ZWhxNDBnZEJNbnJKazZvd0NmSXRaM0ZBMmJ2OUNCM0IyMU8xQlZTbExHQzNIUUZqRm5jZktqVENyZF9tdUE2akRvYXFtOVdlSm4xTlozYUo2cllPS19qYkpDaVR6eUlN?oc=5",
       "date": "2026-05-07",
-      "source": "\"hantavirus\" - Google News",
-      "desc": "La farmacéutica española que hizo la vacuna del Covid afronta el hantavirus con un desplome del 48% en sus ...&nbsp;&nbsp;OkDiario"
+      "source": "Antena 3",
+      "desc": "Feijóo acusa al Gobierno de \"generar confusión\" en la gestión del hantavirus y de \"no hablar con claridad\"&nbsp;&nbsp;Antena 3"
     },
     {
-      "title": "Clavijo logra que el barco del hantavirus fondee lejos del puerto tras reunirse con dos ministros - El Mundo",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5LaV9XQnZDbWlBR2hRNFI1enNYUlFJT3V6dFprZVVNT1hCcHY3Y0h1U25GMjluYUd3ekd3UUxkU0tGYVNJVE9YYWRNVmpSQVg5c2lqLW9VNDZMa3dmdlBWSVJmb190QXJwRmx6MzV5R3ZLekNrc3NQdGVB0gF6QVVfeXFMUDZyOG85WFZibHNkZ2hyeVdEX2pJWFpHa0V6emdYYjFVMXNpeUR2MFY2TTRyLXVsMkxwVUpSSWY0aFNwQW5ONTNKRkgwWEJoNzVaLWhNNHBKTm0wT1NqRG84WUlHdVY0UDFnOVBtNjRURHJ4RlhCRDFzYVE?oc=5",
+      "title": "Ángela Vallvey, sobre el brote de hantavirus: \"Esta heroísmo que se nos pide no ayuda, claro que nos recuerda - Antena 3",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR1RMeUpHVU1XTlFpaGN4TXpuVS1lOFZVTmhDQVdNMGJMTUpJZWd1Y1Q2Mm56VXZDSDNiejVMSWxJVUNacHoyWU1pUnRMUXhuX2x4bDRMbDhHLUd6dGhSdDF5dDVJdjJSLUFLNjNRZmhaajRhYUlSWEpoNUZmZ0NXTDhyYlpXX0NJaGFXZDBSQ1dBbGFUNHV6MFdrTHF2WVhIMy0tR0tYZXFhemVBcUJ3M2pad3VjUmVHZFVz0gG7AUFVX3lxTE1FRUlWVVo1MDNxUGZRVC1lc01nYnpiSTVwU1ZObnBOVExyWFhBS0F4WGk1YjJFYm1qUi14MF9hT2VjOWtCQU9BTmtXZFdtTnNqMVNhUENONk9lU181ZjlqbjVCSDFUWHRodDhna2J1T0JkVXo2TFpqWl9tVURvNHZUSjFfWFl6bXRndDMxQWFLMXQzc0lYWGN1d3ZOTXhkTzN5VE5nV1NmUDJoWGJxYlVfZzdod0ktQmV5Wnc?oc=5",
       "date": "2026-05-07",
-      "source": "\"hantavirus\" - Google News",
-      "desc": "Clavijo logra que el barco del hantavirus fondee lejos del puerto tras reunirse con dos ministros&nbsp;&nbsp;El Mundo"
+      "source": "Antena 3",
+      "desc": "Ángela Vallvey, sobre el brote de hantavirus: \"Esta heroísmo que se nos pide no ayuda, claro que nos recuerda&nbsp;&nbsp;Antena 3"
     },
     {
-      "title": "Un grupo de trabajadores del puerto de Granadilla amenaza con bloquear las instalaciones cuando arribe el crucero con un brote de hantavirus - EL PAÍS",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNWFJhNDc3TnZnTHQwRVFXQmIyR1FKUXVnUEZsYXZ3am44OWstNGV0TFA2NDFyRWhidnZQa3J3LTRpSFlGaEhiQUZFQU1UWDFON0FtSjFHNzRnWG9YMzAwRE91VDU0aTRIZkpFRE9weGYtMF9hUHV3RU1DNWtrN3dBbHc3S2E0d2QyTzJySkVaY05Fbk1XVGRUbElLNjAwOWEwUlRESWpkUnlmVEd2NFUtT1JESF9YT1d5X3ZvVnVUdEFnU0dLRE5Iam8xQTAwOElDcy1ybFJhYzlZVnhVLTJ3YzN1MFFTOXFfcmJvOUdlelVhOWhCY1NIcFVmYmZJa21fLVE0bVpYVFDSAZwCQVVfeXFMT1BQQnBCQVdrbDFxaUxpSzkwWmhGem5fU2dHSHprQTQtSGRNN193dzJ1WjVvMnMzaXFCOVEwallRVW9MX2ZjZ1RDa05Qem1MTUJkRXJhaGI3Q3F4Q3F0VVhzcmZBTmZMN0hKNVRMM1RkSmN3U1ZXNndEUlplZ1BMRlJpTUVSZnJWV29SbC1oMXFyNUlUaTQyeU53MXR4THVQcGIwUXV0Wkg2V2F4QXM0OHR4ZTRYTUprM2Y3anNJcjhvV21wSkN1NlRFc1dDQTEzWmJiWFdqR1dPWjRya2F5QVVhUG1fYmhaSnE5VnlQMjVBcXpmeU9heUVIankzNENvSnZqWHk1SEVjS1ItamludmxJUjhlM2hiZjlzZDA?oc=5",
+      "title": "Sigue el recorrido del crucero del hantavirus dirección a Canarias en tiempo real - Antena 3",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZHdwMFNKaXphTXdNM0dIbDdZMm5yNDBNYUhEMWpUdDYyNGZTaGdCQkJmcm1XRVd5S3RfcFFyZ2k1dm5rZVpMMTE0VlNZWmdaWkJOYzZrS01ydm1LZm5uOTlKdVJYS3g5bEJUS3ZfY0hlNVFSUS1RZUx0SjdqUjZKUnV1OVluOHVRdXNFeU5wWjA0T3drSDlOZ2NUT1YzOV9pT0xZZHN4V0JrNlFRalgxUTM4dnp4dGZ2SzJfMGVkb0JMUVlwZUhPeEJtMEsxQ1paa0JsNzRaUEdMUdIB2gFBVV95cUxOY0gtSHA5NC1uMmtKWEFkODR6S3g3dzllN3dud2pVLVhYTENQOVRFMENyM2pZUTFxbDNVOG9KZC1vdW5MdERGMEFqbDlxS280RUFOM0Q2Y1VpUzJaN296M0pTUG1NbzR6ZFo2QlFpSXpkRDVKek03emk3ZXdORVRhS0ZfU0pVM1U0NzhBeVd4eWUzT1Z2Vlhkel9NTVpTYkxpNDVnbURSM2VTejlBZWQ1VU11QjZZRnRoNmxDOFdxVDRXT0gwMVNDQXRZMUZWMl9Db2lGSHNRZ290Zw?oc=5",
       "date": "2026-05-07",
-      "source": "\"hantavirus\" - Google News",
-      "desc": "Un grupo de trabajadores del puerto de Granadilla amenaza con bloquear las instalaciones cuando arribe el crucero con un brote de hantavirus&nbsp;&nbsp;EL PAÍS"
+      "source": "Antena 3",
+      "desc": "Sigue el recorrido del crucero del hantavirus dirección a Canarias en tiempo real&nbsp;&nbsp;Antena 3"
     },
     {
-      "title": "Alfredo Corell tranquiliza sobre la posible infección de una azafata por hantavirus: \"En todo el vuelo que - LaSexta",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNUnBaZThlSnI1dnJBYmtMWTJDQjNEWEREbndCV3UwVXZDSUJRWlAxX3pQUDJ4WHZlQWNQbVJNZjdnY2VlTWdaR19hVUNaVFM5d01ub3VzeFAxRWxOeVdFTlZzTVpMQkRkeWZmZlJ3UWVwWXFoQUpJU25ZY3J6bjQ5WjIyLUV6dWNZVnR3VUVvYTg5blpEM0trTWtyWER6dkNtTkpxZGgyazBzQmxFUjFTSVBfNnV3WlFPcXJId3VmVVNyQWlCYy1fWVZDWGhWRGJPQ0Q4NlRBRTBNWHdfbVJaWmxVZE53T2RjR09DS1JPZm9ZczQ4MWZFY1BZX2d5QXVmZVpFMXdYY1hxZ9IBigJBVV95cUxNQVFzbl9oSG96bkI0MTdpRWJDek1BMTVyRHo2QnBqVE1hdS04R01SZFFkMmxKeEdkY3ZGWXpjcExIb29Vd3FHQXNLYWJCMkpaTDdoejh2YWxLeVhkMXhXNXo5WTVGQ1JXR2NrSlEzdFduczZzQW9BVXlmbWR1ZXNQQVVIdEMxWk5oUVFEV1JSMktJaXp2dWU2TFRwQ1ZUcTVwODJqMi05NGpEQUg1SUMzV01GekRxOXdteGVNTE1uYnZ2LWVnV0hmZW0wYS1taUNRUVBIYmR5LU9rbFRxWXVlMVZMSkc2NlFlalk1dURPLXg5aF9OeHpzbmNmVGQtd2RiWFlUUUJDei1GUQ?oc=5",
+      "title": "Adela vive al lado del hospital al que serán trasladados los españoles del MV Hondius: \"No sé por qué los - Antena 3",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNGJCSkVzeWFycnduYnRmTVRCNGhVeFdjbWFNTm9Ja3pJVW5rdTJna3RhSDVRYkVkM1U1bXc2dFlGTmVGZU9zUkpGa0hXdmNBZEREODE4VXhYc1ZicUYzVVBuMUFHcld6YnZnbkdrcE1NWmYyMllkaVJNSzZLbUlBWG5wUTVFUlh5QmVIM29DTTFIdEJBeVptUWlmWmd4MUxCMDVVZlpsUVI0Tmo1MDFjRG4wYnNHakRwbEIzRzNRdUtDeTVZTlFSOXhoalAyeG1tUzFXVmtDc1YzRFk5THc5T25ydGxIQ25wT2tNZnkxZXo1ZUxtcGluNnUwb9IB-wFBVV95cUxOUll5NVB0RnhPWjhhYVJJRUM1YnhEVmpZWWU3UlhMOVFVQ29OR1k3ZmtKSkd5M201ZWVkeldDTVpzaE9fR2NyblVkSWRneVFQY0x0NkJITlRwdkpkZTJLRFY1SFNWRXpMTGMtTGMzSVNUYVk4UDVkNU5HOEtzdXFpeXNad1FjR1dKM3YtLUd1bWhUcHhTYzdpa200dlVjNUZiOXY5NUdvYmdTUmxwLVMzZkV0X091Xy1KaGE3bUpLcTRpR2U4b2tkdndycWNTeXhOZFAxU2kzLXdVQUg4aHFBZ3lKVXJlOElpakIwS0FJMzRabS1IVEFqTW1rWQ?oc=5",
       "date": "2026-05-07",
-      "source": "\"hantavirus\" - Google News",
-      "desc": "Alfredo Corell tranquiliza sobre la posible infección de una azafata por hantavirus: \"En todo el vuelo que&nbsp;&nbsp;LaSexta"
-    },
-    {
-      "title": "Una azafata de un avión de Países Bajos, considerada el noveno posible contagio del brote de hantavirus - La Voz de Galicia",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNb3JISDVmUDR5YkZYaVpVOVo3TWtCZTk5eXZjcERmMlAzSmpaY3RSYWJGV0NuRFpnRFpHM2ZZMWY2Smlqc1hSd3FFbnR4cWRKNnM3d1c1NXA1aV9qM3FickY2bnIzREVkdWwtTmZUVTFtWHIxTy16M3pEV1diYXA5Ty1jOElZYk90V2t1U1dtYVJBRXNPUS0ySzFrSU1UQ0Uza2ExNE91YkpGcjhsaXdic1FLam1QanJVSEFvS1hGN0REbXk2NkJOU0FJN216WUhROEhfWG4tWnFMMjhHWXYtcEt4QTVIMjhDN0R0SDdvblZpZ9IBjgJBVV95cUxNRjhkV1ZBZFJtckJheWdKZW5td0Q2Q3JpSFhZbjhtckZlM3dmVVpNaklCenBoOFZDeFpEOU1IVmQwUUpUdE9IN2dYTTNnb2Y1aWV3VXAwd0VBXzBpdkxFT2tNeVV3UTNvU25LdnNkWUJzc29lZWdWbnBjeE1xaHdVLS1BNFFnbEdtWGFrRzNZaDhMWWFIRWZRNGV3QjhqcUhTVWNRZmY0VTNYbUhiRlBnZ1QtYUFheTlXV2RsS0ZkdmhFMmlWODVnQTRqeld6d0RfWWZQUnN6TklwOURnYlVVOEl2QkdCSHpnUFNqWlc5RTVfNVZFQjZMbnJGU1hqSVhFQXhYam0xQ0xvREdxVGc?oc=5",
-      "date": "2026-05-07",
-      "source": "\"hantavirus\" - Google News",
-      "desc": "Una azafata de un avión de Países Bajos, considerada el noveno posible contagio del brote de hantavirus&nbsp;&nbsp;La Voz de Galicia"
+      "source": "Antena 3",
+      "desc": "Adela vive al lado del hospital al que serán trasladados los españoles del MV Hondius: \"No sé por qué los&nbsp;&nbsp;Antena 3"
     },
     {
       "title": "La sospechosa transmisión de hantavirus en un vuelo siembra dudas entre los expertos: \"Hay que actuar con - Antena 3",
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNRGRqYmdJam44ZVZfN3BwZEw4RDFpZ2lNTkxveGZ2Y096MnRHa1hmTjJzQVF6RFEyWE84eFRwLVlCbDJwVTJBekl3cHdBWXIwUXhRR1dBbHZUTzJQdmZGU0ZHYnJCellBMzZNeEN3RmZPbzF0VVZId2ZPRHE4Qi1ranEybFI4RFZPNWdyYm5GdGhtemp0V05acEkyOHEwVG1MLXBDOVBYRTAtdV9uZWZfVWFZNS1JU3JLdjBjbnFXbXRaWTZFVlZaYzhvbVFEQjdlYUszZWxDSlJRU0JESGQ5WUp3NzgwQ0d6dXhrSDBJcktTcTVGV1BCZEQtZ1dmMFJHX0VmTDhybzkyT2xVclHSAY4CQVVfeXFMTjU2ZXJVRV95amlFenQtOHFpZF9oS3FBMW9oVTkwVlNadl9YNzhxSWt1RHd5TjFyNHNnRFVEc2hYeFoxdnBPMGE4TGg5MWpRcTBreHgzTGkzdTQtSUdiT21qS05KNFM1MmhEdUh3X3JjLWszanotSzlULUhfcUJnWlh0ZmN3VDIyQlZQVlVrcEtmMGtIX1Z1OHdUNnNMckZzNUlhaTV5SU4xWWhERzFibU1yOGZxeFJ1THEyVm0zR2swRHZmUC1PR0lFQ05xUFNsWmN4bk9HRHJXQVU4b3ZWQkt3SDItVDlDYnpXLWZuWm5BRGo0T0NpNEkwYkhUVmpxTmVsNHVOeVBwV1JiTTRR?oc=5",
       "date": "2026-05-07",
-      "source": "\"hantavirus\" - Google News",
+      "source": "Antena 3",
       "desc": "La sospechosa transmisión de hantavirus en un vuelo siembra dudas entre los expertos: \"Hay que actuar con&nbsp;&nbsp;Antena 3"
     },
     {
-      "title": "Así ve la prensa neerlandesa la gestión española del crucero del hantavirus - El Debate",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMEN6TXBFVmdweVF0a2s0VF90V0JsVkJpbWJZOEVMRzEwcDFCOEx3RjZkeVJrUW9tZWNqaXg0cjZJbXFJTDJTWDVtNEtBT1Rha0pldUhVdjhBeDJPVWpKTk9VWDVQSUJ0VFdxYWVKRjdQZGdJbW01NXNJWnZKblJXdTFXeVA4ZzJoREVnZko1Q21HSTRBVkxKNm5NMkY1cU1RR19XblBYN19CblhlanhyZmkydTdxNG9pOUlvcdIBwgFBVV95cUxNSE91Q3lzTUdUYWJRbXNWaS11c0syY1RNMXFkOFBfMV90NFFoU2pwdEV6cFBLRTNRWkRsRVFMQk5sOEtaeDIyemZVd2hQdUFnOTBOVmlLNVdid1FyZlpRaHdxWGQxX2owSmxNMFI1Z1ZXNlJQVkt0am9nMVFORzdCX0VKU01sczZqTkZlY1pybVJuR0tqem5tZHRhSWJkS3piUWVxNGVUQTlkdmk0XzRhXzNZVXZodXhnTDRHTzZWS3Vzdw?oc=5",
+      "title": "¿Puede el hantavirus convertirse en el nuevo coronavirus? Un virólogo explica el avance de los contagios - Antena 3",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPdUt5X1VVZE04MVhmY0hLNUpRM1ZKNXc3c1c2MHJZRDRCLU4yMC1lVlBZb3p6S0NzNlpEOWVuUk1Jc3JEaTMxX0l0MzEwVWNBRmQ1ZjhPSHFTdV9EY2tqbkt3RGxadjVpa0lXT0NsUzlnNmVUbkQ3ZTVGWnRwQzQyZTlpN0NmZVBkZktzcmVheUJNUEZrR1VuWGl3SHNyVkZkcTBWaVpPSHhRNExuUjdwVHJUUVpBRERoZ1hkU0ZhZXY1S0c5RERRUjFESVNrd2VjcHlIdG81NVJxYVo3bnJxR3FUYTF0QWk4WGdOZzI2RkZyaDFpRmRGbmE4WTVVRFRVRGl4WU84Z9IBhwJBVV95cUxQYUwwQzFpcURqcHlybl84emVVeHJqTUFWRUFWMXFxTjVSdU54eFBQX0pHU0s1elgyTFBNcjQ0aE5KbWNMN09UZjBKbUpoSjVIY0NSdm4yZW5GLS04eWFfdFFKTmdQdzUzQjVjQWtXUEV3Z2xoUGVwdzhxa2J2ZnhDLUJqdllncERxUW9UeklaQWIzUDhrZVZ1a0txUjFQUTBwZmpUWndOREc2ODFhQ2hiWXo1ZFpsMG5YblhzeEd3RDhtbkZuNXFYbnZPOEpSZWEyZTkxRFBfd2JhMVNRRVdUMzU3Tk1Rano3LTFMNnN6YzlEUUk0Mk1iS3p2UFhXd1E4WXluRW0tRQ?oc=5",
       "date": "2026-05-07",
-      "source": "\"hantavirus\" - Google News",
-      "desc": "Así ve la prensa neerlandesa la gestión española del crucero del hantavirus&nbsp;&nbsp;El Debate"
+      "source": "Antena 3",
+      "desc": "¿Puede el hantavirus convertirse en el nuevo coronavirus? Un virólogo explica el avance de los contagios&nbsp;&nbsp;Antena 3"
     },
     {
-      "title": "Brote de hantavirus, en directo: Sánchez llama a Clavijo para rebajar la tensión por la llegada del crucero - Canarias7",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNHpEVWpVaXNGUUNlcFlldGFqaERiemdJN2trZWVjRkpNSnIyenpUYUlpSW1jUVZwMFM4NGNZT0JWcTNLaS1yTmt2UXBveHRLd1hZd0R0UGdOd1RjbVEtM196YUx4NXplTlRHbW1vSWdUNkQ5RktjTmFfekVwQ09pSV9xblBnMmRQc3pSUjVwMFR1ZVRwRUlTWnFwVm1XdzI3T2FRZHFhRTRWOVVQSC00VlczSdIBuAFBVV95cUxNUExEX2swamRLQVNJVm9JdkNWREZsdWtySWFtSkR0MExhYnluSzBHVkV6amF4d2pTZnpEU08tMkQ5azMxTGxScUFad0l4NU1lSTJIbnhTdHRGTllpd0xXOE1VcVVodGV0Y28tbGhrU1FUdlBvTWNQSEZ2T3Q4YlhWNFpJdzVVWG01TFJzYWVONzJsbEplUzhQMF84UnF5X2lKUjQ4eDJ0OFpxaUxIZUVZWXVzekNTU3pD?oc=5",
+      "title": "El riesgo del hantavirus y su variante Andes: \"No hay que frivolizar con esto\" - Antena 3",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc0Uxak9jQlhQZ2tOU2o1aGI1UGhxTGZHRjNxLXhwa1hfV2NmSlcyWWV3VzFGbFJWc0dWVHEzZ2l2WDk0ZUxnWjQ1ZDd4eWVpZk81YlhVQUhkVVB1YkRnNUlIRFhHUW9WUFJjUXd2MW9UdHR2STd2blFZem1LTkFGLUJCWGpvLTdFMEV5V0VpYUpCX2gtMWpSUXlmS3VmYmE5OUx2dGczVDY1bXZvQlZZdFpVOU1VNnR3S19MYWtsNm9qb3dWd1JIVk5jcS1OQdIBzgFBVV95cUxNOFQ5MVJ2bzNLSmRBT0hPTng4SVA1SDNuV09QT1M0T1dnbEkxNk5XenNZOTRjeDVBVXl3STdvTFMyOGpQenczSmZmNVBiVW5KNzY2dEwyTVV6V0pLbVdUV3pFTHNuRTlhakhDazkyV2o4V1VxcWN2NUxrN3VvSWNsWExsUGg5dFdoclNTMGt1LXlqLUc4TXhOM1hQdUd6YWJONEYxLVM5ZXZIVUhTVEFrWllBVzdNNnBaU1Q2bzhnVHNFTHdiRk5vR0MzYlEtZw?oc=5",
       "date": "2026-05-07",
-      "source": "\"hantavirus\" - Google News",
-      "desc": "Brote de hantavirus, en directo: Sánchez llama a Clavijo para rebajar la tensión por la llegada del crucero&nbsp;&nbsp;Canarias7"
+      "source": "Antena 3",
+      "desc": "El riesgo del hantavirus y su variante Andes: \"No hay que frivolizar con esto\"&nbsp;&nbsp;Antena 3"
     },
     {
-      "title": "Hantavirus, última hora del crucero MV Hondius: casos y contagios del virus, en directo - El Confidencial",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQmFzMmpid0FTWTJDeEs2bEhSR1g0dzJjLTd0S2JkeFlLZVJ1VlNiZ2h4clFoQjZaUDE5R20zLTh0dVR4bjQ4Um42UFdrQi1TU1B3ZFVjdWlqZE43RW9DOFAwRC0zN25uSlgwNXJyZ3U1Zm1wbWJJbXVIdmhDaFhkanZSejM3NUVrRVRNcGRkR1piVGpwYUQ5ZWFVSzZVcFVGMFM0?oc=5",
+      "title": "Vídeo | Los pasajeros del crucero con hantavirus intentan transmitir calma: \"Todos estamos bien\" - Antena 3",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSGg2LWNTdDEyVjItM0MxbTZNN3dJcEJnME9HQS1tYkpMT1JaM1pIQmdNdTdTcWpncnNyajZQYzBRdkV2eWhLZS1jRERVdzNKQzlyY2pLb1V1RDdKcUNGeUVFZ0o4enY4ZDBCVTRjdFo3bVphNzVuMS1FY01vUmxGaWlPTzJpaFJGdTZPSFdjVDVIMW0wSFE0RERIZFZnWDNHeC1fODN0MDdjRk5fR3J5M3lyZ19OUm1KNFpHZXBnajBSRFA3T2FDaFM4NFQtZ29POUc3bVVmYTN5dVZBVWdRck9NSGNTNW1neDE5eWdqQ3nSAfABQVVfeXFMTXRMMlF0WmJ6RE5Nano1d1kxUmYweGZfTEg3Tl9IZ3pRSDFRUU5PTXBIMmIyRlN2N0dpTHYtOTF6OGVDZ0tueEQ1ejFyOUhMcXJHSzZjR0NRN2dBUkdSdW1LbF80RGdURGxFQUV1TGxzMGlCVTl5ZTBhcDJ2bWJmYV9GREVTRGFDeS1OQXFlS0pwR2xWZmF4eDZXeTJ3RmhZOWhPc1NRcnFjX0NPaGJOSm5vdWdVSWxuN2VYMW1KVEVIMk5neS1JSXBYaUdtajliNGhJV0VBZnk5UVQyVnZBakRHUHd0WVdWTk1jTml6d09S?oc=5",
       "date": "2026-05-07",
-      "source": "\"hantavirus\" - Google News",
-      "desc": "Hantavirus, última hora del crucero MV Hondius: casos y contagios del virus, en directo&nbsp;&nbsp;El Confidencial"
+      "source": "Antena 3",
+      "desc": "Vídeo | Los pasajeros del crucero con hantavirus intentan transmitir calma: \"Todos estamos bien\"&nbsp;&nbsp;Antena 3"
     },
     {
-      "title": "Última hora del brote de hantavirus, en directo: El Gobierno se compromete a que no haya posibilidad de contagio al evacuar el crucero - Onda Cero",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUVlLVjdvS0hPMGRHTHZaSzEzd1VrT21TS3cwbnVpN2FFNHY1NXNjMGdRdk5DZnFBeWRmV3FxRWRVWUdheGx3dnh0VXZiQVZLXzdqN0JQUkJ3VHg2SFg3RmxfbC03M1JxdEtDcWRNWFdwc2wzc3BpcTFITFJrQTlNb2sxd0htT0pPcTNETEFJbzczZUNUQ2V2R09YVGNpdVp1NzFiclJaLWRUUmhrOEFnb1pBTUo4TUdEYm5oa0d3SFBFeFdwbEhMVWRVOWF1MHFsVktlYm9uTE92X1dsS1Q2Y0R0SQ?oc=5",
+      "title": "Clavijo confirma tras reunirse con Sanidad que el crucero del hantavirus no atracará en Tenerife: \"Solo va a - Antena 3",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNMnM0akpSS245UlhyV0lac3owOURVd0hxa2ZKOXZIby1oUkZxYUI5ZndZZ2JLSDZqeEZ1VEtTWjdNUGRfZW53N3dWT04xT1N1Z09jTTdTMXUxU1c3STVXbXc5Q2wxSExNQVl1dmtwN04zYUtOX0RXYXlLa1hVNi1JTFZxd2dObS0xLXJaSkQ2SmdPaWJPZ3RsZ1BESmdwd3JVTWUxTlRERnBYVzFNRkN3anFKb2ZxN0RDQ3UzY1FzT2VzVGNkZ3ZERzZCWTAwMnhCbmI1TFhqWTAzcGstTWJMUE9kVTlfYjFaR0taaHctQTFpQ081Y0pTRNIB-AFBVV95cUxOZ1hWVWZxUWdRc2wzLXpmX3JfNnlmdUl4T3oyd1lFTXVpSlh1LTJKSnZKZ2xHc0VEbkxOaHk4YzBObnZMbXVMU2JIRFYyc2RqSDZjeHZkZXZ5M3ZkdWN3TXJpLTZpdlNlLUV1cTB4ek9Edy1kanVHczhEOE54ZXpGbVhWLVpsOEJ0Y1hDVXJmUkFia1VYcXI5T0hsM19MM0JRVzBvUUhxZkNXRWFLcEJzSktDOUpjU295RHlkbmphcFNjUkRpbXNTaTJnZlBBdk5xZTdGelNoYml5U1J5T0gzMWdlcGNCYjVzOV81RW12M1ZsOVlJMVFnNw?oc=5",
       "date": "2026-05-07",
-      "source": "\"hantavirus\" - Google News",
-      "desc": "Última hora del brote de hantavirus, en directo: El Gobierno se compromete a que no haya posibilidad de contagio al evacuar el crucero&nbsp;&nbsp;Onda Cero"
+      "source": "Antena 3",
+      "desc": "Clavijo confirma tras reunirse con Sanidad que el crucero del hantavirus no atracará en Tenerife: \"Solo va a&nbsp;&nbsp;Antena 3"
     },
     {
-      "title": "Brote de hantavirus: La OMS dice que los contagios no marcan el inicio de una pandemia, tras confirmarse 5 casos en el crucero que se dirige a España - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XUjA0NlZVdlRnc3hnSE1tdU9vbzBQNXpKU2NQZ0ZoeFViYmJNX1lxaUd6TVRIcnJKeWd6dVNRaEtlUzl2RzJKZHZ5NzkwQVNlVEZKcU0wRlQyOUnSAWBBVV95cUxQcFg4aExXZmwyNV9rbHhnenRLRGZldGFHcHFHcWJRVGsydy1KV1JKSnBYbUJHTkd6dHdQaUI2MjN3QlI0aG9RYnhJTVpqUW5pYXFxeE9UT1JMa3pxMV9YQWM?oc=5",
+      "title": "Hantavirus - Antena 3",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mS1dFWjJraUUxUUR6OU5GZ0tBd1hCQlJOSTRhdGJZZW9GUFFXZjN2bmt3ZjFrZE5Cc2U4azVPMjhRQXJQN0tPZVpZclVGMExNczhXbg?oc=5",
       "date": "2026-05-07",
-      "source": "\"hantavirus\" - Google News",
-      "desc": "Brote de hantavirus: La OMS dice que los contagios no marcan el inicio de una pandemia, tras confirmarse 5 casos en el crucero que se dirige a España&nbsp;&nbsp;BBC"
+      "source": "Antena 3",
+      "desc": "Hantavirus&nbsp;&nbsp;Antena 3"
     },
     {
-      "title": "Última hora del brote de hantavirus en el crucero MV Hondius, en directo | Mónica García apunta que España cuenta con \"herramientas legales\" para hacer cumplir la cuarentena - Diario Público",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdG0taURra19zeV9QMGxubG9zNlJSWmVrRHluOEFZWEVZWnVMSlctcFNiN3Q5MHdibkhSZXRwTXZybmx3aERmbTNKRTdwczZKcU0xNDVlak9QNE1HWG9QYXdKQ0VReXVrUmdPVXItd3NNaVNZdklKaVpBeEtkOXZoSS1qTUxNTjUwaUJZZThoVHVrRk1ocEhxTVQxbnd4S3FtMlHSAacBQVVfeXFMUHhLTm01ajMxcDhFbkpLcDMxaVVsanFPbGM0Ql9ZWFgtcVhHbEE2akN3Y1dOSlNGc0NlU0RzNHNVSl90T3QtWGd3clJFV1JsX1FRRDVGOHp2MzRET1p0Y0ZOOXJBeTNBdHFHSXRhOE9kLUJCaUttVEVydWZNbXhfLXJEbEdoUnI2YjlkWXRtNlZ3WTZsWHIyMjlRMXM0UjRIUW1BSXRlVXc?oc=5",
+      "title": "Discrepancias entre Sanidad y Defensa sobre si la cuarentena de los españoles del crucero del hantavirus debe - Antena 3",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOaWs5bFV3MVJiSnZJVXc5LUxuOXhJYTVnOEVyUmlSczEyaHRzNlZaNnVYWFc2dkM5Z3MzQjBFQzZmUWpqY0FIWHZ3eUxSTndGblRjWmdNVzg0ZDdNMkFrSk50b2d2YlcwY3lYS0UyREZYRnZac1o2SmR3TmdNeWNlSjFoZFlnaE0zNUdseDQyMHhIMnc0WFR6N28tcVJ3TXJEaWh6MFFoNE5hdTFLZWp1UVpJZHJZTi14djN5dndEbTk3VjJxRTJ0bmIxRkpHdXpFbGQtWjg2Um55WENFMHpHSl83UWZJOVloZ2t3SFE0ZGdKdk3SAfMBQVVfeXFMTW1hWC05OGxHSTU0ZTBYYXVjQm1oQkhPY1NkN2Z2R2hWY2xkRk5DSjUtdFBsOHplN3dhVS1pWDJqM19BbUQzTWl0RmtzREVVTjhhNnFlQURDZTJJUHdVWFVqWHlPd2RQRnhzRUlFLUF0eWl3dFV3NVVtSzFTOVR5ZUNiLWxuVUEzWUItekNKUE1XMWhjTGNPWUNuQnQ1WEdQYjI4dERGUDktb1luMWMwdnI1dTBaMGprQTF0cW54RmJxR0RMQlJNWENQRk5BdjY2aGpkZFNOZDktTEoyc0NOd2RqbUNqbkp0ZF9RSGRkX0l5ODkw?oc=5",
       "date": "2026-05-07",
-      "source": "\"hantavirus\" - Google News",
-      "desc": "Última hora del brote de hantavirus en el crucero MV Hondius, en directo | Mónica García apunta que España cuenta con \"herramientas legales\" para hacer cumplir la cuarentena&nbsp;&nbsp;Diario Público"
+      "source": "Antena 3",
+      "desc": "Discrepancias entre Sanidad y Defensa sobre si la cuarentena de los españoles del crucero del hantavirus debe&nbsp;&nbsp;Antena 3"
+    },
+    {
+      "title": "El epidemiólogo López Acuña sobre la cuarentena del crucero con hantavirus: \"No hay que dejarlo como una idea - Antena 3",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOSFREcXNmem00V29OdXlQX3hoNUNtTXRJbHVJQ2VrOWE1a0RoRTRrYVByalNIRDl6b1FEbVYwTGRiSF9zUkFUb2otZzh4MUlvV0RBU3l3aXU1d0tIYU9KU3BXTlczQmhZNDVlVHIySTkyNU8ta0FxWElZRktla1ZuVi1fbnczdDRUXzFKX2sybWhZWDdwZ1RIWjZoUm14MmtsbnV3Q0ZLZWVuVndOYUNjZlVJVVFZZ0Z6OWwyTjdFcUZsR0RWVlZHS25URlBlbndzT2tuZXRBak14ZkNNVklHM1lNaVZQZS1seUh1VlNjc0I3ZzFQSGVlbFA0ZFLSAfwBQVVfeXFMUDN6cy12d2xveWpFRnBIQ2dyQ3E4aVZUT0lFazRLU1RGblNxMV9YWFBBeS1tUHVFWElkcUZ4YUFscHJCTHJuSkY1WUtiaWhlZFlJUExfNzFWXy0xM2hRa05UQncxdVU2T3o0MDF5MTY3N3Zkd0xqSnlvTmE3bmQ2cWVNRS1nVmZnSEdDcUVVYWR0d3BpdzBFNUh0NE03WW1nc2hKMWRPMzA1WDluWEVTRWJEWlNYVmRNcHY2emJRTHhxczloRmRjTEQ2QVo4NDhfX2E4X3Nid1I1ejRRLXlnYTh2blNBSWgyOHZXcU9BbWI1QXB3VnBDMkd3UnFP?oc=5",
+      "date": "2026-05-07",
+      "source": "Antena 3",
+      "desc": "El epidemiólogo López Acuña sobre la cuarentena del crucero con hantavirus: \"No hay que dejarlo como una idea&nbsp;&nbsp;Antena 3"
     }
   ],
   "countries": [
@@ -313,7 +342,7 @@
       "code": "AR",
       "name": "Argentina",
       "iso_num": "032",
-      "cases": 2,
+      "cases": 41,
       "deaths": 0,
       "status": "Lugar de exposición probable",
       "first_case": "2026-04-01",
