@@ -3,11 +3,11 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-05-07 18:49 UTC"
+    "updated": "2026-05-07 18:57 UTC"
   },
   "current": {
-    "cases": 8,
-    "deaths": 3,
+    "cases": 34,
+    "deaths": 11,
     "recovered": 0,
     "countries": 5
   },
@@ -178,6 +178,35 @@
           "deaths": 0
         }
       }
+    },
+    {
+      "date": "2026-05-07",
+      "cases": 34,
+      "deaths": 11,
+      "recovered": 0,
+      "event": "Actualización automática: 34 casos, 11 fallecidos",
+      "snapshot": {
+        "NL": {
+          "cases": 2,
+          "deaths": 2
+        },
+        "DE": {
+          "cases": 1,
+          "deaths": 1
+        },
+        "ZA": {
+          "cases": 2,
+          "deaths": 0
+        },
+        "AR": {
+          "cases": 2,
+          "deaths": 0
+        },
+        "ES": {
+          "cases": 1,
+          "deaths": 0
+        }
+      }
     }
   ],
   "news": [
@@ -187,6 +216,13 @@
       "date": "2026-05-07",
       "source": "\"hantavirus\" - Google News",
       "desc": "Hantavirus, última hora del crucero MV Hondius, en directo | Cerco al hantavirus: comienzan los confinamientos y se rastrea en muchos países a quienes han tenido contacto con personas contagiadas&nbsp;&nbsp;El MundoHantavirus en el crucero "
+    },
+    {
+      "title": "Experto asegura que la mayoría de los ratones colilargos no porta hantavirus - ABC",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcW1zRHNZZzg3UDd2ZnZTbnNtWV9aQmpKTU14TnZvX1I3N3pRaEpESEpJVjhVcDgzTGpBYkVWQjNVbktYaHljVDRoWjFyNDFrQi1PTmF0aE9PSWRfdkU3dW5ZdkVZV2xLc0VidGRiQ0FjTE9melU5UTZ4Q2djRnNKNmxBemFaaEotVVE2aGJtbzJpVU92RFhnQ29ZSmw1d00yZWk5WGRYRGVZNjA?oc=5",
+      "date": "2026-05-07",
+      "source": "\"hantavirus\" - Google News",
+      "desc": "Experto asegura que la mayoría de los ratones colilargos no porta hantavirus&nbsp;&nbsp;ABC"
     },
     {
       "title": "Brote de hantavirus en el crucero rumbo a Canarias en directo: contagios, enfermos y última hora del barco ... - Canarias7",
@@ -210,20 +246,6 @@
       "desc": "La operación para evacuar el crucero con hantavirus: lanchas hasta Tenerife, un trayecto de diez minutos al&nbsp;&nbsp;LaSexta"
     },
     {
-      "title": "Última hora sobre el brote de hantavirus en un crucero, en directo: la OMS confirma cinco casos y tres sospechosos - Cadena SER",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaWxOdFdQbG9zZzFZUTFfeUxndnpNX25pRnAzbFVQaF9yUkE3ZV96VXNkTkU5cUxYUUVNN0pZZ3U5VEtISU05NzBzd2lZdER3TEE3Ukw3RTNPekJlSW5mYXZsdmlMQnpNZ0VDOWhqa3NOV2NFVVlhTkRWS1Bna2dqV01uX0RxQkoxWDUwQV9kWDVsV2ZUM1RXaU4xZkZNeGQ2REp5TnltVU55LUdEMnBnaVNkcFFIQnp3RGZ1MVkySnB3MG95OVNiOGRFMUczdXNtazFrcGJZcl9hajlvYXVGQVBndlRvcS1oem8xRjhKbjQxdGth0gGIAkFVX3lxTFAxeW9COHhVWjhuaEtVRElkem5kTVFFamdweDB4OXN0NGF6bmE1Qm9qeHpjOFhWdkN5VHJNT3pqcjVmQzZ2RFJ6d19sTGVhRFNNci03dDB4cDAxRm1QMkdYV1Mwb1hVeVBZWHVMbTNpeHV5dHN1RU9iWnc3NlV2YjVrQW1lQ2FFYm9JeVJCQXhtVmFNUy03Y1dCNFBKYkg1b3dCNWszVmNrV21Sdk00MHJUUEJhMjFOZlBydHNNN2pCWFl5OFNZV29kUE5wYzdELTIwV3hkYUN6ZWJPa2EzOGIwRHlmZENmZEtzdDlDREVGN1lXS0xna000RzJrLUhjdllLNWhrZEpTYw?oc=5",
-      "date": "2026-05-07",
-      "source": "\"hantavirus\" - Google News",
-      "desc": "Última hora sobre el brote de hantavirus en un crucero, en directo: la OMS confirma cinco casos y tres sospechosos&nbsp;&nbsp;Cadena SER"
-    },
-    {
-      "title": "No es un infectado de hantavirus evacuado del crucero, es una imagen creada con IA - RTVE.es",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU28wUU5IZUpqUzJxUmljU0drRjNRUndmZVVCUnNDSHNKeDVKZFFNX2hBQW52QmJIVFkwYy1RT0pXc0ZyVE9NcVBrQnhFeTV2c0s2VHRxWVpJQzNkSnBuaVp2eGFVcHJvaVZTN2Fza2NTMG1PME44REVJaldZX3N4VGYxa3p2Qkwxb3I3RDBZT20yTmY2OXhwZld1NS1qY3RDTXF5S0ZNMUx2VHlhX0k4NlBZR2dkWElpM1HSAboBQVVfeXFMTmE2YnZYcGw5RlJvclh6VVV3YzA3b1lGMlRYT2d5NlNtbnlSS0JPdjZxTEpGTW45bDVPYTVKaHd5a29BT2x0d3gyVWc4M0FYNmFnT2tjMjJ2bkw1ZERoQ2puQnNCcXlXazNKRUZiNUEtQmFlTHBVdGVYV3E0ODZjM0UybERYbTRUaTZCQWU0N3RUOXppS3JRODJtQ3hDM2V0Mmh2US12Y1JBQmJBZEJSemIxcVhPcWZmMVNR?oc=5",
-      "date": "2026-05-07",
-      "source": "\"hantavirus\" - Google News",
-      "desc": "No es un infectado de hantavirus evacuado del crucero, es una imagen creada con IA&nbsp;&nbsp;RTVE.es"
-    },
-    {
       "title": "El avión con un infectado con hantavirus abandonó Gran Canaria de madrugada - ABC",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOHUyazBZcUVmQXphUGYxZ3E5VVhnMXN3c0QyZ1B3SThRcU1hcC0yRHdsVjRnR214TzlmRDFla1BkVnN6aFFzU0Q2MXhkcUd0NHpneWtMeWQxenliR2Fyc2ZLZ3ZYalNEbmNEbVVpeWg0QmFWYW9ETHRsV2Z5SHJrazFONmJrMkRTTWNnZTdkQkpDY0k5SjRNUHpKalZkZmFBTGt0b1NVNXZhdzlPLWhv0gG0AUFVX3lxTE5EM3owS2VjWXV6dmpGTURDUmM4N0I3dDBiTEUwOHczcGVTdVM1OUNIc2dRdVNPYngxeVUxc2dFUlN0Q0FzVG1CU09WbWxDWjEtMVNhbmFqdm9ZRjMyRTBuWXdqZWlkaWRLZGJualBhdk44VUJlVTlhT1J2c1V0c0dtelM0ajcwbUI3aDVHX012QjdJZ3VqbGNoblRXRXI1X0NlZ1FVaUZsM2plTkhvNnpCX0Ytcg?oc=5",
       "date": "2026-05-07",
@@ -245,11 +267,18 @@
       "desc": "El hantavirus ya llegó a Canarias con un holandés enfermo en el avión de Las Palmas: \"Ni siquiera nos mandaron el historial médico\"&nbsp;&nbsp;El Mundo"
     },
     {
-      "title": "La farmacéutica española que hizo la vacuna del Covid afronta el hantavirus con un desplome del 48% en sus ... - OkDiario",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaVN6cnBwRHdjal8zZU1CY3ZEXzlhOVFaYWpaYTFSNjkyRkdYZDRmWHpFcFF5LV9OaERhcGNjR3VRbGF0WnB5Rlg0b2EzMjlMRXlyWGVwbmFYNDVLOUwyMGl4b2FxZXM2LVNJdlBXQnhDbHAwOS1Pa1g0WTRLTWxXZTRyWExkLUdZUmVKSksyZUdqc0tuUEk3WExPQnJiTGVTa0NjazJzMVcwSDc0dlVZVjNKYjBVUFBTYmFQd3pTb2x4SURXcE1pb2J3NmdCMlhuOUlVSFpoSWlRd9IB3wFBVV95cUxOdjhXTWxRZkRva3VVUTM5TjhwMklVYXh1OFlzWWpBQk1BU0sxN1lOelMyeGs0TEtHNURMZW83Z3JkQTJXbkQxcWZhMmswRVRHRzkwdGo5NXd4LUlaenI0ZVpyV3A1OFF0T1RmRkRfb00xelpxYkdWWWJpc3VFX1JpelJBbWFzNlQ1UXBwQ2FKMHo2S0ZGZDZRUjFUeURIQmtxazFULUwyRi1FM1lidmd4M0h2VjdWVDByTTNCY18ycFhwaTVTdTFFb3pMYmxjUGFyQXFaYTJHMWVSMXVydHp3?oc=5",
+      "title": "La OMS descarta una nueva pandemia de hantavirus: \"No es el próximo COVID\" - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRG54SEYxWWt4dF9jYmZjX2hOaUphZW5fU2R4blhJeFVJYnJPdDV0YmFjY1pFbHZ2NmJqaWoyYW1YaDhTcVozcVdnaVNKMHF1dVB4VEpfR2hyb2ZzMXlGNUlRMjVHZTdIRUY3SEN0NU9RRm9uREo5M21vbWtfcmhvQUUwZGFEV2J5cmdzZmpMTTZEa1QwODczZU05SzVRSzdKTmtpbno0OFFjbmVtMHg1bmk3dDBUajIzT2Z2eURmN3hlc3dkZG5xRkkzUQ?oc=5",
       "date": "2026-05-07",
       "source": "\"hantavirus\" - Google News",
-      "desc": "La farmacéutica española que hizo la vacuna del Covid afronta el hantavirus con un desplome del 48% en sus ...&nbsp;&nbsp;OkDiario"
+      "desc": "La OMS descarta una nueva pandemia de hantavirus: \"No es el próximo COVID\"&nbsp;&nbsp;Euronews.com"
+    },
+    {
+      "title": "Gómez Ulla, el búnker sanitario contra el hantavirus que comenzó con el ébola y combatió contra el covid - RTVE.es",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc3M2VVlSWEgwWGQyUnJWQ3VRcDZnQ1pYS09meHdjYkZBdFZ0T1oxZ1NlM0tnUC1pZTNmZ0JYc2VjdzNEeVpiR0dGdU1jZmVuWk45djBySnpiNUxkVUdxY3JTQVNacFludGJqOFJXcVJyTXZGVmVHOEQzbDktQzRtRWFhelRHcXRwdktYTDh6QjdOWVVOM29yaDdVV1h3cVRyZ0hFVdIBpAFBVV95cUxQbjZGWWkybGRoTlQyQ1NUV1B1RTZYWFdzVF9zdTREaXhhZ3RhU1VkU3p2dGRZRmg5aGg5dVpJZUNBWDNRSUNreFltNHhuZk9FLWNkbjlpdHVOeVJxODBuM0swVWI3b0tNQ3g0cTkwaGJRZjh5dW5OY3FsRUhYcUJzQXVXdV9nYlpfWVI3c0hrbk9tZzRhWFRjY1F2ODJTSmloU0xZMQ?oc=5",
+      "date": "2026-05-07",
+      "source": "\"hantavirus\" - Google News",
+      "desc": "Gómez Ulla, el búnker sanitario contra el hantavirus que comenzó con el ébola y combatió contra el covid&nbsp;&nbsp;RTVE.es"
     },
     {
       "title": "Moncloa toma las riendas de la crisis del hantavirus ante las dudas sobre Mónica García - El Debate",
@@ -259,25 +288,25 @@
       "desc": "Moncloa toma las riendas de la crisis del hantavirus ante las dudas sobre Mónica García&nbsp;&nbsp;El Debate"
     },
     {
-      "title": "Hantavirus, última hora del crucero MV Hondius, en directo | Hospitales neerlandeses confirman el contagio de hantavirus en dos pasajeros evacuados que hicieron escala en Canarias - El Español",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxObzJ5a1UxS3VXeTRsVG1ZRXg0eEl5bjZuNDRwUmJ5MTkwU1BuNDAwQ1JPUVFQN1VOWlk3TG5ReEppM3VBY2k1eThIRTFmNDI2SjRsTC1UQVBFdWZ3MGhUSGxCWEl0X245dzhEOExXYzVXbGlvZUtjdl9oV3loTTZXTUNGTnFMdDZueWl0ay1FYVdKa3labE5XUV95Sk9RcndKQy1GVWxaY3RZbWFpT3pnOXZQSHNhOFNuQjB3QUVlUkRjZ2pEUEx1ckJHWXh4Rk1TZ0N3SkhYUEFKMmd0TWxyeFhwb0NybHlYNGNNYkRWZmU0NVRPRVBsM1FXWmRmdzBnMzA3Qkc5elMwVllKVWR5LXFiWTg5Zw?oc=5",
+      "title": "Uno de los españoles en el crucero con hantavirus es hijo del científico aragonés Carlos López Otín: \"Estamos bien\" - heraldo.es",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUDZ5NmR1ajFtaXRnbGRsY0l1c3A3TDVQcTV5cUpxMG51OW1EMms3VElhbFVib2NnZUdna3d2c2t0dVNHVUg1clBfLWlocW9oNFBfcHdlUTZDeGZnMThjRDRETlAxQTJWeTJmSkJjMG1sMWVmQWFDVEVEcFVlbXp6UU91bFY2bktoWElUNUtMaWFaTFd4TEx0S2hlRG1vMDdoX3R3WWxSTGJmTExmdFdZVXpjOHFBUng2andob09jeHNVX19nMms2d3RNMmlJUHRURTBFVC1PcFFnRVgzWG1sSXY2YUhSSjTSAewBQVVfeXFMTV9jX0REWkQ1cGpZbmR5eTFnN0hhWHF2Zl8zRU9lSGFSSzJXYUhIbTBhQ3U2aVdrcnRzWjRydEY3M3ZtQzgzSnBKMXpRdVlZTFdJSWV0Z3JTaHUwYnRveDh0ckVCeTVLM19XWGVJRmVWdkM1TTFGUTk4UlRzajFiR2JObDJKaG41Y3lmOGFOcHFzR2RETmtFZGRHOGdvdTdzUnl5YXJFUkNFUlRaV2ZlZDZtc05EdVVsYjNqT2VfZlpJelNKVlBpOFBJZng5UFhhb0RpUGJnRHNWeDI3WlhPdHlueXhpSlRySTNDZmo?oc=5",
       "date": "2026-05-07",
       "source": "\"hantavirus\" - Google News",
-      "desc": "Hantavirus, última hora del crucero MV Hondius, en directo | Hospitales neerlandeses confirman el contagio de hantavirus en dos pasajeros evacuados que hicieron escala en Canarias&nbsp;&nbsp;El Español"
+      "desc": "Uno de los españoles en el crucero con hantavirus es hijo del científico aragonés Carlos López Otín: \"Estamos bien\"&nbsp;&nbsp;heraldo.es"
     },
     {
-      "title": "El cumpleaños con 11 muertos en Argentina que demostró que existen 'supercontagiadores' de hantavirus - ABC",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYnVQN2U2STEyeDduMElWVG5kM0l0UjhQY0JRUDQzVGxTbEpmVElaYm1ydGoxZGF0MUFqWThQTlRTU0xlVlU3clBoNTliS0NVZFk3emZRZHJXN2o5RC1pTUNyYzg2SS15N1NNMG9HczZjX3BnNFVkSUxJbndmeXhCd2h2VGREZTNKaWcyMl9qa2NIbF9EVFJkTzhfQUxrWU9zeWNIRUVjQUo0OUJKNGU0WElMaWpMTjUtNTAyaW9aZEFKYTBm0gHKAUFVX3lxTE53LWtpQ05kaGFRX0RXWHA3S1QwdGRDXy1sa3ZZa3lOdElkSDJlTzUtOFd2RWpXTVAtZ1F6SmUxU3FyRG9YZ3JlZ056RF94UWc5R2pOM3pwazBUR0pHaWYyVlRrbElaLUZOc082SVAxT3R1cGZ2Mk9DeFFzaGdSbFlQMUdua0VpMFJWSlNMUlNpMGlEamdiVzBVX3BvWXAzcnVvczRHN19aQUtZc01IVXNEZXZQdkotR1Q2M09lQUpPTFhjb0txckptYWc?oc=5",
+      "title": "No es un infectado de hantavirus evacuado del crucero, es una imagen creada con IA - RTVE.es",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU28wUU5IZUpqUzJxUmljU0drRjNRUndmZVVCUnNDSHNKeDVKZFFNX2hBQW52QmJIVFkwYy1RT0pXc0ZyVE9NcVBrQnhFeTV2c0s2VHRxWVpJQzNkSnBuaVp2eGFVcHJvaVZTN2Fza2NTMG1PME44REVJaldZX3N4VGYxa3p2Qkwxb3I3RDBZT20yTmY2OXhwZld1NS1qY3RDTXF5S0ZNMUx2VHlhX0k4NlBZR2dkWElpM1HSAboBQVVfeXFMTmE2YnZYcGw5RlJvclh6VVV3YzA3b1lGMlRYT2d5NlNtbnlSS0JPdjZxTEpGTW45bDVPYTVKaHd5a29BT2x0d3gyVWc4M0FYNmFnT2tjMjJ2bkw1ZERoQ2puQnNCcXlXazNKRUZiNUEtQmFlTHBVdGVYV3E0ODZjM0UybERYbTRUaTZCQWU0N3RUOXppS3JRODJtQ3hDM2V0Mmh2US12Y1JBQmJBZEJSemIxcVhPcWZmMVNR?oc=5",
       "date": "2026-05-07",
       "source": "\"hantavirus\" - Google News",
-      "desc": "El cumpleaños con 11 muertos en Argentina que demostró que existen 'supercontagiadores' de hantavirus&nbsp;&nbsp;ABC"
+      "desc": "No es un infectado de hantavirus evacuado del crucero, es una imagen creada con IA&nbsp;&nbsp;RTVE.es"
     },
     {
-      "title": "El crucero del hantavirus fondeará lejos de la costa de Tenerife y la evacuación se hará en lancha - El Diario Montañés",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbk1nam1zNVI1dmMwSG41dzhZM0hWZ0pjbVJSYy1mWlJTME1wbU9kNEdyUUJCbDlJZE9TeDVWVUQtQXJWX1JBV1dpcndLaU00OGJJR29fa1hFd1hLdHVhS003T2ZjOXVjc1BkSkFYMlJWQ284VzRSaWZTZUI3V3U1SzlaNWJpXy16eTJjTVkzNXJ5TGpVa3dVakJ2TXFJRnBzWHVjNEhydER2WTZtM19kN1NtYlVSbjZtTDdHS2R3XzdrdnI4?oc=5",
+      "title": "Una fiesta con 11 muertos en Patagonia reveló que hay supercontagiadores del hantavirus: \"Fue un hito que probó la transmisión interhumana\" - El Periódico",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaEx3UTdqVk1OZmJmd3VXSkJhQzFlQjdnN0VmSC1ncEhHVkhLUWJfVnVXaDk5VDVFU0JIN05FaHRlbnRaTFBVRWw0Q2pYVThURWRmRWtzeUVWMFNLTWxROUNyZ3pQTzN3bm93UXROZ2lzRUw2azlYQnZCd015cTI1UVcxeldLbi1BUWpOeTduZUZ4NkF3QkxfbHk4WTJMSmRlR3lTYk5lMXlhNTVoTVJYQXFJMGVfZWlpaDJvRC1TdnVsd0p5Yi1CVGdIeVBQdUlZWGg1MEw0WV82R3PSAdsBQVVfeXFMT1VmS3JwUFl5RGdaR1JBMXV1Y094MTQ4azhEZGdkcWhGZm1JS1I0TTI0M2hSaTVuMUVMTUdNLXloTlN0WFdpZDNsLTBvZG9scTRjaUZlWUZwb1JxZkliZkFuRXUzYk9DWktBN0ZlTll3dGhvUm5vMERvbGdXRlRiSFpfRzJ3RjJEVDFhblpDcFU2cXROaW1BQUp3Ymt0VU9DR3hTc3JQSzlzNUtrdmZZa0dGenVCZTlOV3N5UUExckg4VmNIWGYyWG5ONnlnM1BONzRHNUVSSnhwYVNJ?oc=5",
       "date": "2026-05-07",
       "source": "\"hantavirus\" - Google News",
-      "desc": "El crucero del hantavirus fondeará lejos de la costa de Tenerife y la evacuación se hará en lancha&nbsp;&nbsp;El Diario Montañés"
+      "desc": "Una fiesta con 11 muertos en Patagonia reveló que hay supercontagiadores del hantavirus: \"Fue un hito que probó la transmisión interhumana\"&nbsp;&nbsp;El Periódico"
     },
     {
       "title": "Brote de hantavirus: La OMS dice que los contagios no marcan el inicio de una pandemia, tras confirmarse 5 casos en el crucero que se dirige a España - BBC",
