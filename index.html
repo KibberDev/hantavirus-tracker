@@ -140,8 +140,8 @@
     }
     .stat-card[data-color="cases"]    { --accent: var(--orange); }
     .stat-card[data-color="deaths"]   { --accent: var(--red); }
+    .stat-card[data-color="recovered"]{ --accent: var(--green); }
     .stat-card[data-color="countries"]{ --accent: var(--blue); }
-    .stat-card[data-color="cfr"]      { --accent: var(--yellow); }
 
     .stat-label {
       font-size: 10px;
@@ -875,17 +875,17 @@
     <div class="stat-card" data-color="deaths" id="card-deaths">
       <div class="stat-label">Fallecidos</div>
       <div class="stat-value" id="stat-deaths">0</div>
-      <div class="stat-sub"><span class="trend-up" id="trend-deaths">↗ +0</span> en 7 días</div>
+      <div class="stat-sub" id="cfr-sub">CFR 0%</div>
+    </div>
+    <div class="stat-card" data-color="recovered" id="card-recovered">
+      <div class="stat-label">Recuperados</div>
+      <div class="stat-value" id="stat-recovered">0</div>
+      <div class="stat-sub">altas hospitalarias</div>
     </div>
     <div class="stat-card" data-color="countries" id="card-countries">
       <div class="stat-label">Países afectados</div>
       <div class="stat-value" id="stat-countries">0</div>
       <div class="stat-sub" id="trend-countries">3 continentes</div>
-    </div>
-    <div class="stat-card" data-color="cfr" id="card-cfr">
-      <div class="stat-label">Letalidad (CFR)</div>
-      <div class="stat-value" id="stat-cfr">0%</div>
-      <div class="stat-sub">cepa Andes · alto riesgo</div>
     </div>
   </section>
 
@@ -1016,7 +1016,7 @@
     function animateNumber(el, from, to, duration = 600) {
       if (from === to) { el.textContent = to; return; }
       const start = performance.now();
-      const isPercent = el.id === 'stat-cfr';
+      const isPercent = el.dataset?.fmt === 'percent';
       function frame(now) {
         const t = Math.min((now - start) / duration, 1);
         const eased = 1 - Math.pow(1 - t, 3);
@@ -1293,40 +1293,36 @@
     // ───────────────────────────────────────────
     //  STATS
     // ───────────────────────────────────────────
-    let prevStats = { cases: 0, deaths: 0, countries: 0, cfr: 0 };
+    let prevStats = { cases: 0, deaths: 0, recovered: 0, countries: 0 };
 
     function updateStats(snapshotMode = false) {
-      let cases, deaths, countries;
+      let cases, deaths, recovered, countries;
       if (snapshotMode) {
         const tl = DATA.timeline[timelineIdx];
         cases = tl.cases;
         deaths = tl.deaths;
+        recovered = tl.recovered || 0;
         countries = Object.keys(tl.snapshot || {}).length;
       } else {
         cases = DATA.current.cases;
         deaths = DATA.current.deaths;
+        recovered = DATA.current.recovered || 0;
         countries = DATA.current.countries;
       }
       const cfr = cases > 0 ? (deaths / cases * 100) : 0;
 
       animateNumber(document.getElementById('stat-cases'),    prevStats.cases,    cases);
       animateNumber(document.getElementById('stat-deaths'),   prevStats.deaths,   deaths);
+      animateNumber(document.getElementById('stat-recovered'),prevStats.recovered,recovered);
       animateNumber(document.getElementById('stat-countries'),prevStats.countries,countries);
-      animateNumber(document.getElementById('stat-cfr'),      prevStats.cfr,      cfr);
+      document.getElementById('cfr-sub').textContent = `CFR ${cfr.toFixed(1)}%`;
 
-      // Trends (only meaningful when not in snapshot mode)
       if (!snapshotMode) {
-        const sevenDaysAgo = DATA.timeline.find(t => {
-          const diff = (new Date(DATA.metadata.day0) - new Date(t.date)); // simple proxy
-          return true;
-        }) || DATA.timeline[Math.max(0, DATA.timeline.length - 7)];
-        // Approx: last 7 entries
         const past = DATA.timeline.length > 7 ? DATA.timeline[DATA.timeline.length - 7] : DATA.timeline[0];
         document.getElementById('trend-cases').textContent  = `↗ +${cases  - past.cases}`;
-        document.getElementById('trend-deaths').textContent = `↗ +${deaths - past.deaths}`;
       }
 
-      prevStats = { cases, deaths, countries, cfr };
+      prevStats = { cases, deaths, recovered, countries };
     }
 
     // ───────────────────────────────────────────

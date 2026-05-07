@@ -1,18 +1,17 @@
 #!/usr/bin/env python3
 """
 HantaTracker — Scraper automático.
-Se ejecuta via GitHub Actions cada 30 min.
-Actualiza data.json con:
-  - Noticias recientes de RSS (filtradas por hantavirus, dedupe inteligente)
-  - URLs de Google News resueltas a su fuente real
-  - Detección de casos en TODAS las fuentes (no solo OMS)
-  - Auto-extensión del timeline cuando hay nuevos casos confirmados
-  - Timestamp de última actualización
+Se ejecuta via GitHub Actions cada 15 min.
+Detecta de forma independiente:
+  - Casos confirmados (ES + EN, múltiples patrones)
+  - Fallecimientos (independientemente de los casos)
+  - Recuperaciones / altas
+  - Atribución por país cuando el artículo menciona un único país
+  - Auto-extensión del timeline cuando hay cambios
 """
 import json
 import re
 import time
-import urllib.parse
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -32,6 +31,22 @@ RSS_SOURCES = [
 
 KEYWORDS = ["hanta", "mv hondius", "cepa andes", "andes strain"]
 
+# Marcadores que indican que el artículo trata el brote ACTUAL (2026, MV Hondius)
+# Sin al menos uno de estos, NO extraemos números — evita falsos positivos
+# de artículos sobre brotes históricos (Patagonia 2018, etc.)
+CURRENT_OUTBREAK_MARKERS = [
+    "mv hondius", "hondius",
+    "crucero", "cruise ship", "cruise",
+    "brote actual", "current outbreak", "este brote",
+    "2026",
+    "transatlantic", "transatlántico",
+    "canarias", "tenerife", "gran canaria", "las palmas",
+    "cabo verde",
+]
+
+# Años históricos: si aparecen cerca del número, el contexto es brote pasado
+HISTORICAL_YEAR_RE = re.compile(r"\b(?:19\d{2}|20[01]\d|202[0-5])\b")
+
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; HantaTracker/1.0; +https://github.com/KibberDev/hantavirus-tracker)"
 }
@@ -43,9 +58,9 @@ CASE_PATTERNS = [
     r"(\d+)\s+persons?\s+(?:infected|affected|confirmed)",
     r"(\d+)\s+(?:passengers?|crew\s+members?|people)\s+(?:tested\s+)?(?:positive|infected)",
     r"confirmed[:\s]+(\d+)",
-    r"rises?\s+to\s+(\d+)",
+    r"(?:cases?\s+)?(?:rises?|rose)\s+to\s+(\d+)",
     r"climb(?:s|ed)?\s+to\s+(\d+)",
-    r"reach(?:es|ed)?\s+(\d+)",
+    r"reach(?:es|ed)?\s+(\d+)\s+cases?",
     # Spanish
     r"(\d+)\s+casos?\s+(?:confirmados?|sospechosos?|positivos?)",
     r"casos?\s+(?:confirmados?|sospechosos?)\s*(?:asciende[n]?\s+a|suben?\s+a|llegan?\s+a)?\s*(?:de\s+|a\s+)?(\d+)",
@@ -60,26 +75,92 @@ DEATH_PATTERNS = [
     r"(\d+)\s+(?:deaths?|fatalities?|fatal\s+cases?)",
     r"(\d+)\s+(?:persons?\s+)?(?:have\s+)?died",
     r"death\s+toll\s+(?:rises?|climbs?|reaches?)\s+(?:to\s+)?(\d+)",
+    r"(\d+)\s+dead",
     # Spanish
     r"(\d+)\s+(?:fallecidos?|muertos?|víctimas?\s+mortales?|fatales?)",
     r"(?:fallecidos?|muertos?|víctimas?)\s*(?:asciende[n]?\s+a|suben?\s+a|llegan?\s+a)\s+(\d+)",
     r"(\d+)\s+han\s+(?:fallecido|muerto)",
     r"ya\s+son\s+(\d+)\s+(?:fallecidos?|muertos?|víctimas?)",
+    r"se\s+(?:eleva|incrementa)\s+a\s+(\d+)\s+(?:fallecidos?|muertos?)",
 ]
+
+RECOVERED_PATTERNS = [
+    # English
+    r"(\d+)\s+(?:patients?\s+)?recovered",
+    r"(\d+)\s+(?:patients?\s+)?(?:have\s+)?(?:been\s+)?discharged",
+    r"(\d+)\s+(?:patients?\s+)?(?:cured|healed)",
+    r"recoveries?\s+(?:rise|climb|reach|stand)\s+(?:to\s+|at\s+)?(\d+)",
+    # Spanish
+    r"(\d+)\s+(?:pacientes?\s+)?(?:dados?\s+de\s+alta|recuperados?|curados?|sanados?)",
+    r"(?:dados?\s+de\s+alta|recuperados?|curados?)\s*(?:asciende[n]?\s+a|son|suman)\s+(\d+)",
+    r"(\d+)\s+han\s+(?:sido\s+)?(?:dados?\s+de\s+alta|recuperados?|curados?)",
+    r"ya\s+(?:son|hay)\s+(\d+)\s+(?:dados?\s+de\s+alta|recuperados?|curados?)",
+]
+
+COUNTRY_ALIASES = {
+    "AR": [
+        "argentina", "argentino", "argentina", "argentinian", "buenos aires",
+    ],
+    "NL": [
+        "netherlands", "holland", "holanda", "países bajos", "paises bajos",
+        "dutch", "neerland", "holand", "amsterdam",
+    ],
+    "DE": [
+        "germany", "alemania", "german", "alemán", "alemana", "alemanes",
+        "berlin", "berlín", "munich", "múnich",
+    ],
+    "ZA": [
+        "south africa", "sudáfrica", "sudafrica", "south african", "sudafrican",
+        "johannesburgo", "johannesburg", "ciudad del cabo", "cape town",
+    ],
+    "ES": [
+        "spain", "españa", "spanish", "español", "española", "españoles",
+        "canarias", "tenerife", "gran canaria", "las palmas", "galicia",
+        "madrid", "barcelona", "valencia", "sevilla", "bilbao",
+        "manises",
+    ],
+}
 
 
 def clean(text: str) -> str:
     return re.sub(r"<[^>]+>", "", text or "").strip()
 
 
-def resolve_url(url: str) -> str:
-    """Resuelve URLs encoded de Google News al destino real cuando es posible."""
-    if "news.google.com/rss/articles/" not in url:
-        return url
-    # Google News RSS encodes destination in the path. We can't decode reliably
-    # without making an HTTP request, but at least extract the source from the
-    # ?oc= parameter or fall back. Keep as-is; click still works (Google redirects).
-    return url
+def has_historical_context(text: str, match_start: int, match_end: int, window: int = 80) -> bool:
+    """True si en una ventana alrededor del match aparece un año histórico (1900-2025)."""
+    ctx = text[max(0, match_start - window):min(len(text), match_end + window)]
+    return bool(HISTORICAL_YEAR_RE.search(ctx))
+
+
+def is_current_outbreak_article(text: str) -> bool:
+    """True si el artículo claramente habla del brote actual del MV Hondius."""
+    return any(marker in text for marker in CURRENT_OUTBREAK_MARKERS)
+
+
+def extract_first_number(text: str, patterns: list[str], min_val: int = 0, max_val: int = 10000) -> int | None:
+    """Primer número plausible que encaje con un patrón Y no esté en contexto histórico."""
+    for pat in patterns:
+        for m in re.finditer(pat, text, re.I):
+            try:
+                n = int(m.group(1))
+                if not (min_val <= n <= max_val):
+                    continue
+                if has_historical_context(text, m.start(), m.end()):
+                    continue  # número junto a año histórico — descartamos
+                return n
+            except (ValueError, IndexError):
+                continue
+    return None
+
+
+def detect_countries(text: str) -> list[str]:
+    """Devuelve lista de códigos ISO de los países mencionados en el texto."""
+    found = []
+    text_lower = text.lower()
+    for code, aliases in COUNTRY_ALIASES.items():
+        if any(alias in text_lower for alias in aliases):
+            found.append(code)
+    return found
 
 
 def fetch_all_entries() -> tuple[list[dict], list[dict]]:
@@ -102,31 +183,24 @@ def fetch_all_entries() -> tuple[list[dict], list[dict]]:
 
                 if not link or link in seen_urls:
                     continue
-                full_text = (title + " " + summary).lower()
-                if not any(kw in full_text for kw in KEYWORDS):
+                if not any(kw in (title + " " + summary).lower() for kw in KEYWORDS):
                     continue
 
-                # Title-based dedup (cross-source duplicates)
                 title_key = re.sub(r"\s+", " ", title.lower())[:80]
                 if title_key in seen_titles:
                     continue
                 seen_urls.add(link)
                 seen_titles.add(title_key)
 
-                pub_raw = entry.get("published") or entry.get("updated") or ""
-                # Try to parse to YYYY-MM-DD
                 try:
                     pub_struct = entry.get("published_parsed") or entry.get("updated_parsed")
-                    if pub_struct:
-                        pub = time.strftime("%Y-%m-%d", pub_struct)
-                    else:
-                        pub = pub_raw[:10]
+                    pub = time.strftime("%Y-%m-%d", pub_struct) if pub_struct else (entry.get("published", "") or "")[:10]
                 except Exception:
-                    pub = pub_raw[:10]
+                    pub = (entry.get("published", "") or "")[:10]
 
                 news_items.append({
                     "title":  title,
-                    "url":    resolve_url(link),
+                    "url":    link,
                     "date":   pub or datetime.now(timezone.utc).strftime("%Y-%m-%d"),
                     "source": clean(feed.feed.get("title", name)) or name,
                     "desc":   summary[:240],
@@ -141,82 +215,128 @@ def fetch_all_entries() -> tuple[list[dict], list[dict]]:
     return news_items[:18], raw_entries
 
 
-def extract_case_numbers(text: str) -> tuple[int | None, int | None]:
-    """Extrae el primer match plausible de casos y muertes."""
-    cases = None
-    deaths = None
-    for pat in CASE_PATTERNS:
-        m = re.search(pat, text, re.I)
-        if m:
-            n = int(m.group(1))
-            if 1 <= n <= 10000:  # filtro de cordura
-                cases = n
-                break
-    for pat in DEATH_PATTERNS:
-        m = re.search(pat, text, re.I)
-        if m:
-            n = int(m.group(1))
-            if 0 <= n <= 1000:
-                deaths = n
-                break
-    return cases, deaths
+def try_update_metrics(data: dict, raw_entries: list[dict]) -> bool:
+    """Detecta de forma independiente casos, muertes, recuperaciones y por país."""
+    current = data["current"]
+    best_cases     = current["cases"]
+    best_deaths    = current["deaths"]
+    best_recovered = current.get("recovered", 0)
 
-
-def try_update_cases(data: dict, raw_entries: list[dict]) -> bool:
-    """Escanea todas las entradas buscando actualizaciones de casos."""
-    current_cases  = data["current"]["cases"]
-    current_deaths = data["current"]["deaths"]
-    best_n      = current_cases
-    best_deaths = current_deaths
-    source_used = None
+    # Por país: el mejor número visto para cada país
+    per_country: dict[str, dict] = {}
 
     for entry in raw_entries:
         text = (entry["title"] + " " + entry["summary"]).lower()
         if not any(kw in text for kw in KEYWORDS):
             continue
-        cases, deaths = extract_case_numbers(text)
-        if cases and cases > best_n:
-            best_n = cases
-            if deaths is not None and deaths >= current_deaths:
-                best_deaths = deaths
-            source_used = entry.get("source", "?")
+        # CLAVE: solo extraer cifras si el artículo es sobre el brote actual
+        if not is_current_outbreak_article(text):
+            continue
 
-    if best_n > current_cases:
+        cases     = extract_first_number(text, CASE_PATTERNS,     1, 10000)
+        deaths    = extract_first_number(text, DEATH_PATTERNS,    0, 1000)
+        recovered = extract_first_number(text, RECOVERED_PATTERNS,0, 10000)
+
+        # Globales — actualiza siempre que el número sea mayor
+        if cases     and cases     > best_cases:     best_cases     = cases
+        if deaths    and deaths    > best_deaths:    best_deaths    = deaths
+        if recovered and recovered > best_recovered: best_recovered = recovered
+
+        # Atribución por país: solo cuando el artículo menciona UN único país
+        countries_in_text = detect_countries(text)
+        if len(countries_in_text) == 1:
+            code = countries_in_text[0]
+            entry_data = per_country.setdefault(code, {"cases": 0, "deaths": 0})
+            if cases  and cases  > entry_data["cases"]:  entry_data["cases"]  = cases
+            if deaths and deaths > entry_data["deaths"]: entry_data["deaths"] = deaths
+
+    changed = False
+    changes_log: list[str] = []
+
+    # Globales
+    if best_cases > current["cases"]:
+        changes_log.append(f"casos {current['cases']}→{best_cases}")
+        current["cases"] = best_cases
+        changed = True
+    if best_deaths > current["deaths"]:
+        changes_log.append(f"muertes {current['deaths']}→{best_deaths}")
+        current["deaths"] = best_deaths
+        changed = True
+    if best_recovered > current.get("recovered", 0):
+        changes_log.append(f"recuperados {current.get('recovered', 0)}→{best_recovered}")
+        current["recovered"] = best_recovered
+        changed = True
+
+    # Por país
+    countries_arr = data.setdefault("countries", [])
+    for code, vals in per_country.items():
+        country = next((c for c in countries_arr if c["code"] == code), None)
+        if not country:
+            continue  # país no en la lista — no auto-creamos para evitar errores
+        if vals["cases"] > country.get("cases", 0):
+            changes_log.append(f"{code}: casos {country.get('cases', 0)}→{vals['cases']}")
+            country["cases"] = vals["cases"]
+            changed = True
+        if vals["deaths"] > country.get("deaths", 0):
+            changes_log.append(f"{code}: muertes {country.get('deaths', 0)}→{vals['deaths']}")
+            country["deaths"] = vals["deaths"]
+            changed = True
+
+    # Recalcular: total no puede ser menor que la suma de países
+    sum_country_cases  = sum(c.get("cases", 0)  for c in countries_arr)
+    sum_country_deaths = sum(c.get("deaths", 0) for c in countries_arr)
+    if sum_country_cases > current["cases"]:
+        changes_log.append(f"casos (suma países) →{sum_country_cases}")
+        current["cases"] = sum_country_cases
+        changed = True
+    if sum_country_deaths > current["deaths"]:
+        changes_log.append(f"muertes (suma países) →{sum_country_deaths}")
+        current["deaths"] = sum_country_deaths
+        changed = True
+
+    countries_with_cases = len([c for c in countries_arr if c.get("cases", 0) > 0])
+    if countries_with_cases > current.get("countries", 0):
+        current["countries"] = countries_with_cases
+        changed = True
+
+    if changes_log:
+        print(f"  CAMBIOS: {' | '.join(changes_log)}")
+    else:
+        print(f"  Sin cambios (casos: {current['cases']}, muertes: {current['deaths']}, recuperados: {current.get('recovered', 0)})")
+
+    # Auto-extender timeline
+    if changed:
         today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-        print(f"  CASOS ACTUALIZADOS [{source_used}]: {current_cases} → {best_n} | muertes: {current_deaths} → {best_deaths}")
-
-        data["current"]["cases"]  = best_n
-        data["current"]["deaths"] = best_deaths
-
-        # Auto-extender timeline
         timeline = data.setdefault("timeline", [])
         last = timeline[-1] if timeline else None
 
+        snapshot = {
+            c["code"]: {"cases": c["cases"], "deaths": c["deaths"]}
+            for c in countries_arr if c.get("cases", 0) > 0
+        }
+        event_text = (
+            f"Actualización: {current['cases']} casos · "
+            f"{current['deaths']} fallecidos · "
+            f"{current.get('recovered', 0)} recuperados"
+        )
+
         if last and last["date"] == today:
-            last["cases"]  = best_n
-            last["deaths"] = best_deaths
-            last["event"]  = f"Actualización automática: {best_n} casos, {best_deaths} fallecidos"
+            last["cases"]     = current["cases"]
+            last["deaths"]    = current["deaths"]
+            last["recovered"] = current.get("recovered", 0)
+            last["snapshot"]  = snapshot
+            last["event"]     = event_text
         else:
-            snap = dict(last["snapshot"]) if last and last.get("snapshot") else {}
             timeline.append({
                 "date":      today,
-                "cases":     best_n,
-                "deaths":    best_deaths,
-                "recovered": data["current"].get("recovered", 0),
-                "event":     f"Actualización automática: {best_n} casos, {best_deaths} fallecidos",
-                "snapshot":  snap,
+                "cases":     current["cases"],
+                "deaths":    current["deaths"],
+                "recovered": current.get("recovered", 0),
+                "event":     event_text,
+                "snapshot":  snapshot,
             })
 
-        # Recalcular países afectados
-        countries = data.get("countries", [])
-        data["current"]["countries"] = max(
-            data["current"]["countries"],
-            len([c for c in countries if c.get("cases", 0) > 0])
-        )
-        return True
-
-    print(f"  Sin nuevos casos confirmados (actual: {current_cases})")
-    return False
+    return changed
 
 
 def main():
@@ -224,11 +344,10 @@ def main():
 
     news, raw_entries = fetch_all_entries()
 
-    if try_update_cases(data, raw_entries):
-        print("  ✓ Casos y timeline actualizados")
+    if try_update_metrics(data, raw_entries):
+        print("  ✓ Métricas y timeline actualizados")
 
     if news:
-        # Solo sobrescribir si tenemos noticias nuevas (fuentes responden)
         data["news"] = news
         print(f"  ✓ Noticias guardadas: {len(news)}")
     else:

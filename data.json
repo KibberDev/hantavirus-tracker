@@ -6,8 +6,8 @@
     "updated": "2026-05-07 18:57 UTC"
   },
   "current": {
-    "cases": 34,
-    "deaths": 11,
+    "cases": 8,
+    "deaths": 3,
     "recovered": 0,
     "countries": 5
   },
@@ -156,35 +156,6 @@
       "deaths": 3,
       "recovered": 0,
       "event": "Primer caso en Europa ajeno al crucero. Barco rumbo a Canarias",
-      "snapshot": {
-        "NL": {
-          "cases": 2,
-          "deaths": 2
-        },
-        "DE": {
-          "cases": 1,
-          "deaths": 1
-        },
-        "ZA": {
-          "cases": 2,
-          "deaths": 0
-        },
-        "AR": {
-          "cases": 2,
-          "deaths": 0
-        },
-        "ES": {
-          "cases": 1,
-          "deaths": 0
-        }
-      }
-    },
-    {
-      "date": "2026-05-07",
-      "cases": 34,
-      "deaths": 11,
-      "recovered": 0,
-      "event": "Actualización automática: 34 casos, 11 fallecidos",
       "snapshot": {
         "NL": {
           "cases": 2,
