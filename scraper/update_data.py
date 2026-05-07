@@ -21,15 +21,20 @@ ROOT      = Path(__file__).resolve().parent.parent
 DATA_FILE = ROOT / "data.json"
 
 RSS_SOURCES = [
-    ("Google News ES", "https://news.google.com/rss/search?q=hantavirus&hl=es&gl=ES&ceid=ES:es"),
-    ("Google News EN", "https://news.google.com/rss/search?q=hantavirus&hl=en&gl=US&ceid=US:en"),
+    # Fuentes con marca: van primero para ganar el dedup y mostrar el medio real
+    ("WHO DON",        "https://www.who.int/feeds/entity/don/en/rss.xml"),
+    ("ProMED",         "https://promedmail.org/feed/"),
+    ("BBC Health",     "https://feeds.bbci.co.uk/news/health/rss.xml"),
+    ("NPR Health",     "https://feeds.npr.org/1128/rss.xml"),
     ("Antena 3",       "https://news.google.com/rss/search?q=hantavirus+site:antena3.com&hl=es&gl=ES&ceid=ES:es"),
     ("RTVE",           "https://news.google.com/rss/search?q=hantavirus+site:rtve.es&hl=es&gl=ES&ceid=ES:es"),
     ("El País",        "https://news.google.com/rss/search?q=hantavirus+site:elpais.com&hl=es&gl=ES&ceid=ES:es"),
-    ("WHO DON",        "https://www.who.int/feeds/entity/don/en/rss.xml"),
-    ("BBC Health",     "https://feeds.bbci.co.uk/news/health/rss.xml"),
-    ("NPR Health",     "https://feeds.npr.org/1128/rss.xml"),
-    ("ProMED",         "https://promedmail.org/feed/"),
+    ("El Mundo",       "https://news.google.com/rss/search?q=hantavirus+site:elmundo.es&hl=es&gl=ES&ceid=ES:es"),
+    ("La Vanguardia",  "https://news.google.com/rss/search?q=hantavirus+site:lavanguardia.com&hl=es&gl=ES&ceid=ES:es"),
+    ("ABC",            "https://news.google.com/rss/search?q=hantavirus+site:abc.es&hl=es&gl=ES&ceid=ES:es"),
+    # Catch-all genéricos al final
+    ("Google News ES", "https://news.google.com/rss/search?q=hantavirus&hl=es&gl=ES&ceid=ES:es"),
+    ("Google News EN", "https://news.google.com/rss/search?q=hantavirus&hl=en&gl=US&ceid=US:en"),
 ]
 
 KEYWORDS = ["hanta", "mv hondius", "cepa andes", "andes strain"]
@@ -352,11 +357,19 @@ def fetch_all_entries() -> tuple[list[dict], list[dict]]:
                 except Exception:
                     pub = (entry.get("published", "") or "")[:10]
 
+                # Para feeds de Google News (filtros site:), el title del feed es
+                # genérico ("hantavirus - Google News") y no diferencia fuentes,
+                # así que usamos el nombre local definido en RSS_SOURCES.
+                if "news.google.com" in url:
+                    source_label = name
+                else:
+                    source_label = clean(feed.feed.get("title", "")) or name
+
                 news_items.append({
                     "title":  title,
                     "url":    link,
                     "date":   pub or datetime.now(timezone.utc).strftime("%Y-%m-%d"),
-                    "source": clean(feed.feed.get("title", name)) or name,
+                    "source": source_label,
                     "desc":   summary[:240],
                 })
                 added += 1
