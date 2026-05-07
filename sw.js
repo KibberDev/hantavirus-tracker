@@ -1,4 +1,4 @@
-const CACHE = 'hanta-v2';
+const CACHE = 'hanta-v3';
 const STATIC = ['./', './index.html', './data.json', './icon.svg', './manifest.json'];
 
 self.addEventListener('install', e => {
@@ -16,20 +16,38 @@ self.addEventListener('activate', e => {
 });
 
 self.addEventListener('fetch', e => {
-  // data.json: network first (always fresh), fallback to cache
-  if (e.request.url.includes('data.json')) {
+  const url = new URL(e.request.url);
+  const isHTML = e.request.mode === 'navigate' ||
+                 e.request.destination === 'document' ||
+                 url.pathname.endsWith('/') ||
+                 url.pathname.endsWith('.html');
+  const isData = url.pathname.endsWith('data.json');
+
+  // HTML y data.json: NETWORK FIRST (siempre fresco; cache solo offline)
+  if (isHTML || isData) {
     e.respondWith(
-      fetch(e.request).then(r => {
-        const clone = r.clone();
-        caches.open(CACHE).then(c => c.put(e.request, clone));
-        return r;
-      }).catch(() => caches.match(e.request))
+      fetch(e.request)
+        .then(r => {
+          if (r.ok) {
+            const clone = r.clone();
+            caches.open(CACHE).then(c => c.put(e.request, clone));
+          }
+          return r;
+        })
+        .catch(() => caches.match(e.request).then(c => c || caches.match('./index.html')))
     );
     return;
   }
-  // Everything else: cache first
+
+  // Resto (assets estáticos): CACHE FIRST
   e.respondWith(
-    caches.match(e.request).then(r => r || fetch(e.request))
+    caches.match(e.request).then(r => r || fetch(e.request).then(resp => {
+      if (resp.ok) {
+        const clone = resp.clone();
+        caches.open(CACHE).then(c => c.put(e.request, clone));
+      }
+      return resp;
+    }))
   );
 });
 

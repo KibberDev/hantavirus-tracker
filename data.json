@@ -6,7 +6,7 @@
     "updated": "2026-05-07 21:32 UTC"
   },
   "current": {
-    "cases": 47,
+    "cases": 8,
     "deaths": 3,
     "recovered": 0,
     "countries": 5
@@ -178,35 +178,6 @@
           "deaths": 0
         }
       }
-    },
-    {
-      "date": "2026-05-07",
-      "cases": 47,
-      "deaths": 3,
-      "recovered": 0,
-      "event": "Actualización: 47 casos · 3 fallecidos · 0 recuperados",
-      "snapshot": {
-        "AR": {
-          "cases": 41,
-          "deaths": 0
-        },
-        "NL": {
-          "cases": 2,
-          "deaths": 2
-        },
-        "DE": {
-          "cases": 1,
-          "deaths": 1
-        },
-        "ZA": {
-          "cases": 2,
-          "deaths": 0
-        },
-        "ES": {
-          "cases": 1,
-          "deaths": 0
-        }
-      }
     }
   ],
   "news": [
@@ -342,7 +313,7 @@
       "code": "AR",
       "name": "Argentina",
       "iso_num": "032",
-      "cases": 41,
+      "cases": 2,
       "deaths": 0,
       "status": "Lugar de exposición probable",
       "first_case": "2026-04-01",

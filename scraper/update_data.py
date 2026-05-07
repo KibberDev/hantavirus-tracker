@@ -43,10 +43,12 @@ KEYWORDS = ["hanta", "mv hondius", "cepa andes", "andes strain"]
 # Sin al menos uno de estos, NO extraemos números — evita falsos positivos
 # de artículos sobre brotes históricos (Patagonia 2018, etc.)
 CURRENT_OUTBREAK_MARKERS = [
+    # Marcadores específicos del brote MV Hondius — sin uno de estos
+    # NO se extraen cifras (evita confundir con casos endémicos en Argentina,
+    # Chile, etc., que no tienen relación con este brote concreto)
     "mv hondius", "hondius",
     "crucero", "cruise ship", "cruise",
     "brote actual", "current outbreak", "este brote",
-    "2026",
     "transatlantic", "transatlántico",
     "canarias", "tenerife", "gran canaria", "las palmas",
     "cabo verde",
@@ -338,7 +340,14 @@ def fetch_all_entries() -> tuple[list[dict], list[dict]]:
                 summary = clean(entry.get("summary", ""))
                 link    = entry.get("link", "")
 
-                raw_entries.append({"title": title, "summary": summary, "source": name})
+                # Calcular fecha de publicación cuanto antes para incluirla en raw_entries
+                try:
+                    pub_struct = entry.get("published_parsed") or entry.get("updated_parsed")
+                    pub = time.strftime("%Y-%m-%d", pub_struct) if pub_struct else (entry.get("published", "") or "")[:10]
+                except Exception:
+                    pub = (entry.get("published", "") or "")[:10]
+
+                raw_entries.append({"title": title, "summary": summary, "source": name, "date": pub})
 
                 if not link or link in seen_urls:
                     continue
@@ -350,12 +359,6 @@ def fetch_all_entries() -> tuple[list[dict], list[dict]]:
                     continue
                 seen_urls.add(link)
                 seen_titles.add(title_key)
-
-                try:
-                    pub_struct = entry.get("published_parsed") or entry.get("updated_parsed")
-                    pub = time.strftime("%Y-%m-%d", pub_struct) if pub_struct else (entry.get("published", "") or "")[:10]
-                except Exception:
-                    pub = (entry.get("published", "") or "")[:10]
 
                 # Para feeds de Google News (filtros site:), el title del feed es
                 # genérico ("hantavirus - Google News") y no diferencia fuentes,
@@ -390,7 +393,17 @@ def try_update_metrics(data: dict, raw_entries: list[dict]) -> bool:
     best_recovered = current.get("recovered", 0)
     per_country: dict[str, dict] = {}
 
+    # El brote empezó el día 0 (data.metadata.day0). Solo procesamos artículos
+    # cuya fecha de publicación sea >= ese día. Esto descarta automáticamente
+    # noticias antiguas sobre hantavirus endémico en Argentina/Chile.
+    day0_str = data.get("metadata", {}).get("day0", "2026-04-01")
+
     for entry in raw_entries:
+        # Filtro por fecha: descartar artículos publicados antes del día 0
+        entry_date = entry.get("date", "")
+        if entry_date and len(entry_date) >= 10 and entry_date[:10] < day0_str:
+            continue
+
         text = (entry["title"] + " " + entry["summary"]).lower()
         if not any(kw in text for kw in KEYWORDS):
             continue
