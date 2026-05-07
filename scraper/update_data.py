@@ -23,6 +23,9 @@ DATA_FILE = ROOT / "data.json"
 RSS_SOURCES = [
     ("Google News ES", "https://news.google.com/rss/search?q=hantavirus&hl=es&gl=ES&ceid=ES:es"),
     ("Google News EN", "https://news.google.com/rss/search?q=hantavirus&hl=en&gl=US&ceid=US:en"),
+    ("Antena 3",       "https://news.google.com/rss/search?q=hantavirus+site:antena3.com&hl=es&gl=ES&ceid=ES:es"),
+    ("RTVE",           "https://news.google.com/rss/search?q=hantavirus+site:rtve.es&hl=es&gl=ES&ceid=ES:es"),
+    ("El País",        "https://news.google.com/rss/search?q=hantavirus+site:elpais.com&hl=es&gl=ES&ceid=ES:es"),
     ("WHO DON",        "https://www.who.int/feeds/entity/don/en/rss.xml"),
     ("BBC Health",     "https://feeds.bbci.co.uk/news/health/rss.xml"),
     ("NPR Health",     "https://feeds.npr.org/1128/rss.xml"),
