@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "virus": "Hantavirus — Cepa Andes",
+    "day0": "2026-04-01",
+    "source": "OMS, medios internacionales",
+    "updated": "2026-05-06"
+  },
+  "current": {
+    "cases": 8,
+    "deaths": 3,
+    "recovered": 0,
+    "countries": 5
+  },
+  "timeline": [
+    {
+      "date": "2026-04-01",
+      "cases": 0, "deaths": 0, "recovered": 0,
+      "event": "Día 0: exposición probable de la pareja holandesa en Argentina",
+      "snapshot": {}
+    },
+    {
+      "date": "2026-04-15",
+      "cases": 2, "deaths": 0, "recovered": 0,
+      "event": "Primeros síntomas detectados a bordo del MV Hondius",
+      "snapshot": {
+        "NL": { "cases": 2, "deaths": 0 }
+      }
+    },
+    {
+      "date": "2026-04-25",
+      "cases": 3, "deaths": 1, "recovered": 0,
+      "event": "Primera muerte confirmada en el crucero — pasajero holandés",
+      "snapshot": {
+        "NL": { "cases": 2, "deaths": 1 },
+        "DE": { "cases": 1, "deaths": 0 }
+      }
+    },
+    {
+      "date": "2026-04-28",
+      "cases": 5, "deaths": 2, "recovered": 0,
+      "event": "Más casos detectados, barco puesto en alerta sanitaria",
+      "snapshot": {
+        "NL": { "cases": 2, "deaths": 2 },
+        "DE": { "cases": 1, "deaths": 0 },
+        "ZA": { "cases": 2, "deaths": 0 }
+      }
+    },
+    {
+      "date": "2026-05-01",
+      "cases": 6, "deaths": 2, "recovered": 0,
+      "event": "OMS notificada, activación de protocolos internacionales",
+      "snapshot": {
+        "NL": { "cases": 2, "deaths": 2 },
+        "DE": { "cases": 1, "deaths": 0 },
+        "ZA": { "cases": 2, "deaths": 0 },
+        "AR": { "cases": 1, "deaths": 0 }
+      }
+    },
+    {
+      "date": "2026-05-04",
+      "cases": 7, "deaths": 3, "recovered": 0,
+      "event": "Alerta internacional: 3 muertos, crucero retenido frente a Cabo Verde",
+      "snapshot": {
+        "NL": { "cases": 2, "deaths": 2 },
+        "DE": { "cases": 1, "deaths": 1 },
+        "ZA": { "cases": 2, "deaths": 0 },
+        "AR": { "cases": 2, "deaths": 0 }
+      }
+    },
+    {
+      "date": "2026-05-05",
+      "cases": 8, "deaths": 3, "recovered": 0,
+      "event": "OMS confirma cepa Andes con posible transmisión persona a persona",
+      "snapshot": {
+        "NL": { "cases": 2, "deaths": 2 },
+        "DE": { "cases": 1, "deaths": 1 },
+        "ZA": { "cases": 2, "deaths": 0 },
+        "AR": { "cases": 2, "deaths": 0 },
+        "ES": { "cases": 1, "deaths": 0 }
+      }
+    },
+    {
+      "date": "2026-05-06",
+      "cases": 8, "deaths": 3, "recovered": 0,
+      "event": "Primer caso en Europa ajeno al crucero. Barco rumbo a Canarias",
+      "snapshot": {
+        "NL": { "cases": 2, "deaths": 2 },
+        "DE": { "cases": 1, "deaths": 1 },
+        "ZA": { "cases": 2, "deaths": 0 },
+        "AR": { "cases": 2, "deaths": 0 },
+        "ES": { "cases": 1, "deaths": 0 }
+      }
+    }
+  ],
+  "news": [
+    { "title": "La OMS confirma cepa Andes con posible transmisión persona a persona", "url": "https://cnnespanol.cnn.com/2026/05/05/mundo/crucero-hantavirus-oms-sospecha-transmision-personas-trax", "date": "2026-05-05", "source": "CNN Español", "desc": "La OMS trabaja bajo la hipótesis de que la pareja holandesa contrajo la infección en Argentina antes de abordar el crucero MV Hondius." },
+    { "title": "El crucero MV Hondius con casos de hantavirus se dirige a Tenerife", "url": "https://www.infobae.com/espana/2026/05/06/hantavirus-ultima-hora-del-crucero-mv-hondius-en-directo-espana-y-la-oms-coordinan-la-escala-del-barco-en-canarias/", "date": "2026-05-06", "source": "Infobae", "desc": "España y la OMS coordinan la escala del barco en Canarias. Margarita Robles confirma cuarentena voluntaria para los pasajeros." },
+    { "title": "Primer caso de hantavirus en Europa no relacionado con el crucero", "url": "https://www.eltiempo.com/mundo/europa/detectan-el-primer-caso-de-contagio-de-hantavirus-en-europa-el-afectado-no-se-encontraba-en-el-crucero-mv-hondius-3553544", "date": "2026-05-06", "source": "El Tiempo", "desc": "El caso detectado sugiere una posible cadena de transmisión independiente fuera del MV Hondius, complicando el rastreo del brote." },
+    { "title": "¿Puede el brote de hantavirus convertirse en pandemia?", "url": "https://expansion.mx/mundo/2026/05/06/brote-de-hantavirus-crucero-puede-convertirse-pandemia-oms", "date": "2026-05-06", "source": "Expansión MX", "desc": "La OMS descarta un escenario similar al COVID-19, pero monitoriza de cerca la transmisión de la cepa Andes entre personas." },
+    { "title": "La alerta por hantavirus moviliza a autoridades en Sudáfrica y Santa Elena", "url": "https://www.infobae.com/america/mundo/2026/05/05/la-alerta-por-hantavirus-moviliza-a-autoridades-en-sudafrica-y-santa-elena/", "date": "2026-05-05", "source": "Infobae", "desc": "Autoridades sanitarias sudafricanas activan protocolos tras detectar casos en pasajeros de un vuelo proveniente de Santa Elena." },
+    { "title": "Hantavirus: qué tan contagiosa es la enfermedad y cuál es el riesgo real", "url": "https://www.infobae.com/mexico/2026/05/06/hantavirus-que-tan-contagiosa-es-esta-enfermedad-y-cual-es-el-riesgo-real-de-una-pandemia-ante-el-brote-en-el-crucero-mv-hondius/", "date": "2026-05-06", "source": "Infobae MX", "desc": "Expertos analizan la transmisibilidad de la cepa Andes y las diferencias con otras cepas del hantavirus conocidas." }
+  ],
+  "countries": [
+    {
+      "code": "AR",
+      "name": "Argentina",
+      "iso_num": "032",
+      "cases": 2,
+      "deaths": 0,
+      "status": "Lugar de exposición probable",
+      "first_case": "2026-04-01",
+      "notes": "La pareja holandesa contrajo el virus durante actividades en tierra en Argentina antes de embarcar en el MV Hondius. Cepa Andes, endémica en el Cono Sur."
+    },
+    {
+      "code": "NL",
+      "name": "Países Bajos",
+      "iso_num": "528",
+      "cases": 2,
+      "deaths": 2,
+      "status": "Casos confirmados — fallecidos",
+      "first_case": "2026-04-15",
+      "notes": "Pareja de ciudadanos neerlandeses, primeras víctimas del brote. Ambos fallecidos. Viajaban a bordo del crucero MV Hondius."
+    },
+    {
+      "code": "DE",
+      "name": "Alemania",
+      "iso_num": "276",
+      "cases": 1,
+      "deaths": 1,
+      "status": "Caso confirmado — fallecido",
+      "first_case": "2026-04-25",
+      "notes": "Pasajero alemán fallecido a bordo del MV Hondius. Tercer deceso del brote."
+    },
+    {
+      "code": "ZA",
+      "name": "Sudáfrica",
+      "iso_num": "710",
+      "cases": 2,
+      "deaths": 0,
+      "status": "Casos sospechosos — bajo seguimiento",
+      "first_case": "2026-04-28",
+      "notes": "Casos detectados en pasajeros de un vuelo entre Santa Elena y Johannesburgo. Las autoridades sanitarias sudafricanas movilizaron protocolos de aislamiento."
+    },
+    {
+      "code": "ES",
+      "name": "España",
+      "iso_num": "724",
+      "cases": 1,
+      "deaths": 0,
+      "status": "Caso sospechoso — primer caso europeo no ligado al crucero",
+      "first_case": "2026-05-05",
+      "notes": "Primer caso detectado en Europa no relacionado con el MV Hondius. España coordina con la OMS la escala del barco en Canarias. Cuarentena voluntaria para pasajeros."
+    }
+  ]
+}

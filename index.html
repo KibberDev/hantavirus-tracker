@@ -1,0 +1,2054 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HantaTracker — Seguimiento Global del Brote</title>
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#ff6b35">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="HantaTracker">
+  <link rel="apple-touch-icon" href="icon.svg">
+  <meta property="og:title" content="HantaTracker — Seguimiento Global del Brote de Hantavirus">
+  <meta property="og:description" content="Mapa en tiempo real, timeline y calculadora de riesgo del brote de hantavirus 2026.">
+  <meta property="og:type" content="website">
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/topojson@3.0.2/dist/topojson.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+  <style>
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      background: #080c18;
+      color: #dde6f5;
+      font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    /* ── HEADER ── */
+    #header {
+      background: #0b1020;
+      border-bottom: 1px solid #1a2540;
+      padding: 10px 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-shrink: 0;
+      gap: 12px;
+    }
+    #header h1 {
+      font-size: 17px;
+      font-weight: 700;
+      letter-spacing: 2px;
+      color: #ff6b35;
+    }
+    #header h1 span { color: #dde6f5; font-weight: 300; }
+    #header-right { display: flex; align-items: center; gap: 16px; }
+    #live-badge {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 11px;
+      color: #8899bb;
+      letter-spacing: 0.5px;
+    }
+    .live-dot {
+      width: 7px; height: 7px;
+      background: #4ade80;
+      border-radius: 50%;
+      flex-shrink: 0;
+      animation: pulse 2s ease-in-out infinite;
+    }
+    @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.25} }
+    #virus-badge {
+      font-size: 11px;
+      color: #ff8c42;
+      border: 1px solid #ff6b3540;
+      border-radius: 4px;
+      padding: 2px 8px;
+      letter-spacing: 0.5px;
+    }
+
+    /* ── FORECAST STAT ── */
+    .c-forecast { color: #a78bfa; }
+    .chart-forecast-band { fill: #a78bfa; opacity: 0.12; }
+    .chart-forecast-line { fill: none; stroke: #a78bfa; stroke-width: 1.5; stroke-dasharray: 6 4; }
+    .chart-forecast-dot  { fill: #a78bfa; opacity: 0.7; }
+    #chart-today-line    { stroke: #2a3a5e; stroke-width: 1; stroke-dasharray: 3 3; }
+    .chart-forecast-label { font-size: 9px; fill: #a78bfa; }
+
+    /* ── FAQ ── */
+    .faq-item { border-bottom: 1px solid #1a2540; }
+    .faq-item:last-child { border-bottom: none; }
+    .faq-q {
+      padding: 13px 4px; font-size: 13px; font-weight: 600; color: #ccd6f0;
+      cursor: pointer; display: flex; justify-content: space-between; align-items: center;
+      user-select: none; gap: 12px;
+    }
+    .faq-q:hover { color: #fff; }
+    .faq-arrow { color: #667799; font-size: 18px; transition: transform 0.2s; flex-shrink: 0; }
+    .faq-item.open .faq-arrow { transform: rotate(90deg); }
+    .faq-a {
+      font-size: 12px; color: #8899bb; line-height: 1.7;
+      max-height: 0; overflow: hidden; transition: max-height 0.3s ease, padding 0.2s;
+      padding: 0 4px;
+    }
+    .faq-item.open .faq-a { max-height: 300px; padding: 0 4px 14px; }
+
+    /* ── NOTICIAS ── */
+    .news-item {
+      padding: 12px 0; border-bottom: 1px solid #1a2540; display: flex; gap: 12px;
+    }
+    .news-item:last-child { border-bottom: none; }
+    .news-date { font-size: 10px; color: #3a4a66; white-space: nowrap; padding-top: 2px; }
+    .news-content { flex: 1; }
+    .news-title { font-size: 13px; font-weight: 600; color: #ccd6f0; line-height: 1.4; margin-bottom: 4px; }
+    .news-title a { color: inherit; text-decoration: none; }
+    .news-title a:hover { color: #ff8c42; }
+    .news-desc { font-size: 11px; color: #667799; line-height: 1.5; }
+    .news-source { font-size: 10px; color: #4cc9f0; margin-top: 4px; }
+
+    /* ── PUSH BUTTON ACTIVE ── */
+    #btn-push.push-on { border-color: #4ade80 !important; color: #4ade80 !important; }
+
+    /* ── FLASH ON UPDATE ── */
+    @keyframes flash-update {
+      0%   { background: #4ade8022; }
+      100% { background: transparent; }
+    }
+    .stat-flash { animation: flash-update 2s ease-out; }
+
+    /* ── MODALS ── */
+    .modal-overlay {
+      position: fixed; inset: 0;
+      background: rgba(8, 12, 24, 0.88);
+      z-index: 900;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      backdrop-filter: blur(4px);
+    }
+    .modal-overlay.open { display: flex; }
+    .modal-box {
+      background: #0d1428;
+      border: 1px solid #1a2540;
+      border-radius: 10px;
+      padding: 24px;
+      width: 90%;
+      max-width: 500px;
+      max-height: 88vh;
+      overflow-y: auto;
+      position: relative;
+    }
+    .modal-box::-webkit-scrollbar { width: 4px; }
+    .modal-box::-webkit-scrollbar-thumb { background: #1a2540; border-radius: 2px; }
+    .modal-hdr {
+      display: flex; justify-content: space-between; align-items: center;
+      margin-bottom: 18px;
+    }
+    .modal-hdr h2 { font-size: 16px; font-weight: 700; color: #ff8c42; }
+    .modal-hdr p  { font-size: 11px; color: #667799; margin-top: 3px; }
+    .modal-close {
+      background: none; border: none; cursor: pointer;
+      color: #667799; font-size: 20px; line-height: 1; flex-shrink: 0;
+    }
+    .modal-close:hover { color: #dde6f5; }
+
+    /* Calculator */
+    .q-block { margin-bottom: 18px; }
+    .q-block p { font-size: 13px; color: #ccd6f0; margin-bottom: 8px; font-weight: 500; }
+    .q-opts  { display: flex; gap: 8px; flex-wrap: wrap; }
+    .q-opt   {
+      padding: 5px 14px; border-radius: 20px; font-size: 12px; cursor: pointer;
+      border: 1px solid #1a2540; background: #111d38; color: #8899bb;
+      transition: all 0.15s; user-select: none;
+    }
+    .q-opt input { display: none; }
+    .q-opt.selected { border-color: #ff6b35; background: #ff6b3520; color: #ff8c42; }
+    .q-opt.selected-yes { border-color: #e63946; background: #e6394620; color: #e63946; }
+    #calc-btn {
+      width: 100%; padding: 10px; margin-top: 8px;
+      background: #ff6b35; border: none; border-radius: 6px;
+      color: #fff; font-size: 14px; font-weight: 700; cursor: pointer;
+    }
+    #calc-btn:hover { background: #e55d2b; }
+    #calc-result {
+      margin-top: 18px; padding: 16px; border-radius: 8px;
+      border: 1px solid; display: none;
+    }
+    #calc-result.low    { border-color: #4ade8060; background: #4ade8010; }
+    #calc-result.medium { border-color: #facc1560; background: #facc1510; }
+    #calc-result.high   { border-color: #f9731660; background: #f9731610; }
+    #calc-result.urgent { border-color: #e6394660; background: #e6394610; }
+    .result-emoji { font-size: 32px; margin-bottom: 8px; }
+    .result-title { font-size: 16px; font-weight: 700; margin-bottom: 6px; }
+    .result-desc  { font-size: 12px; color: #aab8cc; line-height: 1.6; }
+    .result-steps { margin-top: 10px; font-size: 12px; }
+    .result-steps li { margin: 4px 0 4px 16px; color: #ccd6f0; }
+
+    /* Alerts */
+    .form-field { margin-bottom: 14px; }
+    .form-field label { display: block; font-size: 11px; color: #667799; text-transform: uppercase; letter-spacing: 0.8px; margin-bottom: 5px; }
+    .form-field input, .form-field select {
+      width: 100%; padding: 8px 10px;
+      background: #111d38; border: 1px solid #1a2540; border-radius: 5px;
+      color: #dde6f5; font-size: 13px; outline: none;
+    }
+    .form-field input:focus, .form-field select:focus { border-color: #2a3a5e; }
+    .check-group { display: flex; flex-direction: column; gap: 6px; margin-top: 4px; }
+    .check-item  { display: flex; align-items: center; gap: 8px; font-size: 12px; color: #aab8cc; cursor: pointer; }
+    .check-item input[type=checkbox] { accent-color: #ff6b35; width: 14px; height: 14px; }
+    #alert-btn {
+      width: 100%; padding: 10px; background: #4ade80; border: none;
+      border-radius: 6px; color: #030f03; font-size: 14px; font-weight: 700; cursor: pointer;
+    }
+    #alert-btn:hover { background: #22c55e; }
+    #alert-success { display: none; margin-top: 16px; text-align: center; }
+    #alert-success .s-icon { font-size: 36px; }
+    #alert-success p { font-size: 13px; color: #8899bb; margin-top: 8px; line-height: 1.5; }
+
+    /* Flights */
+    .flights-note {
+      font-size: 11px; color: #667799; margin-bottom: 14px; line-height: 1.5;
+      padding: 8px 10px; background: #111d38; border-radius: 5px; border-left: 3px solid #4cc9f0;
+    }
+    .flights-table { width: 100%; border-collapse: collapse; font-size: 12px; }
+    .flights-table th {
+      text-align: left; padding: 6px 8px; font-size: 10px; font-weight: 600;
+      color: #667799; text-transform: uppercase; letter-spacing: 0.8px;
+      border-bottom: 1px solid #1a2540;
+    }
+    .flights-table td { padding: 8px 8px; border-bottom: 1px solid #111d38; color: #aab8cc; vertical-align: middle; }
+    .flights-table tr:hover td { background: #111d38; }
+    .flt-flag { width: 20px; height: 14px; object-fit: cover; border-radius: 2px; vertical-align: middle; }
+    .flt-code { font-weight: 700; color: #4cc9f0; font-family: monospace; }
+    .flt-link {
+      padding: 3px 8px; border-radius: 3px; background: #1a2540; color: #8899bb;
+      text-decoration: none; font-size: 10px; font-weight: 600;
+    }
+    .flt-link:hover { background: #2a3a5e; color: #dde6f5; }
+    .flt-risk { font-size: 10px; padding: 2px 6px; border-radius: 10px; font-weight: 600; }
+    .flt-risk.high   { background: #e6394620; color: #e63946; }
+    .flt-risk.medium { background: #ff8c4220; color: #ff8c42; }
+    .flt-risk-hdr    { font-size: 10px; color: #667799; margin: 16px 0 8px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.8px; }
+
+    /* Action buttons in header */
+    .action-btn {
+      display: flex; align-items: center; gap: 5px;
+      padding: 4px 10px; border-radius: 4px; font-size: 11px; font-weight: 600;
+      cursor: pointer; border: 1px solid #1a2540; background: #111d38;
+      color: #8899bb; transition: all 0.15s;
+    }
+    .action-btn:hover { border-color: #2a3a5e; color: #dde6f5; }
+
+    /* ── STATS BAR ── */
+    #stats {
+      background: #0b1020;
+      border-bottom: 1px solid #1a2540;
+      padding: 8px 20px;
+      display: flex;
+      gap: 0;
+      flex-shrink: 0;
+    }
+    .stat-item {
+      padding: 0 24px 0 0;
+      border-right: 1px solid #1a2540;
+      margin-right: 24px;
+    }
+    .stat-item:last-child { border-right: none; margin-right: 0; }
+    .stat-label {
+      font-size: 10px;
+      color: #667799;
+      text-transform: uppercase;
+      letter-spacing: 1.2px;
+    }
+    .stat-value {
+      font-size: 26px;
+      font-weight: 800;
+      font-variant-numeric: tabular-nums;
+      line-height: 1.1;
+      margin-top: 1px;
+    }
+    .c-cases     { color: #ff8c42; }
+    .c-deaths    { color: #e63946; }
+    .c-ctries    { color: #4cc9f0; }
+    .c-recovered { color: #4ade80; }
+    .c-cfr       { color: #f4a261; }
+
+    /* ── MAIN LAYOUT ── */
+    #main {
+      flex: 1;
+      display: flex;
+      overflow: hidden;
+      position: relative;
+    }
+
+    /* ── MAP ── */
+    #map-wrap {
+      flex: 1;
+      position: relative;
+      overflow: hidden;
+    }
+    #map-svg { width: 100%; height: 100%; display: block; }
+
+    /* ── TOOLTIP ── */
+    #tooltip {
+      position: absolute;
+      background: rgba(11, 16, 32, 0.97);
+      border: 1px solid #2a3a5e;
+      border-radius: 6px;
+      padding: 10px 14px;
+      pointer-events: none;
+      display: none;
+      z-index: 200;
+      min-width: 160px;
+    }
+    #tt-name   { font-weight: 700; font-size: 14px; margin-bottom: 6px; }
+    #tt-cases  { font-size: 12px; color: #ff8c42; }
+    #tt-deaths { font-size: 12px; color: #e63946; }
+    #tt-status { font-size: 11px; color: #8899bb; margin-top: 4px; }
+
+    /* ── SIDE PANEL ── */
+    #panel {
+      width: 0;
+      background: #0b1020;
+      border-left: 1px solid #1a2540;
+      overflow: hidden;
+      flex-shrink: 0;
+      transition: width 0.25s ease;
+    }
+    #panel.open { width: 290px; }
+    #panel-inner { padding: 18px; width: 290px; }
+    #panel-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      margin-bottom: 14px;
+      gap: 10px;
+    }
+    #panel-flag-wrap { flex-shrink: 0; }
+    #panel-flag {
+      width: 44px;
+      height: 30px;
+      object-fit: cover;
+      border-radius: 3px;
+      border: 1px solid #2a3a5e;
+      display: block;
+    }
+    #panel-title-wrap { flex: 1; min-width: 0; }
+    #panel-country { font-size: 17px; font-weight: 700; color: #ff8c42; line-height: 1.2; }
+    #panel-first   { font-size: 11px; color: #667799; margin-top: 3px; }
+    #btn-close {
+      background: none; border: none; cursor: pointer;
+      color: #667799; font-size: 18px; line-height: 1; padding: 2px;
+      flex-shrink: 0;
+    }
+    #btn-close:hover { color: #dde6f5; }
+    .p-stat { margin-bottom: 14px; }
+    .p-stat-label { font-size: 10px; color: #667799; text-transform: uppercase; letter-spacing: 1px; }
+    .p-stat-value { font-size: 28px; font-weight: 800; font-variant-numeric: tabular-nums; line-height: 1.1; }
+    #panel-status {
+      margin-bottom: 12px;
+      font-size: 12px;
+      color: #ff8c42;
+      border: 1px solid #ff6b3530;
+      border-radius: 4px;
+      padding: 4px 8px;
+      display: inline-block;
+    }
+    #panel-status.no-data {
+      color: #667799;
+      border-color: #1a2540;
+    }
+    #panel-notes { font-size: 12px; color: #8899bb; line-height: 1.6; }
+    #panel-divider { border: none; border-top: 1px solid #1a2540; margin: 14px 0; }
+
+    /* ── RANKING SIDEBAR ── */
+    #ranking {
+      width: 220px;
+      background: #0b1020;
+      border-left: 1px solid #1a2540;
+      flex-shrink: 0;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    #ranking-header {
+      padding: 12px 14px 8px;
+      flex-shrink: 0;
+    }
+    #ranking-title {
+      font-size: 10px;
+      color: #667799;
+      text-transform: uppercase;
+      letter-spacing: 1.2px;
+      margin-bottom: 8px;
+    }
+    #ranking-tabs {
+      display: flex;
+      gap: 4px;
+    }
+    .rank-tab {
+      flex: 1;
+      padding: 4px 0;
+      font-size: 11px;
+      font-weight: 600;
+      border: 1px solid #1a2540;
+      border-radius: 3px;
+      background: none;
+      color: #667799;
+      cursor: pointer;
+      text-align: center;
+      transition: all 0.15s;
+    }
+    .rank-tab:hover { border-color: #2a3a5e; color: #aab8cc; }
+    .rank-tab.active { background: #1a2540; color: #dde6f5; border-color: #2a3a5e; }
+    #ranking-list {
+      flex: 1;
+      overflow-y: auto;
+      padding: 4px 0 8px;
+    }
+    #ranking-list::-webkit-scrollbar { width: 4px; }
+    #ranking-list::-webkit-scrollbar-track { background: transparent; }
+    #ranking-list::-webkit-scrollbar-thumb { background: #1a2540; border-radius: 2px; }
+    .rank-item {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 7px 14px;
+      cursor: pointer;
+      transition: background 0.12s;
+      border-left: 2px solid transparent;
+    }
+    .rank-item:hover { background: #111d38; }
+    .rank-item.active { background: #111d38; border-left-color: #ff6b35; }
+    .rank-num {
+      font-size: 11px;
+      color: #3a4a66;
+      font-weight: 700;
+      width: 14px;
+      text-align: right;
+      flex-shrink: 0;
+    }
+    .rank-flag {
+      width: 26px;
+      height: 18px;
+      object-fit: cover;
+      border-radius: 2px;
+      border: 1px solid #1a2540;
+      flex-shrink: 0;
+    }
+    .rank-info { flex: 1; min-width: 0; }
+    .rank-name {
+      font-size: 12px;
+      font-weight: 600;
+      color: #ccd6f0;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .rank-sub { font-size: 10px; color: #667799; margin-top: 1px; }
+    .rank-count {
+      font-size: 15px;
+      font-weight: 800;
+      font-variant-numeric: tabular-nums;
+      flex-shrink: 0;
+    }
+    .rank-count.cases  { color: #ff8c42; }
+    .rank-count.deaths { color: #e63946; }
+
+    /* ── LEGEND ── */
+    #legend {
+      position: absolute;
+      bottom: 70px;
+      left: 16px;
+      background: rgba(11, 16, 32, 0.92);
+      border: 1px solid #1a2540;
+      border-radius: 6px;
+      padding: 10px 14px;
+      font-size: 11px;
+      z-index: 10;
+    }
+    .leg-title { font-size: 10px; color: #667799; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 7px; }
+    .leg-row { display: flex; align-items: center; gap: 7px; margin: 4px 0; color: #aab8cc; }
+    .leg-swatch { width: 11px; height: 11px; border-radius: 2px; flex-shrink: 0; }
+
+    /* ── SHARE BUTTONS ── */
+    .share-btn {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      padding: 4px 11px;
+      border-radius: 4px;
+      font-size: 11px;
+      font-weight: 600;
+      cursor: pointer;
+      border: none;
+      text-decoration: none;
+      letter-spacing: 0.3px;
+      transition: opacity 0.15s;
+    }
+    .share-btn:hover { opacity: 0.82; }
+    .share-x   { background: #000; color: #fff; }
+    .share-wa  { background: #25d366; color: #fff; }
+
+    /* ── ZOOM HINT ── */
+    #zoom-hint {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      font-size: 10px;
+      color: #3a4a66;
+      pointer-events: none;
+    }
+
+    /* ── MINI CHART ── */
+    #chart-wrap {
+      width: 100%;
+      height: 80px;
+      margin-bottom: 6px;
+      position: relative;
+    }
+    #chart-svg { width: 100%; height: 100%; display: block; }
+    .chart-area-cases  { fill: url(#grad-cases); }
+    .chart-area-deaths { fill: url(#grad-deaths); }
+    .chart-line-cases  { fill: none; stroke: #ff8c42; stroke-width: 2; }
+    .chart-line-deaths { fill: none; stroke: #e63946; stroke-width: 1.5; stroke-dasharray: 4 3; }
+    .chart-dot {
+      fill: #0b1020;
+      stroke: #ff8c42;
+      stroke-width: 2;
+      cursor: pointer;
+      transition: r 0.1s;
+    }
+    .chart-dot:hover { r: 5; }
+    .chart-dot.active { fill: #ff8c42; r: 5; }
+    #chart-cursor {
+      stroke: #4cc9f0;
+      stroke-width: 1;
+      stroke-dasharray: 3 3;
+      opacity: 0.7;
+    }
+    .chart-legend {
+      font-size: 10px;
+    }
+
+    /* ── RANK SEARCH ── */
+    #rank-search {
+      width: 100%;
+      margin-top: 8px;
+      padding: 5px 8px;
+      background: #111d38;
+      border: 1px solid #1a2540;
+      border-radius: 4px;
+      color: #dde6f5;
+      font-size: 11px;
+      outline: none;
+    }
+    #rank-search::placeholder { color: #3a4a66; }
+    #rank-search:focus { border-color: #2a3a5e; }
+
+    /* ── TIMELINE ── */
+    #timeline {
+      background: #0b1020;
+      border-top: 1px solid #1a2540;
+      padding: 10px 20px 12px;
+      flex-shrink: 0;
+    }
+    #tl-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 8px;
+    }
+    #tl-left { display: flex; flex-direction: column; gap: 2px; }
+    #tl-date  { font-size: 13px; font-weight: 700; color: #4cc9f0; letter-spacing: 0.5px; }
+    #tl-event { font-size: 11px; color: #6677aa; max-width: 600px; }
+    #tl-controls { display: flex; align-items: center; gap: 8px; }
+    #btn-play {
+      background: #ff6b35;
+      border: none;
+      color: #fff;
+      padding: 5px 18px;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.5px;
+      transition: background 0.15s;
+    }
+    #btn-play:hover { background: #e55d2b; }
+    #btn-reset {
+      background: none;
+      border: 1px solid #2a3a5e;
+      color: #8899bb;
+      padding: 5px 12px;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 12px;
+    }
+    #btn-reset:hover { border-color: #4cc9f0; color: #4cc9f0; }
+    #slider {
+      width: 100%;
+      -webkit-appearance: none;
+      height: 3px;
+      background: #1a2540;
+      border-radius: 2px;
+      outline: none;
+      cursor: pointer;
+    }
+    #slider::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      width: 15px; height: 15px;
+      background: #ff6b35;
+      border-radius: 50%;
+      cursor: pointer;
+      box-shadow: 0 0 6px #ff6b3580;
+    }
+    #tl-labels {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 4px;
+      font-size: 10px;
+      color: #3a4a66;
+    }
+
+    /* ── COUNTRY HIGHLIGHT ── */
+    .country:hover { filter: brightness(1.3); }
+    .country.active { stroke: #fff !important; stroke-width: 1.5px !important; }
+  </style>
+</head>
+<body>
+
+<!-- HEADER -->
+<div id="header">
+  <h1>HANTA<span>TRACKER</span></h1>
+  <div id="header-right">
+    <div id="virus-badge">HANTAVIRUS · CEPA ANDES</div>
+    <button class="action-btn" onclick="openModal('modal-calc')">🧮 Mi riesgo</button>
+    <button class="action-btn" onclick="openModal('modal-alerts')">🔔 Alertas</button>
+    <button class="action-btn" onclick="openModal('modal-flights')">✈️ Vuelos</button>
+    <button class="action-btn" id="btn-faq" onclick="openModal('modal-faq')">📋 FAQ</button>
+    <button class="action-btn" id="btn-news" onclick="openNewsModal()">📰 Noticias</button>
+    <button class="action-btn" id="btn-push" onclick="togglePush()">🔔 Push</button>
+    <button class="action-btn" onclick="captureImage()">📸 Capturar</button>
+    <button class="share-btn share-x" onclick="shareX()">𝕏 Compartir</button>
+    <button class="share-btn share-wa" onclick="shareWA()">WhatsApp</button>
+    <div id="live-badge">
+      <div class="live-dot"></div>
+      <span id="updated-time">—</span> &nbsp;·&nbsp; <span id="updated-ago" style="color:#3a4a66">—</span>
+    </div>
+  </div>
+</div>
+
+<!-- ══ MODAL: CALCULADORA DE RIESGO ══ -->
+<div class="modal-overlay" id="modal-calc" onclick="bgClose(event,'modal-calc')">
+  <div class="modal-box">
+    <div class="modal-hdr">
+      <div>
+        <h2>🧮 Calculadora de Riesgo Personal</h2>
+        <p>Responde 5 preguntas · Resultado inmediato · No es diagnóstico médico</p>
+      </div>
+      <button class="modal-close" onclick="closeModal('modal-calc')">✕</button>
+    </div>
+
+    <div class="q-block">
+      <p>1. ¿Has viajado a Sudamérica (Argentina, Chile, Uruguay…) en los últimos 40 días?</p>
+      <div class="q-opts">
+        <label class="q-opt" data-q="q1" data-v="2"><input type="radio" name="q1" value="2">Sí</label>
+        <label class="q-opt selected" data-q="q1" data-v="0"><input type="radio" name="q1" value="0" checked>No</label>
+      </div>
+    </div>
+    <div class="q-block">
+      <p>2. ¿Has tenido contacto con roedores, sus excrementos u orina (campo, graneros, cabañas…)?</p>
+      <div class="q-opts">
+        <label class="q-opt" data-q="q2" data-v="2"><input type="radio" name="q2" value="2">Sí</label>
+        <label class="q-opt selected" data-q="q2" data-v="0"><input type="radio" name="q2" value="0" checked>No</label>
+      </div>
+    </div>
+    <div class="q-block">
+      <p>3. ¿Has estado en contacto cercano (&lt;2m, más de 15 min) con algún caso sospechoso o confirmado?</p>
+      <div class="q-opts">
+        <label class="q-opt" data-q="q3" data-v="3"><input type="radio" name="q3" value="3">Sí</label>
+        <label class="q-opt selected" data-q="q3" data-v="0"><input type="radio" name="q3" value="0" checked>No</label>
+      </div>
+    </div>
+    <div class="q-block">
+      <p>4. ¿Tienes actualmente fiebre, dolor muscular intenso, fatiga extrema o dificultad respiratoria?</p>
+      <div class="q-opts">
+        <label class="q-opt" data-q="q4" data-v="4"><input type="radio" name="q4" value="4">Sí, varios síntomas</label>
+        <label class="q-opt" data-q="q4" data-v="2"><input type="radio" name="q4" value="2">Sí, alguno leve</label>
+        <label class="q-opt selected" data-q="q4" data-v="0"><input type="radio" name="q4" value="0" checked>No</label>
+      </div>
+    </div>
+    <div class="q-block">
+      <p>5. ¿Perteneces a un grupo de riesgo? (inmunodeprimido, enfermedad crónica, mayores de 65…)</p>
+      <div class="q-opts">
+        <label class="q-opt" data-q="q5" data-v="1"><input type="radio" name="q5" value="1">Sí</label>
+        <label class="q-opt selected" data-q="q5" data-v="0"><input type="radio" name="q5" value="0" checked>No</label>
+      </div>
+    </div>
+
+    <button id="calc-btn" onclick="calcRisk()">Calcular mi riesgo</button>
+
+    <div id="calc-result">
+      <div class="result-emoji" id="r-emoji"></div>
+      <div class="result-title" id="r-title"></div>
+      <div class="result-desc"  id="r-desc"></div>
+      <ul class="result-steps"  id="r-steps"></ul>
+    </div>
+  </div>
+</div>
+
+<!-- ══ MODAL: ALERTAS EMAIL ══ -->
+<div class="modal-overlay" id="modal-alerts" onclick="bgClose(event,'modal-alerts')">
+  <div class="modal-box">
+    <div class="modal-hdr">
+      <div>
+        <h2>🔔 Alertas por Email</h2>
+        <p>Te avisamos cuando haya novedades en los países que elijas</p>
+      </div>
+      <button class="modal-close" onclick="closeModal('modal-alerts')">✕</button>
+    </div>
+
+    <div id="alert-form">
+      <div class="form-field">
+        <label>Tu email</label>
+        <input type="email" id="al-email" placeholder="tu@email.com">
+      </div>
+      <div class="form-field">
+        <label>País a vigilar</label>
+        <select id="al-country">
+          <option value="all">🌍 Todos los países afectados</option>
+          <option value="AR">🇦🇷 Argentina</option>
+          <option value="NL">🇳🇱 Países Bajos</option>
+          <option value="DE">🇩🇪 Alemania</option>
+          <option value="ZA">🇿🇦 Sudáfrica</option>
+          <option value="ES">🇪🇸 España</option>
+          <option value="new">⚠️ Cualquier país nuevo</option>
+        </select>
+      </div>
+      <div class="form-field">
+        <label>Tipo de alerta</label>
+        <div class="check-group">
+          <label class="check-item"><input type="checkbox" id="al-c1" checked> Nuevo caso confirmado</label>
+          <label class="check-item"><input type="checkbox" id="al-c2" checked> Nueva muerte</label>
+          <label class="check-item"><input type="checkbox" id="al-c3"> Resumen diario (08:00)</label>
+          <label class="check-item"><input type="checkbox" id="al-c4"> Alerta OMS / declaración oficial</label>
+        </div>
+      </div>
+      <button id="alert-btn" onclick="subscribeAlert()">Activar alertas</button>
+    </div>
+
+    <div id="alert-success">
+      <div class="s-icon">✅</div>
+      <p id="alert-success-msg"></p>
+    </div>
+  </div>
+</div>
+
+<!-- ══ MODAL: VUELOS ══ -->
+<div class="modal-overlay" id="modal-flights" onclick="bgClose(event,'modal-flights')">
+  <div class="modal-box" style="max-width:580px">
+    <div class="modal-hdr">
+      <div>
+        <h2>✈️ Vuelos desde Zonas Afectadas</h2>
+        <p>Aeropuertos principales en países con casos · Actualizado en tiempo real</p>
+      </div>
+      <button class="modal-close" onclick="closeModal('modal-flights')">✕</button>
+    </div>
+
+    <div class="flights-note">
+      Los vuelos internacionales desde países afectados son el principal vector de dispersión geográfica. Esta tabla muestra los aeropuertos de mayor tráfico en cada zona.
+    </div>
+
+    <div class="flt-risk-hdr">🔴 Riesgo alto — casos confirmados con fallecidos</div>
+    <table class="flights-table">
+      <thead><tr><th></th><th>Código</th><th>Aeropuerto</th><th>Ciudad</th><th>Vuelos hoy</th></tr></thead>
+      <tbody id="flights-high"></tbody>
+    </table>
+
+    <div class="flt-risk-hdr">🟡 Riesgo moderado — casos sospechosos</div>
+    <table class="flights-table">
+      <thead><tr><th></th><th>Código</th><th>Aeropuerto</th><th>Ciudad</th><th>Vuelos hoy</th></tr></thead>
+      <tbody id="flights-medium"></tbody>
+    </table>
+
+    <p style="margin-top:16px;font-size:10px;color:#3a4a66">Fuente: OpenSky Network · Haz click en "Ver" para seguimiento en tiempo real</p>
+  </div>
+</div>
+
+<!-- ══ MODAL: FAQ ══ -->
+<div class="modal-overlay" id="modal-faq" onclick="bgClose(event,'modal-faq')">
+  <div class="modal-box" style="max-width:560px">
+    <div class="modal-hdr">
+      <div><h2>📋 Preguntas Frecuentes</h2><p>Información médica verificada sobre el hantavirus</p></div>
+      <button class="modal-close" onclick="closeModal('modal-faq')">✕</button>
+    </div>
+    <div id="faq-list">
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggleFaq(this)">¿Qué es el hantavirus? <span class="faq-arrow">›</span></div>
+        <div class="faq-a">Virus RNA de la familia Hantaviridae. Existen múltiples cepas. La <strong>cepa Andes</strong>, presente en este brote, es la única documentada con transmisión persona a persona, aunque sigue siendo poco frecuente. Es endémica del Cono Sur sudamericano.</div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggleFaq(this)">¿Cómo se transmite? <span class="faq-arrow">›</span></div>
+        <div class="faq-a"><strong>Principal vía:</strong> contacto con roedores infectados (inhalar polvo con excrementos/orina, mordedura). La cepa Andes también puede transmitirse <strong>entre humanos</strong> por contacto estrecho y prolongado (&lt;2m, &gt;15 min). No se transmite por el aire de forma casual.</div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggleFaq(this)">¿Cuáles son los síntomas? <span class="faq-arrow">›</span></div>
+        <div class="faq-a"><strong>Fase inicial (1–5 días):</strong> fiebre alta, dolor muscular intenso, fatiga, cefalea, náuseas.<br><strong>Fase pulmonar:</strong> dificultad respiratoria severa, tos, acumulación de líquido en pulmones. ⚠️ La progresión puede ser muy rápida una vez iniciada la fase pulmonar.</div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggleFaq(this)">¿Cuánto dura la incubación? <span class="faq-arrow">›</span></div>
+        <div class="faq-a">Entre <strong>1 y 8 semanas</strong> desde la exposición (habitualmente 2–4 semanas). Una persona expuesta puede no mostrar síntomas durante semanas, lo que complica el rastreo.</div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggleFaq(this)">¿Existe tratamiento o vacuna? <span class="faq-arrow">›</span></div>
+        <div class="faq-a"><strong>No hay vacuna aprobada.</strong> El tratamiento es de soporte: hospitalización, oxígeno suplementario y ventilación mecánica en casos graves. La ribavirina se ha usado con resultados variables. El diagnóstico precoz es crítico para la supervivencia.</div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggleFaq(this)">¿Qué es la cepa Andes y por qué es especial? <span class="faq-arrow">›</span></div>
+        <div class="faq-a">Es la cepa sudamericana del hantavirus, endémica en Argentina, Chile y Uruguay. Es la <strong>única cepa con transmisión persona a persona documentada</strong>. Tiene una tasa de mortalidad del 35–40% en el Síndrome Pulmonar por Hantavirus (SPH). La cepa Sin Nombre (Norteamérica) tiene mortalidad similar pero <em>no</em> se transmite entre humanos.</div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggleFaq(this)">¿Cómo puedo protegerme? <span class="faq-arrow">›</span></div>
+        <div class="faq-a">• Evita contacto con roedores y sus heces/orina.<br>• No limpies áreas con heces sin mascarilla FFP2 y guantes.<br>• Evita zonas rurales sin ventilación en áreas endémicas (Cono Sur).<br>• Si has viajado a Sudamérica recientemente y tienes síntomas, informa a tu médico del contexto.</div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggleFaq(this)">¿Hay riesgo real en España? <span class="faq-arrow">›</span></div>
+        <div class="faq-a">Actualmente <strong>muy bajo</strong>. España no tiene reservorios de la cepa Andes. El caso detectado en Europa está bajo investigación. El riesgo es mayor para viajeros que hayan estado en Sudamérica en los últimos 40 días o en contacto con el crucero MV Hondius.</div>
+      </div>
+    </div>
+    <p style="margin-top:16px;font-size:10px;color:#3a4a66">Fuente: OMS, ECDC, CDC. Esta información no sustituye el consejo médico profesional.</p>
+  </div>
+</div>
+
+<!-- ══ MODAL: NOTICIAS ══ -->
+<div class="modal-overlay" id="modal-news" onclick="bgClose(event,'modal-news')">
+  <div class="modal-box" style="max-width:560px">
+    <div class="modal-hdr">
+      <div><h2>📰 Últimas Noticias</h2><p>Fuentes internacionales verificadas sobre el brote</p></div>
+      <button class="modal-close" onclick="closeModal('modal-news')">✕</button>
+    </div>
+    <div id="news-list"><div style="text-align:center;padding:24px;color:#3a4a66">Cargando noticias…</div></div>
+  </div>
+</div>
+
+<!-- STATS -->
+<div id="stats">
+  <div class="stat-item">
+    <div class="stat-label">Casos Totales</div>
+    <div class="stat-value c-cases" id="stat-cases">—</div>
+  </div>
+  <div class="stat-item">
+    <div class="stat-label">Fallecidos</div>
+    <div class="stat-value c-deaths" id="stat-deaths">—</div>
+  </div>
+  <div class="stat-item">
+    <div class="stat-label">Países Afectados</div>
+    <div class="stat-value c-ctries" id="stat-countries">—</div>
+  </div>
+  <div class="stat-item">
+    <div class="stat-label">Recuperados</div>
+    <div class="stat-value c-recovered" id="stat-recovered">—</div>
+  </div>
+  <div class="stat-item">
+    <div class="stat-label">Tasa Mortalidad</div>
+    <div class="stat-value c-cfr" id="stat-cfr">—</div>
+  </div>
+  <div class="stat-item" id="stat-forecast-wrap" style="display:none">
+    <div class="stat-label">Proyección 7 días</div>
+    <div class="stat-value c-forecast" id="stat-forecast">—</div>
+  </div>
+</div>
+
+<!-- MAIN -->
+<div id="main">
+
+  <!-- MAP -->
+  <div id="map-wrap">
+    <svg id="map-svg"></svg>
+    <div id="zoom-hint">Scroll para zoom · Arrastra para mover · Click país para detalles</div>
+
+    <!-- TOOLTIP -->
+    <div id="tooltip">
+      <div id="tt-name">—</div>
+      <div id="tt-cases">—</div>
+      <div id="tt-deaths">—</div>
+      <div id="tt-status">—</div>
+    </div>
+
+    <!-- LEGEND -->
+    <div id="legend">
+      <div class="leg-title">Casos confirmados</div>
+      <div class="leg-row"><div class="leg-swatch" style="background:#162035"></div>Sin casos</div>
+      <div class="leg-row"><div class="leg-swatch" style="background:#ff8c42"></div>1–2 casos</div>
+      <div class="leg-row"><div class="leg-swatch" style="background:#e63946"></div>3–5 casos</div>
+      <div class="leg-row"><div class="leg-swatch" style="background:#9b2226"></div>6+ casos</div>
+    </div>
+  </div>
+
+  <!-- SIDE PANEL -->
+  <div id="panel">
+    <div id="panel-inner">
+      <div id="panel-top">
+        <div id="panel-flag-wrap">
+          <img id="panel-flag" src="" alt="">
+        </div>
+        <div id="panel-title-wrap">
+          <div id="panel-country">—</div>
+          <div id="panel-first">—</div>
+        </div>
+        <button id="btn-close" onclick="closePanel()">✕</button>
+      </div>
+      <div id="panel-status">—</div>
+      <hr id="panel-divider">
+      <div class="p-stat">
+        <div class="p-stat-label">Casos</div>
+        <div class="p-stat-value c-cases" id="panel-cases">—</div>
+      </div>
+      <div class="p-stat">
+        <div class="p-stat-label">Fallecidos</div>
+        <div class="p-stat-value c-deaths" id="panel-deaths">—</div>
+      </div>
+      <hr id="panel-divider">
+      <div id="panel-notes">—</div>
+    </div>
+  </div>
+
+  <!-- RANKING SIDEBAR -->
+  <div id="ranking">
+    <div id="ranking-header">
+      <div id="ranking-title">Ranking países</div>
+      <div id="ranking-tabs">
+        <button class="rank-tab active" onclick="setRankSort('cases')">Infectados</button>
+        <button class="rank-tab" onclick="setRankSort('deaths')">Fallecidos</button>
+      </div>
+      <input id="rank-search" type="text" placeholder="🔍 Buscar país…" oninput="filterRanking(this.value)">
+    </div>
+    <div id="ranking-list"></div>
+  </div>
+</div>
+
+<!-- TIMELINE -->
+<div id="timeline">
+  <div id="tl-top">
+    <div id="tl-left">
+      <div id="tl-date">—</div>
+      <div id="tl-event">—</div>
+    </div>
+    <div id="tl-controls">
+      <button id="btn-reset" onclick="resetTimeline()">↩ Inicio</button>
+      <button id="btn-play" onclick="togglePlay()">▶ Reproducir</button>
+    </div>
+  </div>
+  <div id="chart-wrap">
+    <svg id="chart-svg"></svg>
+  </div>
+  <input type="range" id="slider" min="0" value="0">
+  <div id="tl-labels">
+    <span id="tl-start">—</span>
+    <span id="tl-mid">—</span>
+    <span id="tl-end">—</span>
+  </div>
+</div>
+
+<script>
+const DATA_URL   = 'data.json';
+const WORLD_URL  = 'https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json';
+
+// ISO alpha-2 → ISO numeric (3 digits, zero-padded)
+const A2_TO_NUM = {
+  'AR':'032','NL':'528','DE':'276','ZA':'710','ES':'724',
+  'SH':'654','BR':'076','US':'840','FR':'250','GB':'826',
+  'IT':'380','PT':'620','CN':'156','IN':'356','RU':'643',
+};
+
+// ISO numeric → [nombre ES, alpha-2]
+const CTRY = {
+  '004':['Afganistán','af'],'008':['Albania','al'],'012':['Argelia','dz'],
+  '020':['Andorra','ad'],'024':['Angola','ao'],'028':['Antigua y Barbuda','ag'],
+  '032':['Argentina','ar'],'051':['Armenia','am'],'036':['Australia','au'],
+  '040':['Austria','at'],'031':['Azerbaiyán','az'],'044':['Bahamas','bs'],
+  '048':['Baréin','bh'],'050':['Bangladés','bd'],'052':['Barbados','bb'],
+  '112':['Bielorrusia','by'],'056':['Bélgica','be'],'084':['Belice','bz'],
+  '204':['Benín','bj'],'064':['Bután','bt'],'068':['Bolivia','bo'],
+  '070':['Bosnia y Herzegovina','ba'],'072':['Botsuana','bw'],'076':['Brasil','br'],
+  '096':['Brunéi','bn'],'100':['Bulgaria','bg'],'854':['Burkina Faso','bf'],
+  '108':['Burundi','bi'],'132':['Cabo Verde','cv'],'116':['Camboya','kh'],
+  '120':['Camerún','cm'],'124':['Canadá','ca'],'140':['Rep. Centroafricana','cf'],
+  '148':['Chad','td'],'152':['Chile','cl'],'156':['China','cn'],
+  '170':['Colombia','co'],'174':['Comoras','km'],'180':['Congo (RD)','cd'],
+  '178':['Congo','cg'],'188':['Costa Rica','cr'],'191':['Croacia','hr'],
+  '192':['Cuba','cu'],'196':['Chipre','cy'],'203':['Chequia','cz'],
+  '208':['Dinamarca','dk'],'262':['Yibuti','dj'],'212':['Dominica','dm'],
+  '214':['Rep. Dominicana','do'],'218':['Ecuador','ec'],'818':['Egipto','eg'],
+  '222':['El Salvador','sv'],'226':['Guinea Ecuatorial','gq'],'232':['Eritrea','er'],
+  '233':['Estonia','ee'],'748':['Esuatini','sz'],'231':['Etiopía','et'],
+  '242':['Fiyi','fj'],'246':['Finlandia','fi'],'250':['Francia','fr'],
+  '266':['Gabón','ga'],'270':['Gambia','gm'],'268':['Georgia','ge'],
+  '276':['Alemania','de'],'288':['Ghana','gh'],'300':['Grecia','gr'],
+  '308':['Granada','gd'],'320':['Guatemala','gt'],'324':['Guinea','gn'],
+  '624':['Guinea-Bisáu','gw'],'328':['Guyana','gy'],'332':['Haití','ht'],
+  '340':['Honduras','hn'],'348':['Hungría','hu'],'352':['Islandia','is'],
+  '356':['India','in'],'360':['Indonesia','id'],'364':['Irán','ir'],
+  '368':['Irak','iq'],'372':['Irlanda','ie'],'376':['Israel','il'],
+  '380':['Italia','it'],'388':['Jamaica','jm'],'392':['Japón','jp'],
+  '400':['Jordania','jo'],'398':['Kazajistán','kz'],'404':['Kenia','ke'],
+  '296':['Kiribati','ki'],'408':['Corea del Norte','kp'],'410':['Corea del Sur','kr'],
+  '414':['Kuwait','kw'],'417':['Kirguistán','kg'],'418':['Laos','la'],
+  '428':['Letonia','lv'],'422':['Líbano','lb'],'426':['Lesoto','ls'],
+  '430':['Liberia','lr'],'434':['Libia','ly'],'438':['Liechtenstein','li'],
+  '440':['Lituania','lt'],'442':['Luxemburgo','lu'],'450':['Madagascar','mg'],
+  '454':['Malaui','mw'],'458':['Malasia','my'],'462':['Maldivas','mv'],
+  '466':['Malí','ml'],'470':['Malta','mt'],'584':['Islas Marshall','mh'],
+  '478':['Mauritania','mr'],'480':['Mauricio','mu'],'484':['México','mx'],
+  '583':['Micronesia','fm'],'498':['Moldavia','md'],'492':['Mónaco','mc'],
+  '496':['Mongolia','mn'],'499':['Montenegro','me'],'504':['Marruecos','ma'],
+  '508':['Mozambique','mz'],'104':['Myanmar','mm'],'516':['Namibia','na'],
+  '520':['Nauru','nr'],'524':['Nepal','np'],'528':['Países Bajos','nl'],
+  '554':['Nueva Zelanda','nz'],'558':['Nicaragua','ni'],'562':['Níger','ne'],
+  '566':['Nigeria','ng'],'807':['Macedonia del Norte','mk'],'578':['Noruega','no'],
+  '512':['Omán','om'],'586':['Pakistán','pk'],'585':['Palaos','pw'],
+  '591':['Panamá','pa'],'598':['Papúa Nueva Guinea','pg'],'600':['Paraguay','py'],
+  '604':['Perú','pe'],'608':['Filipinas','ph'],'616':['Polonia','pl'],
+  '620':['Portugal','pt'],'634':['Catar','qa'],'642':['Rumanía','ro'],
+  '643':['Rusia','ru'],'646':['Ruanda','rw'],'659':['San Cristóbal y Nieves','kn'],
+  '662':['Santa Lucía','lc'],'670':['San Vicente y Granadinas','vc'],
+  '882':['Samoa','ws'],'674':['San Marino','sm'],'678':['Santo Tomé y Príncipe','st'],
+  '682':['Arabia Saudí','sa'],'686':['Senegal','sn'],'688':['Serbia','rs'],
+  '694':['Sierra Leona','sl'],'702':['Singapur','sg'],'703':['Eslovaquia','sk'],
+  '705':['Eslovenia','si'],'090':['Islas Salomón','sb'],'706':['Somalia','so'],
+  '710':['Sudáfrica','za'],'728':['Sudán del Sur','ss'],'724':['España','es'],
+  '144':['Sri Lanka','lk'],'729':['Sudán','sd'],'740':['Surinam','sr'],
+  '752':['Suecia','se'],'756':['Suiza','ch'],'760':['Siria','sy'],
+  '762':['Tayikistán','tj'],'834':['Tanzania','tz'],'764':['Tailandia','th'],
+  '626':['Timor Oriental','tl'],'768':['Togo','tg'],'776':['Tonga','to'],
+  '780':['Trinidad y Tobago','tt'],'788':['Túnez','tn'],'792':['Turquía','tr'],
+  '795':['Turkmenistán','tm'],'798':['Tuvalu','tv'],'800':['Uganda','ug'],
+  '804':['Ucrania','ua'],'784':['Emiratos Árabes Unidos','ae'],'826':['Reino Unido','gb'],
+  '840':['Estados Unidos','us'],'858':['Uruguay','uy'],'860':['Uzbekistán','uz'],
+  '548':['Vanuatu','vu'],'862':['Venezuela','ve'],'704':['Vietnam','vn'],
+  '887':['Yemen','ye'],'894':['Zambia','zm'],'716':['Zimbabue','zw'],
+  '654':['Santa Elena','sh'],'158':['Taiwán','tw'],'010':['Antártida','aq'],
+  '188':['Costa Rica','cr'],'384':['Costa de Marfil','ci'],'288':['Ghana','gh'],
+};
+
+let appData, worldTopo;
+let currentStep = 0;
+let playing = false;
+let playTimer = null;
+let activeCountry = null;
+let svgG = null;
+let rankSortBy = 'cases';
+
+function flagUrl(code) {
+  return `https://flagcdn.com/w40/${code.toLowerCase()}.png`;
+}
+
+const colorScale = d3.scaleThreshold()
+  .domain([1, 3, 6])
+  .range(['#1e2d4a', '#ff8c42', '#e63946', '#9b2226']);
+
+// ── INIT ──
+async function init() {
+  [appData, worldTopo] = await Promise.all([
+    fetch(DATA_URL).then(r => r.json()),
+    fetch(WORLD_URL).then(r => r.json()),
+  ]);
+
+  // Build numeric lookup
+  appData._byNum = {};
+  appData.countries.forEach(c => {
+    const num = A2_TO_NUM[c.code] || c.iso_num;
+    if (num) appData._byNum[num] = c;
+  });
+
+  // Stats
+  renderStats(appData.current);
+  document.getElementById('updated-time').textContent = appData.metadata.updated;
+
+  // Timeline setup
+  setupTimeline();
+
+  // Map
+  renderMap();
+
+  // Jump to last step
+  currentStep = appData.timeline.length - 1;
+  applyStep(currentStep, false);
+
+  // Ranking
+  renderRanking();
+
+  // Chart
+  renderChart();
+
+  // URL state restore
+  const urlState = readUrl();
+  if (urlState.step !== null && urlState.step < appData.timeline.length) {
+    currentStep = urlState.step;
+    applyStep(currentStep, false);
+  }
+  if (urlState.country) {
+    const c = appData.countries.find(x => x.code === urlState.country);
+    if (c) openPanel(c, false);
+  }
+
+  // Push state
+  initPushState();
+
+  // Service Worker
+  registerSW();
+
+  // Auto-refresh every 60s
+  setInterval(refreshData, 60_000);
+  startAgoCounter();
+}
+
+// ── STATS ──
+function renderStats(cur) {
+  document.getElementById('stat-cases').textContent     = cur.cases;
+  document.getElementById('stat-deaths').textContent    = cur.deaths;
+  document.getElementById('stat-recovered').textContent = cur.recovered ?? 0;
+  document.getElementById('stat-countries').textContent = cur.countries;
+  const cfr = cur.cases > 0 ? ((cur.deaths / cur.cases) * 100).toFixed(1) + '%' : '—';
+  document.getElementById('stat-cfr').textContent = cfr;
+}
+
+// ── MAP ──
+function renderMap() {
+  const wrap = document.getElementById('map-wrap');
+  const W = wrap.clientWidth;
+  const H = wrap.clientHeight;
+  const svg = d3.select('#map-svg').attr('width', W).attr('height', H);
+
+  const projection = d3.geoNaturalEarth1()
+    .scale(W / 6.3)
+    .translate([W / 2, H / 2]);
+  const path = d3.geoPath().projection(projection);
+
+  // Zoomable group
+  svgG = svg.append('g');
+
+  // Ocean background
+  svgG.append('path')
+    .datum({ type: 'Sphere' })
+    .attr('d', path)
+    .attr('fill', '#0d1628')
+    .attr('stroke', 'none');
+
+  // Graticule
+  svgG.append('path')
+    .datum(d3.geoGraticule()())
+    .attr('d', path)
+    .attr('fill', 'none')
+    .attr('stroke', '#141f38')
+    .attr('stroke-width', 0.4);
+
+  // Countries
+  const countries = topojson.feature(worldTopo, worldTopo.objects.countries);
+  svgG.selectAll('.country')
+    .data(countries.features)
+    .join('path')
+      .attr('class', 'country')
+      .attr('d', path)
+      .attr('fill', d => countryFill(d, appData.timeline.length - 1))
+      .attr('stroke', '#080c18')
+      .attr('stroke-width', 0.4)
+      .style('cursor', d => getCountryData(d) ? 'pointer' : 'default')
+      .on('mousemove', onMouseMove)
+      .on('mouseleave', onMouseLeave)
+      .on('click', onCountryClick);
+
+  // Borders overlay
+  svgG.append('path')
+    .datum(topojson.mesh(worldTopo, worldTopo.objects.countries, (a, b) => a !== b))
+    .attr('fill', 'none')
+    .attr('stroke', '#080c18')
+    .attr('stroke-width', 0.4)
+    .attr('d', path);
+
+  // Zoom + pan
+  svg.call(
+    d3.zoom()
+      .scaleExtent([1, 10])
+      .on('zoom', e => svgG.attr('transform', e.transform))
+  );
+}
+
+function getCountryData(d) {
+  const num = String(d.id).padStart(3, '0');
+  return appData._byNum[num] || null;
+}
+
+function countryFill(d, step) {
+  const c = getCountryData(d);
+  if (!c) return '#111d33';
+  const t = appData.timeline[step];
+  // Only show country if its first_case is <= current date
+  if (c.first_case && c.first_case > t.date) return '#111d33';
+  return colorScale(c.cases);
+}
+
+function updateMapColors(step) {
+  svgG.selectAll('.country')
+    .attr('fill', d => countryFill(d, step));
+}
+
+// ── INTERACTIONS ──
+function onMouseMove(event, d) {
+  const c = getCountryData(d);
+  const tt = document.getElementById('tooltip');
+  const wrap = document.getElementById('map-wrap');
+  const rect = wrap.getBoundingClientRect();
+
+  if (!c) { tt.style.display = 'none'; return; }
+
+  tt.style.display = 'block';
+  let x = event.clientX - rect.left + 14;
+  let y = event.clientY - rect.top - 10;
+  if (x + 200 > wrap.clientWidth) x = event.clientX - rect.left - 180;
+  tt.style.left = x + 'px';
+  tt.style.top  = y + 'px';
+
+  document.getElementById('tt-name').textContent   = c.name;
+  document.getElementById('tt-cases').textContent  = `Casos: ${c.cases}`;
+  document.getElementById('tt-deaths').textContent = `Fallecidos: ${c.deaths}`;
+  document.getElementById('tt-status').textContent = c.status || '';
+}
+
+function onMouseLeave() {
+  document.getElementById('tooltip').style.display = 'none';
+}
+
+function onCountryClick(event, d) {
+  const c   = getCountryData(d);
+  const num = String(d.id).padStart(3, '0');
+  const meta = CTRY[num];
+
+  // Nothing known about this country at all — ignore click
+  if (!c && !meta) return;
+
+  svgG.selectAll('.country').classed('active', false);
+  d3.select(this).classed('active', true);
+  activeCountry = d;
+
+  if (c) {
+    openPanel(c, false);
+  } else {
+    // Country exists but has no disease data
+    openPanel({ code: meta[1].toUpperCase(), name: meta[0] }, true);
+  }
+}
+
+function openPanel(c, noData = false) {
+  const flag = document.getElementById('panel-flag');
+  flag.src = flagUrl(c.code);
+  flag.alt = c.name;
+  flag.onerror = () => { flag.style.display = 'none'; };
+  flag.onload  = () => { flag.style.display = 'block'; };
+
+  const statusEl = document.getElementById('panel-status');
+  document.getElementById('panel-country').textContent = c.name;
+
+  if (noData) {
+    document.getElementById('panel-first').textContent  = '';
+    statusEl.textContent = 'Sin casos registrados';
+    statusEl.classList.add('no-data');
+    document.getElementById('panel-cases').textContent  = '0';
+    document.getElementById('panel-deaths').textContent = '0';
+    document.getElementById('panel-notes').textContent  =
+      'Este país no tiene casos confirmados ni sospechosos de hantavirus en la fecha actual.';
+  } else {
+    document.getElementById('panel-first').textContent  = c.first_case ? `Primer caso: ${c.first_case}` : '';
+    statusEl.textContent = c.status || '—';
+    statusEl.classList.remove('no-data');
+    document.getElementById('panel-cases').textContent  = c.cases;
+    document.getElementById('panel-deaths').textContent = c.deaths;
+    document.getElementById('panel-notes').textContent  = c.notes || '';
+  }
+
+  document.getElementById('panel').classList.add('open');
+  document.querySelectorAll('.rank-item').forEach(el => {
+    el.classList.toggle('active', !noData && el.dataset.code === c.code);
+  });
+  if (!noData) writeUrl(currentStep, c.code);
+}
+
+// ── RANKING ──
+function setRankSort(by) {
+  rankSortBy = by;
+  document.querySelectorAll('.rank-tab').forEach(t => {
+    t.classList.toggle('active', t.textContent.toLowerCase().includes(by === 'cases' ? 'infec' : 'fall'));
+  });
+  renderRankingForStep(currentStep);
+}
+
+function renderRanking() {
+  // Live mode: use full country data
+  const items = [...appData.countries].map(c => ({
+    code: c.code, name: c.name, cases: c.cases, deaths: c.deaths
+  }));
+  renderRankingList(items);
+}
+
+function renderRankingForStep(step) {
+  const t = appData.timeline[step];
+  const snapshot = t.snapshot || {};
+
+  if (Object.keys(snapshot).length === 0) {
+    document.getElementById('ranking-list').innerHTML =
+      '<div style="padding:16px 14px;font-size:12px;color:#3a4a66">Sin casos registrados en esta fecha</div>';
+    return;
+  }
+
+  // Build items from snapshot, enriched with country name
+  const items = Object.entries(snapshot)
+    .map(([code, data]) => {
+      const meta = appData.countries.find(c => c.code === code) || {};
+      return { code, name: meta.name || code, cases: data.cases, deaths: data.deaths };
+    })
+    .filter(c => c.cases > 0);
+
+  renderRankingList(items);
+}
+
+function renderRankingList(items) {
+  const sorted = [...items].sort((a, b) => {
+    const diff = b[rankSortBy] - a[rankSortBy];
+    return diff !== 0 ? diff : b.cases - a.cases;
+  });
+
+  const activeCode = document.querySelector('.rank-item.active')?.dataset.code;
+
+  document.getElementById('ranking-list').innerHTML = sorted.map((c, i) => {
+    const count = c[rankSortBy];
+    const sub   = rankSortBy === 'cases'
+      ? `${c.deaths} fallecido${c.deaths !== 1 ? 's' : ''}`
+      : `${c.cases} caso${c.cases !== 1 ? 's' : ''}`;
+    const isActive = c.code === activeCode ? ' active' : '';
+    return `
+      <div class="rank-item${isActive}" data-code="${c.code}" onclick="rankClick('${c.code}')">
+        <span class="rank-num">${i + 1}</span>
+        <img class="rank-flag" src="${flagUrl(c.code)}" alt="${c.name}" onerror="this.style.display='none'">
+        <div class="rank-info">
+          <div class="rank-name">${c.name}</div>
+          <div class="rank-sub">${sub}</div>
+        </div>
+        <span class="rank-count ${rankSortBy}">${count}</span>
+      </div>`;
+  }).join('');
+}
+
+function rankClick(code) {
+  const c = appData.countries.find(x => x.code === code);
+  if (!c) return;
+  // Use snapshot data if in timeline mode
+  const snap = appData.timeline[currentStep].snapshot?.[code];
+  const display = snap ? { ...c, cases: snap.cases, deaths: snap.deaths } : c;
+  openPanel(display);
+  if (svgG) {
+    svgG.selectAll('.country').classed('active', d => {
+      const num = String(d.id).padStart(3, '0');
+      const mc  = appData._byNum[num];
+      return mc && mc.code === code;
+    });
+  }
+}
+
+function closePanel() {
+  document.getElementById('panel').classList.remove('open');
+  if (svgG) svgG.selectAll('.country').classed('active', false);
+  activeCountry = null;
+}
+
+// ── TIMELINE ──
+function setupTimeline() {
+  const tl = appData.timeline;
+  const slider = document.getElementById('slider');
+  slider.max = tl.length - 1;
+  slider.addEventListener('input', e => {
+    currentStep = +e.target.value;
+    applyStep(currentStep, false);
+  });
+
+  document.getElementById('tl-start').textContent = tl[0].date;
+  document.getElementById('tl-mid').textContent   = tl[Math.floor(tl.length / 2)].date;
+  document.getElementById('tl-end').textContent   = tl[tl.length - 1].date;
+}
+
+function applyStep(step, animate) {
+  const tl   = appData.timeline;
+  const t    = tl[step];
+  const day0 = new Date(tl[0].date);
+  const curr = new Date(t.date);
+  const dayNum = Math.round((curr - day0) / 86400000);
+
+  document.getElementById('slider').value          = step;
+  document.getElementById('tl-date').textContent   = `Día ${dayNum} · ${t.date}`;
+  document.getElementById('tl-event').textContent  = t.event || '';
+  document.getElementById('stat-cases').textContent     = t.cases;
+  document.getElementById('stat-deaths').textContent    = t.deaths;
+  document.getElementById('stat-recovered').textContent = t.recovered ?? 0;
+
+  // Countries active at this step for the countries counter
+  const activeCount = Object.keys(t.snapshot || {}).length;
+  document.getElementById('stat-countries').textContent = activeCount || 0;
+
+  const cfr = t.cases > 0 ? ((t.deaths / t.cases) * 100).toFixed(1) + '%' : '—';
+  document.getElementById('stat-cfr').textContent = cfr;
+
+  if (animate) {
+    svgG.selectAll('.country')
+      .transition().duration(600)
+      .attr('fill', d => countryFill(d, step));
+  } else {
+    updateMapColors(step);
+  }
+
+  renderRankingForStep(step);
+  updateChartCursor(step);
+  writeUrl(step, null);
+}
+
+function togglePlay() {
+  const btn = document.getElementById('btn-play');
+  if (playing) {
+    clearInterval(playTimer);
+    playing = false;
+    btn.textContent = '▶ Reproducir';
+    return;
+  }
+  playing = true;
+  btn.textContent = '⏸ Pausar';
+
+  if (currentStep >= appData.timeline.length - 1) {
+    currentStep = 0;
+    applyStep(0, false);
+  }
+
+  playTimer = setInterval(() => {
+    currentStep++;
+    applyStep(currentStep, true);
+    if (currentStep >= appData.timeline.length - 1) {
+      clearInterval(playTimer);
+      playing = false;
+      btn.textContent = '▶ Reproducir';
+    }
+  }, 1400);
+}
+
+function resetTimeline() {
+  if (playing) { clearInterval(playTimer); playing = false; }
+  document.getElementById('btn-play').textContent = '▶ Reproducir';
+  currentStep = 0;
+  applyStep(0, false);
+}
+
+// ── LIVE COUNTER ──
+let lastRefreshTime = Date.now();
+
+function startAgoCounter() {
+  setInterval(() => {
+    const s = Math.round((Date.now() - lastRefreshTime) / 1000);
+    const el = document.getElementById('updated-ago');
+    if (el) el.textContent = s < 60 ? `hace ${s}s` : `hace ${Math.round(s / 60)}min`;
+  }, 1000);
+}
+
+// ── REFRESH ──
+async function refreshData() {
+  try {
+    const data = await fetch(DATA_URL + '?_=' + Date.now()).then(r => r.json());
+
+    const prevCases  = appData?.current?.cases;
+    const prevDeaths = appData?.current?.deaths;
+
+    appData = data;
+    appData._byNum = {};
+    appData.countries.forEach(c => {
+      const num = A2_TO_NUM[c.code] || c.iso_num;
+      if (num) appData._byNum[num] = c;
+    });
+
+    renderStats(appData.current);
+    document.getElementById('updated-time').textContent = appData.metadata.updated;
+    lastRefreshTime = Date.now();
+
+    // Flash stats si cambiaron
+    if (data.current.cases !== prevCases || data.current.deaths !== prevDeaths) {
+      document.querySelectorAll('.stat-item').forEach(el => {
+        el.classList.remove('stat-flash');
+        void el.offsetWidth;
+        el.classList.add('stat-flash');
+      });
+      // Notificación push si está activa
+      if (localStorage.getItem('hanta_push') === '1' && data.current.cases > prevCases) {
+        new Notification('🦠 Nuevo caso de hantavirus', {
+          body: `Total: ${data.current.cases} casos · ${data.current.deaths} fallecidos · ${data.current.countries} países.`,
+          icon: 'icon.svg',
+        });
+      }
+    }
+
+    // Actualizar noticias si el modal está abierto
+    if (document.getElementById('modal-news').classList.contains('open')) {
+      renderNews(appData.news);
+    }
+
+    applyStep(appData.timeline.length - 1, true);
+    renderRanking();
+  } catch (e) {
+    console.warn('Refresh fallido:', e);
+  }
+}
+
+// ── FORECAST ──
+function calcForecast() {
+  const tl  = appData.timeline;
+  const pts = tl.map((t, i) => ({ i, cases: t.cases })).filter(p => p.cases > 0);
+  if (pts.length < 2) return null;
+
+  let b, lnA, sigma;
+
+  if (pts.length < 3) {
+    // Linear extrapolation
+    const last = pts[pts.length - 1], prev = pts[pts.length - 2];
+    const rate = last.cases - prev.cases;
+    return Array.from({ length: 7 }, (_, d) => ({
+      step: last.i + d + 1,
+      date: new Date(new Date(tl[0].date).getTime() + (last.i + d + 1) * 86400000),
+      mean: Math.max(last.cases + rate * (d + 1), last.cases),
+      low:  Math.max(last.cases + rate * 0.4 * (d + 1), last.cases),
+      high: last.cases + rate * 1.8 * (d + 1),
+    }));
+  }
+
+  // Exponential regression: ln(cases) = lnA + b*i
+  const logPts = pts.map(p => ({ x: p.i, y: Math.log(p.cases) }));
+  const n = logPts.length;
+  const sx  = logPts.reduce((s, p) => s + p.x, 0);
+  const sy  = logPts.reduce((s, p) => s + p.y, 0);
+  const sxy = logPts.reduce((s, p) => s + p.x * p.y, 0);
+  const sx2 = logPts.reduce((s, p) => s + p.x * p.x, 0);
+  b   = (n * sxy - sx * sy) / (n * sx2 - sx * sx);
+  lnA = (sy - b * sx) / n;
+  const res = logPts.map(p => (p.y - (lnA + b * p.x)) ** 2);
+  sigma = Math.sqrt(res.reduce((s, r) => s + r, 0) / n);
+
+  const lastStep = tl.length - 1;
+  return Array.from({ length: 7 }, (_, d) => {
+    const step = lastStep + d + 1;
+    const mu   = lnA + b * step;
+    const err  = sigma * Math.sqrt(d + 1);
+    return {
+      step,
+      date: new Date(new Date(tl[0].date).getTime() + step * 86400000),
+      mean: Math.round(Math.exp(mu)),
+      low:  Math.max(Math.round(Math.exp(mu - err)), tl[lastStep].cases),
+      high: Math.round(Math.exp(mu + err)),
+    };
+  });
+}
+
+// ── MINI CHART ──
+let chartX, chartY, chartSvg;
+
+function renderChart() {
+  const wrap = document.getElementById('chart-wrap');
+  const W = wrap.clientWidth;
+  const H = wrap.clientHeight;
+  const m = { top: 8, right: 20, bottom: 18, left: 30 };
+  const iW = W - m.left - m.right;
+  const iH = H - m.top - m.bottom;
+
+  const tl       = appData.timeline;
+  const forecast  = calcForecast();
+  const tlDates   = tl.map(t => new Date(t.date));
+  const allDates  = forecast ? [...tlDates, ...forecast.map(f => f.date)] : tlDates;
+  const maxCases  = forecast
+    ? Math.max(d3.max(tl, t => t.cases), d3.max(forecast, f => f.high))
+    : d3.max(tl, t => t.cases);
+
+  chartX = d3.scaleTime().domain(d3.extent(allDates)).range([0, iW]);
+  chartY = d3.scaleLinear().domain([0, maxCases * 1.2]).range([iH, 0]);
+
+  chartSvg = d3.select('#chart-svg').attr('width', W).attr('height', H);
+
+  const defs = chartSvg.append('defs');
+  [['grad-cases','#ff8c42',0.35,0.02],['grad-deaths','#e63946',0.25,0.02],['grad-fc','#a78bfa',0.2,0.02]]
+    .forEach(([id,col,o1,o2]) => {
+      const g = defs.append('linearGradient').attr('id',id).attr('x1','0').attr('x2','0').attr('y1','0').attr('y2','1');
+      g.append('stop').attr('offset','0%').attr('stop-color',col).attr('stop-opacity',o1);
+      g.append('stop').attr('offset','100%').attr('stop-color',col).attr('stop-opacity',o2);
+    });
+
+  const g = chartSvg.append('g').attr('transform', `translate(${m.left},${m.top})`);
+
+  // Grid
+  g.append('g').selectAll('line').data(chartY.ticks(3)).join('line')
+    .attr('x1',0).attr('x2',iW).attr('y1',d=>chartY(d)).attr('y2',d=>chartY(d))
+    .attr('stroke','#1a2540').attr('stroke-width',1);
+
+  // Forecast band + line (draw BEFORE data so data is on top)
+  if (forecast) {
+    const todayX = chartX(tlDates[tlDates.length - 1]);
+
+    // "Hoy" divider
+    g.append('line').attr('id','chart-today-line')
+      .attr('x1', todayX).attr('x2', todayX).attr('y1', 0).attr('y2', iH);
+
+    // Forecast label
+    g.append('text').attr('class','chart-forecast-label')
+      .attr('x', todayX + 5).attr('y', 10).text('PROYECCIÓN →');
+
+    // Confidence band
+    const bandData = [{ date: tlDates[tlDates.length-1], mean: tl[tl.length-1].cases, low: tl[tl.length-1].cases, high: tl[tl.length-1].cases }, ...forecast];
+    const band = d3.area()
+      .x(d => chartX(d.date)).y0(d => chartY(d.low)).y1(d => chartY(d.high))
+      .curve(d3.curveMonotoneX);
+    g.append('path').datum(bandData).attr('class','chart-forecast-band').attr('d', band);
+
+    // Forecast line
+    const fcLine = d3.line().x(d => chartX(d.date)).y(d => chartY(d.mean)).curve(d3.curveMonotoneX);
+    g.append('path').datum(bandData).attr('class','chart-forecast-line').attr('d', fcLine);
+
+    // Forecast dots
+    g.selectAll('.chart-forecast-dot').data(forecast).join('circle')
+      .attr('class','chart-forecast-dot').attr('r', 2.5)
+      .attr('cx', d => chartX(d.date)).attr('cy', d => chartY(d.mean));
+
+    // Projected stat
+    const proj7 = forecast[forecast.length - 1];
+    document.getElementById('stat-forecast').textContent = `~${proj7.mean} casos`;
+    document.getElementById('stat-forecast-wrap').style.display = '';
+  }
+
+  // Data areas + lines
+  const areaC = d3.area().x((_,i)=>chartX(tlDates[i])).y0(iH).y1(d=>chartY(d.cases)).curve(d3.curveMonotoneX);
+  const areaD = d3.area().x((_,i)=>chartX(tlDates[i])).y0(iH).y1(d=>chartY(d.deaths)).curve(d3.curveMonotoneX);
+  g.append('path').datum(tl).attr('class','chart-area-deaths').attr('d', areaD);
+  g.append('path').datum(tl).attr('class','chart-area-cases').attr('d', areaC);
+
+  const lineC = d3.line().x((_,i)=>chartX(tlDates[i])).y(d=>chartY(d.cases)).curve(d3.curveMonotoneX);
+  const lineD = d3.line().x((_,i)=>chartX(tlDates[i])).y(d=>chartY(d.deaths)).curve(d3.curveMonotoneX);
+  g.append('path').datum(tl).attr('class','chart-line-deaths').attr('d', lineD);
+  g.append('path').datum(tl).attr('class','chart-line-cases').attr('d', lineC);
+
+  // Data dots
+  g.selectAll('.chart-dot').data(tl).join('circle')
+    .attr('class','chart-dot').attr('r', 3.5)
+    .attr('cx', (_,i) => chartX(tlDates[i])).attr('cy', d => chartY(d.cases))
+    .on('click', (_, d) => { const i = tl.indexOf(d); currentStep = i; applyStep(i, true); });
+
+  // Axes
+  g.append('g').attr('transform',`translate(0,${iH})`)
+    .call(d3.axisBottom(chartX).ticks(7).tickFormat(d3.timeFormat('%d/%m')))
+    .call(ax => {
+      ax.select('.domain').attr('stroke','#1a2540');
+      ax.selectAll('.tick line').attr('stroke','#1a2540');
+      ax.selectAll('.tick text').attr('fill','#3a4a66').attr('font-size','9px');
+    });
+  g.append('g')
+    .call(d3.axisLeft(chartY).ticks(3).tickFormat(d3.format('d')))
+    .call(ax => {
+      ax.select('.domain').remove();
+      ax.selectAll('.tick line').remove();
+      ax.selectAll('.tick text').attr('fill','#3a4a66').attr('font-size','9px');
+    });
+
+  // Legend
+  const leg = g.append('g').attr('transform',`translate(${iW - 180}, 2)`);
+  [[0,'#ff8c42',2,'Casos'],[54,'#e63946',1.5,'Muertes','4 3'],[110,'#a78bfa',1.5,'Proyección','6 4']]
+    .forEach(([x,col,sw,label,dash]) => {
+      leg.append('line').attr('x1',x).attr('x2',x+14).attr('y1',5).attr('y2',5)
+        .attr('stroke',col).attr('stroke-width',sw).attr('stroke-dasharray',dash||'');
+      leg.append('text').attr('x',x+18).attr('y',8).attr('fill','#8899bb').attr('font-size','9px').text(label);
+    });
+
+  g.append('line').attr('id','chart-cursor').attr('y1',0).attr('y2',iH);
+  updateChartCursor(currentStep);
+}
+
+function updateChartCursor(step) {
+  if (!chartX || !chartSvg) return;
+  const tl = appData.timeline;
+  const m  = { left: 30 };
+  const x  = chartX(new Date(tl[step].date)) + m.left;
+
+  chartSvg.select('#chart-cursor').attr('x1', x).attr('x2', x);
+
+  // Active dot
+  chartSvg.selectAll('.chart-dot')
+    .classed('active', (_, i) => i === step);
+}
+
+// ── URL STATE ──
+function writeUrl(step, code) {
+  const p = new URLSearchParams();
+  if (step != null && step !== appData.timeline.length - 1) p.set('step', step);
+  if (code) p.set('country', code);
+  const qs = p.toString();
+  history.replaceState({}, '', qs ? `?${qs}` : location.pathname);
+}
+
+function readUrl() {
+  const p = new URLSearchParams(location.search);
+  return { step: p.has('step') ? +p.get('step') : null, country: p.get('country') };
+}
+
+// ── PNG CAPTURE ──
+function captureImage() {
+  const btn = document.querySelector('[onclick="captureImage()"]');
+  btn.textContent = '⏳ Generando…';
+  btn.style.pointerEvents = 'none';
+
+  html2canvas(document.body, {
+    backgroundColor: '#080c18',
+    scale: 1.5,
+    useCORS: true,
+    allowTaint: true,
+    ignoreElements: el => el.classList.contains('modal-overlay'),
+  }).then(canvas => {
+    // Watermark
+    const ctx = canvas.getContext('2d');
+    ctx.fillStyle = 'rgba(255,255,255,0.25)';
+    ctx.font = 'bold 13px system-ui';
+    ctx.fillText('hantavirustracker · ' + new Date().toLocaleDateString('es-ES'), 16, canvas.height - 12);
+
+    const a = document.createElement('a');
+    a.download = `hantavirustracker-${new Date().toISOString().slice(0,10)}.png`;
+    a.href = canvas.toDataURL('image/png');
+    a.click();
+  }).finally(() => {
+    btn.textContent = '📸 Capturar';
+    btn.style.pointerEvents = '';
+  });
+}
+
+// ── PUSH NOTIFICATIONS ──
+let pushInterval = null;
+let pushLastCases = 0;
+
+function initPushState() {
+  if (localStorage.getItem('hanta_push') === '1') {
+    document.getElementById('btn-push').classList.add('push-on');
+    document.getElementById('btn-push').textContent = '🔔 Push ON';
+    pushLastCases = appData.current.cases;
+    startPushPolling();
+  }
+}
+
+async function togglePush() {
+  if (!('Notification' in window)) { alert('Tu navegador no soporta notificaciones push.'); return; }
+
+  if (localStorage.getItem('hanta_push') === '1') {
+    localStorage.removeItem('hanta_push');
+    clearInterval(pushInterval);
+    const btn = document.getElementById('btn-push');
+    btn.classList.remove('push-on');
+    btn.textContent = '🔔 Push';
+    return;
+  }
+
+  const perm = await Notification.requestPermission();
+  if (perm !== 'granted') { alert('Permiso denegado. Actívalo en la configuración del navegador.'); return; }
+
+  localStorage.setItem('hanta_push', '1');
+  pushLastCases = appData.current.cases;
+  document.getElementById('btn-push').classList.add('push-on');
+  document.getElementById('btn-push').textContent = '🔔 Push ON';
+
+  new Notification('HantaTracker activado', {
+    body: 'Recibirás notificaciones cuando haya nuevos casos de hantavirus.',
+    icon: 'icon.svg',
+  });
+
+  startPushPolling();
+}
+
+function startPushPolling() {
+  clearInterval(pushInterval);
+  pushInterval = setInterval(async () => {
+    try {
+      const data = await fetch('data.json?_=' + Date.now()).then(r => r.json());
+      if (data.current.cases > pushLastCases) {
+        new Notification('🦠 Nuevo caso de hantavirus', {
+          body: `Total: ${data.current.cases} casos · ${data.current.deaths} fallecidos · ${data.current.countries} países.`,
+          icon: 'icon.svg',
+        });
+        pushLastCases = data.current.cases;
+      }
+    } catch(e) {}
+  }, 600_000);
+}
+
+// ── NOTICIAS ──
+const STATIC_NEWS = [
+  { title:'La OMS confirma cepa Andes con posible transmisión persona a persona', source:'CNN Español', date:'2026-05-05', desc:'La OMS trabaja bajo la hipótesis de que la pareja holandesa contrajo la infección en Argentina antes de abordar el crucero MV Hondius.', url:'https://cnnespanol.cnn.com/2026/05/05/mundo/crucero-hantavirus-oms-sospecha-transmision-personas-trax' },
+  { title:'El crucero MV Hondius con casos de hantavirus se dirige a Tenerife', source:'Infobae', date:'2026-05-06', desc:'España y la OMS coordinan la escala del barco en Canarias. Margarita Robles confirma cuarentena voluntaria para los pasajeros.', url:'https://www.infobae.com/espana/2026/05/06/hantavirus-ultima-hora-del-crucero-mv-hondius-en-directo-espana-y-la-oms-coordinan-la-escala-del-barco-en-canarias/' },
+  { title:'Primer caso de hantavirus en Europa no relacionado con el crucero', source:'El Tiempo', date:'2026-05-06', desc:'El caso detectado sugiere una posible cadena de transmisión independiente fuera del MV Hondius, lo que complica el rastreo del brote.', url:'https://www.eltiempo.com/mundo/europa/detectan-el-primer-caso-de-contagio-de-hantavirus-en-europa-el-afectado-no-se-encontraba-en-el-crucero-mv-hondius-3553544' },
+  { title:'¿Puede el brote de hantavirus convertirse en pandemia?', source:'Expansión MX', date:'2026-05-06', desc:'La OMS descarta un escenario similar al COVID-19, pero monitoriza de cerca la transmisión de la cepa Andes entre personas.', url:'https://expansion.mx/mundo/2026/05/06/brote-de-hantavirus-crucero-puede-convertirse-pandemia-oms' },
+  { title:'La alerta por hantavirus moviliza a autoridades en Sudáfrica y Santa Elena', source:'Infobae', date:'2026-05-05', desc:'Autoridades sanitarias sudafricanas activan protocolos tras detectar casos en pasajeros de un vuelo proveniente de Santa Elena.', url:'https://www.infobae.com/america/mundo/2026/05/05/la-alerta-por-hantavirus-moviliza-a-autoridades-en-sudafrica-y-santa-elena/' },
+  { title:'Hantavirus: qué tan contagiosa es la enfermedad y cuál es el riesgo real', source:'Infobae MX', date:'2026-05-06', desc:'Expertos analizan la transmisibilidad de la cepa Andes y las diferencias con otras cepas del hantavirus conocidas hasta ahora.', url:'https://www.infobae.com/mexico/2026/05/06/hantavirus-que-tan-contagiosa-es-esta-enfermedad-y-cual-es-el-riesgo-real-de-una-pandemia-ante-el-brote-en-el-crucero-mv-hondius/' },
+];
+
+function renderNews(items) {
+  const list = items?.length ? items : STATIC_NEWS;
+  document.getElementById('news-list').innerHTML = list.map(it => `
+    <div class="news-item">
+      <div class="news-date">${it.date}</div>
+      <div class="news-content">
+        <div class="news-title"><a href="${it.url}" target="_blank" rel="noopener">${it.title}</a></div>
+        <div class="news-desc">${it.desc || ''}</div>
+        <div class="news-source">${it.source}</div>
+      </div>
+    </div>`).join('');
+}
+
+function openNewsModal() {
+  openModal('modal-news');
+  renderNews(appData?.news);
+}
+
+// ── FAQ ACCORDION ──
+function toggleFaq(el) {
+  el.parentElement.classList.toggle('open');
+}
+
+// ── SERVICE WORKER ──
+function registerSW() {
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('sw.js')
+      .catch(e => console.warn('SW:', e));
+  }
+}
+
+// ── SEARCH ──
+function filterRanking(query) {
+  const q = query.trim().toLowerCase();
+  document.querySelectorAll('#ranking-list .rank-item').forEach(el => {
+    const name = el.querySelector('.rank-name').textContent.toLowerCase();
+    el.style.display = (!q || name.includes(q)) ? '' : 'none';
+  });
+}
+
+// ── MODALS ──
+function openModal(id)  { document.getElementById(id).classList.add('open'); }
+function closeModal(id) { document.getElementById(id).classList.remove('open'); }
+function bgClose(e, id) { if (e.target.id === id) closeModal(id); }
+
+// ── CALCULADORA DE RIESGO ──
+document.querySelectorAll('.q-opt').forEach(label => {
+  label.addEventListener('click', () => {
+    const q = label.dataset.q;
+    document.querySelectorAll(`[data-q="${q}"]`).forEach(l => l.classList.remove('selected','selected-yes'));
+    label.classList.add(label.dataset.v > 0 ? 'selected-yes' : 'selected');
+    label.querySelector('input').checked = true;
+  });
+});
+
+function calcRisk() {
+  const score = ['q1','q2','q3','q4','q5'].reduce((s, q) => {
+    const checked = document.querySelector(`input[name="${q}"]:checked`);
+    return s + (checked ? +checked.value : 0);
+  }, 0);
+
+  const el     = document.getElementById('calc-result');
+  const emoji  = document.getElementById('r-emoji');
+  const title  = document.getElementById('r-title');
+  const desc   = document.getElementById('r-desc');
+  const steps  = document.getElementById('r-steps');
+
+  el.style.display = 'block';
+  el.className = '';
+
+  if (score === 0) {
+    el.classList.add('low');
+    emoji.textContent = '🟢';
+    title.textContent = 'Riesgo muy bajo';
+    desc.textContent  = 'No presentas factores de riesgo conocidos. El hantavirus cepa Andes se transmite principalmente por contacto con roedores o con personas infectadas en contacto estrecho.';
+    steps.innerHTML   = '<li>Mantente informado sobre la evolución del brote.</li><li>Evita viajes no esenciales a Argentina/Cono Sur por el momento.</li>';
+  } else if (score <= 2) {
+    el.classList.add('medium');
+    emoji.textContent = '🟡';
+    title.textContent = 'Riesgo bajo — mantén vigilancia';
+    desc.textContent  = 'Tienes algún factor de exposición. El riesgo es bajo pero conviene monitorear tu estado de salud durante las próximas 6 semanas.';
+    steps.innerHTML   = '<li>Monitorea la aparición de fiebre, dolor muscular o fatiga.</li><li>Evita contacto con roedores y espacios donde puedan habitar.</li><li>Si aparecen síntomas, contacta con tu médico e informa del posible contexto de exposición.</li>';
+  } else if (score <= 5) {
+    el.classList.add('high');
+    emoji.textContent = '🟠';
+    title.textContent = 'Riesgo moderado — consulta médico';
+    desc.textContent  = 'Presentas varios factores de riesgo. Aunque no implica infección, debes ponerte en contacto con servicios médicos y explicar tu situación.';
+    steps.innerHTML   = '<li>Llama a tu médico o al 112 e informa de tus factores de exposición.</li><li>No acudas directamente a urgencias sin avisar — llama antes.</li><li>Evita el contacto cercano con personas vulnerables.</li><li>Período de incubación: 1–8 semanas desde la exposición.</li>';
+  } else {
+    el.classList.add('urgent');
+    emoji.textContent = '🔴';
+    title.textContent = 'Riesgo alto — busca atención médica HOY';
+    desc.textContent  = 'Combinas síntomas activos con factores de exposición. Esto requiere evaluación médica urgente. El hantavirus tiene una progresión rápida una vez que aparecen síntomas respiratorios.';
+    steps.innerHTML   = '<li><strong>Llama al 112 ahora.</strong></li><li>Informa del posible contexto: viaje a Sudamérica, contacto con crucero MV Hondius, contacto con roedores.</li><li>No conduzcas a urgencias si tienes dificultad respiratoria.</li><li>El diagnóstico temprano es crítico — no esperes.</li>';
+  }
+}
+
+// ── ALERTAS EMAIL ──
+// Cambia esta URL por tu endpoint de Formspree (https://formspree.io) o Brevo cuando lo configures
+const ALERTS_ENDPOINT = '';
+
+async function subscribeAlert() {
+  const email   = document.getElementById('al-email').value.trim();
+  const country = document.getElementById('al-country').value;
+  if (!email || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+    document.getElementById('al-email').style.borderColor = '#e63946';
+    return;
+  }
+  document.getElementById('al-email').style.borderColor = '';
+
+  const prefs = {
+    email, country,
+    new_case:     document.getElementById('al-c1').checked,
+    new_death:    document.getElementById('al-c2').checked,
+    daily_summary:document.getElementById('al-c3').checked,
+    oms_alert:    document.getElementById('al-c4').checked,
+    subscribed_at: new Date().toISOString(),
+  };
+
+  // Guardar en localStorage
+  const subs = JSON.parse(localStorage.getItem('hanta_subs') || '[]');
+  subs.push(prefs);
+  localStorage.setItem('hanta_subs', JSON.stringify(subs));
+
+  // Enviar al endpoint si está configurado
+  if (ALERTS_ENDPOINT) {
+    try {
+      await fetch(ALERTS_ENDPOINT, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(prefs),
+      });
+    } catch(e) { console.warn('Endpoint no disponible:', e); }
+  }
+
+  const countryName = document.getElementById('al-country').selectedOptions[0].text;
+  document.getElementById('alert-form').style.display = 'none';
+  document.getElementById('alert-success').style.display = 'block';
+  document.getElementById('alert-success-msg').innerHTML =
+    `Suscripción registrada para <strong>${email}</strong>.<br>
+     Recibirás alertas sobre: <strong>${countryName}</strong>.<br><br>
+     <span style="color:#3a4a66;font-size:11px">Para activar el envío real de emails, configura un endpoint en Formspree.io o Brevo y pégalo en la constante ALERTS_ENDPOINT del código.</span>`;
+}
+
+// ── VUELOS ──
+const AIRPORTS = {
+  high: [
+    { code:'EZE', name:'Ministro Pistarini', city:'Buenos Aires', country:'AR', fa:'SAEZ' },
+    { code:'AEP', name:'Jorge Newbery',       city:'Buenos Aires', country:'AR', fa:'SABE' },
+    { code:'COR', name:'Ing. A. L. V. Taravella', city:'Córdoba', country:'AR', fa:'SACO' },
+    { code:'AMS', name:'Amsterdam Schiphol',  city:'Ámsterdam',   country:'NL', fa:'EHAM' },
+    { code:'FRA', name:'Frankfurt',           city:'Frankfurt',   country:'DE', fa:'EDDF' },
+    { code:'MUC', name:'Franz Josef Strauss', city:'Múnich',      country:'DE', fa:'EDDM' },
+  ],
+  medium: [
+    { code:'JNB', name:'O.R. Tambo',          city:'Johannesburgo', country:'ZA', fa:'FAOR' },
+    { code:'CPT', name:'Cape Town Intl.',      city:'Ciudad del Cabo', country:'ZA', fa:'FACT' },
+    { code:'MAD', name:'Adolfo Suárez Barajas', city:'Madrid',    country:'ES', fa:'LEMD' },
+    { code:'BCN', name:'El Prat',             city:'Barcelona',   country:'ES', fa:'LEBL' },
+    { code:'TFN', name:'Tenerife Norte',      city:'Tenerife',    country:'ES', fa:'GCXO' },
+    { code:'TFS', name:'Tenerife Sur',        city:'Tenerife',    country:'ES', fa:'GCTS' },
+  ],
+};
+
+async function loadFlights() {
+  const now   = Math.floor(Date.now() / 1000);
+  const begin = now - 86400;
+
+  async function countFlights(icao) {
+    try {
+      const r = await fetch(
+        `https://opensky-network.org/api/flights/departure?airport=${icao}&begin=${begin}&end=${now}`,
+        { signal: AbortSignal.timeout(4000) }
+      );
+      if (!r.ok) return null;
+      const data = await r.json();
+      return Array.isArray(data) ? data.length : null;
+    } catch { return null; }
+  }
+
+  function buildRow(ap, count) {
+    const fa = `https://www.flightaware.com/live/airport/${ap.fa}`;
+    const countStr = count !== null
+      ? `<span style="color:#4cc9f0;font-weight:700">${count}</span>`
+      : '<span style="color:#3a4a66">—</span>';
+    return `<tr>
+      <td><img class="flt-flag" src="${flagUrl(ap.country)}" alt="${ap.country}"></td>
+      <td><span class="flt-code">${ap.code}</span></td>
+      <td style="color:#ccd6f0">${ap.name}</td>
+      <td>${ap.city}</td>
+      <td>${countStr} <a class="flt-link" href="${fa}" target="_blank">Ver ↗</a></td>
+    </tr>`;
+  }
+
+  // Render inmediato con placeholders
+  document.getElementById('flights-high').innerHTML =
+    AIRPORTS.high.map(ap => buildRow(ap, null)).join('');
+  document.getElementById('flights-medium').innerHTML =
+    AIRPORTS.medium.map(ap => buildRow(ap, null)).join('');
+
+  // Actualizar con datos reales en paralelo
+  const allAirports = [...AIRPORTS.high, ...AIRPORTS.medium];
+  const counts = await Promise.all(allAirports.map(ap => countFlights(ap.icao || ap.fa)));
+
+  AIRPORTS.high.forEach((ap, i) => {
+    document.getElementById('flights-high').rows[i].cells[4].innerHTML =
+      buildRow(ap, counts[i]).match(/<td>(.+)<\/td>\s*<\/tr>/)?.[1] || '—';
+  });
+  AIRPORTS.medium.forEach((ap, i) => {
+    document.getElementById('flights-medium').rows[i].cells[4].innerHTML =
+      buildRow(ap, counts[AIRPORTS.high.length + i]).match(/<td>(.+)<\/td>\s*<\/tr>/)?.[1] || '—';
+  });
+}
+
+// Cargar vuelos al abrir el modal (solo una vez)
+let flightsLoaded = false;
+const origOpenModal = window.openModal;
+window.openModal = function(id) {
+  document.getElementById(id).classList.add('open');
+  if (id === 'modal-flights' && !flightsLoaded) {
+    flightsLoaded = true;
+    loadFlights();
+  }
+};
+
+// ── SHARE ──
+function shareText() {
+  const t = appData.timeline[currentStep];
+  const countries = document.getElementById('stat-countries').textContent;
+  return `🦠 Hantavirus (cepa Andes) — Día ${currentStep}: ${t.cases} casos confirmados, ${t.deaths} fallecidos en ${countries} países.\n\nSigue el brote en tiempo real 👉 ${window.location.href}`;
+}
+
+function shareX() {
+  const url = `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText())}`;
+  window.open(url, '_blank');
+}
+
+function shareWA() {
+  const url = `https://wa.me/?text=${encodeURIComponent(shareText())}`;
+  window.open(url, '_blank');
+}
+
+// ── GO ──
+init().catch(err => {
+  console.error(err);
+  document.body.innerHTML += `<div style="position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);background:#1a0a0a;color:#e63946;border:1px solid #e6394640;border-radius:8px;padding:24px;text-align:center;font-size:14px">
+    <b>Error cargando datos.</b><br><br>
+    Asegúrate de servir la página con:<br><code style="color:#ff8c42">python -m http.server 8080</code><br>
+    y abre <a href="http://localhost:8080" style="color:#4cc9f0">http://localhost:8080</a>
+  </div>`;
+});
+</script>
+</body>
+</html>
