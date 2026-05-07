@@ -97,29 +97,94 @@ RECOVERED_PATTERNS = [
     r"ya\s+(?:son|hay)\s+(\d+)\s+(?:dados?\s+de\s+alta|recuperados?|curados?)",
 ]
 
-COUNTRY_ALIASES = {
-    "AR": [
-        "argentina", "argentino", "argentina", "argentinian", "buenos aires",
-    ],
-    "NL": [
-        "netherlands", "holland", "holanda", "países bajos", "paises bajos",
-        "dutch", "neerland", "holand", "amsterdam",
-    ],
-    "DE": [
-        "germany", "alemania", "german", "alemán", "alemana", "alemanes",
-        "berlin", "berlín", "munich", "múnich",
-    ],
-    "ZA": [
-        "south africa", "sudáfrica", "sudafrica", "south african", "sudafrican",
-        "johannesburgo", "johannesburg", "ciudad del cabo", "cape town",
-    ],
-    "ES": [
-        "spain", "españa", "spanish", "español", "española", "españoles",
-        "canarias", "tenerife", "gran canaria", "las palmas", "galicia",
-        "madrid", "barcelona", "valencia", "sevilla", "bilbao",
-        "manises",
-    ],
+COUNTRY_DATA = {
+    "AR": {"name": "Argentina", "iso_num": "032",
+           "aliases": ["argentina", "argentino", "argentinian", "buenos aires"]},
+    "NL": {"name": "Países Bajos", "iso_num": "528",
+           "aliases": ["netherlands", "holland", "holanda", "países bajos",
+                       "paises bajos", "dutch", "neerland", "amsterdam"]},
+    "DE": {"name": "Alemania", "iso_num": "276",
+           "aliases": ["germany", "alemania", "german", "alemán", "alemana",
+                       "alemanes", "berlin", "berlín", "munich", "múnich"]},
+    "ZA": {"name": "Sudáfrica", "iso_num": "710",
+           "aliases": ["south africa", "sudáfrica", "sudafrica", "south african",
+                       "johannesburgo", "johannesburg", "ciudad del cabo", "cape town"]},
+    "ES": {"name": "España", "iso_num": "724",
+           "aliases": ["spain", "españa", "spanish", "español", "española",
+                       "españoles", "canarias", "tenerife", "gran canaria",
+                       "las palmas", "galicia", "madrid", "barcelona",
+                       "valencia", "sevilla", "manises"]},
+    "IT": {"name": "Italia", "iso_num": "380",
+           "aliases": ["italy", "italia", "italian", "italiano", "italiana",
+                       "roma", "milán", "rome", "milan"]},
+    "FR": {"name": "Francia", "iso_num": "250",
+           "aliases": ["france", "francia", "french", "francés", "francesa",
+                       "parís", "paris", "marseille"]},
+    "GB": {"name": "Reino Unido", "iso_num": "826",
+           "aliases": ["united kingdom", "britain", "british", "reino unido",
+                       "inglaterra", "england", "londres", "london"]},
+    "US": {"name": "Estados Unidos", "iso_num": "840",
+           "aliases": ["united states", "estados unidos", "ee.uu.", "eeuu",
+                       "u.s.a", "usa", "american", "americano"]},
+    "PT": {"name": "Portugal", "iso_num": "620",
+           "aliases": ["portugal", "portuguese", "portugués", "portuguesa",
+                       "lisboa", "lisbon", "oporto"]},
+    "BE": {"name": "Bélgica", "iso_num": "056",
+           "aliases": ["belgium", "bélgica", "belgica", "belga",
+                       "bruselas", "brussels"]},
+    "CH": {"name": "Suiza", "iso_num": "756",
+           "aliases": ["switzerland", "suiza", "swiss", "suizo",
+                       "ginebra", "geneva", "zurich"]},
+    "AT": {"name": "Austria", "iso_num": "040",
+           "aliases": ["austria", "austrian", "austriaco", "viena", "vienna"]},
+    "IE": {"name": "Irlanda", "iso_num": "372",
+           "aliases": ["ireland", "irlanda", "irish", "irlandés", "irlandesa",
+                       "dublín", "dublin"]},
+    "SE": {"name": "Suecia", "iso_num": "752",
+           "aliases": ["sweden", "suecia", "swedish", "sueco", "sueca",
+                       "estocolmo", "stockholm"]},
+    "NO": {"name": "Noruega", "iso_num": "578",
+           "aliases": ["norway", "noruega", "norwegian", "noruego", "oslo"]},
+    "DK": {"name": "Dinamarca", "iso_num": "208",
+           "aliases": ["denmark", "dinamarca", "danish", "danés", "danesa",
+                       "copenhague", "copenhagen"]},
+    "FI": {"name": "Finlandia", "iso_num": "246",
+           "aliases": ["finland", "finlandia", "finnish", "finlandés",
+                       "helsinki"]},
+    "GR": {"name": "Grecia", "iso_num": "300",
+           "aliases": ["greece", "grecia", "greek", "griego", "griega",
+                       "atenas", "athens"]},
+    "PL": {"name": "Polonia", "iso_num": "616",
+           "aliases": ["poland", "polonia", "polish", "polaco", "polaca",
+                       "varsovia", "warsaw"]},
+    "BR": {"name": "Brasil", "iso_num": "076",
+           "aliases": ["brazil", "brasil", "brazilian", "brasileño",
+                       "brasileña", "são paulo", "rio de janeiro"]},
+    "CL": {"name": "Chile", "iso_num": "152",
+           "aliases": ["chile", "chilean", "chileno", "chilena", "santiago de chile"]},
+    "MX": {"name": "México", "iso_num": "484",
+           "aliases": ["mexico", "méxico", "mexican", "mexicano", "mexicana"]},
+    "CA": {"name": "Canadá", "iso_num": "124",
+           "aliases": ["canada", "canadá", "canadian", "canadiense"]},
+    "AU": {"name": "Australia", "iso_num": "036",
+           "aliases": ["australia", "australian", "australiano", "australiana"]},
+    "JP": {"name": "Japón", "iso_num": "392",
+           "aliases": ["japan", "japón", "japanese", "japonés", "japonesa",
+                       "tokio", "tokyo"]},
+    "CN": {"name": "China", "iso_num": "156",
+           "aliases": ["china", "chinese", "chino", "pekín", "beijing", "shanghai"]},
+    "KR": {"name": "Corea del Sur", "iso_num": "410",
+           "aliases": ["south korea", "corea del sur", "korean", "coreano",
+                       "coreana", "seúl", "seoul"]},
+    "MA": {"name": "Marruecos", "iso_num": "504",
+           "aliases": ["morocco", "marruecos", "moroccan", "marroquí",
+                       "casablanca", "rabat"]},
+    "CV": {"name": "Cabo Verde", "iso_num": "132",
+           "aliases": ["cape verde", "cabo verde", "praia"]},
 }
+
+# Vista plana de aliases para detección rápida
+COUNTRY_ALIASES = {code: c["aliases"] for code, c in COUNTRY_DATA.items()}
 
 
 def clean(text: str) -> str:
@@ -153,14 +218,100 @@ def extract_first_number(text: str, patterns: list[str], min_val: int = 0, max_v
     return None
 
 
-def detect_countries(text: str) -> list[str]:
-    """Devuelve lista de códigos ISO de los países mencionados en el texto."""
-    found = []
-    text_lower = text.lower()
-    for code, aliases in COUNTRY_ALIASES.items():
-        if any(alias in text_lower for alias in aliases):
-            found.append(code)
-    return found
+def _country_alt(aliases: list[str]) -> str:
+    """Construye alternancia regex con los aliases de un país."""
+    return r"(?:" + "|".join(re.escape(a) for a in aliases) + r")"
+
+
+def extract_country_metrics(text: str) -> dict[str, dict]:
+    """
+    Atribución estricta por país. Solo aplica si el país es:
+      - sujeto del verbo de notificar/confirmar/registrar, o
+      - va precedido de "in/en" tras la cifra
+    Esto evita falsos positivos como "la cepa Andes (originaria de Argentina)
+    causó 3 muertes en el crucero" — donde Argentina aparece pero no es la
+    localización de las muertes.
+    """
+    results: dict[str, dict] = {}
+
+    case_words   = r"(?:cases?|casos?|infections?|infectados?|positivos?|contagiados?|pacientes?)"
+    death_words  = r"(?:deaths?|fatalities?|fallecidos?|muertos?|muertes?|víctimas?\s+mortales?)"
+    verb_report  = (
+        r"(?:reports?|confirms?|registers?|records?|notifies|sees|adds|"
+        r"has|now\s+has|suma|notifica|confirma|registra|reporta|añade|"
+        r"tiene\s+ya?|cuenta\s+con|eleva\s+a|incrementa\s+a)"
+    )
+    location_prep = (
+        r"(?:in|reported\s+in|confirmed\s+in|en|notificados?\s+en|"
+        r"confirmados?\s+en|registrados?\s+en|reportados?\s+en|detectados?\s+en)"
+    )
+
+    for code, info in COUNTRY_DATA.items():
+        c = _country_alt(info["aliases"])
+        max_cases = 0
+        max_deaths = 0
+
+        case_patterns = [
+            # País + verbo + N + casos
+            rf"\b{c}\s+{verb_report}\s+(?:its\s+(?:first|new)\s+|sus\s+(?:primeros?\s+|nuevos?\s+))?(\d+)\s+(?:new\s+|nuevos?\s+|confirmed\s+|confirmados?\s+)?{case_words}",
+            # N + casos + en + país
+            rf"\b(\d+)\s+(?:new\s+|nuevos?\s+|confirmed\s+|confirmados?\s+)?{case_words}\s+{location_prep}\s+{c}\b",
+        ]
+        first_case_patterns = [
+            # Primer caso en {país}
+            rf"\b(?:first\s+case|primer\s+caso)\s+{location_prep}\s+{c}\b",
+            # {País} confirma su primer caso
+            rf"\b{c}\s+{verb_report}\s+(?:its\s+|su\s+)?(?:first\s+case|primer\s+caso)\b",
+        ]
+        death_patterns = [
+            rf"\b{c}\s+{verb_report}\s+(\d+)\s+{death_words}",
+            rf"\b(\d+)\s+{death_words}\s+{location_prep}\s+{c}\b",
+        ]
+        first_death_patterns = [
+            rf"\b(?:first\s+death|primer\s+(?:fallecido|muerto|fallecimiento))\s+{location_prep}\s+{c}\b",
+            rf"\b{c}\s+{verb_report}\s+(?:its\s+|su\s+)?(?:first\s+death|primer\s+(?:fallecido|muerto|fallecimiento))\b",
+        ]
+
+        for pat in case_patterns:
+            for m in re.finditer(pat, text, re.I):
+                if has_historical_context(text, m.start(), m.end()):
+                    continue
+                try:
+                    n = int(m.group(1))
+                    if 1 <= n <= 10000 and n > max_cases:
+                        max_cases = n
+                except (ValueError, IndexError):
+                    continue
+
+        for pat in first_case_patterns:
+            for m in re.finditer(pat, text, re.I):
+                if has_historical_context(text, m.start(), m.end()):
+                    continue
+                if max_cases < 1:
+                    max_cases = 1
+
+        for pat in death_patterns:
+            for m in re.finditer(pat, text, re.I):
+                if has_historical_context(text, m.start(), m.end()):
+                    continue
+                try:
+                    n = int(m.group(1))
+                    if 0 < n <= 1000 and n > max_deaths:
+                        max_deaths = n
+                except (ValueError, IndexError):
+                    continue
+
+        for pat in first_death_patterns:
+            for m in re.finditer(pat, text, re.I):
+                if has_historical_context(text, m.start(), m.end()):
+                    continue
+                if max_deaths < 1:
+                    max_deaths = 1
+
+        if max_cases > 0 or max_deaths > 0:
+            results[code] = {"cases": max_cases, "deaths": max_deaths}
+
+    return results
 
 
 def fetch_all_entries() -> tuple[list[dict], list[dict]]:
@@ -216,11 +367,12 @@ def fetch_all_entries() -> tuple[list[dict], list[dict]]:
 
 
 def try_update_metrics(data: dict, raw_entries: list[dict]) -> bool:
-    """Detecta de forma independiente casos, muertes y recuperaciones (totales)."""
+    """Detecta totales globales y atribución por país con patrones estrictos."""
     current = data["current"]
     best_cases     = current["cases"]
     best_deaths    = current["deaths"]
     best_recovered = current.get("recovered", 0)
+    per_country: dict[str, dict] = {}
 
     for entry in raw_entries:
         text = (entry["title"] + " " + entry["summary"]).lower()
@@ -233,12 +385,16 @@ def try_update_metrics(data: dict, raw_entries: list[dict]) -> bool:
         deaths    = extract_first_number(text, DEATH_PATTERNS,    0, 1000)
         recovered = extract_first_number(text, RECOVERED_PATTERNS,0, 10000)
 
-        # Solo agregados globales — la atribución por país NO es fiable sin NLP
-        # (un artículo puede mencionar "Argentina" como origen de la cepa pero las
-        # muertes haber sido en otro país). Se mantiene manual.
         if cases     and cases     > best_cases:     best_cases     = cases
         if deaths    and deaths    > best_deaths:    best_deaths    = deaths
         if recovered and recovered > best_recovered: best_recovered = recovered
+
+        # Atribución por país con patrones estrictos (sujeto-verbo / "en X país")
+        country_metrics = extract_country_metrics(text)
+        for code, vals in country_metrics.items():
+            best = per_country.setdefault(code, {"cases": 0, "deaths": 0})
+            if vals["cases"]  > best["cases"]:  best["cases"]  = vals["cases"]
+            if vals["deaths"] > best["deaths"]: best["deaths"] = vals["deaths"]
 
     changed = False
     changes_log: list[str] = []
@@ -258,6 +414,47 @@ def try_update_metrics(data: dict, raw_entries: list[dict]) -> bool:
         changed = True
 
     countries_arr = data.setdefault("countries", [])
+
+    # Aplicar cambios por país (actualizar existentes, auto-añadir nuevos)
+    for code, vals in per_country.items():
+        existing = next((c for c in countries_arr if c["code"] == code), None)
+        if existing:
+            if vals["cases"] > existing.get("cases", 0):
+                changes_log.append(f"{code}: casos {existing.get('cases', 0)}→{vals['cases']}")
+                existing["cases"] = vals["cases"]
+                changed = True
+            if vals["deaths"] > existing.get("deaths", 0):
+                changes_log.append(f"{code}: muertes {existing.get('deaths', 0)}→{vals['deaths']}")
+                existing["deaths"] = vals["deaths"]
+                changed = True
+        elif vals["cases"] > 0:
+            # País nuevo detectado vía patrón estricto — auto-añadir
+            meta = COUNTRY_DATA.get(code, {})
+            today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+            new_country = {
+                "code":       code,
+                "name":       meta.get("name", code),
+                "iso_num":    meta.get("iso_num", ""),
+                "cases":      vals["cases"],
+                "deaths":     vals["deaths"],
+                "status":     "Detectado automáticamente vía noticias",
+                "first_case": today,
+                "notes":      "Caso detectado por el scraper automático. Pendiente de revisión manual para añadir contexto epidemiológico.",
+            }
+            countries_arr.append(new_country)
+            changes_log.append(f"NUEVO PAÍS {code}: cases={vals['cases']} deaths={vals['deaths']}")
+            changed = True
+
+    # Total global no puede ser menor que la suma de países
+    sum_country_cases  = sum(c.get("cases", 0)  for c in countries_arr)
+    sum_country_deaths = sum(c.get("deaths", 0) for c in countries_arr)
+    if sum_country_cases > current["cases"]:
+        current["cases"] = sum_country_cases
+        changed = True
+    if sum_country_deaths > current["deaths"]:
+        current["deaths"] = sum_country_deaths
+        changed = True
+
     countries_with_cases = len([c for c in countries_arr if c.get("cases", 0) > 0])
     if countries_with_cases > current.get("countries", 0):
         current["countries"] = countries_with_cases

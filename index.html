@@ -977,16 +977,10 @@
     // ───────────────────────────────────────────
     //  CONFIG & STATE
     // ───────────────────────────────────────────
-    const COUNTRY_META = {
-      AR: { name: 'Argentina',     centroid: [-63.6167, -38.4161] },
-      NL: { name: 'Países Bajos',   centroid: [5.2913,    52.1326] },
-      DE: { name: 'Alemania',       centroid: [10.4515,   51.1657] },
-      ZA: { name: 'Sudáfrica',      centroid: [22.9375,   -30.5595] },
-      ES: { name: 'España',         centroid: [-3.7492,    40.4637] },
-    };
-    const ISO_NUM_TO_CODE = {
-      '032':'AR','528':'NL','276':'DE','710':'ZA','724':'ES',
-    };
+    // ISO_NUM_TO_CODE y centroides se construyen dinámicamente desde data.json
+    // y desde la geo del mapa para que cualquier país nuevo del scraper funcione
+    let ISO_NUM_TO_CODE = {};   // "380" → "IT"
+    let COUNTRY_FEATURE = {};   // "IT" → topojson feature
 
     // MV Hondius journey: Argentina → Atlantic → Cabo Verde → Canarias
     const SHIP_ROUTE = [
@@ -1085,6 +1079,18 @@
 
       const countries = topojson.feature(WORLD_GEO, WORLD_GEO.objects.countries).features;
 
+      // Construir mapas: ISO numérico → código alpha2, y código → feature
+      ISO_NUM_TO_CODE = {};
+      COUNTRY_FEATURE = {};
+      (DATA.countries || []).forEach(c => {
+        if (c.iso_num) ISO_NUM_TO_CODE[c.iso_num] = c.code;
+      });
+      countries.forEach(f => {
+        const isoNum = String(f.id).padStart(3, '0');
+        const code = ISO_NUM_TO_CODE[isoNum];
+        if (code) COUNTRY_FEATURE[code] = f;
+      });
+
       gMap.selectAll('path.country')
         .data(countries)
         .join('path')
@@ -1164,9 +1170,10 @@
       // bubbles
       gBubbles.selectAll('*').remove();
       Object.entries(snap).forEach(([code, info]) => {
-        const meta = COUNTRY_META[code];
-        if (!meta) return;
-        const [cx, cy] = projection(meta.centroid);
+        const feature = COUNTRY_FEATURE[code];
+        if (!feature) return;
+        const [cx, cy] = pathGen.centroid(feature);
+        if (!isFinite(cx) || !isFinite(cy)) return;
         const r = Math.max(8, Math.sqrt(info.cases) * 8);
 
         const grp = gBubbles.append('g').attr('transform', `translate(${cx}, ${cy})`);
