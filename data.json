@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-05-10 16:13 UTC"
+    "updated": "2026-05-10 17:18 UTC"
   },
   "current": {
     "cases": 8,
@@ -182,11 +182,18 @@
   ],
   "news": [
     {
-      "title": "Así será la cuarentena de los españoles por hantavirus en el Gómez Ulla: habitaciones individuales con control - antena3.com",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQdF9xbHNWdUtEVlAzdXZOR1lmeUpEZ2N3cExiOHFJb3lSbEt4MGhBb3BfYUJkMjY3Nk4yQjhEV2tVU0xCMEtRNVJmLXNyVkJzbzkyX1FxSmEyM1FDUHFWcGRmc0pMQ0NqR3B4V3psLTZ3RkFzSDdrOVRQZHpXN0V5WTRwbm1Vd1RybXZzU2x0U0RMZ1A0X0tkUHhtdGxwdkZRODR3NzM2X1NMbWdhcGduOHg3YXhxMlRmc2xuV2VPZmdja2N4TEdwb2RmTHp3cG04T29LeERYNlNuMnBrb0FGN0RhNDZsQmp6V1dmeklram5DUC1PcmE1OFo4M3JIbVkzeUHSAYICQVVfeXFMT09PbVBiY0VfSjBPbEdaREJjWGlDa3ZEMVN4c1llZWE5cGtzd195a2IxTVdIOHZFUURQRGJHVzhKcjI4b3FUXzVNMFN3Uy02OGoxbEVzUFQ0dkZCRHV3UHJJS3hCRDR2Y0tpaTU2SDhjUy1jaVZFbk1mOUx6cGw5em9fLXB2dUNscF9wLWF0OXBFQm5ONmZIbHd5TmxxOFIxazBCZkdLeDlWd2ttVFFPU21xeC1HR0ZWTTV3N0Z0Yzk1NXY0RjlOcGsxLTRFS2tHbTItWjNjdi1aU3Yxd3JJSWt6LTdXd0FiQWNqQXlKUjJTc3VGbzNPanJBOTBmOUNsM3F3?oc=5",
+      "title": "What is hantavirus and how does it spread?",
+      "url": "https://www.bbc.com/news/articles/c8r8j1l6j0go?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-10",
+      "source": "BBC News",
+      "desc": "The Andes strain of the virus, which can rarely be passed from person to person,  has been found among passengers of a cruise ship."
+    },
+    {
+      "title": "Ushuaia confía en el turismo pese al brote de Hantavirus investigado en el barco MV Hondius - antena3.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNnJTVUZ6MVFreGY1Qk52VFpTWmlybzBKRm5raWtwYjBrNGktbmJ0WmlCRy1VaV9uRWhQVGRhM1FGOW9VclA2Y1ZKazVFbkc3TEdtX2UzRGxPREpoV2ZfdTVxSkwwbjNwZExtRnhnY0QxTFU5LXhNaUJLNWVVUmdDajNQTjg1bFpVZUNVU1lBUGpYLTREQ1h1NXlkWXE0b0hhR1ByMjcyNVR3VFVLWTl0OWJ5NEhxNElmWmdsYjBOdHBYeUdFYklfWUhSUlFjUjhROUtGRy1Xd2luYzFueUlYWtIB4AFBVV95cUxQLVVQOXRONlphSXVZWm9fVnljT0p2anBSb281UWEta0lXdXBxYWQ3QURHbEhoZHdydnF4Y2xsNnhhcmVucmwwNjF2UnV5Y2dQbGw1X0J1aHRHOTUxZm1nMjR5anhJbllFaTQwQXpHemJMc05kbHVrOTNFS1puR2pISDI4MGRPbW9vYVV2TkF3SXNMVm9fVV84aUpPdkVaZFB1TTJJNWF6dGhMX1RPalNBSGRyeERYdXZobmcwUFI2OGhkb2hGaE11Mk1kYU15YzI2MmFpZkI3N3o1Rlg3eXF4bQ?oc=5",
       "date": "2026-05-10",
       "source": "Antena 3",
-      "desc": "Así será la cuarentena de los españoles por hantavirus en el Gómez Ulla: habitaciones individuales con control&nbsp;&nbsp;antena3.com"
+      "desc": "Ushuaia confía en el turismo pese al brote de Hantavirus investigado en el barco MV Hondius&nbsp;&nbsp;antena3.com"
     },
     {
       "title": "Ángel Víctor Torres pide evitar alarmas por el hantavirus y agradece la solidaridad canaria: \"Es un pueblo - antena3.com",
@@ -194,6 +201,13 @@
       "date": "2026-05-10",
       "source": "Antena 3",
       "desc": "Ángel Víctor Torres pide evitar alarmas por el hantavirus y agradece la solidaridad canaria: \"Es un pueblo&nbsp;&nbsp;antena3.com"
+    },
+    {
+      "title": "Así será la cuarentena de los españoles por hantavirus en el Gómez Ulla: habitaciones individuales con control - antena3.com",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQdF9xbHNWdUtEVlAzdXZOR1lmeUpEZ2N3cExiOHFJb3lSbEt4MGhBb3BfYUJkMjY3Nk4yQjhEV2tVU0xCMEtRNVJmLXNyVkJzbzkyX1FxSmEyM1FDUHFWcGRmc0pMQ0NqR3B4V3psLTZ3RkFzSDdrOVRQZHpXN0V5WTRwbm1Vd1RybXZzU2x0U0RMZ1A0X0tkUHhtdGxwdkZRODR3NzM2X1NMbWdhcGduOHg3YXhxMlRmc2xuV2VPZmdja2N4TEdwb2RmTHp3cG04T29LeERYNlNuMnBrb0FGN0RhNDZsQmp6V1dmeklram5DUC1PcmE1OFo4M3JIbVkzeUHSAYICQVVfeXFMT09PbVBiY0VfSjBPbEdaREJjWGlDa3ZEMVN4c1llZWE5cGtzd195a2IxTVdIOHZFUURQRGJHVzhKcjI4b3FUXzVNMFN3Uy02OGoxbEVzUFQ0dkZCRHV3UHJJS3hCRDR2Y0tpaTU2SDhjUy1jaVZFbk1mOUx6cGw5em9fLXB2dUNscF9wLWF0OXBFQm5ONmZIbHd5TmxxOFIxazBCZkdLeDlWd2ttVFFPU21xeC1HR0ZWTTV3N0Z0Yzk1NXY0RjlOcGsxLTRFS2tHbTItWjNjdi1aU3Yxd3JJSWt6LTdXd0FiQWNqQXlKUjJTc3VGbzNPanJBOTBmOUNsM3F3?oc=5",
+      "date": "2026-05-10",
+      "source": "Antena 3",
+      "desc": "Así será la cuarentena de los españoles por hantavirus en el Gómez Ulla: habitaciones individuales con control&nbsp;&nbsp;antena3.com"
     },
     {
       "title": "La prensa internacional se hace eco del desembarco de los españoles del crucero con hantavirus en Tenerife - antena3.com",
@@ -231,18 +245,18 @@
       "desc": "Así ha sido la llegada del crucero MV Hondius a Tenerife en imágenes&nbsp;&nbsp;antena3.com"
     },
     {
+      "title": "Hantavirus, en directo hoy en vídeo la última hora del desembarco del crucero en Canarias: Uno de los pasajeros franceses repatriados presenta síntomas - RTVE.es",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMHpHVUt1bHI3bzFEVVVxVjFVMXFEVEVnRlZ6MFdHOWlfR3JOZUVicFEyazQyY0o2VzlOZnVDWTlEVjZaeER3d2NpeHpuQUpTMmRCOGdTZ0FScnlqM3dXeG0wWVdPN3FpVzdEMjJSUEotQ2I2UUNvSTA3bFc3bUpzX0VIbkhYeWhGZzFHdkF2aERfNFJDbWlwa2t2UGEzWFpPSnBsdElOUXBhSmdYNjVJbFBORDdJejDSAbcBQVVfeXFMT284d1RYSXlmc3RaOFFmamRiWW9mMlBRakRFTTgxeWJTRXVMNEVCZFBzLWNGdW5ZMDN3ci1qTklFVzlXU1hZR1NMcEoxX1owNmVnY0RCUW1ZQmRpV2J0X1JvQjFPSUdJWUZVT2I3dDFzUUljU0VsbVdkZzhwWEtJT1R4ZnU0UXh1QlRfUV8yN3h1d0tRN0QwU3U0VVBZSjhhU1dybzVJSXFBWTFVX0g2RjhwLWtMdjN3?oc=5",
+      "date": "2026-05-10",
+      "source": "RTVE",
+      "desc": "Hantavirus, en directo hoy en vídeo la última hora del desembarco del crucero en Canarias: Uno de los pasajeros franceses repatriados presenta síntomas&nbsp;&nbsp;RTVE.es"
+    },
+    {
       "title": "El dispositivo \"inédito\" para el desembarco del crucero del hantavirus avanza \"según lo previsto\" tras fondear en Tenerife - RTVE.es",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT0Y0VTJ5b0dFTVYxQzhtZjdfQnExU0VHeEFLc1ZaT1BheUtTaE5xSzV1UUVtdW1LZFlmTjZfY2J5UlV0M2IyV19odjZMWHEyMUZlbm90TVJYaGpTZy0yWnFrQ3dWNU9KVmE4OHJLSHVINGllQXpDbkVVZkc4QVN0VUFkSmtxbEh0X2VqVzhmNnRSSnk5V2RKVNIBmAFBVV95cUxQLVNhRE9oa010UlljM0txaWlGbDdKR2ZxMzBrY0wyQ3lLb0F2NjVScTItOElRLTBCNVJpa3BsMHptS2M2X3I0N2VobWNlV1dfekkxUVRVSHAybWd5VjZKY25hQ2NkM09jU2xpSzFSSDZldGhLUTA4b2pHdzNfNy1SRmR2dDlGV2M2bUFUSi01OTF3dnkwNnlhUw?oc=5",
       "date": "2026-05-10",
       "source": "RTVE",
       "desc": "El dispositivo \"inédito\" para el desembarco del crucero del hantavirus avanza \"según lo previsto\" tras fondear en Tenerife&nbsp;&nbsp;RTVE.es"
-    },
-    {
-      "title": "Hantavirus, en directo hoy en vídeo la última hora del desembarco del crucero en Canarias: Los 14 españoles ya están en el Hospital Gómez Ulla para comenzar la cuarentena - RTVE.es",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMHpHVUt1bHI3bzFEVVVxVjFVMXFEVEVnRlZ6MFdHOWlfR3JOZUVicFEyazQyY0o2VzlOZnVDWTlEVjZaeER3d2NpeHpuQUpTMmRCOGdTZ0FScnlqM3dXeG0wWVdPN3FpVzdEMjJSUEotQ2I2UUNvSTA3bFc3bUpzX0VIbkhYeWhGZzFHdkF2aERfNFJDbWlwa2t2UGEzWFpPSnBsdElOUXBhSmdYNjVJbFBORDdJejDSAbcBQVVfeXFMT284d1RYSXlmc3RaOFFmamRiWW9mMlBRakRFTTgxeWJTRXVMNEVCZFBzLWNGdW5ZMDN3ci1qTklFVzlXU1hZR1NMcEoxX1owNmVnY0RCUW1ZQmRpV2J0X1JvQjFPSUdJWUZVT2I3dDFzUUljU0VsbVdkZzhwWEtJT1R4ZnU0UXh1QlRfUV8yN3h1d0tRN0QwU3U0VVBZSjhhU1dybzVJSXFBWTFVX0g2RjhwLWtMdjN3?oc=5",
-      "date": "2026-05-10",
-      "source": "RTVE",
-      "desc": "Hantavirus, en directo hoy en vídeo la última hora del desembarco del crucero en Canarias: Los 14 españoles ya están en el Hospital Gómez Ulla para comenzar la cuarentena&nbsp;&nbsp;RTVE.es"
     },
     {
       "title": "El papa agradece \"la acogida\" del pueblo canario al crucero MV Hondius afectado por hantavirus - RTVE.es",
@@ -280,32 +294,18 @@
       "desc": "La crisis del hantavirus desata una nueva bronca política&nbsp;&nbsp;RTVE.es"
     },
     {
-      "title": "Fotogalería | El crucero ‘MV Hondius’ llega a Tenerife tras el brote de hantavirus | Fotos | Sociedad - EL PAÍS",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVW9xcGpxVEpEM1owQkZTb1J2cVFjalptbzJFNWRBcGduM0xXSjhaTFNobGx2VkdKX0VuLTRnbmNDdlJ0Z0JFTzdaRl84M1ExWG5VUmt5dUxUTUNVZ1ZzOXdCQTlqMDljcVIzbmJhOGhfTmVaa25CT0gwRVBta1RaNmUtcUZqWmJTM3MzdUlTRjhhU3ZVUFJSNWhLNFYxN1RyVkpKaGpTczFzVTZ0aTdpZ0lhNVd0b1JTTG5HY3JyQQ?oc=5",
-      "date": "2026-05-10",
-      "source": "El País",
-      "desc": "Fotogalería | El crucero ‘MV Hondius’ llega a Tenerife tras el brote de hantavirus | Fotos | Sociedad&nbsp;&nbsp;EL PAÍS"
-    },
-    {
-      "title": "Muerto a bordo: los cabos sueltos de la gestión de la crisis del crucero del hantavirus - EL PAÍS",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZTNzZlV0cDFaWXZpZS1HVUpxbENDcU9WRTdPYVBuRmlXandNTUpyUTJpeXg1eVF5XzJVWmNUSS1GTi15eExOdExiSTA2Yzl1cEd2U1ROT1p3Q041Y2J5WldrVGVaXzdtX0NoaG9yeC1GWWozT0pTSmM1NkJtOWV1R3pEUl9XeXQ4R2plU01lbUUzQnJfWXlUbG5zaWJ6NzhONEdjS1RSb3hFMWNhQThaWDZZQTFjSTFNLXJ3MUZJLWtfa0FPT3VUX2hB0gHeAUFVX3lxTE1wUWhsaC0xcTZOWkJPd2cxNmdVM2EybUhHQWYySktMTks2cm5RU1NaNzc5SzZORUJUTGI5R3BCajY5V2UwMXpDVXZfMkgwRUJUUlQ4MFZBTEQ0ZThtR1R0cW5od0FPSnd4UWY4MndjaVBWT0ZGUDJma3R0ZmdpeXVxOEpoaEN1bnNHUS12c2xUVFhFSEZ4QkQxcDEyRUN6cXN6Mi1HS19vaVQ4M05mRVJyQjdCU2lMQWpRWEFYenU2VFpIN0xUcEZRdzhmRDZLMXhxNm8zZ2hpUnRNWUlXZw?oc=5",
-      "date": "2026-05-10",
-      "source": "El País",
-      "desc": "Muerto a bordo: los cabos sueltos de la gestión de la crisis del crucero del hantavirus&nbsp;&nbsp;EL PAÍS"
-    },
-    {
       "title": "El Gómez Ulla vuelve a primera línea: así recibirá a los pasajeros españoles del crucero del hantavirus - EL PAÍS",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQ0czLTJxYzl0S29rSzdRZVdJZUU3aGpISWt6QThRV3RVcUJVVVZHT0hId2Q1bGo4WC12UHVGMUdDTGFqZElxc3ZJaDNmdWJPSzA1VTQ2R1czN1V5VVF2YUlYd2dTZVRGMXpfQzc2ZC01Si0yTF9GZUFxMEU1M2h0UXV3ek5hNTgzSGh6UnVxNUZkanlNR2pmbFBrZndsSGpkd0hTLWhEMHZObUtOYk5yQWVWc3Zac1RDZUp4TmFMbzhnbGNFb1B3RjYtclZzRjRrUkFVTW9BOGxoMFIwRlVaaXhQY2Y0SUNPTUk0VVlwNmpTSjTSAfMBQVVfeXFMTkNHMy0ycWM5dEtva0s3UWVXSWVFN2hqSElrekE4UVd0VXFCVVVWR09ISHdkNWxqOFgtdlB1RjFHQ0xhamRJcXN2SWgzZnViT0swNVU0NkdXMzdVeVVRdmFJWHdnU2VURjF6X0M3NmQtNUotMkxfRmVBcTBFNTNodFF1d3pOYTU4M0hoelJ1cTVGZGp5TUdqZmxQa2Z3bEhqZHdIUy1oRDB2Tm1LTmJOckFlVnN2WnNUQ2VKeE5hTG84Z2xjRW9Qd0Y2LXJWc0Y0a1JBVU1vQThsaDBSMEZVWml4UGNmNElDT01JNFVZcDZqU0o0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYzBwUzdwZW90aWp2dkVONm90eEFNSEVkbjA3ZV84enkyYUh6VTRpM3duNUQ1WGNXQUxZRXNfWEotZkNxWVdZN2JULUM1d055V2E2SDBLUzRsNHBjVjN4MXFBYzhIdXlaN0lFdXU5MVhsSXB5VWFwNEZ5YmJsU2JCR20wbEJNckY4MU5OX1VrN05iRVlRQmdTcXJpQzVqMlp3NlBJZWpNTWwwNU5tWW56VlFsZmdQZDBFTENOQU9XX1FucHRrb24zRU1pRzViTENEQmpBVFcwMWJ1cTFoS3pF0gHzAUFVX3lxTE5DRzMtMnFjOXRLb2tLN1FlV0llRTdoakhJa3pBOFFXdFVxQlVVVkdPSEh3ZDVsajhYLXZQdUYxR0NMYWpkSXFzdkloM2Z1Yk9LMDVVNDZHVzM3VXlVUXZhSVh3Z1NlVEYxel9DNzZkLTVKLTJMX0ZlQXEwRTUzaHRRdXd6TmE1ODNIaHpSdXE1RmRqeU1HamZsUGtmd2xIamR3SFMtaEQwdk5tS05iTnJBZVZzdlpzVENlSnhOYUxvOGdsY0VvUHdGNi1yVnNGNGtSQVVNb0E4bGgwUjBGVVppeFBjZjRJQ09NSTRVWXA2alNKNA?oc=5",
       "date": "2026-05-10",
       "source": "El País",
       "desc": "El Gómez Ulla vuelve a primera línea: así recibirá a los pasajeros españoles del crucero del hantavirus&nbsp;&nbsp;EL PAÍS"
     },
     {
-      "title": "Cronología visual: por mar, tierra y aire, así ha sido el traslado de los españoles afectados por el brote de hantavirus a Madrid - EL PAÍS",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRzNieThxamtVVXphd2NuVEFNYzRRczlmSTJ5WVUxUGh3RFF5Tmc3ME9HcmdITENSSnJyS0dzMm1VUjd4cUwtS2o1QmtGTEcxa0ZFUDdyZFVaRXZsRU8wS2dWemd3bUg1WXk4N2pYNmIxOFBuYXVmYVRwTmtIR0JySDlsYjMzaC16UnZCZDlQSXU0SjB6VlplclNXbGtGR0pZWmFxcWRaRGhHQzBQUk52dHo2d1NJMjNHaTlkOFVNU0RQcWdhRVFiZzRfMUYtelJuMm9vbzdBb0ZxMVRELVAtUUVqUkxlWVJva3loaUptcnlEd01YU0ZMMVBBV3TSAZACQVVfeXFMT3pCV0hSLXNDRHR2MktYbG93aVhGaEpOektCV3Vlam92RXBRSEppbmItbGlsZGhlWjJRbFlYRTRQaDRZeXFfT21RMjc2WDBhZERnSlprRWJGemNmUW5OTW5ZRTJPUXhYaDJnMjM2TFQzT01XQUQ2ZXJHb1hxVDB5YWJHLTlwcUZ0aWpJVlhHcERqT2tDbXBvbGdUQWZXcDlHN1BuZ0pkU0MyeW5wdmxPQ0FfRmNjQmtoSk1xeEp0MG95QUhQRGp1QW9QTk96VkNpYU5aNXhJU1FyOE83X0JCekwzR0stakdrYy1hSnJzbVpuRndzN1lrTkJzRXpvVGlfTU5LWUZKcDJBVVVlcVE5ZHY?oc=5",
+      "title": "Fotogalería | El crucero ‘MV Hondius’ llega a Tenerife tras el brote de hantavirus | Fotos | Sociedad - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVW9xcGpxVEpEM1owQkZTb1J2cVFjalptbzJFNWRBcGduM0xXSjhaTFNobGx2VkdKX0VuLTRnbmNDdlJ0Z0JFTzdaRl84M1ExWG5VUmt5dUxUTUNVZ1ZzOXdCQTlqMDljcVIzbmJhOGhfTmVaa25CT0gwRVBta1RaNmUtcUZqWmJTM3MzdUlTRjhhU3ZVUFJSNWhLNFYxN1RyVkpKaGpTczFzVTZ0aTdpZ0lhNVd0b1JTTG5HY3JyQQ?oc=5",
       "date": "2026-05-10",
       "source": "El País",
-      "desc": "Cronología visual: por mar, tierra y aire, así ha sido el traslado de los españoles afectados por el brote de hantavirus a Madrid&nbsp;&nbsp;EL PAÍS"
+      "desc": "Fotogalería | El crucero ‘MV Hondius’ llega a Tenerife tras el brote de hantavirus | Fotos | Sociedad&nbsp;&nbsp;EL PAÍS"
     }
   ],
   "countries": [
