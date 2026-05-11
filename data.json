@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-05-11 07:54 UTC"
+    "updated": "2026-05-11 11:28 UTC"
   },
   "current": {
     "cases": 9,
@@ -215,6 +215,13 @@
   ],
   "news": [
     {
+      "title": "How worried should we be about hantavirus?",
+      "url": "https://www.bbc.com/news/articles/c98r199e195o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-11",
+      "source": "BBC News",
+      "desc": "Passengers potentially exposed to hantavirus are being repatriated, so what is the risk to the wider public?"
+    },
+    {
       "title": "French national shows symptoms on return from hantavirus-hit ship",
       "url": "https://www.bbc.com/news/articles/c3r2p70jdy7o?at_medium=RSS&at_campaign=rss",
       "date": "2026-05-11",
@@ -222,11 +229,11 @@
       "desc": "Five passengers of the MV Hondius will be quarantined in Paris \"until further notice\", France's prime minister says."
     },
     {
-      "title": "U.S. cruise passengers fly back for hantavirus monitoring, as one tests positive",
+      "title": "U.S. cruise passengers arrive in the U.S. after one tests positive for hantavirus",
       "url": "https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers",
       "date": "2026-05-11",
       "source": "NPR Topics: Health",
-      "desc": "Passengers are returning to their home countries after weeks on the ship at the center of a hantavirus outbreak. Most of the Americans aboard are headed for Nebraska to be evaluated by health officials."
+      "desc": "One of the 17 Americans tested \"mildly\" positive for the virus during the U.S. return flight. A French woman has also tested positive — she was was among five French passengers repatriated to Paris."
     },
     {
       "title": "Muere un guardia civil durante el desembarco del crucero con hantavirus en Tenerife - Antena 3",
@@ -236,11 +243,39 @@
       "desc": "Muere un guardia civil durante el desembarco del crucero con hantavirus en Tenerife&nbsp;&nbsp;Antena 3"
     },
     {
+      "title": "Los países implicados se blindan para contener el hantavirus: así son sus estrictos protocolos - Antena 3",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRXZhSWtIcGltUWFxanViajU4SklvU05VaVA3ODNwVE54b0JGWXljMnp2S1lDX3JONkU4QXZWTHdsaU9pUGJYd3BtSjhOLUlGenNPVlFCaXFnUGhodmJaUGlMZW8taXJranZhMVo0N0JSczc2SjNZMnRra1c5Z1ZIamN4bUhsSGRBd052QXV1M291eFdvQko2Zjh4Q3Z0Q2NRTHVHZUlneUNiQ1RCQmFSR21pcVZDRUNaVENoRjVhWl9BV0MzOEV0ak5sMGx2VGpJVWVCSzYwdXZJM2VyM0QwZ01YTGoyTmxOU2Z30gHrAUFVX3lxTE5GTUJ4cnBfWHdfcE9QNEVDOGhtd0JGU3V3ZzJhbVRWdkJoQUZJeDJ1RU5pN2E1dHl2MmU2akxXUFI4U0JOWk5BTjBXTVpwT1JCcjBTbF9PYzJveTBRQjdSeTBYbGg1SVBmZUJ1TjBFWm11R1dFaElsRlR3blNwVnhtZVRXbC02ME5BbEliUG10Q05heTdrZmdSdFBmYlMyRnZvQjUyZ1FRSHMxX3FDN0tnajNkOWwyalU3bnhlSF9UVFFVNklwRTlHS28xMnlwSVYxYmJYcHRHRU9aZWczdkJZMF91Vm5OSWFpaWM?oc=5",
+      "date": "2026-05-11",
+      "source": "Antena 3",
+      "desc": "Los países implicados se blindan para contener el hantavirus: así son sus estrictos protocolos&nbsp;&nbsp;Antena 3"
+    },
+    {
+      "title": "El epidemiólogo Daniel López Acuña advierte de una \"segunda oleada\" de positivos en hantavirus: \"Es altamente - Antena 3",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOR3J0WmxJSmRZblBBMU9sQk1NSUNVOG1QS1liTHBVRUdFU0h4QmZzSUxvZDRPbUZFamh4WEpFY2JzZW45b0lUWDAwUENmZF9yTXNRMTF2b0ZhaW5CQ3Z5SmJHWmtqa3BOVVJQRG5QNmJxcHhlWUlwaURvN2g2UWotODY0SXhneUpiTzh3WktnRDJ2Y2hvemowYklVYjk2QThGSWJTZ0x6MFJrV0RLcURRVW0ya21NbFVKX2tFTlRyOC1jdzFIQWZJeWRaamVHQjQxa1ktc0RIWVlxOC14LTBOOEVzSFFfR1N30gHoAUFVX3lxTE5NT0E3VFlEQWdHT2Q1ejducGdoRXZVZlFCSlVudVNVbktDS09BcDVBVFhPRVc5RmE5WWRpYXNaQzVSZm5YQnkycFl1NzRaTUYtUnBCNjhtX3ZkQWhqTGR6aW1KZlFjRm5IQkUtOE1tMUl0RExwNDRadXl5ZnlIdkh5aHlvM25TSnh5NDhCemJfUDRyYmZIdjhzWG5rWDZoMVhYRHZqQ1lzR0pxTTJ6WUg4Y0hCQzlmbkRYTFZZWDFCWWRwcE9yTjZTS3BXREdEend4SmFsN0tXYk43eUFyLUh2bW0wLXdKSGE?oc=5",
+      "date": "2026-05-11",
+      "source": "Antena 3",
+      "desc": "El epidemiólogo Daniel López Acuña advierte de una \"segunda oleada\" de positivos en hantavirus: \"Es altamente&nbsp;&nbsp;Antena 3"
+    },
+    {
+      "title": "Argentina avanza con una terapia contra el hantavirus mientras estalla una polémica viral - Antena 3",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb2x4YzM2UnFyWktHblZPLTFZWDN4QWZsYzdzaEtseG5NaUdvQi1YQXdQN091b2VFY0F5Rkc5aXlxOS1sYTFIQ0pSLVdoUTBvaVBjRUJIc2xsd0xyVm9aQWFsMnlVNkhwNV9KbmRIR0NJallWdXFMTTlyQmxKWHpHLXpveXZyVHdub3B6QXEzRThhaVU0SzM0X2libzNGQUI3QlpIVUJuWFRsaGdXQ0l1dUczWktrSms2V09UN0xoZ3B6dkEyaVdXV0hKeDJBSHRXZmtuREhUQnZDa2U00gHcAUFVX3lxTE5CUFpoSmJjZlZPTmlBYzdwdWxPdjdDQUp0MW8zSnVES3FFcnQyVm80eHJOS3oteDVfMlczMWY4MHVfS2xOZVRyNF9PRzhvb1ptVlFPX1had05UMWJlWWs4cFVQOU0td1hZUmRoWDhDTXBmYkFiZHNmTEUxSGFRbnhvTk94SWdKdnJjZ0xtbzhnUTRJSVpqOGFpNXE2SFVRVElxV1huUHdfYVN1ZEd0cXMtdmxreEhDa2tEaW5aYTJSaXZQaXNVeHV6Z3B4TmpSMjZTSnNmUVpqVmgtcXE?oc=5",
+      "date": "2026-05-11",
+      "source": "Antena 3",
+      "desc": "Argentina avanza con una terapia contra el hantavirus mientras estalla una polémica viral&nbsp;&nbsp;Antena 3"
+    },
+    {
       "title": "Hantavirus: no hay ratas en el Hondius y es \"muy improbable\" que pudieran llegar a la costa y contagiar a los canarios - RTVE.es",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYUx6MENjUzlZR2NFTzExdW53emFHUkxKdU83ZkozbC1OVXpwZGo2cDdHbkRQREdwaHJCOGdNaTRJZGNLZ1N6VW9aTThjS21xRDM5Z2ZZNWR2eHpfMnhvWlN2ZnF1M2lGLWJOQTAycXpiMnhPS0ZzSU5wZjhzTjdNOUY0eU9RaThXZGV4RjdZNnUtSEd2b01YLWFPa3hMZm9lZW1CcDA1eUVpVXJydWVZbzV0azRpYUZi0gG4AUFVX3lxTE9OUWJGRHV0RXJ2VVNINENyQm5QRFJ3emdFTjQ0akpaZXZYU1lDWXNqakpHU2JURHBOMmZ4TTBLYS1xdTFrdHBFbGgtQThiSWstaGJTNHU3LW9RZ3lWRWVxRi1RMDdmZ3RtTUk1UUJpYmliZkxJV0c1R3hoNzE0eDZKNzFJYWVLdklQSndJVm1oR2FEWFRFUjVjMUFZV1JISk9LYkVrcmxjNlUwU25lV2l0aVRTY0RlU3g?oc=5",
       "date": "2026-05-11",
       "source": "RTVE",
       "desc": "Hantavirus: no hay ratas en el Hondius y es \"muy improbable\" que pudieran llegar a la costa y contagiar a los canarios&nbsp;&nbsp;RTVE.es"
+    },
+    {
+      "title": "Una francesa y un estadounidense evacuados del crucero dan positivo en hantavirus y otro tiene \"síntomas leves\" - RTVE.es",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQT1BFV3FEc2RyTmhPNm5XNWY0TlVMSnVxMENMZmRlaVU4ajFlczYyb3VsSWs5dHFBSTBLdnFNOUNfMTRLU1BWZHdIcG5wcEk3aFVsUHgycTgwcGhCa1BVdnFfaVk2dlZ4bzhBUU8wSDZEZEkxdGIwN01CREtIaWxwY1R3dXZDNFRzVU1WWlA4cVRlY2ROOV9KSDYxUVBNSUJzdHZzem9MV25vVDVKbzdMdUtlMXh5MXFZT09kQ3ZLaUJmOG1EbVREZlY4dzNIQ2dzTXFUckJ3MVlfQdIB2gFBVV95cUxQQ2M4OFlDMEpIQXRjcEUxZXl2XzJyd29jcC1lYnpnTEtHT1JQZDh3WF91emJfNE5Ta1d2clpSVGZQTmVjZFZDZW1Ed2lyWXRmYTBJWFJQX25tY1hrTmlkS0E4MjlzQkxVbHFndlBhaUt1UWNQTHNoTUxleTlYd0hkaTBPNlNUNE11U29yMkd5SW94MkNWT2xscnZoVFlQQVdvZXlqc0pkUGhnejVCNnVwWkdPakdSeVRyQzFYVlZzYUxZMkV4Z1plSWdyTWRBanlqdDBoRXo2UzVndw?oc=5",
+      "date": "2026-05-11",
+      "source": "RTVE",
+      "desc": "Una francesa y un estadounidense evacuados del crucero dan positivo en hantavirus y otro tiene \"síntomas leves\"&nbsp;&nbsp;RTVE.es"
     },
     {
       "title": "El nuevo positivo de Hantavirus refuerza la necesidad de una cuarentena de seis semanas - RTVE.es",
@@ -250,6 +285,13 @@
       "desc": "El nuevo positivo de Hantavirus refuerza la necesidad de una cuarentena de seis semanas&nbsp;&nbsp;RTVE.es"
     },
     {
+      "title": "La repatriación por el hantavirus de los pasajeros del Hondius concluye este lunes con vuelos a Países Bajos y Australia - RTVE.es",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNHdEQ3Z4ZmpXUDM0Smcxb29UVzNfc2NuTWQ3TnNRdkhNUV9hQ2hFX1lmZlB1RDA2VEpURHIxcTNZUHVHandCdnY3YnlZbmRqcUJRVDVuenpMeVFwSmdpTktNeEFMLUwxQ2plREI1aUhzY045ZTd1NmVUZkROWkstUUZGdFByMV9vQ1ZnN083eXphb3k5YjQyc1Qya1dhWmN0aGhQYmdqRENjdkNJdXJERkQ5OTZDQk3SAbcBQVVfeXFMTzR3REN2eGZqV1AzNEpnMW9vVFczX3Njbk1kN05zUXZITVFfYUNoRV9ZZmZQdUQwNlRKVERyMXEzWVB1R2p3QnZ2N2J5WW5kanFCUVQ1bnp6THlRcEpnaU5LTXhBTC1MMUNqZURCNWlIc2NOOWU3dTZlVGZETlpLLVFGRnRQcjFfb0NWZzdPN3l6YW95OWI0MnNUMmtXYVpjdGhoUGJnakRDY3ZDSXVyREZEOTk2Q0JN?oc=5",
+      "date": "2026-05-11",
+      "source": "RTVE",
+      "desc": "La repatriación por el hantavirus de los pasajeros del Hondius concluye este lunes con vuelos a Países Bajos y Australia&nbsp;&nbsp;RTVE.es"
+    },
+    {
       "title": "Las dos mujeres ingresadas por sospecha de contagio de hantavirus en Barcelona y Alicante dan negativo en las PCR - RTVE.es",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPczJTWWhJdjVFRTM2OUU0dnhQS2I5cVBlZzFGRVBxVk9zTmtFTUo0NjZRLW1zLWlDSk12dF9Nc2E5M0xJNTBuMzcwUWRfM3JQQ3czME9PNENuUFJnRHNzandhMm4wMlRkcWFEYUVFOTE0UUthWEFQeVBaQWQxLWR2dEFSSVg4WTVHRWJRNm1UQ2JPMUdTbUdXLW5Kc3ZIV1hDZUo3SGE5ajZDa2t3aS000gGvAUFVX3lxTE9zMlNZaEl2NUVFMzY5RTR2eFBLYjlxUGVnMUZFUHFWT3NOa0VNSjQ2NlEtbXMtaUNKTXZ0X01zYTkzTEk1MG4zNzBRZF8zclBDdzMwT080Q25QUmdEc3Nqd2EybjAyVGRxYURhRUU5MTRRS2FYQVB5UFpBZDEtZHZ0QVJJWDhZNUdFYlE2bVRDYk8xR1NtR1ctbkpzdkhXWENlSjdIYTlqNkNra3dpLTQ?oc=5",
       "date": "2026-05-11",
@@ -257,18 +299,25 @@
       "desc": "Las dos mujeres ingresadas por sospecha de contagio de hantavirus en Barcelona y Alicante dan negativo en las PCR&nbsp;&nbsp;RTVE.es"
     },
     {
-      "title": "La repatriación por el hantavirus de los pasajeros del Hondius concluye este lunes con vuelos a Países Bajos y Australia - RTVE.es",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb1lvRldVNUdpSFVNUDNSTEo0aTZ5dEV5RmREemR6bGRRbDNPZnBqWjF4a3JIeUYwQlduZFBNWUhIWEdYQjRJaU5BcWt2cXNHeUh1bXpubjhfck11U3NtZ29MeHFjZ3Zsc0ZaNlFZcmlwb2UzWXR2QlhsNVN5czFfSTB2Q2Zya21SQmd3NFZ0bWFIUVExUWEyeXFFbDdrbjhndkxEOWZobVNFNFZnS0xEUVpMRFZsUEHSAbcBQVVfeXFMTzR3REN2eGZqV1AzNEpnMW9vVFczX3Njbk1kN05zUXZITVFfYUNoRV9ZZmZQdUQwNlRKVERyMXEzWVB1R2p3QnZ2N2J5WW5kanFCUVQ1bnp6THlRcEpnaU5LTXhBTC1MMUNqZURCNWlIc2NOOWU3dTZlVGZETlpLLVFGRnRQcjFfb0NWZzdPN3l6YW95OWI0MnNUMmtXYVpjdGhoUGJnakRDY3ZDSXVyREZEOTk2Q0JN?oc=5",
+      "title": "La UE y la ONU agradecen al Gobierno español la gestión de la crisis del brote de hantavirus en el MV Hondius - RTVE.es",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWVJKZXNLcEwxc2R2NzkzVDVjcndWaEVaVHRUSFZ5dXhIcHU2YjhUNngyRHhZSFktNWE5bUhOUUJHY2hBT0tZVGNIcC1RMklFbHhvRjJISFR5YVYwUTFFc21ST2FmUE50NU5SZC1jN3JXUUh1Q3A4dldzRldNZFFaaUVoTDNXeVBXRTBJVHNlN2RPVlFvOEE3N21HcEkzVVd2bS1LSm85djItMUZkWFdiOGVMcDJQZ1F0VEEtY3ZkR3J6QUpINVB2eXFiRFJQUdIBzgFBVV95cUxQYUZScXNoTkxDaEpfVWh6RWtqUVdRRFpXUzRlX19qV3NQeFAyckNUM3hmbHBTZ1UwS0s1TGFJejdubDcxdDFobTBLZ3dkWHZWUlByLW9iWnAxOHlJZE0xSVkwUmgtX0FZanpRaGdOQU1tbW42R05jUDlKYVRyTldTQU9VRmdCT18wZ1ZXSVQ2Y3ZZQXI5RzZNajFaR21fM0pNM05XV2dCY0FyOEVKYWcwLWJpaGFlUzVEM1gzWldhX3E0VkpYY1d5QXVFblpGQQ?oc=5",
       "date": "2026-05-11",
       "source": "RTVE",
-      "desc": "La repatriación por el hantavirus de los pasajeros del Hondius concluye este lunes con vuelos a Países Bajos y Australia&nbsp;&nbsp;RTVE.es"
+      "desc": "La UE y la ONU agradecen al Gobierno español la gestión de la crisis del brote de hantavirus en el MV Hondius&nbsp;&nbsp;RTVE.es"
     },
     {
-      "title": "Un brote de hantavirus sorprende a un mundo que sigue debatiendo cómo hacer frente a la próxima pandemia - EL PAÍS",
+      "title": "Clavijo ve con preocupación los dos positivos en hantavirus en pasajeros repatriados e insiste en su temor por las ratas - RTVE.es",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZ0s2Q19BWUdJc05FMS1TakRmZm90X0MwYXkycDQ4RTltRHcyaW9POXl5UjVfUThiZmFPRzZNdXlvYl96V1RVQUc4X1g3eHBzN0lCQXZPN0tSLWRpVy1yamp6cDF5VUdLak9Sa3d4RWxkcmVVRTZCLW5tYjhTN3I5RFYwYzhYVWVWcm9VTXluYnRRcWZpYWJ0NTFfYlBQZWVFTVhVWkhCYkUwRURYSWtDTnc5SG91bXhodFcwd0lEbHRrMTd4MDBVY1dfVWd6d3htcTZPRWp1WE95RTZQZ0F3VWMwcElfT2ZtenfSAeoBQVVfeXFMTldvVG5USFhzT2w2ZEY5UUpia3NYX1BVeXFwTUhRZEh4ODNnR3I2UE9oUkcyVkRRSlhXWGNzOXdRVWhpa09MQnUyWlRleW81NHFyV0VSZzlZV0M1STJaT1ZuOWJzdkItNUlfaGM2YmZqbVdDWUJ1OGxQdDNoLTZCSVV4WWw2cUI5X1F4V0RPMm5JT0tyMjZvZWFGNWN2MXotRlNsTktiR2JucWlWSVdYcF9TYmhaRkNtb2otaTJXMEJFOG1XSWFEMGpiRTF1bWx5MU1EM1ZXTTlzM09tZ09Nc1Y1RmJudndJSzF3?oc=5",
+      "date": "2026-05-11",
+      "source": "RTVE",
+      "desc": "Clavijo ve con preocupación los dos positivos en hantavirus en pasajeros repatriados e insiste en su temor por las ratas&nbsp;&nbsp;RTVE.es"
+    },
+    {
+      "title": "Bloqueo del tratado de pandemias en la OMS en plena crisis del hantavirus - EL PAÍS",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZm5PZzE0SFVjLVlMejZUM3BQYU41TXMtb0Z5Wm1rNFhEQTkwM3pLNjVOVGxLVjZiOW5RRFUzemNQUVRhT3J4TGVERTB6MGNnLUFGMjdpOFlRTGxlb0NncGhsdG1aeVV3eFVMemlvZ2ppdE9qZGZ6Rk01Yk9VSXZ2YXdrcDRFT0pTN0w2RGFUZUtCWUpQOVA1NzAtYWZtMjQxdU8wSG1yZjlFU3lweG5KS0s4NlRESk1haFBydDBCRDY5SnBxbDRhWXR4bkl0VDBZNE9pUDNyV2MyZzNTNGJJVzJvWDluLWp6M2fSAf4BQVVfeXFMTkkxV1ZFY3Q3TVhQWFdNTDZGSlV5SkFZMktpLWVJejlCVlRIQUV0eFJtenc0TjNiakY1eEJBQ3M2VldVNFRrcjVwVnh0dmxSVGY5ZVQtNUp1a2JXQ2pTOTByZV8zVnJ0NnQ4MGdXM2J6b3lmUDJzMy1Na3JDY0Y5cTA3Qm44d21TV19CTVZTUlFyTDJ0M2YtSFpEeklNLUZhZUhJSXNNamszUWtqTnZsaEYwaVlNek5Qcnp1cGxObU5rWFNSb2NoS1haQlZCRV9PUHJtMU5kVzNLa2x0MHI3UWs5R1NDVlMydGltRUt1VnFUMFNWVjVfMk4tbFBqa0E?oc=5",
       "date": "2026-05-11",
       "source": "El País",
-      "desc": "Un brote de hantavirus sorprende a un mundo que sigue debatiendo cómo hacer frente a la próxima pandemia&nbsp;&nbsp;EL PAÍS"
+      "desc": "Bloqueo del tratado de pandemias en la OMS en plena crisis del hantavirus&nbsp;&nbsp;EL PAÍS"
     },
     {
       "title": "Un operativo sin precedentes para acabar con la crisis del hantavirus: ¿qué pasa ahora con el ‘MV Hondius’? - EL PAÍS",
@@ -285,60 +334,11 @@
       "desc": "La Crónica | El PP sortea el riesgo de meter el hantavirus en la campaña andaluza&nbsp;&nbsp;EL PAÍS"
     },
     {
-      "title": "Una mujer francesa evacuada del crucero MV Hondius da positivo en hantavirus - El Mundo",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdzJFVm1NYy0xdTNDTmlsVUlJMTVaSXZCU1hMUlFpRkFpTURqaHNhSm1iczZzcHo3VXBfZDRqNllGLWxXRTFuclI0VERiMC1TbmJBN0llSHRncjcyUmk2M1BnRUEybVRwbk0xZmh3dENZcUZWRnZfVVdkd2FRRWU4VEpiYWZJZzByclc3UjhB0gGOAUFVX3lxTFBES3hITWVSdzlFNnY1M0dQczQtOGpMQkpOVlVlWks3ek8xamt1bER2OVN1ZEdTMlBqM195ZTluRUctUV9RdTJiTXZKVWlvcVo0TnFaUEF4WHlRRV9obWJUM0lDTms1YS1FNS10cWhoRXdPQUtrSWhlRmozM1NDcUpiSEdxTUxuYk5GMl9YUkE?oc=5",
+      "title": "Primera noche de los españoles del crucero del hantavirus: \"No tienen síntomas y están bien y tranquilos\" - El Mundo",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcTdzcFlpTGlCbEFuTExpYzNqR0VCc0RIR19BNWhHWXZtajJXZ2g4clIxMW5WWFBnNThVNGRQZ1NESW05NXFYQl9remVxcEhkZVMxUElKdzMwcm9fR0FncXhOMjNycXdMM18xT0ZHMnhLdGh1VEZvaGVkX2UtWjB5XzhR0gGCAUFVX3lxTE9fRlRoTnhzazM5dDlBR3VvMHZRQk1fTUFRNy1JQ3pLMGlYYjMteEJhdGNDVmJBYjd3ZXZudHZOSExfdXBjTUpENEJ4Y1FWLWtpSHlJcUJBMWNod2tVUUFjWnFNVTh1UGJ4XzhjQzFrVjVqN3NxSjZDTXlLbHZYeTRsRGc?oc=5",
       "date": "2026-05-11",
       "source": "El Mundo",
-      "desc": "Una mujer francesa evacuada del crucero MV Hondius da positivo en hantavirus&nbsp;&nbsp;El Mundo"
-    },
-    {
-      "title": "Adolfo García, virólogo, sobre el hantavirus: «El tratamiento que se utiliza con estos pacientes es solo para paliar los síntomas como con el ébola» - ABC",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMlQtSy1qR2dGNTNQZXF4aG5sMWJDbW9Ibl9pMWN5Z1JkUnIyQkFndFNzTEVDdVJoekh4RXBGSGFrYk05MkJrZVl1Z3F2Wm9Fc2pWcnFNcGMtb1ViUHhiQ0pqWlgwMzRBaWdRZ2RnS3FtU2VXR1V0cjg3SWxYVWFTZklXcnQ1VFVUby10QW1sVzNzVEVzdmEtSldMREl6SDJmc0J1MU81TlNvXzJiMGFn0gG0AUFVX3lxTE5oN28zMzNPTFV6cUpkcDM1WEFqTGRrVU5DRkVadGhZZm9XSUZnQ080SW1rYlVuZ0pLQUFXbk5Vbm1GaFZIcHZCM1ltTWc4aFBGVUxlS0JESjYzOTFlWnRQUVBEMGotbzZOZ09Cakt2N18xQjd6VjZmZjFjQTdheFVIa05kSHROdTQ1TF9NN3htZlhZRFNzcjhRUi1jT29DUnNvSEI0UmFJSkpqVHVGMjJaLXRMRQ?oc=5",
-      "date": "2026-05-11",
-      "source": "ABC",
-      "desc": "Adolfo García, virólogo, sobre el hantavirus: «El tratamiento que se utiliza con estos pacientes es solo para paliar los síntomas como con el ébola»&nbsp;&nbsp;ABC"
-    },
-    {
-      "title": "Muere de un infarto un guardia civil durante el operativo de evacuación del crucero con hantavirus en Tenerife - ABC",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVnV3TzZILVJuM1BwMWFzUmJWQzJiaXB2RjlKZHRsVk1GdmF2RkxVNTZnOEJCMXJDdDNsVzNycUVmTHVzTDZMWW1oWEJxdnhXSWN3MTJ1Rk9OZnAyY3hVWnVFVEVuTHJLdm5xWE1naGMyRWtDOEtOZzR5NU12ZDRjZ09menJmcXBZbl81TXhPMEVkSDRnd1FpWDdQOV9RajA1RXZCZWo0VDktOFnSAbABQVVfeXFMTVNJanNEeHBMU3I5cXdLcWJwRjdlenZNS2tLWUtWOG1XVWZYT0kzTXpkTUlQVXdvNFlIb0tVcWRKVkxDU3NfMXh1dkpLRW8ydUl1N0FfNktWZTdsdlYyRHRzd1doTnVXT3M1WE1wWGJmVUxaUmZEb2xPNDhHQ0pkN0tVc213TEktVFVhcU5wT3BBN2k3Ml8zRlJaRm12NU5XTlNjUlZhZlZLVHl3dXpnQUs?oc=5",
-      "date": "2026-05-11",
-      "source": "ABC",
-      "desc": "Muere de un infarto un guardia civil durante el operativo de evacuación del crucero con hantavirus en Tenerife&nbsp;&nbsp;ABC"
-    },
-    {
-      "title": "La investigación del hantavirus en Argentina aleja el origen del brote de Ushuaia y lo sitúa a 2.000 km al norte - ABC",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYWxuYllzbERTd0s0dUlwdmxtX3g4YmMtZFplbDlQTDdlTGNkdFBXUmt2MUQ2ZkEzTTBuT092Wmp3QXFhMTlJUFhTeS10eFZYVTBNdHRXX09ET2poR25vX0NZTlpJZ3RVMWwybFFKX3c3VTBLOVNHX0FNaUI3bUJ6dk4ySERrRk1vYjVKQ1NZOXN4LXAtbHBYei1rXzVlZVlQaEZRWGZOanhpejdy0gGsAUFVX3lxTE9hbG5iWXNsRFN3SzR1SXB2bG1feDhiYy1kWmVsOVBMN2VMY2R0UFdSa3YxRDZmQTNNMG5PT3ZaandBcWExOUlQWFN5LXR4VlhVME10dFdfT0RPamhHbm9fQ1lOWklndFUxbDJsUUpfdzdVMEs5U0dfQU1pQjdtQnp2TjJIRGtGTW9iNUpDU1k5c3gtcC1scFh6LWtfNWVlWVBoRlFYZk5qeGl6N3I?oc=5",
-      "date": "2026-05-11",
-      "source": "ABC",
-      "desc": "La investigación del hantavirus en Argentina aleja el origen del brote de Ushuaia y lo sitúa a 2.000 km al norte&nbsp;&nbsp;ABC"
-    },
-    {
-      "title": "Hantavirus, última hora del brote en el crucero MV Hondius, en directo | Francia confirma su primer caso positivo por hantavirus - El Mundo",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOelNueWYxTzFmNi1qNDByNUFGdXJPYWdXVzJXMmU5SXUtUmhMM1VSblI2SFBOa2FlRVlJNWRlTklXQ2gzQmhHSll0TmwwOU9mYXM4Wkw0OTZPYjBEV043dXhfeUNjcW9mb3pTZW50TWFlNmg4Ql84SFoxelFvS2tXdnpxUGZnakJxeUU5ZUQ5QTh0NzR4blJ2Wg?oc=5",
-      "date": "2026-05-11",
-      "source": "Google News ES",
-      "desc": "Hantavirus, última hora del brote en el crucero MV Hondius, en directo | Francia confirma su primer caso positivo por hantavirus&nbsp;&nbsp;El MundoHantavirus, última hora del brote en el crucero MV Hondius, en directo | Dos pasajeros del H"
-    },
-    {
-      "title": "Última hora del brote de hantavirus en el crucero, en directo - Canarias7",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUm56QUlSWkpFRWJObUozbkt5WXZXMllxcVdCbkVZcFRDZ0lWRWFNQ0QyajUwTkpBSzFqYXlEVXJZenA3ZVR3UFVQZU0wM3RBLV9aZmhYdVZwVVhaSWQwendaeEIwNVMwcWxNa3lmNGR3X0hNSU1zVGFPQVluX0M3WGhrNGFScllMcFYtc2lFa1M1RXV4c1o0SnYwN1MzamxER2hWQ2pMVGNuY0xqQ19TZnFzcTIycXfSAbwBQVVfeXFMTk1heWN1Y29fNktjWVcwbTJyV0JsdkRMQko1N19FUG1jSzEtWUstTFNkUjl1aF9WM3lzdHFwWTNIZVpZSkRoRFRiZmtyVV9HQUlvRTZIN1NBWDdCWmc1Ny1RUU5pcmNBbzVNU0dwUjA2RzJmYUMyRHdLREpNR1ZINTM1VjkyMWhZTDk4cHhHS3ZnbEZsRGp4TUlaemhrbXg5d3dLbF82M2JYZFJiMnY1cUprQmUwTEFGdWRxWmc?oc=5",
-      "date": "2026-05-11",
-      "source": "Google News ES",
-      "desc": "Última hora del brote de hantavirus en el crucero, en directo&nbsp;&nbsp;Canarias7"
-    },
-    {
-      "title": "Directo | El operativo de evacuación de los pasajeros del crucero del hantavirus finaliza este lunes a las 19.00 horas - El Diario Montañés",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUmw5RUFTNE1mQ2RWdTRTMElmNXJDZERjZHhOWEFCaDNZb3BJVXgzMUxjbXRreWFKZ1dUMlZveDdHRzNBVmFYTW9JaUVGTm82YlFYR1ZVS2F1MFpIU2lkVHNPS1ZwSTBKZlpPeXd3bWxBTE4wOUlzUTNKbUxTVHZfQmZ4aGFYVDEySU1KUUxDX1pWRG5jMGVNZDVMR3lYNXI5eVE3RldGWVlhUUtibWJXd3BkRnAxQQ?oc=5",
-      "date": "2026-05-11",
-      "source": "Google News ES",
-      "desc": "Directo | El operativo de evacuación de los pasajeros del crucero del hantavirus finaliza este lunes a las 19.00 horas&nbsp;&nbsp;El Diario Montañés"
-    },
-    {
-      "title": "Rastrear intimidades: el desafío epidemiológico que plantea el hantavirus - El Confidencial",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORHNJcEdsSEZNMTd3bFRHTXlscUV0MUVKOVdJanJjaDFRZExMSi1BdW5oa3BPaDAwNV9iQjlCbmI4VS1hQ3JJaUN0UGl6cFRCSTNoMkVFbWxsYVJXQ0o1YnE3LTUtMjdXRDF4MmY1NWtwRV9KakJvR24tMFF3clprVURaZ0FIbGlJYVU2czBzU1g5R2dDSFNDYll2bUFpM28?oc=5",
-      "date": "2026-05-11",
-      "source": "Google News ES",
-      "desc": "Rastrear intimidades: el desafío epidemiológico que plantea el hantavirus&nbsp;&nbsp;El Confidencial"
+      "desc": "Primera noche de los españoles del crucero del hantavirus: \"No tienen síntomas y están bien y tranquilos\"&nbsp;&nbsp;El Mundo"
     }
   ],
   "countries": [
