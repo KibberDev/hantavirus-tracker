@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-05-11 14:05 UTC"
+    "updated": "2026-05-11 16:48 UTC"
   },
   "current": {
     "cases": 10,
@@ -215,6 +215,13 @@
   ],
   "news": [
     {
+      "title": "How are countries responding to hantavirus?",
+      "url": "https://www.bbc.com/news/articles/c4g8318v4yzo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-11",
+      "source": "BBC News",
+      "desc": "The UK, US and EU are asking all citizens returning home from the virus-hit MV Hondius to self-isolate for about six weeks."
+    },
+    {
       "title": "How worried should we be about hantavirus?",
       "url": "https://www.bbc.com/news/articles/c98r199e195o?at_medium=RSS&at_campaign=rss",
       "date": "2026-05-11",
@@ -233,7 +240,7 @@
       "url": "https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers",
       "date": "2026-05-11",
       "source": "NPR Topics: Health",
-      "desc": "One of the 17 Americans tested \"mildly\" positive for the virus during the U.S. return flight. A French woman has also tested positive — she was was among five French passengers repatriated to Paris."
+      "desc": "One of the 18 Americans tested \"mildly\" positive for the virus during the U.S. return flight. A French woman has also tested positive — she was was among five French passengers repatriated to Paris."
     },
     {
       "title": "Muere un guardia civil durante el desembarco del crucero con hantavirus en Tenerife - Antena 3",
@@ -243,6 +250,27 @@
       "desc": "Muere un guardia civil durante el desembarco del crucero con hantavirus en Tenerife&nbsp;&nbsp;Antena 3"
     },
     {
+      "title": "Gustavo Palacios, experto en hantavirus, afirma que \"en unas cuatro o cinco semanas, esta infección podría - Antena 3",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOTFUzX0RXdTBOTkFYbEdsdWZ3WWdVMnpaTmNPNGxfWUt0Mk9DdmYyOVpzcVpKUkw4ak5EOW95TXo0cVdEaUc4cUpRR3h3XzEzT0F2RmZScXNOaEZDOWxOY1RTTlNhYjQwSVRrQ3UycVVHSjNoaVFLRmFJZUlQWVJ3QkRkY1hJVkRYU09NT25OeGxGR2pPZ1NObE9HTEhGYWFhQUFSb0M2Sl9NVmY3WGhvM01UWGR1aW1DdEhjdnRwQlBZZVdtOHNuVk9NLUFvZkpSUTJzTGFWY25QMWdfYjU3YmhoSnlBQ1RXbnJXVU1ZWS1odU5iNk1feWcybVhleDEwQ0tQc3ZvOTh5R2RjNkhxc3NuWWM1N1MxMU5BTmV4eVjSAaACQVVfeXFMTjhMS0huZ3BwblpuUXZzWkpDR0NoZ2hNeFFZSjRSOXVxQVRBT0NmQ2E4V3Zld1dxM2NWTjZvbmtYRmx0ZG1rWVZjcXppTi0zMDlEWGEySlZYZ0ZwS2xBUzh4RExTNWFEZy1zSWFNZFg3T3NnSzRFNlJ4U01BVEwxOXR1bDJiNUU5Nldxc2RvVzhsTGN3SWZnSzNvbjlId2VSTkIyT29TakhvZ3JiNnM0WjdoSUtVaHRralROQUdrXzJPR2pEOVJMczJXdHdYMHJNRUluRzNOaDBXZWlpaUs5SFpwTWh6djF0TXdmd3d3VnlKaHp0TjNPaTNPZEsxS1JQZzFvUkpJTkFFQWFnb3NIWmprRVFJVTRJUDhaS2hUX3NG?oc=5",
+      "date": "2026-05-11",
+      "source": "Antena 3",
+      "desc": "Gustavo Palacios, experto en hantavirus, afirma que \"en unas cuatro o cinco semanas, esta infección podría&nbsp;&nbsp;Antena 3"
+    },
+    {
+      "title": "Carlos Ferello, pasajero evacuado del MV Hondius: \"Nos hicieron usar mascarilla, dividirnos y tratar de no - Antena 3",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOeGlDclRWSDVRQ0d6dzljVlRRNDlsNUM2UDJmQ0JScUJ3akhkNGU0YmEzY0wtWkVOUEVFZjJXbzN4UDlZcHF5T3VIbGltMGVwdUhMLUlIaXF5N1BZbmY2aG9zaXgtR0ZycWpmY1RaYWRmLUlNS1RmR3lLcldpeG1hY2dOYkJob1pGaFFmRm5BZlVLRXFqWGlrR3ZDY2R1c2ozeF9NMmZuUDFLMnZkNTA5NFd2ZEcwVEZfZF93V2NRLTBmYmRLd2NTV21TdUhoTHRiSXdybWpOVkdrNjIwLUpQT2s1dXJXdG42VlhFQWtHMFM2NHBGZDdlMVFEU2hGTTdfVER5RDRSV0FoZ1RFSjBiR3hISUo4NUXSAZcCQVVfeXFMTU9QVEk1emRPRjhJd1pWUll5TDVubDFVQjNmVUhPaE0zVVA5c3J0Tm82VzVTSDMyWTMtT3NNWUtwYWlTSzAyS1hpazA3TnBySW5DNjJ4QjNVX3J0M2t4aWkxX3NQZmdld2I0SUJXVWEwMlN5LTlmMGVhbTA3Vlh4bThRaU5DMm5VVDE0MTBnWldfbUZMeGxFRWpLazVOcW0xZUp3dG4yS2VIWDZqdmtBNkVpZExpVTE3NUJmSjVFRWtkSlFmTVBOeVJ4dEhnYmZaYUtOeVV0el96alpOQUl5czlQTmE3Y1BqaHJQbDFKLXl0bGw0ZEJ2VVFoUk5iTXNQSGdpZ3RsdlBQUG5BeWlOYmM2UVBtSXU4?oc=5",
+      "date": "2026-05-11",
+      "source": "Antena 3",
+      "desc": "Carlos Ferello, pasajero evacuado del MV Hondius: \"Nos hicieron usar mascarilla, dividirnos y tratar de no&nbsp;&nbsp;Antena 3"
+    },
+    {
+      "title": "Una tesis de la Universidad de Valladolid ya identificó en 2022 hantavirus en roedores silvestres de Castilla - Antena 3",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPRFhkRmFyeWxWT0JRek8tbzZ4OVhtU01Lb2R4SjRpR2trUFlsNVZoZFNZbDROXzNaVGt6NFFxcFRLa1RaUzBVODhWdEtaa2NlOFpWNTNDMTFsUllhVndNVnBzZ25Zai1yVXdGemd6cHZIR1g4RjJKaXM2Vmphb0pvaDA3UEdYZTJ2SDRSQ0gyMTNZNkVHbXdIMFNlbnc3aTVOaVVrR3NhdFk1bEpjWWdvUUcwbmpEdndLYjVleW42QUhoTXpWd3lxVXNPWmhoRGZMb19iN0NTb0luZnZqWlhTdmttUEN4azFEaVhmTkNLRXpKY2hFR1d6QjZR0gH6AUFVX3lxTFBMbGJ2X3pjWU50X1R3MVEwbXc4dG9QUlhRWTZQRmxvdVU4aUpVMXFUZ0lzVW9ZM0pTb01uVDZTbTFoem96TGVGV0VCNF9DRnRWV2JzTVg3alNsMEVDeVlXd1h6MXZ4c3dVd0NpTUplM1NsX3RIa0FMVlUwN1l5X05jQjVGVWFzOEdQS3hXX253MjRUV3l2WHpUU1hBMkFBSURUSGdPWEZUaXZXWnNGZ1ZaSUxaOWxrUmlCTVdYVkZldF82Q2lTZHNGQVQ2NFNsNjctNEtZc2FYV2x6RnZ1X3RySTlIZlZVb215UEFyc1FfVnZTN1dITEhIWFE?oc=5",
+      "date": "2026-05-11",
+      "source": "Antena 3",
+      "desc": "Una tesis de la Universidad de Valladolid ya identificó en 2022 hantavirus en roedores silvestres de Castilla&nbsp;&nbsp;Antena 3"
+    },
+    {
       "title": "El protocolo de España frente al hantavirus comparado con el de otros países, según un inmunólogo: \"El - Antena 3",
       "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNVV8xQW90NFZJbkZzWDVZWFkycVIwU0xJQV9WOVFLZ05Xakdad3ZDX1RJRmMzd1gwcnVPMjc3elhCaERZWi14UXJaclZkX3d3SHBlUktUUzZWVWRpa0ZYei1HSlk3Z2d0XzlVMjc0TkJsRTRmOV9ucnhNOEMzRUdsVVRhLVZfMnpJX3VVeVdacmgxcmI1b1l1MHFGeXlHb2pDYTh6VUt4ajliREFuNEh5dlJvV2NpLW1PbUlTeTJTZUlGUmhVT1hicGwybUpzTDhoT0c0bldrVFZNbHFwV0NBYlBRajJ5NnFsVUp3dm1NeEo5NXZyZkd4Y1V0aU1mNDhhWmlMb3hmb1hRWWpQdjlaSTJTSzF5cnE2T1F2dElXcW1ZYm5IUjk1c285OGxuQnVFTEt3Rzc4SdIBtwJBVV95cUxOMUVaeXZ1aV81S1RBRXZoNkx2ZWJZYURiTTJPNFprVjBPUXVhY3F5cExaNzY3RGF4eFM5NzNrazVFRXN4TFl2MjNMMnpyQUNUbFV2alQzbnpjYU9rc3h2V0RKX3dNdUplVGRQbWI0Q3BGQk1VdENDSi1xN1E0MXVCQUpCNmtpRXQydXFnZ213eFY5ZVU5YW1rTk0tX3lBLW5aZ0ZTMzFoSzhnMHRuNUkybF9QZlBmYnZPTkZIZGpHV3lwVG4yaVFMZUNuWDA1bVhuaF92OEpRWWN2U2tZendUOVdoblFaYmxqWVkxMUctVDVmX253LUtmOTZsbVpuM09LNzRrWENqZ3VsWEJYRXU5M2llUFJhR0l3a1g4U1hscFQxbjRQZ3JoU3Y1M19mUjIyOUtjRGdzcw?oc=5",
       "date": "2026-05-11",
@@ -250,18 +278,11 @@
       "desc": "El protocolo de España frente al hantavirus comparado con el de otros países, según un inmunólogo: \"El&nbsp;&nbsp;Antena 3"
     },
     {
-      "title": "Jan Dobrogowski, el capitán del crucero afectado por hantavirus, rompe su silencio: \"Han sido semanas - Antena 3",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPT3pFR0pVNEZTOVJ5dWJGR0ZqR0cyNDZGS1dUNG84dENLQlhlRDkydEgyRW1hcERCY3QwX1poTXRyWEluQXdXbmFLYWFpS3VPQUZ2aXBCa3ZQc19TODY0NWVLWG03NnNMNDg0UUJVNHhjb012aGJTRTljRjJ4dnN6cWlrbG4waGpPYlNJZjFfZ29QRHpRUTNhdnhnQnJJMlRueTIwTmFNc05vM3cwYldGUmZMeTJGOVZKNlBlbElvM2EwZE9BMUNzMGtsd1dnUDRzNGdQMVE4NzJpR3B4V1BVTFFVeWRUREY1aWV0b25LbzA5bWJwNWw2TTRNdE9peWE0RW9hU1VlVnZiWWktdExCQjFqQdIBkwJBVV95cUxOUmZBZEJrOHFQVjJxY2dRSmFCVTlfanZfX1dZZE5OTEtJU3hfZ2U2SlF3bzZaVTFXVkJHdjlsZERIWk81MDRudm5Oa0pOSGFhZ014VEl0RHFpbG9BLTBiVi1kLTg1dHU0eFk2MVpEQlEwQjBGNkM3alpqWl9acU1hSHJQWjhJY3lWXzk5SWlERUh5U2pjV2YzRUxmS0hUVlVvMlF3UzM2ZmVyWXhWbDdtWXY3OER2U0w0ejdGXzYxVks4Vi1CRnFBQmpsVDNiX0J5R0xZelc3Z0hIV2JoeUNmU2tfbWJfX2dLM1dSeGs3TmkyRnhSVHhIeGNVN0xKdnVZMjhjWTVsMzYzcnBuY3pOTDVPRQ?oc=5",
+      "title": "Esta es la fecha que anticipa el fin del brote de hantavirus, según el investigador Salvador Macip - Antena 3",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUWRnZG9uUk9pV0w4bmhxTXNPNjR3TWNJVV9WZm9oRFlUUXdncFFxQ1VpaUw0RlpXSjdsaklQMU1qZ2trQ29pYnVwTTRtVG15LVIwbk1ocE9PSjNyVGt4enh4bm9JeHZTRnk3eFp4c1VMazNlUkQxUXJwM0FMSjhiVDA2bktVQkJHSmhvUE1meDlfUmZINm1qWUw1WFR5YWVOQ3JvTnFzODRpSGw3SkRVamV0OWtiSGxoaV85TS1NSFNidGVLM3RpcDRpNWs4LWppYlBDOE05cmRnQ0ItTkZ5TUNza29oQ3Z1dkI00gHrAUFVX3lxTFB4UUhveGY5NlpwVzlGOXNBc0tyT3c4TEtoSFFPcG4xLXVBcml5ZHdHcF9TR3JLcm5oZHh0eTN0dEZGQk5LM3JMTU5haHNxcjVSUGRndHBuWFU4RkZqd2RGOGtSbzlQbWhkT20xWi1nNlFiM1BaQm12ZmpBUWduTU9ZekcxREdyTnhsSzVfb2N5TS16UXpJQ2d5eGtWNnBWZUZ5aDVMamZMVDFHZW9oNFNFWUdjSTlYcFBoRk40RTVEaVZ3eE5uX09BYk9qOVhrQXRacC1Xak8wcVV3NHB5Q3p0VDlOQ3hkN3RVS2s?oc=5",
       "date": "2026-05-11",
       "source": "Antena 3",
-      "desc": "Jan Dobrogowski, el capitán del crucero afectado por hantavirus, rompe su silencio: \"Han sido semanas&nbsp;&nbsp;Antena 3"
-    },
-    {
-      "title": "Un ciudadano estadounidense y una mujer francesa, los dos primeros positivos en hantavirus de los pasajeros - Antena 3",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOZ0IteGgycmpLTXhwQ1d4N0J6b3l0aFh2dUxLRWY5aS1oUW02WEZ0eGhfQTJFTzdwaHg4ZVE3VEt0d01qX1A2OWNKYUo3T1Jtb1Q5SlpSbU5taXkyRnNqYUl6d0hXVWFfQndOM1o3aDh3ZThOSUx1bGJnZGMzbzVZLVotNThPV1QtZFRiSFZONUZMSWNzV1ZBRmp2d2JPRDBXQ2RoRWJsM2c4WUlhcnZuSkY2bEdBM2N6Rk5QdWc5OGN0dHAwS3ZxLXFNSDJnS3IyOHVpVVh0X01XVHJyejJ2cWRSZXNWTkVNa3FRY1h2eE5KZ3kzVTNFbXJXamZXS0E0NjBseXpERHlyV2PSAYsCQVVfeXFMTWJhT2ljWldDQkpYWTNFUDBnZmhtVG9nUjVkcGdSYnVSR25hMzU5U0w4MjRGMkNVRUVZamNhaU1FVUxlY0haSTBLNzdsQXhWVmEtRmp2WTJqUzR1RVFNaU5KaEVRWGVBSHJtYW5Zb09GQlFIdlRjMmwyLThhUm5LQjdCQUlzbW9YcTk0ZFptQVB1LV9QMldaRlpjV0FuWWMtLU5HN1BoSnlNeW1sempMdHUwdmtjaHFwaHpycGthYllPWno0SEhpMGc4eTNMVlRPWklxRDI4b25MSXZza2g3VEVGZTJWU3ZRT0VTallqakRrZm05ODdCZDlOdlUzMzNMV1VnUE1OdEhXRUNR?oc=5",
-      "date": "2026-05-11",
-      "source": "Antena 3",
-      "desc": "Un ciudadano estadounidense y una mujer francesa, los dos primeros positivos en hantavirus de los pasajeros&nbsp;&nbsp;Antena 3"
+      "desc": "Esta es la fecha que anticipa el fin del brote de hantavirus, según el investigador Salvador Macip&nbsp;&nbsp;Antena 3"
     },
     {
       "title": "Los países implicados se blindan para contener el hantavirus: así son sus estrictos protocolos - Antena 3",
@@ -278,67 +299,46 @@
       "desc": "El epidemiólogo Daniel López Acuña advierte de una \"segunda oleada\" de positivos en hantavirus: \"Es altamente&nbsp;&nbsp;Antena 3"
     },
     {
-      "title": "Hantavirus: no hay ratas en el Hondius y es \"muy improbable\" que pudieran llegar a la costa y contagiar a los canarios - RTVE.es",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYUx6MENjUzlZR2NFTzExdW53emFHUkxKdU83ZkozbC1OVXpwZGo2cDdHbkRQREdwaHJCOGdNaTRJZGNLZ1N6VW9aTThjS21xRDM5Z2ZZNWR2eHpfMnhvWlN2ZnF1M2lGLWJOQTAycXpiMnhPS0ZzSU5wZjhzTjdNOUY0eU9RaThXZGV4RjdZNnUtSEd2b01YLWFPa3hMZm9lZW1CcDA1eUVpVXJydWVZbzV0azRpYUZi0gG4AUFVX3lxTE9OUWJGRHV0RXJ2VVNINENyQm5QRFJ3emdFTjQ0akpaZXZYU1lDWXNqakpHU2JURHBOMmZ4TTBLYS1xdTFrdHBFbGgtQThiSWstaGJTNHU3LW9RZ3lWRWVxRi1RMDdmZ3RtTUk1UUJpYmliZkxJV0c1R3hoNzE0eDZKNzFJYWVLdklQSndJVm1oR2FEWFRFUjVjMUFZV1JISk9LYkVrcmxjNlUwU25lV2l0aVRTY0RlU3g?oc=5",
+      "title": "Un ciudadano estadounidense y una mujer francesa, los dos primeros positivos en hantavirus de los pasajeros - Antena 3",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOZ0IteGgycmpLTXhwQ1d4N0J6b3l0aFh2dUxLRWY5aS1oUW02WEZ0eGhfQTJFTzdwaHg4ZVE3VEt0d01qX1A2OWNKYUo3T1Jtb1Q5SlpSbU5taXkyRnNqYUl6d0hXVWFfQndOM1o3aDh3ZThOSUx1bGJnZGMzbzVZLVotNThPV1QtZFRiSFZONUZMSWNzV1ZBRmp2d2JPRDBXQ2RoRWJsM2c4WUlhcnZuSkY2bEdBM2N6Rk5QdWc5OGN0dHAwS3ZxLXFNSDJnS3IyOHVpVVh0X01XVHJyejJ2cWRSZXNWTkVNa3FRY1h2eE5KZ3kzVTNFbXJXamZXS0E0NjBseXpERHlyV2PSAYsCQVVfeXFMTWJhT2ljWldDQkpYWTNFUDBnZmhtVG9nUjVkcGdSYnVSR25hMzU5U0w4MjRGMkNVRUVZamNhaU1FVUxlY0haSTBLNzdsQXhWVmEtRmp2WTJqUzR1RVFNaU5KaEVRWGVBSHJtYW5Zb09GQlFIdlRjMmwyLThhUm5LQjdCQUlzbW9YcTk0ZFptQVB1LV9QMldaRlpjV0FuWWMtLU5HN1BoSnlNeW1sempMdHUwdmtjaHFwaHpycGthYllPWno0SEhpMGc4eTNMVlRPWklxRDI4b25MSXZza2g3VEVGZTJWU3ZRT0VTallqakRrZm05ODdCZDlOdlUzMzNMV1VnUE1OdEhXRUNR?oc=5",
       "date": "2026-05-11",
-      "source": "RTVE",
-      "desc": "Hantavirus: no hay ratas en el Hondius y es \"muy improbable\" que pudieran llegar a la costa y contagiar a los canarios&nbsp;&nbsp;RTVE.es"
+      "source": "Antena 3",
+      "desc": "Un ciudadano estadounidense y una mujer francesa, los dos primeros positivos en hantavirus de los pasajeros&nbsp;&nbsp;Antena 3"
     },
     {
-      "title": "Una francesa y un estadounidense evacuados del crucero dan positivo en hantavirus y otro tiene \"síntomas leves\" - RTVE.es",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQT1BFV3FEc2RyTmhPNm5XNWY0TlVMSnVxMENMZmRlaVU4ajFlczYyb3VsSWs5dHFBSTBLdnFNOUNfMTRLU1BWZHdIcG5wcEk3aFVsUHgycTgwcGhCa1BVdnFfaVk2dlZ4bzhBUU8wSDZEZEkxdGIwN01CREtIaWxwY1R3dXZDNFRzVU1WWlA4cVRlY2ROOV9KSDYxUVBNSUJzdHZzem9MV25vVDVKbzdMdUtlMXh5MXFZT09kQ3ZLaUJmOG1EbVREZlY4dzNIQ2dzTXFUckJ3MVlfQdIB2gFBVV95cUxQQ2M4OFlDMEpIQXRjcEUxZXl2XzJyd29jcC1lYnpnTEtHT1JQZDh3WF91emJfNE5Ta1d2clpSVGZQTmVjZFZDZW1Ed2lyWXRmYTBJWFJQX25tY1hrTmlkS0E4MjlzQkxVbHFndlBhaUt1UWNQTHNoTUxleTlYd0hkaTBPNlNUNE11U29yMkd5SW94MkNWT2xscnZoVFlQQVdvZXlqc0pkUGhnejVCNnVwWkdPakdSeVRyQzFYVlZzYUxZMkV4Z1plSWdyTWRBanlqdDBoRXo2UzVndw?oc=5",
+      "title": "Jan Dobrogowski, el capitán del crucero afectado por hantavirus, rompe su silencio: \"Han sido semanas - Antena 3",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPT3pFR0pVNEZTOVJ5dWJGR0ZqR0cyNDZGS1dUNG84dENLQlhlRDkydEgyRW1hcERCY3QwX1poTXRyWEluQXdXbmFLYWFpS3VPQUZ2aXBCa3ZQc19TODY0NWVLWG03NnNMNDg0UUJVNHhjb012aGJTRTljRjJ4dnN6cWlrbG4waGpPYlNJZjFfZ29QRHpRUTNhdnhnQnJJMlRueTIwTmFNc05vM3cwYldGUmZMeTJGOVZKNlBlbElvM2EwZE9BMUNzMGtsd1dnUDRzNGdQMVE4NzJpR3B4V1BVTFFVeWRUREY1aWV0b25LbzA5bWJwNWw2TTRNdE9peWE0RW9hU1VlVnZiWWktdExCQjFqQdIBkwJBVV95cUxOUmZBZEJrOHFQVjJxY2dRSmFCVTlfanZfX1dZZE5OTEtJU3hfZ2U2SlF3bzZaVTFXVkJHdjlsZERIWk81MDRudm5Oa0pOSGFhZ014VEl0RHFpbG9BLTBiVi1kLTg1dHU0eFk2MVpEQlEwQjBGNkM3alpqWl9acU1hSHJQWjhJY3lWXzk5SWlERUh5U2pjV2YzRUxmS0hUVlVvMlF3UzM2ZmVyWXhWbDdtWXY3OER2U0w0ejdGXzYxVks4Vi1CRnFBQmpsVDNiX0J5R0xZelc3Z0hIV2JoeUNmU2tfbWJfX2dLM1dSeGs3TmkyRnhSVHhIeGNVN0xKdnVZMjhjWTVsMzYzcnBuY3pOTDVPRQ?oc=5",
       "date": "2026-05-11",
-      "source": "RTVE",
-      "desc": "Una francesa y un estadounidense evacuados del crucero dan positivo en hantavirus y otro tiene \"síntomas leves\"&nbsp;&nbsp;RTVE.es"
+      "source": "Antena 3",
+      "desc": "Jan Dobrogowski, el capitán del crucero afectado por hantavirus, rompe su silencio: \"Han sido semanas&nbsp;&nbsp;Antena 3"
     },
     {
-      "title": "Clavijo ve con preocupación los dos positivos en hantavirus en pasajeros repatriados e insiste en su temor por las ratas - RTVE.es",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOV29UblRIWHNPbDZkRjlRSmJrc1hfUFV5cXBNSFFkSHg4M2dHcjZQT2hSRzJWRFFKWFdYY3M5d1FVaGlrT0xCdTJaVGV5bzU0cXJXRVJnOVlXQzVJMlpPVm45YnN2Qi01SV9oYzZiZmptV0NZQnU4bFB0M2gtNkJJVXhZbDZxQjlfUXhXRE8ybklPS3IyNm9lYUY1Y3Yxei1GU2xOS2JHYm5xaVZJV1hwX1NiaFpGQ21vai1pMlcwQkU4bVdJYUQwamJFMXVtbHkxTUQzVldNOXMzT21nT01zVjVGYm52d0lLMXfSAeoBQVVfeXFMTldvVG5USFhzT2w2ZEY5UUpia3NYX1BVeXFwTUhRZEh4ODNnR3I2UE9oUkcyVkRRSlhXWGNzOXdRVWhpa09MQnUyWlRleW81NHFyV0VSZzlZV0M1STJaT1ZuOWJzdkItNUlfaGM2YmZqbVdDWUJ1OGxQdDNoLTZCSVV4WWw2cUI5X1F4V0RPMm5JT0tyMjZvZWFGNWN2MXotRlNsTktiR2JucWlWSVdYcF9TYmhaRkNtb2otaTJXMEJFOG1XSWFEMGpiRTF1bWx5MU1EM1ZXTTlzM09tZ09Nc1Y1RmJudndJSzF3?oc=5",
+      "title": "Así es la cuarentena por hantavirus de los 14 españoles en el Hospital Gómez Ulla: apoyo psicológico, turnos - Antena 3",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOa3Vndjk0ZDZKUkR0YlVxMW9zdzFCM1ZXSXY0Z2xPTkduZHZ2b21EUHZFdUV3U0pFcVd2RWxLN3VhRWg4dExBSjFfb2t5MzJka3phUGgyNDV3a2RsYkIxNTl2MmtmeE50VU1kVV9ud2w0VVBWUVZvTXg2YXB6YXA0Y2d3bExpZTVlYVdTa0xZd29BWEFSTWNRVU1JM3paZzdxNmtlODJqejFZbzJfVnh1c0RpVldUYmVVOFFYd3EwSElxLVJkQzdRZnlYUTFjOG9yQ3YySHRrcXI4MXA4UW4ySHBnbXFmSHBQT2xPaFhpX0NTNHRnZXdZZTViajRuQdIB_gFBVV95cUxQSWxrYnI5b1V6a3o4cnFtdWc2d0dmWUx0VVQyeHo0cVI5VjNyRk9sNk9MSTJBSXdELUJHcHhOZkFsb1M0Ykxxc2x2MnFBdTdUaHR1S0xWeW9ka0NmSXNQa2pTc0RERzBKd1ZGbWw1cHcyRFVWbi01SENEM2l1VGF1bGp3TXljTG42WlB6d2pkMUtVWTdiRHBwb18tUW5yWlBfU3BSS0dwV1pBWWxrSFBsdFFOSEw1XzgwakhrTjNSdUJGQXhWRk5GNXNQSzRWbU8tNTV2LXJYblJ4MHA4Z1d1REREZUVmWkc2eGo1RXpjR0FLaEZ3S2kzRWRDWkI1Zw?oc=5",
       "date": "2026-05-11",
-      "source": "RTVE",
-      "desc": "Clavijo ve con preocupación los dos positivos en hantavirus en pasajeros repatriados e insiste en su temor por las ratas&nbsp;&nbsp;RTVE.es"
+      "source": "Antena 3",
+      "desc": "Así es la cuarentena por hantavirus de los 14 españoles en el Hospital Gómez Ulla: apoyo psicológico, turnos&nbsp;&nbsp;Antena 3"
+    },
+    {
+      "title": "Argentina avanza con una terapia contra el hantavirus mientras estalla una polémica viral - Antena 3",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb2x4YzM2UnFyWktHblZPLTFZWDN4QWZsYzdzaEtseG5NaUdvQi1YQXdQN091b2VFY0F5Rkc5aXlxOS1sYTFIQ0pSLVdoUTBvaVBjRUJIc2xsd0xyVm9aQWFsMnlVNkhwNV9KbmRIR0NJallWdXFMTTlyQmxKWHpHLXpveXZyVHdub3B6QXEzRThhaVU0SzM0X2libzNGQUI3QlpIVUJuWFRsaGdXQ0l1dUczWktrSms2V09UN0xoZ3B6dkEyaVdXV0hKeDJBSHRXZmtuREhUQnZDa2U00gHcAUFVX3lxTE5CUFpoSmJjZlZPTmlBYzdwdWxPdjdDQUp0MW8zSnVES3FFcnQyVm80eHJOS3oteDVfMlczMWY4MHVfS2xOZVRyNF9PRzhvb1ptVlFPX1had05UMWJlWWs4cFVQOU0td1hZUmRoWDhDTXBmYkFiZHNmTEUxSGFRbnhvTk94SWdKdnJjZ0xtbzhnUTRJSVpqOGFpNXE2SFVRVElxV1huUHdfYVN1ZEd0cXMtdmxreEhDa2tEaW5aYTJSaXZQaXNVeHV6Z3B4TmpSMjZTSnNmUVpqVmgtcXE?oc=5",
+      "date": "2026-05-11",
+      "source": "Antena 3",
+      "desc": "Argentina avanza con una terapia contra el hantavirus mientras estalla una polémica viral&nbsp;&nbsp;Antena 3"
     },
     {
       "title": "La UE y la ONU agradecen al Gobierno español la gestión de la crisis del brote de hantavirus en el MV Hondius - RTVE.es",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYUZScXNoTkxDaEpfVWh6RWtqUVdRRFpXUzRlX19qV3NQeFAyckNUM3hmbHBTZ1UwS0s1TGFJejdubDcxdDFobTBLZ3dkWHZWUlByLW9iWnAxOHlJZE0xSVkwUmgtX0FZanpRaGdOQU1tbW42R05jUDlKYVRyTldTQU9VRmdCT18wZ1ZXSVQ2Y3ZZQXI5RzZNajFaR21fM0pNM05XV2dCY0FyOEVKYWcwLWJpaGFlUzVEM1gzWldhX3E0VkpYY1d5QXVFblpGQdIBzgFBVV95cUxQYUZScXNoTkxDaEpfVWh6RWtqUVdRRFpXUzRlX19qV3NQeFAyckNUM3hmbHBTZ1UwS0s1TGFJejdubDcxdDFobTBLZ3dkWHZWUlByLW9iWnAxOHlJZE0xSVkwUmgtX0FZanpRaGdOQU1tbW42R05jUDlKYVRyTldTQU9VRmdCT18wZ1ZXSVQ2Y3ZZQXI5RzZNajFaR21fM0pNM05XV2dCY0FyOEVKYWcwLWJpaGFlUzVEM1gzWldhX3E0VkpYY1d5QXVFblpGQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWVJKZXNLcEwxc2R2NzkzVDVjcndWaEVaVHRUSFZ5dXhIcHU2YjhUNngyRHhZSFktNWE5bUhOUUJHY2hBT0tZVGNIcC1RMklFbHhvRjJISFR5YVYwUTFFc21ST2FmUE50NU5SZC1jN3JXUUh1Q3A4dldzRldNZFFaaUVoTDNXeVBXRTBJVHNlN2RPVlFvOEE3N21HcEkzVVd2bS1LSm85djItMUZkWFdiOGVMcDJQZ1F0VEEtY3ZkR3J6QUpINVB2eXFiRFJQUdIBzgFBVV95cUxQYUZScXNoTkxDaEpfVWh6RWtqUVdRRFpXUzRlX19qV3NQeFAyckNUM3hmbHBTZ1UwS0s1TGFJejdubDcxdDFobTBLZ3dkWHZWUlByLW9iWnAxOHlJZE0xSVkwUmgtX0FZanpRaGdOQU1tbW42R05jUDlKYVRyTldTQU9VRmdCT18wZ1ZXSVQ2Y3ZZQXI5RzZNajFaR21fM0pNM05XV2dCY0FyOEVKYWcwLWJpaGFlUzVEM1gzWldhX3E0VkpYY1d5QXVFblpGQQ?oc=5",
       "date": "2026-05-11",
       "source": "RTVE",
       "desc": "La UE y la ONU agradecen al Gobierno español la gestión de la crisis del brote de hantavirus en el MV Hondius&nbsp;&nbsp;RTVE.es"
     },
     {
-      "title": "El nuevo positivo de Hantavirus refuerza la necesidad de una cuarentena de seis semanas - RTVE.es",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeUpSeXE3ZTVIczZKckRLYXJzTW9QVWE5MnpLQU5uZDVtUDFCODZWUmJiVHhRVEY4ekxmNWs4ZTNQaERhS2VUNktITFVOcUpCTWJZNVRraEU3ZExRamRISVpVUFBidzU2anVOMFloVFQzSk5RVVFja1hncTFaVjh3UExvckRnejFuYWx3T1piV1lURURZTXp0bFptd2ZKcE5fYzRKWmdmUmJiUlNadVVHNVo1dExQZkF5MllZeTdiRC1mM1doLWVHRA?oc=5",
+      "title": "Hantavirus: no hay ratas en el Hondius y es \"muy improbable\" que pudieran llegar a la costa y contagiar a los canarios - RTVE.es",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYUx6MENjUzlZR2NFTzExdW53emFHUkxKdU83ZkozbC1OVXpwZGo2cDdHbkRQREdwaHJCOGdNaTRJZGNLZ1N6VW9aTThjS21xRDM5Z2ZZNWR2eHpfMnhvWlN2ZnF1M2lGLWJOQTAycXpiMnhPS0ZzSU5wZjhzTjdNOUY0eU9RaThXZGV4RjdZNnUtSEd2b01YLWFPa3hMZm9lZW1CcDA1eUVpVXJydWVZbzV0azRpYUZi0gG4AUFVX3lxTE9OUWJGRHV0RXJ2VVNINENyQm5QRFJ3emdFTjQ0akpaZXZYU1lDWXNqakpHU2JURHBOMmZ4TTBLYS1xdTFrdHBFbGgtQThiSWstaGJTNHU3LW9RZ3lWRWVxRi1RMDdmZ3RtTUk1UUJpYmliZkxJV0c1R3hoNzE0eDZKNzFJYWVLdklQSndJVm1oR2FEWFRFUjVjMUFZV1JISk9LYkVrcmxjNlUwU25lV2l0aVRTY0RlU3g?oc=5",
       "date": "2026-05-11",
       "source": "RTVE",
-      "desc": "El nuevo positivo de Hantavirus refuerza la necesidad de una cuarentena de seis semanas&nbsp;&nbsp;RTVE.es"
-    },
-    {
-      "title": "Las dos mujeres ingresadas por sospecha de contagio de hantavirus en Barcelona y Alicante dan negativo en las PCR - RTVE.es",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPczJTWWhJdjVFRTM2OUU0dnhQS2I5cVBlZzFGRVBxVk9zTmtFTUo0NjZRLW1zLWlDSk12dF9Nc2E5M0xJNTBuMzcwUWRfM3JQQ3czME9PNENuUFJnRHNzandhMm4wMlRkcWFEYUVFOTE0UUthWEFQeVBaQWQxLWR2dEFSSVg4WTVHRWJRNm1UQ2JPMUdTbUdXLW5Kc3ZIV1hDZUo3SGE5ajZDa2t3aS000gGvAUFVX3lxTE9zMlNZaEl2NUVFMzY5RTR2eFBLYjlxUGVnMUZFUHFWT3NOa0VNSjQ2NlEtbXMtaUNKTXZ0X01zYTkzTEk1MG4zNzBRZF8zclBDdzMwT080Q25QUmdEc3Nqd2EybjAyVGRxYURhRUU5MTRRS2FYQVB5UFpBZDEtZHZ0QVJJWDhZNUdFYlE2bVRDYk8xR1NtR1ctbkpzdkhXWENlSjdIYTlqNkNra3dpLTQ?oc=5",
-      "date": "2026-05-11",
-      "source": "RTVE",
-      "desc": "Las dos mujeres ingresadas por sospecha de contagio de hantavirus en Barcelona y Alicante dan negativo en las PCR&nbsp;&nbsp;RTVE.es"
-    },
-    {
-      "title": "La repatriación por el hantavirus de los pasajeros del Hondius concluye este lunes con vuelos a Países Bajos y Australia - RTVE.es",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNHdEQ3Z4ZmpXUDM0Smcxb29UVzNfc2NuTWQ3TnNRdkhNUV9hQ2hFX1lmZlB1RDA2VEpURHIxcTNZUHVHandCdnY3YnlZbmRqcUJRVDVuenpMeVFwSmdpTktNeEFMLUwxQ2plREI1aUhzY045ZTd1NmVUZkROWkstUUZGdFByMV9vQ1ZnN083eXphb3k5YjQyc1Qya1dhWmN0aGhQYmdqRENjdkNJdXJERkQ5OTZDQk3SAbcBQVVfeXFMTzR3REN2eGZqV1AzNEpnMW9vVFczX3Njbk1kN05zUXZITVFfYUNoRV9ZZmZQdUQwNlRKVERyMXEzWVB1R2p3QnZ2N2J5WW5kanFCUVQ1bnp6THlRcEpnaU5LTXhBTC1MMUNqZURCNWlIc2NOOWU3dTZlVGZETlpLLVFGRnRQcjFfb0NWZzdPN3l6YW95OWI0MnNUMmtXYVpjdGhoUGJnakRDY3ZDSXVyREZEOTk2Q0JN?oc=5",
-      "date": "2026-05-11",
-      "source": "RTVE",
-      "desc": "La repatriación por el hantavirus de los pasajeros del Hondius concluye este lunes con vuelos a Países Bajos y Australia&nbsp;&nbsp;RTVE.es"
-    },
-    {
-      "title": "Un primer análisis genético del hantavirus del crucero confirma que es de la variante Andes y descarta mutaciones - EL PAÍS",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWFZzaHAwV3lDRTVqcGI2YVhIb0FuUmlQXzVMRGR5ZHRIN2RUTEZUbnJtYTk3eFUxdUM4ZHlfdHBkb2hib0ltVzlmOW1uelBmNXFrR2FRcml6d1Y2aldvSVpRSHpoR3g0QVVrY0Y1VXlweFJ5YWRUWUdCajdINzNQREZZR0syRlpjSXN3UkJ5RjYxc1I5MENxbTR0ZkRhREU1UkVIV0Y2aVg0Rjh2NTVvbTBha0dCVTFQYXlKMmFROHZQRnQ1QnV0TXZyVGZqbFFEdVpJVnIwNFNkWThZdDRMdXNyRENxemhoTmtTU9IBgAJBVV95cUxNNlJTVFcwX09QVzlHbVBxNnIxVERMSUNmVS1vSEJjZHlxdzAtc2Q2eml3eTJPMGxtcFZCYTQ5N19mMDVuSW0wcWk3WnFFRW9ESnNZZ044bXRBSHVUZzZXalpyZDBBQ0FsU0NVZ3AzRHFxU25wR0o3RU5PU0VYZGpON3lZejhZci15ci1WamR0bjd4cFVHeEloMXk0SGNDTHd5ZlB0N1VkWkc0LUVTZmpKakJENmZ2U0NiR01GV2hBeXhiVXlMbE9USTFGNGhKRjhmdkNkYmUzcVF1ZC0zNG81V0RTZDZzYkotRnFqSFp5bUcxekczcTA0Ri00MV9uVWJE?oc=5",
-      "date": "2026-05-11",
-      "source": "El País",
-      "desc": "Un primer análisis genético del hantavirus del crucero confirma que es de la variante Andes y descarta mutaciones&nbsp;&nbsp;EL PAÍS"
-    },
-    {
-      "title": "Así son las pruebas diagnósticas y los síntomas del hantavirus que permiten identificar a las personas contagiadas - EL PAÍS",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU092M1NWbV9vLTRBM2RvaEhWTE91c3lrU05NcFpHRzNFVXByWnlHZ19EY1JYSks0YlpvMEhQbkVRb3dINnRRNEhhSF9xWThaTXVWZk9lV0RzQlFraFh6Njc5YTY0TG5oc3A4RDZhUjlMdk1Nb19qa1g0VjBpZmtsRzdDakVNbXF4T0Q0N0czaC1XLUtjNno4LURURG5KSmQxZDk0VG05Nk40Yk1iY0RCZDJhdnlvbFNtMEVJM25ET2dvc0prRlRndW9JT2dYRnlNc0tCMll0N0szNGs3NnRXTjBIWVdHYWpmNmgzdkgzMNIBgwJBVV95cUxNd1o5c1k0RnNyOHRlRHhaMEY5WllMTUxfRkZJTnlGS3hqSnk1T3Z3MzV2OHFHeFZnMWdwaVYxQnd1Q1NVamJWSXFWRkMyMDBqWmRnQ3dKNzhKdy1EOVZ3dnNhWlZTT3Y4dU5Ua2dDVjZydU1WRjc5Y0diQnBrTk11Nm5rVG5Pdk9vQjh1Ty1sRkF0VGIzM1F2YUVsci1hb1hUcUlEaXdMVVJfWUlsS0I0My0tdVl2eWhKV0EzZTIxa0o1M0lsRzNCVzVtXzlJU0ZTWDFTMGhUUWkzaEFPeG9ocTdKTzU1SE1LVXJidHZTYUpKVlZxTDB1dHh4UGpZZVRTOWZJ?oc=5",
-      "date": "2026-05-11",
-      "source": "El País",
-      "desc": "Así son las pruebas diagnósticas y los síntomas del hantavirus que permiten identificar a las personas contagiadas&nbsp;&nbsp;EL PAÍS"
+      "desc": "Hantavirus: no hay ratas en el Hondius y es \"muy improbable\" que pudieran llegar a la costa y contagiar a los canarios&nbsp;&nbsp;RTVE.es"
     }
   ],
   "countries": [
