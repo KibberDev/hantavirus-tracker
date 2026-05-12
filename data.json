@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-05-11 23:13 UTC"
+    "updated": "2026-05-12 00:13 UTC"
   },
   "current": {
     "cases": 10,
@@ -215,11 +215,11 @@
   ],
   "news": [
     {
-      "title": "How are countries responding to hantavirus?",
-      "url": "https://www.bbc.com/news/articles/c4g8318v4yzo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-11",
-      "source": "BBC News",
-      "desc": "The UK, US and EU are asking all citizens returning home from the virus-hit MV Hondius to self-isolate for about six weeks."
+      "title": "California officials confirm 4 residents exposed to hantavirus - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRnBoaGVOcmRUR2JjNkJvTzk1NUNfS0YxT19mUjJvbnVHY2hiVzhmc0lNTWQ0ZTlnZTVNWFBwTUphNEdwR1o5aTdhSG9mYS1MUnkwekZmNFZidlZaZ3ZaX09xS2p4SEU1WmlTb0Z5Tm9Yb3d5QUVSRkJaTkNnMGFsZXdMV3VfdHRPWlcwNlVhcWZHVEFEelVDMm1MTkhHTFdaZEZ5V25MdWFNRUl2Z2xRRGtHck9JbXp1a2sxZGEzcGVMMzcya211NVln?oc=5",
+      "date": "2026-05-12",
+      "source": "Google News EN",
+      "desc": "California officials confirm 4 residents exposed to hantavirus&nbsp;&nbsp;USA Today"
     },
     {
       "title": "How worried should we be about hantavirus?",
@@ -227,6 +227,13 @@
       "date": "2026-05-11",
       "source": "BBC News",
       "desc": "Passengers potentially exposed to hantavirus are being repatriated, so what is the risk to the wider public?"
+    },
+    {
+      "title": "How are countries responding to hantavirus?",
+      "url": "https://www.bbc.com/news/articles/c4g8318v4yzo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-11",
+      "source": "BBC News",
+      "desc": "The UK, US and EU are asking all citizens returning home from the virus-hit MV Hondius to self-isolate for about six weeks."
     },
     {
       "title": "French national shows symptoms on return from hantavirus-hit ship",
@@ -332,13 +339,6 @@
       "date": "2026-05-11",
       "source": "Antena 3",
       "desc": "Así es la cuarentena por hantavirus de los 14 españoles en el Hospital Gómez Ulla: turnos de 12 horas y qué&nbsp;&nbsp;Antena 3"
-    },
-    {
-      "title": "Jan Dobrogowski, el capitán del crucero afectado por hantavirus, rompe su silencio: \"Han sido semanas - Antena 3",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPT3pFR0pVNEZTOVJ5dWJGR0ZqR0cyNDZGS1dUNG84dENLQlhlRDkydEgyRW1hcERCY3QwX1poTXRyWEluQXdXbmFLYWFpS3VPQUZ2aXBCa3ZQc19TODY0NWVLWG03NnNMNDg0UUJVNHhjb012aGJTRTljRjJ4dnN6cWlrbG4waGpPYlNJZjFfZ29QRHpRUTNhdnhnQnJJMlRueTIwTmFNc05vM3cwYldGUmZMeTJGOVZKNlBlbElvM2EwZE9BMUNzMGtsd1dnUDRzNGdQMVE4NzJpR3B4V1BVTFFVeWRUREY1aWV0b25LbzA5bWJwNWw2TTRNdE9peWE0RW9hU1VlVnZiWWktdExCQjFqQdIBkwJBVV95cUxOUmZBZEJrOHFQVjJxY2dRSmFCVTlfanZfX1dZZE5OTEtJU3hfZ2U2SlF3bzZaVTFXVkJHdjlsZERIWk81MDRudm5Oa0pOSGFhZ014VEl0RHFpbG9BLTBiVi1kLTg1dHU0eFk2MVpEQlEwQjBGNkM3alpqWl9acU1hSHJQWjhJY3lWXzk5SWlERUh5U2pjV2YzRUxmS0hUVlVvMlF3UzM2ZmVyWXhWbDdtWXY3OER2U0w0ejdGXzYxVks4Vi1CRnFBQmpsVDNiX0J5R0xZelc3Z0hIV2JoeUNmU2tfbWJfX2dLM1dSeGs3TmkyRnhSVHhIeGNVN0xKdnVZMjhjWTVsMzYzcnBuY3pOTDVPRQ?oc=5",
-      "date": "2026-05-11",
-      "source": "Antena 3",
-      "desc": "Jan Dobrogowski, el capitán del crucero afectado por hantavirus, rompe su silencio: \"Han sido semanas&nbsp;&nbsp;Antena 3"
     }
   ],
   "countries": [
