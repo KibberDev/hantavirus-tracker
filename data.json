@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-05-13 00:14 UTC"
+    "updated": "2026-05-13 04:16 UTC"
   },
   "current": {
     "cases": 11,
@@ -248,11 +248,95 @@
   ],
   "news": [
     {
+      "title": "Esfuerzo global para controlar el brote de hantavirus, mientras los casos en España y Francia disparan la incertidumbre - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZlRCV003eVhvR2ZMcVAyR3VMTXByWVQ2d3o0Q0tOazBHRHdUcXlTcHZGYUs3UW1fVUg0aHBzT0JIckxKNTNtRzBOX3VuZ2lfbDE4LW4tZmtvR2RPUC1jS0RvTHFDMDNjbWdxVFk3TU9vaFJrRlJPNGxSRzE4TDV3RndRN2ZSQUZYakJNZmJ6S09GajlLR25FbzJZblZ3Q2xCdEN0MzdONy1rV2ZIU1hiS3RpRnpvakUtZzRFQjk5cjB5TC1BQVd4dDViRmFBMnhBWkwtOHdZcmQ4TFVmRWdwaDdWMmRSN19NT3hzRS1tY21TQzZ00gGIAkFVX3lxTE9hdnZDSzlBa0NMWmp0d2pCMzRUR3RPWFNXUWppc0hTOGlXMFpqRWRkQWcxa2FMeGlFNy02bnladkpNZW1KUEctZmJJSnh3ODMyNkNfVjBBc3FlTjVUaTlYZGNpZXNsaXVCRGljZFgzSGVVc1UySzlyNXgxUGdHWEs2QWxuellLZ3Zwc2l2dERQNkkyNEFmbkpXbE1WRVlOdTE5cTh1dkZkb3RzS0VpVVFCTDFNQi1IWS1TNFBoNVlZWFEzOFU5NkEwQ0kwLUtCeklQOExLVS1EcmRDdlJQUlBkQXhHR3pneDRtNXFFcnhfNlZEYWt3amdyZnVfdFd0WURIcEdiR2NXZA?oc=5",
+      "date": "2026-05-13",
+      "source": "El País",
+      "desc": "Esfuerzo global para controlar el brote de hantavirus, mientras los casos en España y Francia disparan la incertidumbre&nbsp;&nbsp;EL PAÍS"
+    },
+    {
+      "title": "La cuarentena de los infectados por hantavirus será más flexible tras los primeros siete días - La Vanguardia",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOFF4czROa1Z1LUlQdEhoY3hYNWE0M2tqREhiVm1kY1liUUxBQUNMMWZMQXU1N216ekZjRnRqRWp0cGpSOXYzS05wX0RScTlUN3p0THdNNWVDYTJUcVNWTGUzZTVWV2pIU2FQb0xYSHNMdHp1RlNQSW1rZFpKZEZLU2F3SFJzV01RN2lOc19CSXozWUxKdlkwWWpjV3lySE5qaVByOFFDRE1ndEdraHp3UkpHeGFTOUg1X1MxaU5TOFYzbGhYOGfSAcsBQVVfeXFMUFFzd0RnczJ2Zy1qZF9NR0FMQlgyUlFXY1pzZEhXc2JpdkNObzFXQjVhRUtqN2ZYRExIakM3cUN1aVpOaHF3d09XWE0zbTI0SmFxSFhZYUJwSENNRTBfekl4dEM3UFFfTnhmdmxpa1VvX3BFU0NwcDdhbjFJMjNYNjlqcnpPZ084RVlfNGllSE1idjNzSXpFb2lwN3hqYVNtbGlJRGt5cGRxNDJCRU9WZFNTNnozeC1CN0JIOEVnUm04QzVBaU5YRG9XS0E?oc=5",
+      "date": "2026-05-13",
+      "source": "La Vanguardia",
+      "desc": "La cuarentena de los infectados por hantavirus será más flexible tras los primeros siete días&nbsp;&nbsp;La Vanguardia"
+    },
+    {
+      "title": "La OMS detectó un positivo de hantavirus en Cabo Verde pero fue omitido en el único informe que recibió el Gobierno canario - El Español",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQN3V0Y0dMOHg3NloyMFNURG5hVFFLRmhLbTljWk5ILTJkVmVRRHcyWDNFYTkxal80bzNWekw2a2hBSDZoNUl2cEpmd29ILXh0ekFDalk1WUxZMXI0d3hxdmk1ZzlyWGpBMk9KZDZWZGFiajlIM2FVZVV0M2ZDRHVKMEN2VnJjeVFZdmZ4c0lFNXNMYllPcFhHdk5GWE96Y3hSNm5FQ3loWHNUMktURGVFeWYzdzducHMwd05Pdml3aGRzbHVmdmZiQXpYcEl6eS1zNU1KQVI2ZnBvYk0tRFVEZ3FPbFR3MFRaRENGTE9MLXUxREXSAfgBQVVfeXFMTzdzQWtxT19zalJidE54d0FQQnZDRWFUZFZnNzNkMVUxazc5d3dYQWdKVHRfSXJwTnpHQVlHdWI3ZlFzRXgxOUNUZ1pBMkZjNjdkU21XNEVFSW4zVC1EczNzaENad3NnZzBrWVZQZU02dFJXeVJ5bnhfaXI3MS1PdFZIbThUNHZQd3VJd3YwSXRMWUMxVXlVWEhjWXBHal9HYXBRMjJEQnRzckxTUVZ4aWV2NV9HV0tOeTUxUzNJREZISHpPalpEREswVy1Da3lOanA2RWJmSUxDT1lfRGdEN3hZMFlHMC1rdnppSkV2aHN2b0xqeDVWRnI?oc=5",
+      "date": "2026-05-13",
+      "source": "Google News ES",
+      "desc": "La OMS detectó un positivo de hantavirus en Cabo Verde pero fue omitido en el único informe que recibió el Gobierno canario&nbsp;&nbsp;El Español"
+    },
+    {
+      "title": "Mapa del hantavirus | En qué zonas se encuentran los infectados, sospechosos y aislados del brote en el crucero MV Hondius - 20Minutos",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQlJVOUpTalpULV9qUWdxdHpHUkZORmkwNjJwZmxQZEdPc0NNamQtaGZCc1RSYXhqUWVybDZIY3lQb0F3VEpqWWdiTzE4WUlZYVhZTUhTTE9oRFJOam1uVGNPRWdYb1QxVUVuY0xRay00QVEtQXB6Qi1YTlgxbzVMME40M3ZzbTNFbVc1QlF4bk9tQzNvQjEyQjVDLS1VNFBNN1V2dVBMcml1NkhGWmpWaTVWOGVFUmZkVmFtNXVRSXB6UmJaZFE1aU96OUJiT1duRDRubjJTYmRLUlpaTmEwQU530gHnAUFVX3lxTE90azNDTGV6cVBCVnI2djl5MzJRQ3ZkVUNib3dQQ1c2Y2dLTE9MWUt0Wlp0c0FNbUhlMDFKaUJxZHMtYXZieHVqZ1I2b20zUGJPMFY2WTg4Z0lRbE9VaXZtbURRQ2lhb09GdncyNjBWalNRSkIwTzhWZ2stb1pHaktFalV0ZkFnRXRaWDR2dTdDZE5Dd215VlBaTkNnb2hvem9leHYxcGRYM3FIdTFvb1JfdmpzXzVlMHlmMEswa0d1eHJuVlNZWEFsdUpsT2V1b3RWNEdDZ1I3elFVVHd1Z0liR0RXTWd3SQ?oc=5",
+      "date": "2026-05-13",
+      "source": "Google News ES",
+      "desc": "Mapa del hantavirus | En qué zonas se encuentran los infectados, sospechosos y aislados del brote en el crucero MV Hondius&nbsp;&nbsp;20Minutos"
+    },
+    {
+      "title": "Possible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship - People.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdmJKc185WS1zQkRlMG1nZ2Ryek4zdEl5WlJZaVdqRXFWMFRVblU2cUgzX2VwdnJGeW5GRnJhZzQzT3VCSUJtVHdDMWFraGZIeXFHYmRwdkVabEZ4VnFWS19vZFpOcFVpTmw5THhHMkpzMGFoQ1ZlQnBSdzJKMTZOUVZuMXZvOWYyNHBOMXJfVW5LOWdXUHVGN0tFOHI?oc=5",
+      "date": "2026-05-13",
+      "source": "Google News EN",
+      "desc": "Possible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship&nbsp;&nbsp;People.com"
+    },
+    {
+      "title": "2 of the 18 Americans being monitored for hantavirus speak out - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ0dCTXFQbjlrSWxmU1NrWHkxZkxEYnJEOGpXN2NBRlRjZ012S3NvN01Dc283NWdhX0ZWYnl3TzVsLVlYQVl3NFQ0N2xkdFRrdjJCMkdfUVJ0ajRRUWstaGlUbDBfQXNuNmR1bzJ0UVI0MHktUXN3andxV093ekF0bW5RQWQtTU9Ha2c1WjVKOVRibEpqQm5tTHlySXItaW1RLUln?oc=5",
+      "date": "2026-05-13",
+      "source": "Google News EN",
+      "desc": "2 of the 18 Americans being monitored for hantavirus speak out&nbsp;&nbsp;CBS News"
+    },
+    {
+      "title": "Dr. Shah says Maine in good position to manage potential hantavirus outbreak - WGME",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcXIyYzZVU0dJdEN5YTRrS0RhMjJtUG9tMHFZZTFNQTJLVGU4RFAwbjhYdG9TdGEwVWxndkd5YTM1VTM5T243V0ZOY0pEQm84RTFQMWxCSElvNkxRTVUzcm9rT1pLMWUybDhaTlR0VXk1UW45eVRiM2hoc19nWUFlLUNzZjFsWUlzSEtLekVyRGNpaVJGOTM0RHJDa2xwTzUycy13THBGUkpsQTNtSkE?oc=5",
+      "date": "2026-05-13",
+      "source": "Google News EN",
+      "desc": "Dr. Shah says Maine in good position to manage potential hantavirus outbreak&nbsp;&nbsp;WGME"
+    },
+    {
+      "title": "He was on the trip of a lifetime. Now he’s in a biocontainment unit in Nebraska while hantavirus cases rise - CNN",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOHBnSHk0cGJWX0RXdVE2UVowWk1OUzZYY1VsWkstZW9uaEJCYWF5UkhOcEFoNDdTRnV4RlVzLVFFcmhqZ3l1QUN3dUFpbnZCWEtua3Q5ZmRiMjIzbVBMRlJsc0M0anNqUGYxdzZYX2xueWtpNjN0bHhkdzRVUXVYS1p2eHZqdw?oc=5",
+      "date": "2026-05-13",
+      "source": "Google News EN",
+      "desc": "He was on the trip of a lifetime. Now he’s in a biocontainment unit in Nebraska while hantavirus cases rise&nbsp;&nbsp;CNN"
+    },
+    {
       "title": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUThMc0pIYUVmdmh0VDhLd1J6Njk3T0Mzenppak14OWE4eWhrYjA5MEZGdDN6dnN3UzQ3aFVlNWNyeTJmQ18wU05XN2tQZjlQT09wdFRZc3VDTG4xamx2YWgyODVQaWVTUmw4?oc=5",
       "date": "2026-05-13",
       "source": "Google News EN",
       "desc": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)"
+    },
+    {
+      "title": "Five things to know about hantavirus from a Stanford Medicine expert - Stanford Medicine",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcU9yeGhXN3pfTHZHalRLTGhQUE05YndBQWtzWmZ1b0NHZFVXX0phcVl1ekltS1czSnhXQnFZWnFaU2JEMzBibkdpOTItVkRYb1NyYVd0U2NCTU9yMnNsSG9SSWJndm9uMkZ1WWU2UW5Sa2ZQMVpkaFdFVjZiWGI4czNCS3JxcklSVjhPWTRxNmxUNmE3a2p0Tw?oc=5",
+      "date": "2026-05-13",
+      "source": "Google News EN",
+      "desc": "Five things to know about hantavirus from a Stanford Medicine expert&nbsp;&nbsp;Stanford Medicine"
+    },
+    {
+      "title": "How a Hantavirus Cruise Passenger Is Spending His Quarantine in Nebraska - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcjFPbzcxODVyOEdCUHMyUHBmX0h3RTBtMXVtZFN3LW95WWZva3hEZFhQZE9OT2NpYjItY1hFOHlZZDdtWEJSNTZEN3NZdDZpTEdLTi15ejFVZE43WEw3bHQ4ckpYcFF5OWUzNnliVnpRZE9heVdGVmdkM2wwRTdaaFd6U0lmeG4yQVV2UzQya2Nya3M1Z1E?oc=5",
+      "date": "2026-05-13",
+      "source": "Google News EN",
+      "desc": "How a Hantavirus Cruise Passenger Is Spending His Quarantine in Nebraska&nbsp;&nbsp;The New York Times"
+    },
+    {
+      "title": "Man shares footage from inside hantavirus quarantine - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5keHR3ZHdaeENEbldZWG9UR3RKeldqTXJNUXNZZGtRZUpkQVBSQ2NJbWpIcjZMeXAyTGlYREdOQjFjM2ZWMS1FbHR2eC1pSXhadzJjcnhQNA?oc=5",
+      "date": "2026-05-13",
+      "source": "Google News EN",
+      "desc": "Man shares footage from inside hantavirus quarantine&nbsp;&nbsp;BBC"
+    },
+    {
+      "title": "Three people from King County potentially exposed to hantavirus - KIRO 7 News Seattle",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ2t6ZlBCOFB1dXVoN0ViSU1sbDdINGFFVWtQYS1yQ3NncGEzYll1ejQ5UThBa09WTUI4TWRVOTFIVlRubEp2akhGNGZ1T1BQVFhYT3hlZ0c5REh3VVBIdGpKNVZfXy1wUWllMXdjcklUWlltMDg3NDE2ZkpwYlg2UmVCR3QzcXJPdkFWTnZWMHJFYnBnSWlobWZEalh4eGdCX2JleXUyYlI2aF83My1USXhpR3R6d3fSAcsBQVVfeXFMUGVyNnEzRGEzOW0ta1ZYRnkzeXp4LU5DWFpGRmN0dHg2V3lueVMwQVYwcXltVHlBUEFMd3FkVkwySGlUVDByaDJVcGZQSEhXMC1IWXMwTWRsR1lzcFlZQmVwam5ZMHFiTE1tLWZhWlEzNzU2Z0xCSTZXVlBpRHNvZjNxY1d4MTU3MjE1QVlFcGQ5eFUxNkc0M3BRdUtoWVMxa1hJbGpXOFNuQXFTOUJHWFdSUGpTZXh3akswSERxd18xT3FmSGwwXzZsczg?oc=5",
+      "date": "2026-05-13",
+      "source": "Google News EN",
+      "desc": "Three people from King County potentially exposed to hantavirus&nbsp;&nbsp;KIRO 7 News Seattle"
     },
     {
       "title": "How worried should we be about hantavirus?",
@@ -288,90 +372,6 @@
       "date": "2026-05-12",
       "source": "Antena 3",
       "desc": "Enfermera del Hospital Gómez Ulla, tras el primer positivo español de hantavirus: \"Todo esto ya lo teníamos&nbsp;&nbsp;Antena 3"
-    },
-    {
-      "title": "El doctor Fernando Salvador trató a un contagiado de hantavirus en 2017: \"Empezó a tener síntomas - Antena 3",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPYmw5bFRoV29PYmJBMWVLZGVIUHV0eUM2Z0hHcGRfQ3hOSEc3SXNkYlI1NFM5T3ltUnI4LU5UcmV6eWZZd25CNGppWHpkVEt4VHNrYndhSXdPZnFwdEhYc1Q3X0hLWXpLaC1ZbVpxOGtvTF92SXRkbDVoWm5sdXhPcEdlYjA0ZGFTdkc4eGwwMmQ0ZmVncW9FeGpQek90bEdPUG1CZ2Jmd2FZZU9fWFNlTzZSQ3hfZEFEVlJ3ckQtRlA1R3lzZVhjbzhwQVBUSWc4X2FuXzJmQWthYno4Q1RoVWxEenRPc2ZBWWJJeDNHcmVueVhWTzllU2JrUFhQLWoxbzAwZ3pRQTFmQWRNajFj0gGPAkFVX3lxTE5NOW1GanRRMjlDdkd0X0dRcGtnZ2ZDZEJSQXdQOExKeUNuclJTazVPRmtQLXo3MmxzblFSb0dkNWNLMVNaXzhqR0tPYXdIR1hmWnB5NXNjdVJfa25fUlgtT2FWeDdITDhnYUE1VGs2cXd6clVESzBHZlNvY2NFVEJNTC1vWTdOaC1qbWt5MVRQbjNTVWF3cmg5RjA5THR0ZmFHSzFPYWxxTFFRbWtqdDhYdUtIZzJmdHhTdTJLOFdoX2licTNSblRJaGozRklkMERVQ3p0b0NhUEVGckF5Ry1fWFFMZWlKQ3JRUGNac2V0Qmk2alNubEJucHpYT0RrZEFTU0Z2QU9rM2RkUTlLcGM?oc=5",
-      "date": "2026-05-12",
-      "source": "Antena 3",
-      "desc": "El doctor Fernando Salvador trató a un contagiado de hantavirus en 2017: \"Empezó a tener síntomas&nbsp;&nbsp;Antena 3"
-    },
-    {
-      "title": "Las PCR del hantavirus de los pasajeros españoles se analizan en un único laboratorio en España - Antena 3",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTTVkNnNqeENHUlFQMzdmT3dPeDdkR3pOY3lXUGtjNVFVOUlWTVZ3YVlldGVJdGtVajRuMUFmQ0ZiUWs3cUhPNGZaSHNZTDVGQTdwdjJRMUp6enkwaVpvSWhXbjczZmRjc2N0RzhZbndHQi10MmZMbWZTYTFQWkUtbXYzMVlxVFZtc3ZpbHFKazJ1Q3JFWHVrVGE5QmZkbEZBb2tSS3VLQS1OMVgtZnQwY2ZGQnUzc084eEZQNmtKMkhCS25ldFF1Vy1ocU1qUXZEYXhOekh4RXRxb0hSalHSAd4BQVVfeXFMTWlQTEVfRXRWeHFGRXVnaVRja0Y5bzFLRE14M21TWDFGT1VVMk5EUVV3WTZtMDRiNjhqeW9SVUFZRHRhNVVHM3d1OWNITWtxUVBGd1NhdWpZckY1OG9Qb29KWWhzeDZmNHdFYUNvbUZOcElQWkdQTlFjNlhTOWFFZEhsUmxWaW13ZXVnaGdpbWRSZWF4MWxjVEdTOE5rTzZ0ZndRRkhhd3NTV1pjR3RFZEZESndCQlRMR2M0cVQxV05VeEJNYlRPdzZuVWY1UjJXTmplVGxMejFReEV6QWdB?oc=5",
-      "date": "2026-05-12",
-      "source": "Antena 3",
-      "desc": "Las PCR del hantavirus de los pasajeros españoles se analizan en un único laboratorio en España&nbsp;&nbsp;Antena 3"
-    },
-    {
-      "title": "Carlos Alsina, sobre la gestión del brote de hantavirus: \"¿Hacían falta tres ministros?\" - Antena 3",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPY0M4Rll5czE3c2E2R1pKRm5PVVA2bTZSY1U4UzNoSFBEVTd2UWszZDh5ZWVIS1Q2LUxNY29xQWtHVXprWHNDaEFadFlvWG1FWmZFUnBZa2ZfUFF5czcybnRMbGhoVFRwaDY4dkN6eXZVcWFDdnBnTlFqQzM0QS1YZE5FWUhNVllWbDgzLUc4bl9oYlN1YUdSem5mRG1KV0Q1ODBmRWpUR3FuOFc5c3NpSnhZSDlkR2J4ckF6QVJUX3I2S0lrUG9xXzAyLXRKZHljNDVfLXJRZHl4UUNJZ2hPZHhoRENxMG01ZURPeHRERDVxUmJF0gH0AUFVX3lxTE1XS2lCa2gzcU82QmNUTmEwU0pOWlNkeW4wV0RiNEhFaUhjTm83cEtFTEUyR1ZJU3BYTXRhNEtmZHo2T2xWNEM4Y1doWWRKOFdfQ1FlUWRPb2dnTW05aThLTjAyTVlCRTR4ZFdjbnk5NzB5TFpnSkFDTnU0NlhuRl9wS0lPdkpzMndYcHlWdXV1cWQ0dUtQMng4TXlucDMxdHRxb1E3NTJiMWJlSmtOU01FcWpkY3lRekF4V3RfdnlfYklneU1xajRob0lDa2pqWFVQaDBGckZKMVhuZDNpWnFxcVZyUk1CdlFBei1iQkJvVlZNaEk?oc=5",
-      "date": "2026-05-12",
-      "source": "Antena 3",
-      "desc": "Carlos Alsina, sobre la gestión del brote de hantavirus: \"¿Hacían falta tres ministros?\"&nbsp;&nbsp;Antena 3"
-    },
-    {
-      "title": "¿Es mayor al que creíamos el riesgo de contagio de hantavirus?, un epidemiólogo responde tras el positivo de - Antena 3",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPOXhObVJXZVZOQ0ZMUnNiMXlyX1JseXFzRURlMEdBcGQ2R1pDUFdXUi1rY1AwV2tzUWQ4UVhrNFFwZzIwbUJVR0YyRDV4eGtHRDZOOEE3aG5mZUg4aUszZkZNOVdwWXhHOGpDc0lGVVZ2SlhaWElfSnZXallEZVpVcGlsOUdRSzg3STJMWmIzV3A0dER3ZjlEUlNpMVJWR19CWTg4cEJINnplWHhzYmgyRmRiVm0xcXUtLTFGZFN6UmNCNHJpU0lQWmMxTkFRT2JfWEJkUkI5amdydlF2cHhodm9vczh1QWxsLUZiWXFlNTRtMF9wQ2x1azQybzg1bXdpeUlodDFtVzk1ZnFG0gGMAkFVX3lxTFBIRTdOMWg3N3htTnhENXBMamFJS3VFeUl6TnEtUzdIX3NLbzhMVVpaQW5HZ1JVaThLSG9JcGZkZ1VQcE44ZVBkbWdIZVN3c2ktZHVRbUlVRTl4bjVLeGV0NlZTRWx0QTFLa29KZHlRWVdSNTQwcTFFbE1YU2dfQXJ0TzNVUldxVzZoQ1B2VUh1NnNERUk3RDAxRzRVY0JBZ1VabDVVd2dzbjF4ZjFyS1JBVVFNeHlubGJvVnJqUjd5QUR4ckxXMkptQkhyRWxwVDVyVG5xSkRDTC1NenZfT0lPNTlQZWZtMnRSang2YUZ6RktONWwydjBkZXZnVHJabDdOSEw1UVQxY2RXYl8?oc=5",
-      "date": "2026-05-12",
-      "source": "Antena 3",
-      "desc": "¿Es mayor al que creíamos el riesgo de contagio de hantavirus?, un epidemiólogo responde tras el positivo de&nbsp;&nbsp;Antena 3"
-    },
-    {
-      "title": "Francia endurece su protocolo frente al hantavirus tras el ingreso en UCI de la paciente infectada - Antena 3",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVUNjTnEyRUdxTW94RUIzbWhvRW9kekVaMVJ3QXpZSkhja056OFE4UVNQLVRBdXE0RXgySlJnUjVFcEdaUXhYdUpSS1hCZ3V6UmxlUkxDdThveHJSY2tHdFhOc0t5MTdzSURVMDJ5MkR5WllGdzR0cE9hUzBJbFQzRlV5ZWt0Sk5aSVR1ZWpvc2hmUmh1VTNaVmNFZG9YbnNNdHFmZXB6aWotTGdsSHEzd3N1X2d5NmRWMnhXM0tnWXk0Sk1QcUkydy1YcHhYWl9OU1k0a1BOVUZ4NFNFcjZxZzBaV3R1RW_SAecBQVVfeXFMTTlpRWYteGNld2hrbzdOSDdpVXMxbFBPb0pzZ1BoTzFVM1NOSTlPa1EzcFRTQ3prb0lNUGZwU21XbXVZTkhqZk5KZ3dkVjZCWUNPaVMwd2lQZlRRUWo5TGMxU1BLVEYzbGVLOFlOamVydlFVMmg4N3pWY0tNbGtiSHZxVTlVaTkwSERPZ010OXJKVDBhd29jaGtqeVBwcmVQaFE5Z0N6RzBXNHNGWHpHVXoyM1hWQTRONE1vTlhmZlhPS054enpEbUlBY0p5dHlqMzJiWGtoY3ByWjRVOTVNX2x5S0xDV1hn?oc=5",
-      "date": "2026-05-12",
-      "source": "Antena 3",
-      "desc": "Francia endurece su protocolo frente al hantavirus tras el ingreso en UCI de la paciente infectada&nbsp;&nbsp;Antena 3"
-    },
-    {
-      "title": "Aena desmiente un falso cartel de prevención del hantavirus en el aeropuerto de Tenerife Sur - Antena 3",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaVdhU3ZaOUI1S0kyVWR1YVRXSlRfVDJNeTNIVGZHdHBuYnViWXRzUG0zVzNMVW43cnpvZEMtaEYtQUd5bmxUNWpaNkVCSVV5TTVaSXZ1M0E4NzB5V2xPSVIyUFRtQ3ppYUxfQ2laZ1JrenlBSDJuTGoydUF6MEZkZXJjenlJam8tU2ZldWxLc2dmSUVPWjhLY1pvMUJ2MWVMLUVNZTdLLVhsd1ozdnQ2cXhTLS1pMmZmbktxSDVKNEo1XzZ2XzZsVHdnU2syazRSZWszaWQ0cUh0R3JYNl9valNSWklTS0pH0gHoAUFVX3lxTE51MENrWUZKNDE0WlpEZktvVC1SZGhuUjNpd2IyUTh3Q3JwbDFULURTZThfcG9sVFVMbGhjZzU5eUJCbE9sa0pkekhOZXFPeWJwYnZBM0tYelN4aUk2YTZRTTVnZnl6ZkxnQThEUktYRDU2SVBnZ0oxM200ejlxcTZTamY4TjlCVTNGNktmV2ZBWGJzUnc1MFh5bV9mZjBLYk1zdEFlUUw3TmEzVlk3THFGZ0xuZFJNRXFUOHU2WmpYZEpYeF9yTUNJektfRi0wSzgxeEVjeV80LVg0RU1jc1N6LTlxVWNOeGs?oc=5",
-      "date": "2026-05-12",
-      "source": "Antena 3",
-      "desc": "Aena desmiente un falso cartel de prevención del hantavirus en el aeropuerto de Tenerife Sur&nbsp;&nbsp;Antena 3"
-    },
-    {
-      "title": "El primer positivo en hantavirus español corresponde a un pasajero hombre, con síntomas y que ya se encuentra - Antena 3",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNNkF2ZHFUSjg3cEZ2aDdUN3hBOEU5d3FCNW9xa3VNLWJ1dXU5dVdqRUZwOFM2czJ2SzV2UVRVMUQ2NXBtMUVDTVp6Q3NyRzJPUjg0UnZ6alFOU0l5QVQ5aEw3U1J0YjJ6bk9iRS11RGpJa2FDVVlyV09IY3ZJWDVvSm5qUEZFQ3pwQmxpZlgxTFZNbHpLOG41dmI4WnNicmQ1SHpDM1hsWmlSQmNBMjMxamxSVnRRY1VkNGRPdGw1c1JoMlFZT3pTR1BCWGx1dFZhQmpMd2Q4U1hPa2xxRExrSHVIY3NyOG8zRWFmMS03TFA5NUQ2eHdfejdMUC1tTnZ3OEJBbVh3bTJWRE55NFHSAY4CQVVfeXFMT2pQUlpnbUwxWHNwb2V3RnNXdGJuOWZRLXlHT08xUllqbGs4ZE01aHl5eWJ5b1BqN3pGOHIwcHJwd0FNa2tZMFM1VTZZUEpMZDFfckNaZTJSQlYtb0t1T2UyVzBhVENxWGt2Wm4xbVp0YWszNzZGMm91R3JnV3pUQ2luQ1Vhc01lNTVxaXlfTHkxYkdBbnNPUXpUWnhoS0h3c0hVX0hXZ2dsZ1R3djNXODFSVlkzbkxTdV8wNzV1em83TVV5dzlhcVp2aS1TSWtBX1V4VUh6RlM5X1NsYWxZVU1VSWhKVHY3YmJPcnpjbnA1cm1IWGY4d1hfUFo4Q0Znek1RaFcyRkRaNlV5S1NB?oc=5",
-      "date": "2026-05-12",
-      "source": "Antena 3",
-      "desc": "El primer positivo en hantavirus español corresponde a un pasajero hombre, con síntomas y que ya se encuentra&nbsp;&nbsp;Antena 3"
-    },
-    {
-      "title": "El hospital Vall d’Hebron trató en 2017 un caso grave de hantavirus en un joven que regresó de Nepal - Antena 3",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUW14YlYyYlI4ZVlnUV9oaWdpbzNHbXBQdVNqM1NwTl9LWmRHd2JRSGthamMtSldwYzJRZUdtaFBNMU0yQ1p3MVlFT3RtX1J0WkZtZWo2Uy1tNUlwNWtNREtOanJCNGdfZDlDZWt1eFl6QVUtSTR0SlR6dG9sdUh0SG50Qk9zNVlPUGVwOFlrakNBYXRiRXBWazROSHFoWWI1TE5GNWVTelZZYmpFU2t3Ri1nUTZjV0tGV3MxOGdMdFBPR0hPakVaaUxkQm9kVTZZUmRuNTd4amZzeWtfQXctYmpab9IB4wFBVV95cUxQa1NOX1JILXVqajg2dXR2V1RZRkNqUm5lbE5ubmRFb3JFMzhYekFqeGhsQmJ4SUVPZTFMOFYxQmZ3Vk1Qejk3eHVMOEVmUURKS09EazhWRmx2RElIMnQ0N1lHVllLNVBOSGlzRDNXTnJFaS05MnpWVFhRUk45TFladExacy1kUWoxQTlOaEFGdmYwRl9uRHRiOHFIM3drUXdCc2QwemxVMHc2ZHEycG1GNXBkU01Nal85dG1iX0E4d2ZhU2d4VFhONkJNem5RUTlHRUU5YmlCMWhHWWpiV3B5aDJvbw?oc=5",
-      "date": "2026-05-12",
-      "source": "Antena 3",
-      "desc": "El hospital Vall d’Hebron trató en 2017 un caso grave de hantavirus en un joven que regresó de Nepal&nbsp;&nbsp;Antena 3"
-    },
-    {
-      "title": "Javier Padilla confirma que el primer positivo español en hantavirus ya presenta síntomas: \"Febrícula y - Antena 3",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNUWoza3hIa3NwTWNwYXg5R3NUQ0l4a2xLYjBjOXhnUzMxZUp6amF2QmVZV3VRRHFPdkFySzJOQkp2YU16a0Y4TlA1bVdPREpYNXd2U2RFSXJoUHpVcG1uSlRmSEZqeHpZbFJINm1EeVFvV3JOVkhyamU5cDQ5UE45Mzdfa3QycThRS05Hd0FZUnJCRjZYRFdjbTZ6UC1Iem9OMFJfa0NrMGQzQXZWR0Vnc2p3YkNlQ2Y0Y09nR0lIZXdDcW8zMFFxTzNHR244TlJLMm81MWRlcnN2S0Z4aXJZWDhmME9CTVlCUmVoNjktcFA0dzdxWEd4TUk2MmhyOHdfbEtTWG9Ia3Qyc3FkdHUwNzVHTnVzU3JpbFHSAZoCQVVfeXFMUDdoNU1OWDJoRklGYzBwTDJSTHJmNU5sUXZadnNMemEyT3MtdEtzNjdlLXV2LWFYeUpBRm5zbFJBZUFNTk9jQml0YkNhS0pjY3VXNVJTd2c5R0ZaallCdS13OC1oYVdrV2JWa3VuaUNCa3J1NUFZSEk0Tl8zVnVIRC1PaW9sbkhobzJSeGhaOFpaNjM3TFdqNG85UDJHZWJjSVp2NFdJMVROY2FkbGZKM1FfUHRyX19adDdnMTBiN3kxUDVWOXNsYUZQaGI2anJwLXN1VlhGcC1DZFl6bE9SWGtRSE1tV1RVZnU1STdqeVo2TTJlQjZLcE5rMGhtZTBqbW95RFhtdmY2RWVRR2pvdG1ITjlpSzZCSVJR?oc=5",
-      "date": "2026-05-12",
-      "source": "Antena 3",
-      "desc": "Javier Padilla confirma que el primer positivo español en hantavirus ya presenta síntomas: \"Febrícula y&nbsp;&nbsp;Antena 3"
-    },
-    {
-      "title": "Pedro Sánchez: \"La crisis del hantavirus no ha acabado y por tanto, el Gobierno la sigue de cerca\" - Antena 3",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUU9FeS1seUVSRThsMklPejZYTW9QbzNINmpFWFRpYUxFQ2pmb094ZGJkc1pMU3VFV1hfZWdiR0E3NjJKN2dlTWc4cVk2NkxoYkZUekR0RkkwY3JqaHk4WkIwSTBrYmFTb1N3RV9PdF9iblAwLUtJY1F5QlRkaEFvdGZXWGtOaW9mRy00d0c2ZjFjQ0lWRklFU0pYNDdrc0pCTTBEdDd3SldTQXlIazhTZmVjaHpnNURJd1c4WFROUm5VN0w1VWRfTm5nWDYxLUdUeUFrYlBNSTZZM2Z2dWJvR3Z30gHiAUFVX3lxTFBxTGxlVlU3d0RidXY4a3U1TklVX1pGcU9yQU9tblhfN0lFdGNjanlfajhZNlNRTDBxS1BWbWFmVjM3Smd1dUJ5Y0pKOUR4UlFFbVl4S0FCak9FVnV0ZlEzNjloNWs2UzFENk9VWW1UaEJKSEFOSE9QZUJ2VUFUY085WExpbGlDcjU0RVRsWmE2RnpCNFRsR0FVTG8xSFY0emxWTEFQenEwNDRiMnBkd1hUaVpQU280MGJ2RmNnb2xtZDlpcVBTUU9fOEdDdUpMcG1sTVRYQWd1X2JXenZrMlhWekE?oc=5",
-      "date": "2026-05-12",
-      "source": "Antena 3",
-      "desc": "Pedro Sánchez: \"La crisis del hantavirus no ha acabado y por tanto, el Gobierno la sigue de cerca\"&nbsp;&nbsp;Antena 3"
-    },
-    {
-      "title": "Hantavirus Andes: síntomas, cómo se transmite y cuál es el riesgo real del brote del crucero - Antena 3",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWkJiRWFBOW9pZE9OT2JJb2MyZGpuVkhKSHBzMXhuUFlLZDZ6T3ZlWnhzMW0tZTd4a1lFb2tkRmRPTDFMQ0VBNklyR0NXaTlKbGtndjhTQVlYYjFFSWpmd21Nem9JeTRmaklqVHQtbTc0b0EwSmtmeE5BLWYzQVI5UkdfTGF3MmItck9iMVVxNDRTUzdLTVZOc2o2TXJfdm42LTg1Sng2VmtIUmludG44b0M5RU1CUU9zWE00dk5fMFRrNHpOU1REN2RFMThxZWZWRHhsQno4YnE3VG9XSVZGekVn0gHiAUFVX3lxTE4tbmFsVzRfNnpiTEh6dl9ZcGZGSmpYa1hkUzBpb2xfVVFlLUcwVXpOaUJjQzktYmg1eDJUbzhZU0pZeFNvVGZhNDlKUWpyOUdxeUdHMVNuWTdYSDhWcDdWaWd5eTJpVGd5dlpsanZVbHZzR25EVVIxYjFWZkJ1N29DVW5JRXVySFNqRmZETlRmZzR5VlBWc3VZYXkzZ3hrU2tMUXM3MWRzYXFrS1JRZUJiNGVsS2dyb1dsZDUzLWJtNVFOY3FycnNhTC00TGRXY3ctcVRVdDBPZGNNVEc5YXQ1SlE?oc=5",
-      "date": "2026-05-12",
-      "source": "Antena 3",
-      "desc": "Hantavirus Andes: síntomas, cómo se transmite y cuál es el riesgo real del brote del crucero&nbsp;&nbsp;Antena 3"
-    },
-    {
-      "title": "Doce sanitarios neerlandeses aislados por hantavirus tras fallos en su protocolo: hubo errores en la - Antena 3",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNbGhxYkJCeHlMN3UyaVdrV3JoMlJ3SDVMZzFiR2xpS3c3Umx2Q2lyXzNOSl8wam0wT2ZPaFdUdDFwQVQzRjI4T2Q1T2F5MVRERlZQY1J5bW82X01rUjJzbXg0QVFCTWZ2SVI2bjFyYnJjQTFrMXNkMjRVM2o2V3RDaFZldnZUYzgySFEwcEM5dUVHdElxQUoxVWpkUElSbXU5SWswcGEweHNlRldEQmFYVXltUjJCOVNqMXN5V0ZOV2RkcDRWaXd5bHVOOGJuQWZwb0tadjduSG1zWU01WkpZWVBZeTV4c2xibENlcnA0Rl9Vcm8yWXUxR2s1TTlxajFEbUtZ0gGDAkFVX3lxTE84R25makRqa0RJalo5d2VLSFdSbnlVYlBETUxxYzhFMXM3OVE4WHZxNWF5MzBZaE01X0ZUa1ZJQ1YzVjdMM3QwRW8xUkNJZEM1NTJwNEZRV2ZNSGZxaVl6bkpydDlleVVHM2hHN3VmUXQ2enZJMnZ0clpuS0ZPc0pWaXRybzJfODhJajRKYzRfQXQ0LVhFeTB6UGRQaUxySW1POERLRHl3TV80THBHMnNhV29lZEtKR1NQeU5Xa1hBZWloWlk5UklxV2c4Sm9JS2tOUU5kVjZsejRCdlJWNmlXZ0tqWVhFWEZGSURReXZ6V3JlYlc4TUZCN2p5WXllamR2bDg?oc=5",
-      "date": "2026-05-12",
-      "source": "Antena 3",
-      "desc": "Doce sanitarios neerlandeses aislados por hantavirus tras fallos en su protocolo: hubo errores en la&nbsp;&nbsp;Antena 3"
     }
   ],
   "countries": [
