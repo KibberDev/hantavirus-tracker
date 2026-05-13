@@ -1154,7 +1154,8 @@
     //  UTILITIES
     // ───────────────────────────────────────────
     function isSuspected(country) {
-      return (country?.status || '').toLowerCase().includes('sospechoso');
+      const s = (country?.status || '').toLowerCase();
+      return s.includes('sospechoso') && !s.includes('confirmado');
     }
 
     function getCountryMeta(code) {

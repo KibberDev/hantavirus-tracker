@@ -9,7 +9,7 @@
     "cases": 11,
     "deaths": 3,
     "recovered": 0,
-    "countries": 7
+    "countries": 9
   },
   "country_ref": {
     "AD": {"name": "Andorra", "iso_num": "020"},
@@ -642,6 +642,26 @@
       "status": "Caso sospechoso — bajo investigación",
       "first_case": "2026-05-04",
       "notes": "Caso sospechoso detectado durante la escala forzosa del MV Hondius frente a las costas de Cabo Verde. Pendiente de confirmación por laboratorio."
+    },
+    {
+      "code": "US",
+      "name": "Estados Unidos",
+      "iso_num": "840",
+      "cases": 1,
+      "deaths": 0,
+      "status": "Caso sospechoso — bajo investigación",
+      "first_case": "2026-05-10",
+      "notes": "Caso sospechoso en seguimiento por las autoridades sanitarias estadounidenses. Posible vínculo con pasajeros del MV Hondius. Pendiente de confirmación por laboratorio."
+    },
+    {
+      "code": "CH",
+      "name": "Suiza",
+      "iso_num": "756",
+      "cases": 1,
+      "deaths": 0,
+      "status": "Caso sospechoso — bajo investigación",
+      "first_case": "2026-05-10",
+      "notes": "Caso sospechoso detectado en Zúrich. Posible vínculo con pasajeros del MV Hondius con escala en Suiza. Pendiente de confirmación por laboratorio."
     }
   ]
 }
