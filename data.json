@@ -3,211 +3,799 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-05-13 07:37 UTC"
+    "updated": "2026-05-13 10:09 UTC"
   },
   "current": {
-    "cases": 11,
+    "cases": 12,
     "deaths": 3,
     "recovered": 0,
     "countries": 9
   },
   "country_ref": {
-    "AD": {"name": "Andorra", "iso_num": "020"},
-    "AE": {"name": "Emiratos Árabes Unidos", "iso_num": "784"},
-    "AF": {"name": "Afganistán", "iso_num": "004"},
-    "AG": {"name": "Antigua y Barbuda", "iso_num": "028"},
-    "AL": {"name": "Albania", "iso_num": "008"},
-    "AM": {"name": "Armenia", "iso_num": "051"},
-    "AO": {"name": "Angola", "iso_num": "024"},
-    "AR": {"name": "Argentina", "iso_num": "032"},
-    "AT": {"name": "Austria", "iso_num": "040"},
-    "AU": {"name": "Australia", "iso_num": "036"},
-    "AZ": {"name": "Azerbaiyán", "iso_num": "031"},
-    "BA": {"name": "Bosnia y Herzegovina", "iso_num": "070"},
-    "BB": {"name": "Barbados", "iso_num": "052"},
-    "BD": {"name": "Bangladés", "iso_num": "050"},
-    "BE": {"name": "Bélgica", "iso_num": "056"},
-    "BF": {"name": "Burkina Faso", "iso_num": "854"},
-    "BG": {"name": "Bulgaria", "iso_num": "100"},
-    "BH": {"name": "Baréin", "iso_num": "048"},
-    "BI": {"name": "Burundi", "iso_num": "108"},
-    "BJ": {"name": "Benín", "iso_num": "204"},
-    "BN": {"name": "Brunéi", "iso_num": "096"},
-    "BO": {"name": "Bolivia", "iso_num": "068"},
-    "BR": {"name": "Brasil", "iso_num": "076"},
-    "BS": {"name": "Bahamas", "iso_num": "044"},
-    "BT": {"name": "Bután", "iso_num": "064"},
-    "BW": {"name": "Botsuana", "iso_num": "072"},
-    "BY": {"name": "Bielorrusia", "iso_num": "112"},
-    "BZ": {"name": "Belice", "iso_num": "084"},
-    "CA": {"name": "Canadá", "iso_num": "124"},
-    "CD": {"name": "RD Congo", "iso_num": "180"},
-    "CF": {"name": "República Centroafricana", "iso_num": "140"},
-    "CG": {"name": "Congo", "iso_num": "178"},
-    "CH": {"name": "Suiza", "iso_num": "756"},
-    "CI": {"name": "Costa de Marfil", "iso_num": "384"},
-    "CL": {"name": "Chile", "iso_num": "152"},
-    "CM": {"name": "Camerún", "iso_num": "120"},
-    "CN": {"name": "China", "iso_num": "156"},
-    "CO": {"name": "Colombia", "iso_num": "170"},
-    "CR": {"name": "Costa Rica", "iso_num": "188"},
-    "CU": {"name": "Cuba", "iso_num": "192"},
-    "CV": {"name": "Cabo Verde", "iso_num": "132"},
-    "CY": {"name": "Chipre", "iso_num": "196"},
-    "CZ": {"name": "Chequia", "iso_num": "203"},
-    "DE": {"name": "Alemania", "iso_num": "276"},
-    "DJ": {"name": "Yibuti", "iso_num": "262"},
-    "DK": {"name": "Dinamarca", "iso_num": "208"},
-    "DM": {"name": "Dominica", "iso_num": "212"},
-    "DO": {"name": "República Dominicana", "iso_num": "214"},
-    "DZ": {"name": "Argelia", "iso_num": "012"},
-    "EC": {"name": "Ecuador", "iso_num": "218"},
-    "EE": {"name": "Estonia", "iso_num": "233"},
-    "EG": {"name": "Egipto", "iso_num": "818"},
-    "ER": {"name": "Eritrea", "iso_num": "232"},
-    "ES": {"name": "España", "iso_num": "724"},
-    "ET": {"name": "Etiopía", "iso_num": "231"},
-    "FI": {"name": "Finlandia", "iso_num": "246"},
-    "FJ": {"name": "Fiyi", "iso_num": "242"},
-    "FM": {"name": "Micronesia", "iso_num": "583"},
-    "FR": {"name": "Francia", "iso_num": "250"},
-    "GA": {"name": "Gabón", "iso_num": "266"},
-    "GB": {"name": "Reino Unido", "iso_num": "826"},
-    "GD": {"name": "Granada", "iso_num": "308"},
-    "GE": {"name": "Georgia", "iso_num": "268"},
-    "GH": {"name": "Ghana", "iso_num": "288"},
-    "GM": {"name": "Gambia", "iso_num": "270"},
-    "GN": {"name": "Guinea", "iso_num": "324"},
-    "GQ": {"name": "Guinea Ecuatorial", "iso_num": "226"},
-    "GR": {"name": "Grecia", "iso_num": "300"},
-    "GT": {"name": "Guatemala", "iso_num": "320"},
-    "GW": {"name": "Guinea-Bisáu", "iso_num": "624"},
-    "GY": {"name": "Guyana", "iso_num": "328"},
-    "HN": {"name": "Honduras", "iso_num": "340"},
-    "HR": {"name": "Croacia", "iso_num": "191"},
-    "HT": {"name": "Haití", "iso_num": "332"},
-    "HU": {"name": "Hungría", "iso_num": "348"},
-    "ID": {"name": "Indonesia", "iso_num": "360"},
-    "IE": {"name": "Irlanda", "iso_num": "372"},
-    "IL": {"name": "Israel", "iso_num": "376"},
-    "IN": {"name": "India", "iso_num": "356"},
-    "IQ": {"name": "Irak", "iso_num": "368"},
-    "IR": {"name": "Irán", "iso_num": "364"},
-    "IS": {"name": "Islandia", "iso_num": "352"},
-    "IT": {"name": "Italia", "iso_num": "380"},
-    "JM": {"name": "Jamaica", "iso_num": "388"},
-    "JO": {"name": "Jordania", "iso_num": "400"},
-    "JP": {"name": "Japón", "iso_num": "392"},
-    "KE": {"name": "Kenia", "iso_num": "404"},
-    "KG": {"name": "Kirguistán", "iso_num": "417"},
-    "KH": {"name": "Camboya", "iso_num": "116"},
-    "KI": {"name": "Kiribati", "iso_num": "296"},
-    "KM": {"name": "Comoras", "iso_num": "174"},
-    "KN": {"name": "San Cristóbal y Nieves", "iso_num": "659"},
-    "KP": {"name": "Corea del Norte", "iso_num": "408"},
-    "KR": {"name": "Corea del Sur", "iso_num": "410"},
-    "KW": {"name": "Kuwait", "iso_num": "414"},
-    "KZ": {"name": "Kazajistán", "iso_num": "398"},
-    "LA": {"name": "Laos", "iso_num": "418"},
-    "LB": {"name": "Líbano", "iso_num": "422"},
-    "LC": {"name": "Santa Lucía", "iso_num": "662"},
-    "LI": {"name": "Liechtenstein", "iso_num": "438"},
-    "LK": {"name": "Sri Lanka", "iso_num": "144"},
-    "LR": {"name": "Liberia", "iso_num": "430"},
-    "LS": {"name": "Lesoto", "iso_num": "426"},
-    "LT": {"name": "Lituania", "iso_num": "440"},
-    "LU": {"name": "Luxemburgo", "iso_num": "442"},
-    "LV": {"name": "Letonia", "iso_num": "428"},
-    "LY": {"name": "Libia", "iso_num": "434"},
-    "MA": {"name": "Marruecos", "iso_num": "504"},
-    "MC": {"name": "Mónaco", "iso_num": "492"},
-    "MD": {"name": "Moldavia", "iso_num": "498"},
-    "ME": {"name": "Montenegro", "iso_num": "499"},
-    "MG": {"name": "Madagascar", "iso_num": "450"},
-    "MH": {"name": "Islas Marshall", "iso_num": "584"},
-    "MK": {"name": "Macedonia del Norte", "iso_num": "807"},
-    "ML": {"name": "Mali", "iso_num": "466"},
-    "MM": {"name": "Myanmar", "iso_num": "104"},
-    "MN": {"name": "Mongolia", "iso_num": "496"},
-    "MR": {"name": "Mauritania", "iso_num": "478"},
-    "MT": {"name": "Malta", "iso_num": "470"},
-    "MU": {"name": "Mauricio", "iso_num": "480"},
-    "MV": {"name": "Maldivas", "iso_num": "462"},
-    "MW": {"name": "Malaui", "iso_num": "454"},
-    "MX": {"name": "México", "iso_num": "484"},
-    "MY": {"name": "Malasia", "iso_num": "458"},
-    "MZ": {"name": "Mozambique", "iso_num": "508"},
-    "NA": {"name": "Namibia", "iso_num": "516"},
-    "NE": {"name": "Níger", "iso_num": "562"},
-    "NG": {"name": "Nigeria", "iso_num": "566"},
-    "NI": {"name": "Nicaragua", "iso_num": "558"},
-    "NL": {"name": "Países Bajos", "iso_num": "528"},
-    "NO": {"name": "Noruega", "iso_num": "578"},
-    "NP": {"name": "Nepal", "iso_num": "524"},
-    "NR": {"name": "Nauru", "iso_num": "520"},
-    "NZ": {"name": "Nueva Zelanda", "iso_num": "554"},
-    "OM": {"name": "Omán", "iso_num": "512"},
-    "PA": {"name": "Panamá", "iso_num": "591"},
-    "PE": {"name": "Perú", "iso_num": "604"},
-    "PG": {"name": "Papúa Nueva Guinea", "iso_num": "598"},
-    "PH": {"name": "Filipinas", "iso_num": "608"},
-    "PK": {"name": "Pakistán", "iso_num": "586"},
-    "PL": {"name": "Polonia", "iso_num": "616"},
-    "PS": {"name": "Palestina", "iso_num": "275"},
-    "PT": {"name": "Portugal", "iso_num": "620"},
-    "PW": {"name": "Palaos", "iso_num": "585"},
-    "PY": {"name": "Paraguay", "iso_num": "600"},
-    "QA": {"name": "Catar", "iso_num": "634"},
-    "RO": {"name": "Rumanía", "iso_num": "642"},
-    "RS": {"name": "Serbia", "iso_num": "688"},
-    "RU": {"name": "Rusia", "iso_num": "643"},
-    "RW": {"name": "Ruanda", "iso_num": "646"},
-    "SA": {"name": "Arabia Saudí", "iso_num": "682"},
-    "SB": {"name": "Islas Salomón", "iso_num": "090"},
-    "SC": {"name": "Seychelles", "iso_num": "690"},
-    "SD": {"name": "Sudán", "iso_num": "729"},
-    "SE": {"name": "Suecia", "iso_num": "752"},
-    "SG": {"name": "Singapur", "iso_num": "702"},
-    "SI": {"name": "Eslovenia", "iso_num": "705"},
-    "SK": {"name": "Eslovaquia", "iso_num": "703"},
-    "SL": {"name": "Sierra Leona", "iso_num": "694"},
-    "SM": {"name": "San Marino", "iso_num": "674"},
-    "SN": {"name": "Senegal", "iso_num": "686"},
-    "SO": {"name": "Somalia", "iso_num": "706"},
-    "SR": {"name": "Surinam", "iso_num": "740"},
-    "SS": {"name": "Sudán del Sur", "iso_num": "728"},
-    "ST": {"name": "Santo Tomé y Príncipe", "iso_num": "678"},
-    "SV": {"name": "El Salvador", "iso_num": "222"},
-    "SY": {"name": "Siria", "iso_num": "760"},
-    "SZ": {"name": "Esuatini", "iso_num": "748"},
-    "TD": {"name": "Chad", "iso_num": "148"},
-    "TG": {"name": "Togo", "iso_num": "768"},
-    "TH": {"name": "Tailandia", "iso_num": "764"},
-    "TJ": {"name": "Tayikistán", "iso_num": "762"},
-    "TL": {"name": "Timor Oriental", "iso_num": "626"},
-    "TM": {"name": "Turkmenistán", "iso_num": "795"},
-    "TN": {"name": "Túnez", "iso_num": "788"},
-    "TO": {"name": "Tonga", "iso_num": "776"},
-    "TR": {"name": "Turquía", "iso_num": "792"},
-    "TT": {"name": "Trinidad y Tobago", "iso_num": "780"},
-    "TV": {"name": "Tuvalu", "iso_num": "798"},
-    "TW": {"name": "Taiwán", "iso_num": "158"},
-    "TZ": {"name": "Tanzania", "iso_num": "834"},
-    "UA": {"name": "Ucrania", "iso_num": "804"},
-    "UG": {"name": "Uganda", "iso_num": "800"},
-    "US": {"name": "Estados Unidos", "iso_num": "840"},
-    "UY": {"name": "Uruguay", "iso_num": "858"},
-    "UZ": {"name": "Uzbekistán", "iso_num": "860"},
-    "VC": {"name": "San Vicente y las Granadinas", "iso_num": "670"},
-    "VE": {"name": "Venezuela", "iso_num": "862"},
-    "VN": {"name": "Vietnam", "iso_num": "704"},
-    "VU": {"name": "Vanuatu", "iso_num": "548"},
-    "WS": {"name": "Samoa", "iso_num": "882"},
-    "XK": {"name": "Kosovo", "iso_num": "383"},
-    "YE": {"name": "Yemen", "iso_num": "887"},
-    "ZA": {"name": "Sudáfrica", "iso_num": "710"},
-    "ZM": {"name": "Zambia", "iso_num": "894"},
-    "ZW": {"name": "Zimbabue", "iso_num": "716"}
+    "AD": {
+      "name": "Andorra",
+      "iso_num": "020"
+    },
+    "AE": {
+      "name": "Emiratos Árabes Unidos",
+      "iso_num": "784"
+    },
+    "AF": {
+      "name": "Afganistán",
+      "iso_num": "004"
+    },
+    "AG": {
+      "name": "Antigua y Barbuda",
+      "iso_num": "028"
+    },
+    "AL": {
+      "name": "Albania",
+      "iso_num": "008"
+    },
+    "AM": {
+      "name": "Armenia",
+      "iso_num": "051"
+    },
+    "AO": {
+      "name": "Angola",
+      "iso_num": "024"
+    },
+    "AR": {
+      "name": "Argentina",
+      "iso_num": "032"
+    },
+    "AT": {
+      "name": "Austria",
+      "iso_num": "040"
+    },
+    "AU": {
+      "name": "Australia",
+      "iso_num": "036"
+    },
+    "AZ": {
+      "name": "Azerbaiyán",
+      "iso_num": "031"
+    },
+    "BA": {
+      "name": "Bosnia y Herzegovina",
+      "iso_num": "070"
+    },
+    "BB": {
+      "name": "Barbados",
+      "iso_num": "052"
+    },
+    "BD": {
+      "name": "Bangladés",
+      "iso_num": "050"
+    },
+    "BE": {
+      "name": "Bélgica",
+      "iso_num": "056"
+    },
+    "BF": {
+      "name": "Burkina Faso",
+      "iso_num": "854"
+    },
+    "BG": {
+      "name": "Bulgaria",
+      "iso_num": "100"
+    },
+    "BH": {
+      "name": "Baréin",
+      "iso_num": "048"
+    },
+    "BI": {
+      "name": "Burundi",
+      "iso_num": "108"
+    },
+    "BJ": {
+      "name": "Benín",
+      "iso_num": "204"
+    },
+    "BN": {
+      "name": "Brunéi",
+      "iso_num": "096"
+    },
+    "BO": {
+      "name": "Bolivia",
+      "iso_num": "068"
+    },
+    "BR": {
+      "name": "Brasil",
+      "iso_num": "076"
+    },
+    "BS": {
+      "name": "Bahamas",
+      "iso_num": "044"
+    },
+    "BT": {
+      "name": "Bután",
+      "iso_num": "064"
+    },
+    "BW": {
+      "name": "Botsuana",
+      "iso_num": "072"
+    },
+    "BY": {
+      "name": "Bielorrusia",
+      "iso_num": "112"
+    },
+    "BZ": {
+      "name": "Belice",
+      "iso_num": "084"
+    },
+    "CA": {
+      "name": "Canadá",
+      "iso_num": "124"
+    },
+    "CD": {
+      "name": "RD Congo",
+      "iso_num": "180"
+    },
+    "CF": {
+      "name": "República Centroafricana",
+      "iso_num": "140"
+    },
+    "CG": {
+      "name": "Congo",
+      "iso_num": "178"
+    },
+    "CH": {
+      "name": "Suiza",
+      "iso_num": "756"
+    },
+    "CI": {
+      "name": "Costa de Marfil",
+      "iso_num": "384"
+    },
+    "CL": {
+      "name": "Chile",
+      "iso_num": "152"
+    },
+    "CM": {
+      "name": "Camerún",
+      "iso_num": "120"
+    },
+    "CN": {
+      "name": "China",
+      "iso_num": "156"
+    },
+    "CO": {
+      "name": "Colombia",
+      "iso_num": "170"
+    },
+    "CR": {
+      "name": "Costa Rica",
+      "iso_num": "188"
+    },
+    "CU": {
+      "name": "Cuba",
+      "iso_num": "192"
+    },
+    "CV": {
+      "name": "Cabo Verde",
+      "iso_num": "132"
+    },
+    "CY": {
+      "name": "Chipre",
+      "iso_num": "196"
+    },
+    "CZ": {
+      "name": "Chequia",
+      "iso_num": "203"
+    },
+    "DE": {
+      "name": "Alemania",
+      "iso_num": "276"
+    },
+    "DJ": {
+      "name": "Yibuti",
+      "iso_num": "262"
+    },
+    "DK": {
+      "name": "Dinamarca",
+      "iso_num": "208"
+    },
+    "DM": {
+      "name": "Dominica",
+      "iso_num": "212"
+    },
+    "DO": {
+      "name": "República Dominicana",
+      "iso_num": "214"
+    },
+    "DZ": {
+      "name": "Argelia",
+      "iso_num": "012"
+    },
+    "EC": {
+      "name": "Ecuador",
+      "iso_num": "218"
+    },
+    "EE": {
+      "name": "Estonia",
+      "iso_num": "233"
+    },
+    "EG": {
+      "name": "Egipto",
+      "iso_num": "818"
+    },
+    "ER": {
+      "name": "Eritrea",
+      "iso_num": "232"
+    },
+    "ES": {
+      "name": "España",
+      "iso_num": "724"
+    },
+    "ET": {
+      "name": "Etiopía",
+      "iso_num": "231"
+    },
+    "FI": {
+      "name": "Finlandia",
+      "iso_num": "246"
+    },
+    "FJ": {
+      "name": "Fiyi",
+      "iso_num": "242"
+    },
+    "FM": {
+      "name": "Micronesia",
+      "iso_num": "583"
+    },
+    "FR": {
+      "name": "Francia",
+      "iso_num": "250"
+    },
+    "GA": {
+      "name": "Gabón",
+      "iso_num": "266"
+    },
+    "GB": {
+      "name": "Reino Unido",
+      "iso_num": "826"
+    },
+    "GD": {
+      "name": "Granada",
+      "iso_num": "308"
+    },
+    "GE": {
+      "name": "Georgia",
+      "iso_num": "268"
+    },
+    "GH": {
+      "name": "Ghana",
+      "iso_num": "288"
+    },
+    "GM": {
+      "name": "Gambia",
+      "iso_num": "270"
+    },
+    "GN": {
+      "name": "Guinea",
+      "iso_num": "324"
+    },
+    "GQ": {
+      "name": "Guinea Ecuatorial",
+      "iso_num": "226"
+    },
+    "GR": {
+      "name": "Grecia",
+      "iso_num": "300"
+    },
+    "GT": {
+      "name": "Guatemala",
+      "iso_num": "320"
+    },
+    "GW": {
+      "name": "Guinea-Bisáu",
+      "iso_num": "624"
+    },
+    "GY": {
+      "name": "Guyana",
+      "iso_num": "328"
+    },
+    "HN": {
+      "name": "Honduras",
+      "iso_num": "340"
+    },
+    "HR": {
+      "name": "Croacia",
+      "iso_num": "191"
+    },
+    "HT": {
+      "name": "Haití",
+      "iso_num": "332"
+    },
+    "HU": {
+      "name": "Hungría",
+      "iso_num": "348"
+    },
+    "ID": {
+      "name": "Indonesia",
+      "iso_num": "360"
+    },
+    "IE": {
+      "name": "Irlanda",
+      "iso_num": "372"
+    },
+    "IL": {
+      "name": "Israel",
+      "iso_num": "376"
+    },
+    "IN": {
+      "name": "India",
+      "iso_num": "356"
+    },
+    "IQ": {
+      "name": "Irak",
+      "iso_num": "368"
+    },
+    "IR": {
+      "name": "Irán",
+      "iso_num": "364"
+    },
+    "IS": {
+      "name": "Islandia",
+      "iso_num": "352"
+    },
+    "IT": {
+      "name": "Italia",
+      "iso_num": "380"
+    },
+    "JM": {
+      "name": "Jamaica",
+      "iso_num": "388"
+    },
+    "JO": {
+      "name": "Jordania",
+      "iso_num": "400"
+    },
+    "JP": {
+      "name": "Japón",
+      "iso_num": "392"
+    },
+    "KE": {
+      "name": "Kenia",
+      "iso_num": "404"
+    },
+    "KG": {
+      "name": "Kirguistán",
+      "iso_num": "417"
+    },
+    "KH": {
+      "name": "Camboya",
+      "iso_num": "116"
+    },
+    "KI": {
+      "name": "Kiribati",
+      "iso_num": "296"
+    },
+    "KM": {
+      "name": "Comoras",
+      "iso_num": "174"
+    },
+    "KN": {
+      "name": "San Cristóbal y Nieves",
+      "iso_num": "659"
+    },
+    "KP": {
+      "name": "Corea del Norte",
+      "iso_num": "408"
+    },
+    "KR": {
+      "name": "Corea del Sur",
+      "iso_num": "410"
+    },
+    "KW": {
+      "name": "Kuwait",
+      "iso_num": "414"
+    },
+    "KZ": {
+      "name": "Kazajistán",
+      "iso_num": "398"
+    },
+    "LA": {
+      "name": "Laos",
+      "iso_num": "418"
+    },
+    "LB": {
+      "name": "Líbano",
+      "iso_num": "422"
+    },
+    "LC": {
+      "name": "Santa Lucía",
+      "iso_num": "662"
+    },
+    "LI": {
+      "name": "Liechtenstein",
+      "iso_num": "438"
+    },
+    "LK": {
+      "name": "Sri Lanka",
+      "iso_num": "144"
+    },
+    "LR": {
+      "name": "Liberia",
+      "iso_num": "430"
+    },
+    "LS": {
+      "name": "Lesoto",
+      "iso_num": "426"
+    },
+    "LT": {
+      "name": "Lituania",
+      "iso_num": "440"
+    },
+    "LU": {
+      "name": "Luxemburgo",
+      "iso_num": "442"
+    },
+    "LV": {
+      "name": "Letonia",
+      "iso_num": "428"
+    },
+    "LY": {
+      "name": "Libia",
+      "iso_num": "434"
+    },
+    "MA": {
+      "name": "Marruecos",
+      "iso_num": "504"
+    },
+    "MC": {
+      "name": "Mónaco",
+      "iso_num": "492"
+    },
+    "MD": {
+      "name": "Moldavia",
+      "iso_num": "498"
+    },
+    "ME": {
+      "name": "Montenegro",
+      "iso_num": "499"
+    },
+    "MG": {
+      "name": "Madagascar",
+      "iso_num": "450"
+    },
+    "MH": {
+      "name": "Islas Marshall",
+      "iso_num": "584"
+    },
+    "MK": {
+      "name": "Macedonia del Norte",
+      "iso_num": "807"
+    },
+    "ML": {
+      "name": "Mali",
+      "iso_num": "466"
+    },
+    "MM": {
+      "name": "Myanmar",
+      "iso_num": "104"
+    },
+    "MN": {
+      "name": "Mongolia",
+      "iso_num": "496"
+    },
+    "MR": {
+      "name": "Mauritania",
+      "iso_num": "478"
+    },
+    "MT": {
+      "name": "Malta",
+      "iso_num": "470"
+    },
+    "MU": {
+      "name": "Mauricio",
+      "iso_num": "480"
+    },
+    "MV": {
+      "name": "Maldivas",
+      "iso_num": "462"
+    },
+    "MW": {
+      "name": "Malaui",
+      "iso_num": "454"
+    },
+    "MX": {
+      "name": "México",
+      "iso_num": "484"
+    },
+    "MY": {
+      "name": "Malasia",
+      "iso_num": "458"
+    },
+    "MZ": {
+      "name": "Mozambique",
+      "iso_num": "508"
+    },
+    "NA": {
+      "name": "Namibia",
+      "iso_num": "516"
+    },
+    "NE": {
+      "name": "Níger",
+      "iso_num": "562"
+    },
+    "NG": {
+      "name": "Nigeria",
+      "iso_num": "566"
+    },
+    "NI": {
+      "name": "Nicaragua",
+      "iso_num": "558"
+    },
+    "NL": {
+      "name": "Países Bajos",
+      "iso_num": "528"
+    },
+    "NO": {
+      "name": "Noruega",
+      "iso_num": "578"
+    },
+    "NP": {
+      "name": "Nepal",
+      "iso_num": "524"
+    },
+    "NR": {
+      "name": "Nauru",
+      "iso_num": "520"
+    },
+    "NZ": {
+      "name": "Nueva Zelanda",
+      "iso_num": "554"
+    },
+    "OM": {
+      "name": "Omán",
+      "iso_num": "512"
+    },
+    "PA": {
+      "name": "Panamá",
+      "iso_num": "591"
+    },
+    "PE": {
+      "name": "Perú",
+      "iso_num": "604"
+    },
+    "PG": {
+      "name": "Papúa Nueva Guinea",
+      "iso_num": "598"
+    },
+    "PH": {
+      "name": "Filipinas",
+      "iso_num": "608"
+    },
+    "PK": {
+      "name": "Pakistán",
+      "iso_num": "586"
+    },
+    "PL": {
+      "name": "Polonia",
+      "iso_num": "616"
+    },
+    "PS": {
+      "name": "Palestina",
+      "iso_num": "275"
+    },
+    "PT": {
+      "name": "Portugal",
+      "iso_num": "620"
+    },
+    "PW": {
+      "name": "Palaos",
+      "iso_num": "585"
+    },
+    "PY": {
+      "name": "Paraguay",
+      "iso_num": "600"
+    },
+    "QA": {
+      "name": "Catar",
+      "iso_num": "634"
+    },
+    "RO": {
+      "name": "Rumanía",
+      "iso_num": "642"
+    },
+    "RS": {
+      "name": "Serbia",
+      "iso_num": "688"
+    },
+    "RU": {
+      "name": "Rusia",
+      "iso_num": "643"
+    },
+    "RW": {
+      "name": "Ruanda",
+      "iso_num": "646"
+    },
+    "SA": {
+      "name": "Arabia Saudí",
+      "iso_num": "682"
+    },
+    "SB": {
+      "name": "Islas Salomón",
+      "iso_num": "090"
+    },
+    "SC": {
+      "name": "Seychelles",
+      "iso_num": "690"
+    },
+    "SD": {
+      "name": "Sudán",
+      "iso_num": "729"
+    },
+    "SE": {
+      "name": "Suecia",
+      "iso_num": "752"
+    },
+    "SG": {
+      "name": "Singapur",
+      "iso_num": "702"
+    },
+    "SI": {
+      "name": "Eslovenia",
+      "iso_num": "705"
+    },
+    "SK": {
+      "name": "Eslovaquia",
+      "iso_num": "703"
+    },
+    "SL": {
+      "name": "Sierra Leona",
+      "iso_num": "694"
+    },
+    "SM": {
+      "name": "San Marino",
+      "iso_num": "674"
+    },
+    "SN": {
+      "name": "Senegal",
+      "iso_num": "686"
+    },
+    "SO": {
+      "name": "Somalia",
+      "iso_num": "706"
+    },
+    "SR": {
+      "name": "Surinam",
+      "iso_num": "740"
+    },
+    "SS": {
+      "name": "Sudán del Sur",
+      "iso_num": "728"
+    },
+    "ST": {
+      "name": "Santo Tomé y Príncipe",
+      "iso_num": "678"
+    },
+    "SV": {
+      "name": "El Salvador",
+      "iso_num": "222"
+    },
+    "SY": {
+      "name": "Siria",
+      "iso_num": "760"
+    },
+    "SZ": {
+      "name": "Esuatini",
+      "iso_num": "748"
+    },
+    "TD": {
+      "name": "Chad",
+      "iso_num": "148"
+    },
+    "TG": {
+      "name": "Togo",
+      "iso_num": "768"
+    },
+    "TH": {
+      "name": "Tailandia",
+      "iso_num": "764"
+    },
+    "TJ": {
+      "name": "Tayikistán",
+      "iso_num": "762"
+    },
+    "TL": {
+      "name": "Timor Oriental",
+      "iso_num": "626"
+    },
+    "TM": {
+      "name": "Turkmenistán",
+      "iso_num": "795"
+    },
+    "TN": {
+      "name": "Túnez",
+      "iso_num": "788"
+    },
+    "TO": {
+      "name": "Tonga",
+      "iso_num": "776"
+    },
+    "TR": {
+      "name": "Turquía",
+      "iso_num": "792"
+    },
+    "TT": {
+      "name": "Trinidad y Tobago",
+      "iso_num": "780"
+    },
+    "TV": {
+      "name": "Tuvalu",
+      "iso_num": "798"
+    },
+    "TW": {
+      "name": "Taiwán",
+      "iso_num": "158"
+    },
+    "TZ": {
+      "name": "Tanzania",
+      "iso_num": "834"
+    },
+    "UA": {
+      "name": "Ucrania",
+      "iso_num": "804"
+    },
+    "UG": {
+      "name": "Uganda",
+      "iso_num": "800"
+    },
+    "US": {
+      "name": "Estados Unidos",
+      "iso_num": "840"
+    },
+    "UY": {
+      "name": "Uruguay",
+      "iso_num": "858"
+    },
+    "UZ": {
+      "name": "Uzbekistán",
+      "iso_num": "860"
+    },
+    "VC": {
+      "name": "San Vicente y las Granadinas",
+      "iso_num": "670"
+    },
+    "VE": {
+      "name": "Venezuela",
+      "iso_num": "862"
+    },
+    "VN": {
+      "name": "Vietnam",
+      "iso_num": "704"
+    },
+    "VU": {
+      "name": "Vanuatu",
+      "iso_num": "548"
+    },
+    "WS": {
+      "name": "Samoa",
+      "iso_num": "882"
+    },
+    "XK": {
+      "name": "Kosovo",
+      "iso_num": "383"
+    },
+    "YE": {
+      "name": "Yemen",
+      "iso_num": "887"
+    },
+    "ZA": {
+      "name": "Sudáfrica",
+      "iso_num": "710"
+    },
+    "ZM": {
+      "name": "Zambia",
+      "iso_num": "894"
+    },
+    "ZW": {
+      "name": "Zimbabue",
+      "iso_num": "716"
+    }
   },
   "timeline": [
     {
@@ -442,15 +1030,81 @@
           "deaths": 0
         }
       }
+    },
+    {
+      "date": "2026-05-13",
+      "cases": 12,
+      "deaths": 3,
+      "recovered": 0,
+      "event": "Actualización: 12 casos · 3 fallecidos · 0 recuperados",
+      "snapshot": {
+        "AR": {
+          "cases": 2,
+          "deaths": 0
+        },
+        "NL": {
+          "cases": 2,
+          "deaths": 2
+        },
+        "DE": {
+          "cases": 1,
+          "deaths": 1
+        },
+        "ZA": {
+          "cases": 2,
+          "deaths": 0
+        },
+        "ES": {
+          "cases": 1,
+          "deaths": 0
+        },
+        "FR": {
+          "cases": 1,
+          "deaths": 0
+        },
+        "CV": {
+          "cases": 1,
+          "deaths": 0
+        },
+        "US": {
+          "cases": 1,
+          "deaths": 0
+        },
+        "CH": {
+          "cases": 1,
+          "deaths": 0
+        }
+      }
     }
   ],
   "news": [
+    {
+      "title": "How are countries responding to hantavirus?",
+      "url": "https://www.bbc.com/news/articles/c4g8318v4yzo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-13",
+      "source": "BBC News",
+      "desc": "The UK, US and EU are asking all citizens returning home from the virus-hit MV Hondius to self-isolate for about six weeks."
+    },
     {
       "title": "French hantavirus patient is critically ill as outbreak grows to 11",
       "url": "https://www.npr.org/2026/05/13/nx-s1-5820639/french-hantavirus-patient-critically-ill",
       "date": "2026-05-13",
       "source": "NPR Topics: Health",
       "desc": "A French woman infected in the deadly hantavirus outbreak on a cruise ship is critically ill and being treated with an artificial lung. The outbreak has now reached 11 total reported cases, 9 of which have been confirmed."
+    },
+    {
+      "title": "Un inmunólogo habla de la supuesta ocultación de un caso de hantavirus a bordo: \"El 70% de las personas - Antena 3",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQbmR6LWJOV2sycnloNmJBdVZWVzlrNWhVMjVvX2k2QWZaSUcwbEs5d1lRU0N6cURMWUxmbW5sM1pHaEFmc2UwS1ZQM0pjTmltRlR3SE5TVk9ycHlYMlQ5WGtNUXlJbTIxSll4U002ZmRXTkhKemF1b3dUUS0tUTBmYVBLRWhqWm5KV3ZnNGdFWVcwOTkyYzVaQ2FxSnpsWTAxU1RfQWV1VllES1ZyY2dSeVl0NHBiNHRFVFZ5eGl5b1VxR1BYWWJ2OEVETHVvZmtGcWxzNE1EQWh5UU01R0sxbllGZ05JWFJCM0d2cENRS1ptMGw0ZUk0aFJKUVFDV19GTTVnYTRMUldvY3E0VmfSAY4CQVVfeXFMUDVhMUJLNklZT0EySkF4bzhUcUo0cjlCYkpBZ09pc0pxUjMtdkplZm9GaWJPdmpmSEc5WGw2X3VUblZuR29UX2hyckhUMXl0VGI5Z3JyeWNNRG0xOUJXWjlQNnNNSUdMR3ZwbzBaNU82aERqOFRSU1U2amRfMXJqNUNpemZLS1djQVQ3dE1yQl90MG5ITXBVak9KZE5CZnNYa0tDdW51TWVqbmFyRGxvbkwzUFAxUUdOWTN5bXZDWGFVR243VnM5bUtENnJEeE5DRXNpVlhvelo0blFtVXRLY1BmTXd6TkFvd3NQa0owcDRLaFBJaS1sSTZwWTkwZnZoYTlBejJXV3VfcW5ObzlR?oc=5",
+      "date": "2026-05-13",
+      "source": "Antena 3",
+      "desc": "Un inmunólogo habla de la supuesta ocultación de un caso de hantavirus a bordo: \"El 70% de las personas&nbsp;&nbsp;Antena 3"
+    },
+    {
+      "title": "Juan José Luque, Catedrático de Zoología: \"Hay una pequeña exposición de este hantavirus en roedores - Antena 3",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPNGJDcWctZmlrSTNTd2tsSUhaUWtBUlNaVGQtSzg2MExIZUIwWXRvWVE3MEpZRDdyNktDZHpIMkxhRk80OUhVZmdaNWJRcTl5eHlCdG9iWFdzd2VXQ2M2UGE1V01RYld3VnNUcDVqeHpNR2NHMzF4YnlZd1ZyS0FiMWI2MUpQeXZUVE5SU3lBVy1vWjVIUnJBVjhyVWI2T0RQcGhXQWZyVFF3YkQtS0xPRjh0WW9WMzM1dWZtT3Jud3haQWdUMWZFMHVHSHFfSGtzWVQ2MlNDc3p2akZIdnRhZF9ZN2x1b2p1T1lvdzlvRlN5ODZCTlh4YVB6TjhYalhS0gGAAkFVX3lxTE51czFQWXJ2NW5XZHVHWjhmdklhUVlYZzdHY1dPTzRuUW1FNVJSRWVaMkwtdXpHU2VxcS12NU9xbnVjZ2tPcHlOYlM2RzlBUFhKbGVRUDNQU1dzQXBLX2N5TkM2akRWemtjLVBxQXpOckwtWjFWcUlKQnkwekE3VW1VM0RreU52YWNuUGdpOVpWNXFQc2RsdXZ4NzhVc2tkb3ZWUU54MEhQdjF4QUxYOEFvVmxHdGowVGNZQ2ZMbktsamlROW9XQl9obGFqU1Q1NGQ3Uk41UC03NkQ2NjAxbWJUNXY2MXpPeE9sVzV3ajAtRERpNzNLV2pVUjZPN01HQm0?oc=5",
+      "date": "2026-05-13",
+      "source": "Antena 3",
+      "desc": "Juan José Luque, Catedrático de Zoología: \"Hay una pequeña exposición de este hantavirus en roedores&nbsp;&nbsp;Antena 3"
     },
     {
       "title": "El cuidado de la salud mental de los aislados por hantavirus - RTVE.es",
@@ -460,11 +1114,32 @@
       "desc": "El cuidado de la salud mental de los aislados por hantavirus&nbsp;&nbsp;RTVE.es"
     },
     {
+      "title": "Torres reprocha a Clavijo su actitud \"conspiranoica\" con el hantavirus, un \"error político\" que no sabe si es \"reparable\" - RTVE.es",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWF9BVVItaVFzUkoyMlBiWnZ5VFdJVlZycUFFMHBoMDFGandITkJHXzBfX19peGlYbFl5RlA3NnZBSHdKbGRjMHQtNHFGMFgtVVpsS0x4ZjFCdUNXZU5vVTNKcDBzdTQ3NE1oZEdSTVAtdkJGTWYxVmxvZUFJZzc4Qkp1Yk55LUF0cTV5Wmw1SVk2bE8tXzVjS1dPWdIBmwFBVV95cUxOcUVCeXliYW1qR1JheXJoeFNVRXZwdGkwOFNwbFZ1cnBXQ3VNRVlJeEJUdGlrdFQ3QU9tVDZMTmU2cmhBbVBaODRNMjRoSk5Pdk5vTE9ySGoyOEJrbHJwV283VTR6OTZmc0ZqV0NfaGpZZlQxZ2MyaktXYlpmd1pkQjVXNlJONEhfSUFOdDFNeC1UVDc3dlhNMEJjTQ?oc=5",
+      "date": "2026-05-13",
+      "source": "RTVE",
+      "desc": "Torres reprocha a Clavijo su actitud \"conspiranoica\" con el hantavirus, un \"error político\" que no sabe si es \"reparable\"&nbsp;&nbsp;RTVE.es"
+    },
+    {
       "title": "Esfuerzo global para controlar el brote de hantavirus, mientras los casos en España y Francia disparan la incertidumbre - EL PAÍS",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZlRCV003eVhvR2ZMcVAyR3VMTXByWVQ2d3o0Q0tOazBHRHdUcXlTcHZGYUs3UW1fVUg0aHBzT0JIckxKNTNtRzBOX3VuZ2lfbDE4LW4tZmtvR2RPUC1jS0RvTHFDMDNjbWdxVFk3TU9vaFJrRlJPNGxSRzE4TDV3RndRN2ZSQUZYakJNZmJ6S09GajlLR25FbzJZblZ3Q2xCdEN0MzdONy1rV2ZIU1hiS3RpRnpvakUtZzRFQjk5cjB5TC1BQVd4dDViRmFBMnhBWkwtOHdZcmQ4TFVmRWdwaDdWMmRSN19NT3hzRS1tY21TQzZ00gGIAkFVX3lxTE9hdnZDSzlBa0NMWmp0d2pCMzRUR3RPWFNXUWppc0hTOGlXMFpqRWRkQWcxa2FMeGlFNy02bnladkpNZW1KUEctZmJJSnh3ODMyNkNfVjBBc3FlTjVUaTlYZGNpZXNsaXVCRGljZFgzSGVVc1UySzlyNXgxUGdHWEs2QWxuellLZ3Zwc2l2dERQNkkyNEFmbkpXbE1WRVlOdTE5cTh1dkZkb3RzS0VpVVFCTDFNQi1IWS1TNFBoNVlZWFEzOFU5NkEwQ0kwLUtCeklQOExLVS1EcmRDdlJQUlBkQXhHR3pneDRtNXFFcnhfNlZEYWt3amdyZnVfdFd0WURIcEdiR2NXZA?oc=5",
       "date": "2026-05-13",
       "source": "El País",
       "desc": "Esfuerzo global para controlar el brote de hantavirus, mientras los casos en España y Francia disparan la incertidumbre&nbsp;&nbsp;EL PAÍS"
+    },
+    {
+      "title": "Clavijo redobla el ataque contra el Gobierno por la crisis del hantavirus: “Han ofrecido arrogancia, prepotencia, caciquismo y mentiras” - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOLUdNUEJkbGxWTkNkd0N2Nmtma01CQzltdnVwaHh2WndVaUJsNGlTeS12X1l6clR4RE85RUpyemZBV1ljMmxaWUUtNEV5QzNnSDc0cUNLZDJjVFY3TXpaSHBFRVFXdmdQLWZ1M1ljZDlqeE5PeEppX2FNV1dsU053bHFiTjVIMzhCcW1PYy13Q0owdWxWMXhjcVQ2V3FaTkJBTk93bnF5dFBnU0JjTzg3Si1HZHBqX3dEMjNrZzU2Sm01ckhHZzJsV0R1TkpNaHgwN3Ffd2d1RFdpMDhheFJj0gHzAUFVX3lxTFA1VGs4QmhkYlRKeHIydG41OFA5MmZiTTROVkg2NTBJU21DU0JZQ2Q5UWtnQkE3bjlydUNjaWZTMWtOa0JTQ2pmMHFFQzZIaHZCdG0yTkg5SGhvM1Y2ZnZaY3ZJdTNwcWxsNUlQWWg0ZVlVa0VKdlN3clNWQ1R3U29FVFNsQ3BzMXNUMUt5cmcwc0dsTVFLcEdOdVZYYTBvV3FhVEhfdXBYTGpHdGNYTUpqQkh0aXN5enA4QlZRTGNSRUpJdHlWNVpjTmwzSnZtS3huNW9lV1dtWTd0M1dLVFpSVnI0MUtIV1FaekFsc0o3UDlNNA?oc=5",
+      "date": "2026-05-13",
+      "source": "El País",
+      "desc": "Clavijo redobla el ataque contra el Gobierno por la crisis del hantavirus: “Han ofrecido arrogancia, prepotencia, caciquismo y mentiras”&nbsp;&nbsp;EL PAÍS"
+    },
+    {
+      "title": "El español ingresado en el Hospital Gómez Ulla por hantavirus continúa con síntomas pero estable - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZzZFUUxNeWhPQU5YN3J0eHBBR2N4RXpHTlBWMkVIZjIwWWRXYnBYM1RXWVNqeWYxMkJKV2EyNi1ET0pibTdyRUhvVWc4cmg5bmRZcUhscEpQR2h4a2xGLTdCS2FrQ2k5Z3RSVFRmd0hsWk9tdmVNckduc2tpSjhOSjBsTGh2QzlwTWV3TmZ0OWxDMlY0SEZXWnhHTlowUVp5U2pILW0wSUN5ZDdIYVRrYU1YR2loZXNBRjlPOTFySi1Cd1BGMnJoZ0NCVWFqMW9qU1BrM2xzY9IB6wFBVV95cUxNVFZpYkJzZnZtdS1lellRNHN6eW1XM2tTXzNYM1g2NjF6MUlTMEFDNWVGVDRTY0NwZ1dPSk9pRnlLbHIxT3U1NWRUdkptRnoxWU0wb1pDV2Z3bEMyQ2pLU0NuM0ZBX3BwRngtQmR6UFg2WFcyOVllbDFHQ2tZOW9EcWF3MWpZRHZiYzI2aHJLOU5EY0I0LXVuVVNESnBaSVJhWWdfYm9sZ1RrZ25JUldsZjhzMkJRZWxrSTJnQi01aFM0UkMzbkN6d1dDc1JXaW9RSmt2VFFIOWVmaHNqbm83LVJObWlucDNZaEFr?oc=5",
+      "date": "2026-05-13",
+      "source": "El País",
+      "desc": "El español ingresado en el Hospital Gómez Ulla por hantavirus continúa con síntomas pero estable&nbsp;&nbsp;EL PAÍS"
     },
     {
       "title": "La OMS minimiza la posibilidad de un brote mayor de hantavirus - EL PAÍS",
@@ -474,6 +1149,13 @@
       "desc": "La OMS minimiza la posibilidad de un brote mayor de hantavirus&nbsp;&nbsp;EL PAÍS"
     },
     {
+      "title": "Por qué el hantavirus es una amenaza diferente al Covid-19 (y qué es lo que realmente debería preocuparnos) - El Mundo",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb3VnSGNmekV2eWJGLVJEM0JaRlhUb3o2dk1fakcwaWpCU1J5ZjJoUkxSOHlOcHhhZG96eVBYX2owQjVvZE1tME9EQzVQcjVOR3FsX3JEb1duNGlkSGJlQTFZYm1zSV85LVNBNE54eEdrUE1NMmZRTnZ3WXhDV2pwSWd5aXpmTXROZkgydjdn0gGOAUFVX3lxTE8zdmh0XzdnQjMxR3RtSnJXWlQwSWJCNTNqREJCVUV1V3NTTGthdXZBV2o3bXB5dGlFSndFZFRyTFBzTWJPanM3UFZsa1J6ZGZUclNPYmpUSVZrWi10MzFlczh3WkFQSlpMMll4eTR3a0NTX1dBZGZ2Sm5LNkVVREw0MjBrSURTTzVXMHc4SEE?oc=5",
+      "date": "2026-05-13",
+      "source": "El Mundo",
+      "desc": "Por qué el hantavirus es una amenaza diferente al Covid-19 (y qué es lo que realmente debería preocuparnos)&nbsp;&nbsp;El Mundo"
+    },
+    {
       "title": "La cuarentena de los infectados por hantavirus será más flexible tras los primeros siete días - La Vanguardia",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOFF4czROa1Z1LUlQdEhoY3hYNWE0M2tqREhiVm1kY1liUUxBQUNMMWZMQXU1N216ekZjRnRqRWp0cGpSOXYzS05wX0RScTlUN3p0THdNNWVDYTJUcVNWTGUzZTVWV2pIU2FQb0xYSHNMdHp1RlNQSW1rZFpKZEZLU2F3SFJzV01RN2lOc19CSXozWUxKdlkwWWpjV3lySE5qaVByOFFDRE1ndEdraHp3UkpHeGFTOUg1X1MxaU5TOFYzbGhYOGfSAcsBQVVfeXFMUFFzd0RnczJ2Zy1qZF9NR0FMQlgyUlFXY1pzZEhXc2JpdkNObzFXQjVhRUtqN2ZYRExIakM3cUN1aVpOaHF3d09XWE0zbTI0SmFxSFhZYUJwSENNRTBfekl4dEM3UFFfTnhmdmxpa1VvX3BFU0NwcDdhbjFJMjNYNjlqcnpPZ084RVlfNGllSE1idjNzSXpFb2lwN3hqYVNtbGlJRGt5cGRxNDJCRU9WZFNTNnozeC1CN0JIOEVnUm04QzVBaU5YRG9XS0E?oc=5",
       "date": "2026-05-13",
@@ -481,95 +1163,46 @@
       "desc": "La cuarentena de los infectados por hantavirus será más flexible tras los primeros siete días&nbsp;&nbsp;La Vanguardia"
     },
     {
-      "title": "Hantavirus en España, última hora del brote en el crucero MV Hondius, en directo: síntomas y noticias del virus - El Confidencial",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2FHczBTWFNMMDRXWlVTYkxrMXBUTFAyWS1pT2V0VTVSMThPTE81d0d1aGtyNzRfMVA0R0NWNzR6OE5QOEJZOGNtaWtHTWJ3TG4wUnJvV3Bmc052Y2N1Tk8yOUJSTDh0Ry04bk0wZ0dXRThMQ3hzOXF6Ti1jYk9MbElZcDNQNzZ5S0c3Wl9FWVd3Q2ZqdURJVTB3aVRVcnJFSUE?oc=5",
+      "title": "Núñez ve \"caótica\" la gestión del brote de hantavirus y pide \"estabilidad y certidumbre\" - ABC",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZmVRYjVvYVNPRHRLMzViVlcybEdKWldQYVJFeXRia1Vxa3RuNGVSaEE3djJJS3pCTl9XZ2Vwa1JOVTZQSjZQeFNrcnNCVmw4LXRjYlFOZGNKc1psbjVacGUxRHFnN3hsQVhUZmZQaU1Oc1IxdUNUSUxNODZlUklSXzdEX1pXUDljRlJBcTFOMEVEQjR0UWIzWEE2YzJFc2JuN2txQzVWSQ?oc=5",
       "date": "2026-05-13",
-      "source": "Google News ES",
-      "desc": "Hantavirus en España, última hora del brote en el crucero MV Hondius, en directo: síntomas y noticias del virus&nbsp;&nbsp;El ConfidencialHantavirus, última hora del brote del crucero MV Hondius, en directo: La mujer francesa se encuentra m"
+      "source": "ABC",
+      "desc": "Núñez ve \"caótica\" la gestión del brote de hantavirus y pide \"estabilidad y certidumbre\"&nbsp;&nbsp;ABC"
     },
     {
-      "title": "Última hora del hantavirus, en directo: el presidente canario acusa al Gobierno de ocultar casos a bordo del crucero - Cadena SER",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQN1g0S2pDVFRPX1M3b0RfX1l1eWFjUzhkMVlJOXNHYkc4VTVVQUFDQ085TnU5V2ZuMklBNFBLVkdFRVhwZ3VPTTk0TkFsT0JaSndjTjg0MjZCbzJsOUF2WWRJZDZ4ekFZVXp5Ukg3STJmZVFXLUp2Qjg4RjBXeUJjM2VfNm9KMEZ5R3VRdkl5TUhsSmpJOS05TVctOVlabjg2LW5ZLUctc3ZPSExINFlnamQ0by1oT244NW44X1NOdFkwUXBzcnUtbHlhVDRBOG5td3k5cG8wTkdfeHo3T3pWSE4zM2l1RTFDRU9oR0FR0gGCAkFVX3lxTE55Z0VfQnVGeVhiU0FnRHBCWE1MZHZGV1ZsOUVDSmhJZVUtc3J2eTZ4MVFnVkZuRVQxOHBYOXNlaFdRdVFXbGsxbVRwdnhDNE5NbmJPQmdINWdDQ0pXejJ0NG50Tm9uOXhzUVJ3aDQ2TkVNSHd6X1BlMG96S19PT2lkQ0pyY3QtbGd6UGhVWXpMeFR6Vi03VjJiVnN6VGxPcmJQend1TzVrYnF6M3YwUXd1MWwtR3U1UXFoakl6MndyNUZPendnOGVQWFd2ZzNKZEJNWlJha1BEZ1NuT1ZWSGpqbTRvVW1xV0JVTFQwN1JGZ0stZ1hfa2NnakY4RndvbGVWdw?oc=5",
+      "title": "El español ingresado en el Gómez Ulla por hantavirus continúa con síntomas pero estable - ABC",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbVE0eVROWVFKZmZQWEZiQzRsRzg5Qjg4V0lUTm9OMEk2RzZ4WjBxMTB2U0ptT3RmcDlIdVNHZy1oZjBySjg2a3FEeWtHMmFvM0V2dHU3NWhNZGtuRUZtOWNnSmJhdExZWFNxOEFaeVpzU01NWlZJY1ZxbExCNHpZNEpiR1A1UzROUVdVYlpGNHQ4bGhURnJ6RkxqQzMySHFUWlFjdUVRcjdZN29C?oc=5",
       "date": "2026-05-13",
-      "source": "Google News ES",
-      "desc": "Última hora del hantavirus, en directo: el presidente canario acusa al Gobierno de ocultar casos a bordo del crucero&nbsp;&nbsp;Cadena SER"
+      "source": "ABC",
+      "desc": "El español ingresado en el Gómez Ulla por hantavirus continúa con síntomas pero estable&nbsp;&nbsp;ABC"
+    },
+    {
+      "title": "El \"héroe del Hondius\", el doctor retirado que se hizo cargo de la crisis del hantavirus, el único aislado en biocontención en EEUU - 20Minutos",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPT2xSVEJDMTJ0X0M1elVoSjhLb1ZPYmtMakRnQ0Y5X1I0c2dCYzdtUThpdjA1cDVqUEhCaG1jOFF4QUFJLVdPbUplRlZOY2RQYm1FZHFJdmh4RV9vUUlmY2xlN0ZRdHB5QURvSm9HZkVIdUUyOHNQaGdpZ1QyazM1aXhPbEdONHd1eWFCbS1JUUh2VGs4YWZSaHhwX0hUNXNBQmhOSHZvNVVEOGtpeVhlS2VSOGF5M05EM2NQLXlqM1N3NDMwdTdGZWVKMGFDU195R0Y4c0JZS2NhdlIwSk1VNnF5MDhTZXVkOTlN0gHwAUFVX3lxTE9BZ3dWQ0JoVVB0MkFhY2prRjcwU1ZWZnFsM01kM3FfbjI1eFBlejJrTjBPZnZWSDAtcGJRRmdFTDRXWHBPSUtQaldqWUZUdG5ja19LajBqUmRPamVqVzUyNjBFR1l0OTMydkw3ODJDWEpiU0hzQVYtWms0SU9DZThwYTlzMFFlNF92R0IxelFuWHRRaEFvOVBYTE1hRnpNN0NzSzRkeTI5dGJ3NzdGZmF4Q2tycWNUMTgycTBoV28zZms1V3M3QTVabzNwMVpkV19TY3N1MGR3bE1ybjlaLVNvSXhwdVdreFh3eHc0TzdXXw?oc=5",
+      "date": "2026-05-13",
+      "source": "20 Minutos",
+      "desc": "El \"héroe del Hondius\", el doctor retirado que se hizo cargo de la crisis del hantavirus, el único aislado en biocontención en EEUU&nbsp;&nbsp;20Minutos"
+    },
+    {
+      "title": "La mujer aislada en un hospital de Alicante da negativo en hantavirus por tercera vez - 20Minutos",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb0NDbDZ2ZE1tOE5ONTdzZ2JaZFBwT0JQbkJmcEdtbDlNZ3pFMENCRTZfRU1ONmtJd2l3bGsxMHBUdmNtVkFoZDBFZ3MyNjFoUjJsLXA1aG9SM0VQNjRyYW9SNU9PSThFSTlHNEtFVnJMLUNyU3ZHWUxYT0N0UkNKM250S21vU0V1WTZrQ19MakptYzF3UEc2UWVEUXVrdWx3clo5R3hXek5pci1uMkJ6dS1iOXJCX2FlZm5Kd1dZONIBxAFBVV95cUxQZC1zTUR0VXgxdTNNUkRZMVM5YVJrM1hxN2pXaVA4WFJRWmczeV9YazkwMFJ2SmpLeXQ5aEhCZ3d4cU5mQndBZUM0aGgxOUVUUm5YMlZUZzMyU0hRX1gzbG5kczJzT2V1Wkw4VW9Yckw5dEc4MWh4eWY2QUdMOUVXRUw3SUJiUjU2cG0xMjMzdkN4TUItQWpPbkhma1JvcDAtd2ktMmNEQWthZ2ktUWpnME5HYnpab1pvOEJVRjJ3RldiV3Fx?oc=5",
+      "date": "2026-05-13",
+      "source": "20 Minutos",
+      "desc": "La mujer aislada en un hospital de Alicante da negativo en hantavirus por tercera vez&nbsp;&nbsp;20Minutos"
     },
     {
       "title": "Mapa del hantavirus | En qué zonas se encuentran los infectados, sospechosos y aislados del brote en el crucero MV Hondius - 20Minutos",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQlJVOUpTalpULV9qUWdxdHpHUkZORmkwNjJwZmxQZEdPc0NNamQtaGZCc1RSYXhqUWVybDZIY3lQb0F3VEpqWWdiTzE4WUlZYVhZTUhTTE9oRFJOam1uVGNPRWdYb1QxVUVuY0xRay00QVEtQXB6Qi1YTlgxbzVMME40M3ZzbTNFbVc1QlF4bk9tQzNvQjEyQjVDLS1VNFBNN1V2dVBMcml1NkhGWmpWaTVWOGVFUmZkVmFtNXVRSXB6UmJaZFE1aU96OUJiT1duRDRubjJTYmRLUlpaTmEwQU530gHnAUFVX3lxTE90azNDTGV6cVBCVnI2djl5MzJRQ3ZkVUNib3dQQ1c2Y2dLTE9MWUt0Wlp0c0FNbUhlMDFKaUJxZHMtYXZieHVqZ1I2b20zUGJPMFY2WTg4Z0lRbE9VaXZtbURRQ2lhb09GdncyNjBWalNRSkIwTzhWZ2stb1pHaktFalV0ZkFnRXRaWDR2dTdDZE5Dd215VlBaTkNnb2hvem9leHYxcGRYM3FIdTFvb1JfdmpzXzVlMHlmMEswa0d1eHJuVlNZWEFsdUpsT2V1b3RWNEdDZ1I3elFVVHd1Z0liR0RXTWd3SQ?oc=5",
       "date": "2026-05-13",
-      "source": "Google News ES",
+      "source": "20 Minutos",
       "desc": "Mapa del hantavirus | En qué zonas se encuentran los infectados, sospechosos y aislados del brote en el crucero MV Hondius&nbsp;&nbsp;20Minutos"
     },
     {
-      "title": "Hantavirus: lo que el mundo puede aprender de la Patagonia - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVUE0aTdyMFUzMlhsdGQ2SG5WamhNMnZSODNWV2E2SHdfYnNwMlZRdWFQSTNndnVnVENxaXpfSWVBY05LZmhDMG9UblhkNFhLX1N3dVY4bl9nOWVwb0owWUtYWEllejZ1V2lBV2NBSlgwcWlnY1RZd3dGbFZzMlFOeWJPT2JyM3ZJZ2cwWVVWSWk2T0tm0gGUAUFVX3lxTE85eDB3cC1ZRkQwRzd5ZElnLXdvMENic3lZZjI3Z3UwNV9xSFZ0U014U3h4LVlNeVJKWmhpdDBkUjlXTl85WGxucHo2SlpzUzVjcVc2LW1abUdnNjhhb0duRmtOaEZnU3lLd0RmSF9SZWRoV1ZMakZlVGhfd21zTm5GVk1oNWtvNmRrSkZaWTdSdjJhVFg?oc=5",
+      "title": "Hantavirus, última hora en directo: la OMS eleva a 11 los casos positivos y aconseja una cuarentena de 42 días - Diario AS",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRGF5eExac0Faa09YTWlXQ2NGZ2xGekIwWTFlYm9YUFJjZ0J2Q0ctVXdWZUVYcVVYUnVVRHMtRXJtZ2ZMN1RDRThJYTZtc2owTXVZdmY3QUtOdDRLNERiTmE4Rk1kYWZLTVpoaW0zUjQ0S082UURQbW1TaS1faE5wczdnYW5jNXdod0l6UV8tNENiVmV6Q2M2QnNHY2hhdW9QVFVCRVBzUm9fdEJPeTYzVUpRMEtkbExtcHlULXJPeWFiakNSMGp4T2VPS01nTE1YZWJMOF9pYW96X0VkdnVUUTJtdzdmRFJ4TUHSAf4BQVVfeXFMT1FyUFVvWnp2R0hKZVQyTlI2Nm1jRWNib2ttQm5LRVoyOGdvcjNPZjFjZmllR2NOZXRXTnhpbEVFNHFsZENKOVFxWmRkenpDS1BNbkZUakptaUI5bUh3cDBqbDFwU2hKUXNtYWh6Qk1LcDJING9Nc0VYRG9fT1VMbUoweGpyWmNHUkVnczk4ZUxLc3NRZkhsNEZmai1kNXBLUFVCRTNDQTVEUDRfWnNBeWJpb1NiMF9pSFliMjhrM21nN1NHT3ZUdW5KMjJxSmlpWS1aVnhfYjRGaEphR1Exb05WTnhVMW9JeEhnYVRiVkg4Z0lTbC1ka3dhSlJYWXc?oc=5",
       "date": "2026-05-13",
       "source": "Google News ES",
-      "desc": "Hantavirus: lo que el mundo puede aprender de la Patagonia&nbsp;&nbsp;DW.com"
-    },
-    {
-      "title": "Última hora del brote de Hantavirus, en directo: casos positivos y seguimiento de los pasajeros del MV Hondius - Infosalus",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQX0t3SVZPb3ZIOTBDWC1hUHloZUF0dmhrV2RCWmp4OEVBQWhfaW9kWVFPMFBLTW1SWVJJNDl2M0EzYkY3bTVFSHpnOXcyQTdrVFhzYUhraTctelM1N1AtYWY5S096RFotQUYzaElZb0tXWHZWV1BZcW5mN2NuenlsUExseW5QRkUtbmU3RWZwVWxScktOeVRQa1VjVG5oVjFydTg3Z2xZZ1EtZllyNnlBUmt6T09WTjhhTkRxazRFaWoxeHBhTGN0SUFNVGJLaTQ3NGVjZDZQUk9SS0NVc0pWSzhTOHo?oc=5",
-      "date": "2026-05-13",
-      "source": "Google News ES",
-      "desc": "Última hora del brote de Hantavirus, en directo: casos positivos y seguimiento de los pasajeros del MV Hondius&nbsp;&nbsp;Infosalus"
-    },
-    {
-      "title": "Atención a los pacientes con hantavirus: protocolo y cuidados de los enfermos - Sinc",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc09NOWwtRjByQXNvS0dtMzdYZW5vNzBSbmpPNXBCcUxkbklwT01vZjM0NjEwOWw2WWRFYXk2b0k4dzRTdUhyVGRxa05WNS1VWnVDWnkydFFSNTE2OG9XcFNyN1Z2NnVub21TN0pmYzhfSVJfZ2pmQ2tfUlB5TEpEOVFscW93SW5ZU1FCWl9OcG1HYXQyWld4ZmdWN0I0V3UzMWozaVBOVnFJcmFZNjVaci13?oc=5",
-      "date": "2026-05-13",
-      "source": "Google News ES",
-      "desc": "Atención a los pacientes con hantavirus: protocolo y cuidados de los enfermos&nbsp;&nbsp;Sinc"
-    },
-    {
-      "title": "French hantavirus patient is critically ill as outbreak grows to 11 - NPR",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWVRGeE5ZaE5vVXJDT0xhSDh0ajk5TU1Sa3I2bUpVZkVVYUxQY3ZhVjdTaVhsdmVTRjA1YTdRMzM1SGFjVFNZYlhzVG4weEhnY0VjMnUydnoxOWxFa25ick5fUGdFRXdac1NuTm5MLTBJMFBFMm8yMmFGREx1RThLRmhrdFlMbUR0ZDBQd2t3?oc=5",
-      "date": "2026-05-13",
-      "source": "Google News EN",
-      "desc": "French hantavirus patient is critically ill as outbreak grows to 11&nbsp;&nbsp;NPR"
-    },
-    {
-      "title": "Quarantined cruise passenger gives Nebraska room tour, denies hantavirus infection - AP News",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdVQ4cVNIR3ZHWUFCZ3NHd1hTa0h5cUxrNmF2QmRXTnFXRDVsUGhqWk42Y2FOY1IwVHI3cS1wX3o2czd6OGxjcXJLN1VWemJiblk4TDRJQXVJanNuU1BZemZvRjZRMThNdWpzMVNlMXlwRk13QnZOWGdvQTBfZ2IxNlRUam5yUHZoenhuaUxfLTlLYXY1bkdVN2lLNlZRUkpDY0R5SktLd1ZuX3A4ZVJacFlHN3VGaHp1bTU2MFFKQXdEby1scUJtbzJ4dUxxSzIwQVRCcW9B?oc=5",
-      "date": "2026-05-13",
-      "source": "Google News EN",
-      "desc": "Quarantined cruise passenger gives Nebraska room tour, denies hantavirus infection&nbsp;&nbsp;AP News"
-    },
-    {
-      "title": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUThMc0pIYUVmdmh0VDhLd1J6Njk3T0Mzenppak14OWE4eWhrYjA5MEZGdDN6dnN3UzQ3aFVlNWNyeTJmQ18wU05XN2tQZjlQT09wdFRZc3VDTG4xamx2YWgyODVQaWVTUmw4?oc=5",
-      "date": "2026-05-13",
-      "source": "Google News EN",
-      "desc": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)"
-    },
-    {
-      "title": "Five things to know about hantavirus from a Stanford Medicine expert - Stanford Medicine",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcU9yeGhXN3pfTHZHalRLTGhQUE05YndBQWtzWmZ1b0NHZFVXX0phcVl1ekltS1czSnhXQnFZWnFaU2JEMzBibkdpOTItVkRYb1NyYVd0U2NCTU9yMnNsSG9SSWJndm9uMkZ1WWU2UW5Sa2ZQMVpkaFdFVjZiWGI4czNCS3JxcklSVjhPWTRxNmxUNmE3a2p0Tw?oc=5",
-      "date": "2026-05-13",
-      "source": "Google News EN",
-      "desc": "Five things to know about hantavirus from a Stanford Medicine expert&nbsp;&nbsp;Stanford Medicine"
-    },
-    {
-      "title": "Hantavirus Cruise Ship Outbreak: What We Know So Far - the-scientist.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaWFvSkkyVV9IV2R0NEg3UGtkN1RlX1hJRURmaXZFa29UaEoxSDNGQzAtOG5aY1M5eDNfVGpOdDhWclRXZ296MjJJMFJITlFWTXk3NU9EZlNoMUdoNVd4MHg3WTRNNHkySXNiWVF2OXREa3hLUTdmZlNkdnVDVTNiR3p2ZGhZVGItalpmVW9zRHg?oc=5",
-      "date": "2026-05-13",
-      "source": "Google News EN",
-      "desc": "Hantavirus Cruise Ship Outbreak: What We Know So Far&nbsp;&nbsp;the-scientist.com"
-    },
-    {
-      "title": "What to know about hantavirus, the illness linked to a cruise ship outbreak - WTOP",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVE9YdFJxaG9XMWpOaDQzbTQ5cld5dmN0d0pqSEhWNy1Rd2VoTGpsdFJHbWpaeEQ4cTBoZFRqcjRjZGltVldQS0FtRmNFLVhqVTNDay0tTTlQdG94V2c0c1p5Z1NPQnJ3ei1jTGVXaVY4NXY0SFYzbnp4NG0xLWxjczdUUzd0ZC1RVXp4UFVPSVhuUXNHSTVjSlpGVG5uLTZVWVdtd3FPSThwbnkyVDJ3UEJTQ2s2akt6U0E?oc=5",
-      "date": "2026-05-13",
-      "source": "Google News EN",
-      "desc": "What to know about hantavirus, the illness linked to a cruise ship outbreak&nbsp;&nbsp;WTOP"
-    },
-    {
-      "title": "2 new hantavirus exposures linked to SFO traveler, San Mateo County resident on MV Hondius cruise ship - ABC7 San Francisco",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWTZuN1ctc3c2ZjVfS2xPdlRaNmMzQ3FQZHJiYXpQOS14WnU2SDRHdXdoLTVRSEIyYm52YlVDa244VS05dFVCMmlaRmNRcjhleHZ4dmRsV2RlMmpFTk1Hdm9NZm80bFdvQnlVdk5yNlFmQWVELXhRSTZvRl9Ma3l1NkVHb214c1dSZFhRMGJSeTRFOTkxNUpxQzNCT3RQUXVtUTVzYlJqcGFJSUZkZlRmTF9obnNwYWJwN3FORzJUVUhDdHZtemxFX292d9IB0AFBVV95cUxPZmluLWczY1pXVkFfWEdsVzVzVGpPTWswYjFvaDBLQVhhQ1pfanJTUGpPVENDeTVBUDJpWmtkMmFNdm54T2VaLVp3M0ExMUJLQ2M3czA4elBteHFnWldwdWpWQmxxR0tZeG4zMnpQQkU2elo1STFzQmI3dUFUVFV3WlYzVXcyOVdtcmVGVXdxOWVHVC1mejRZOE9VUkJONjdkbVhXT0lDZ3N6X2tKX2dxS3V1aEY0UVpxRnVwSDdjQ1dnaHQxRk5IbnFnWkxoalpq?oc=5",
-      "date": "2026-05-13",
-      "source": "Google News EN",
-      "desc": "2 new hantavirus exposures linked to SFO traveler, San Mateo County resident on MV Hondius cruise ship&nbsp;&nbsp;ABC7 San Francisco"
+      "desc": "Hantavirus, última hora en directo: la OMS eleva a 11 los casos positivos y aconseja una cuarentena de 42 días&nbsp;&nbsp;Diario AS"
     }
   ],
   "countries": [
