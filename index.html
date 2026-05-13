@@ -1319,11 +1319,23 @@
 
     function paintMap() {
       const snap = currentSnapshotData();
+
+      // En el índice más reciente, completar con países en DATA.countries
+      // que no están en el snapshot (añadidos manualmente o vía scraper tardío)
+      const effectiveSnap = { ...snap };
+      if (timelineIdx === DATA.timeline.length - 1) {
+        (DATA.countries || []).forEach(c => {
+          if (!effectiveSnap[c.code] && (c.cases || 0) > 0) {
+            effectiveSnap[c.code] = { cases: c.cases, deaths: c.deaths || 0 };
+          }
+        });
+      }
+
       gMap.selectAll('path.country')
         .classed('affected', false)
         .style('fill', null);
 
-      Object.entries(snap).forEach(([code, info]) => {
+      Object.entries(effectiveSnap).forEach(([code, info]) => {
         const meta = getCountryMeta(code);
         if (!meta) return;
         const isoNum = meta.iso_num;
@@ -1342,7 +1354,7 @@
 
       // bubbles
       gBubbles.selectAll('*').remove();
-      Object.entries(snap).forEach(([code, info]) => {
+      Object.entries(effectiveSnap).forEach(([code, info]) => {
         const feature = COUNTRY_FEATURE[code];
         if (!feature) return;
         const [cx, cy] = pathGen.centroid(feature);
