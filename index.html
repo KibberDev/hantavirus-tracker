@@ -542,6 +542,18 @@
       font-variant-numeric: tabular-nums;
     }
     .rank-deaths.zero { color: var(--text-3); }
+    .rank-cases.suspected { color: var(--yellow); }
+    .rank-susp-badge {
+      font-size: 8px;
+      color: var(--yellow);
+      background: rgba(250, 204, 21, 0.12);
+      border: 1px solid rgba(250, 204, 21, 0.35);
+      padding: 1px 5px;
+      border-radius: 3px;
+      font-weight: 700;
+      letter-spacing: 0.5px;
+      margin-top: 2px;
+    }
     .rank-empty {
       padding: 24px 16px;
       text-align: center;
@@ -1037,8 +1049,9 @@
       <div id="map-tooltip"></div>
 
       <div id="map-legend">
-        <div class="legend-row"><span class="legend-dot" style="background:#ff6b35"></span> 1–2 casos</div>
-        <div class="legend-row"><span class="legend-dot" style="background:#e63946"></span> 3+ casos</div>
+        <div class="legend-row"><span class="legend-dot" style="background:#ff6b35"></span> 1–2 confirmados</div>
+        <div class="legend-row"><span class="legend-dot" style="background:#e63946"></span> 3+ confirmados</div>
+        <div class="legend-row"><span class="legend-dot" style="background:#b8900a"></span> sospechoso</div>
         <div class="legend-row"><span class="legend-line"></span> ruta MV Hondius</div>
       </div>
 
@@ -1140,6 +1153,10 @@
     // ───────────────────────────────────────────
     //  UTILITIES
     // ───────────────────────────────────────────
+    function isSuspected(country) {
+      return (country?.status || '').toLowerCase().includes('sospechoso');
+    }
+
     function getCountryMeta(code) {
       const full = (DATA.countries || []).find(c => c.code === code);
       if (full) return full;
@@ -1306,13 +1323,17 @@
         .style('fill', null);
 
       Object.entries(snap).forEach(([code, info]) => {
-        const meta = DATA.countries.find(c => c.code === code);
+        const meta = getCountryMeta(code);
         if (!meta) return;
         const isoNum = meta.iso_num;
         const cases = info.cases;
-        let fill = '#ff6b35';
-        if (cases >= 3) fill = '#e63946';
-        if (cases >= 6) fill = '#b71c2b';
+        const susp = isSuspected(meta);
+        let fill;
+        if (susp) {
+          fill = '#b8900a';
+        } else {
+          fill = cases >= 6 ? '#b71c2b' : cases >= 3 ? '#e63946' : '#ff6b35';
+        }
         gMap.selectAll(`path.country[data-id="${isoNum}"]`)
           .classed('affected', true)
           .style('fill', fill);
@@ -1327,10 +1348,19 @@
         if (!isFinite(cx) || !isFinite(cy)) return;
         const r = Math.max(8, Math.sqrt(info.cases) * 8);
 
+        const metaB = getCountryMeta(code);
+        const suspB = isSuspected(metaB);
+        const bColor = suspB ? '#facc15' : '#e63946';
+        const bShadow = suspB
+          ? 'drop-shadow(0 0 6px rgba(250,204,21,0.6))'
+          : 'drop-shadow(0 0 6px rgba(230,57,70,0.6))';
+
         const grp = gBubbles.append('g').attr('transform', `translate(${cx}, ${cy})`);
-        grp.append('circle').attr('class', 'bubble-pulse').attr('r', r);
+        grp.append('circle').attr('class', 'bubble-pulse').attr('r', r).style('fill', bColor);
         grp.append('circle')
           .attr('class', 'bubble-core')
+          .style('fill', bColor)
+          .style('filter', bShadow)
           .attr('r', r * 0.55)
           .on('mouseenter', (ev) => showTooltip(ev, code, info))
           .on('mousemove', moveTooltip)
@@ -1506,6 +1536,7 @@
       }
 
       countries.forEach((c, i) => {
+        const susp = isSuspected(c);
         const item = document.createElement('div');
         item.className = 'rank-item';
         item.innerHTML = `
@@ -1516,8 +1547,8 @@
             <div class="rank-meta">primer caso ${fmtDate(c.first_case)}</div>
           </div>
           <div class="rank-stats">
-            <div class="rank-cases">${c.cases}</div>
-            <div class="rank-deaths ${c.deaths === 0 ? 'zero' : ''}">${c.deaths === 0 ? '—' : '✝ ' + c.deaths}</div>
+            <div class="rank-cases ${susp ? 'suspected' : ''}">${c.cases}</div>
+            <div class="rank-deaths ${c.deaths === 0 ? 'zero' : ''}">${susp && c.deaths === 0 ? '<span class="rank-susp-badge">SOSPECHOSO</span>' : c.deaths === 0 ? '—' : '✝ ' + c.deaths}</div>
           </div>
         `;
         item.addEventListener('click', () => openCountryPanel(c.code));
