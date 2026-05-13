@@ -1140,6 +1140,14 @@
     // ───────────────────────────────────────────
     //  UTILITIES
     // ───────────────────────────────────────────
+    function getCountryMeta(code) {
+      const full = (DATA.countries || []).find(c => c.code === code);
+      if (full) return full;
+      const ref = (DATA.country_ref || {})[code];
+      if (ref) return { code, name: ref.name, iso_num: ref.iso_num, cases: 0, deaths: 0 };
+      return { code, name: code, iso_num: '', cases: 0, deaths: 0 };
+    }
+
     function decodeHTMLEntities(str) {
       const txt = document.createElement('textarea');
       txt.innerHTML = str || '';
@@ -1221,6 +1229,10 @@
       // Construir mapas: ISO numérico → código alpha2, y código → feature
       ISO_NUM_TO_CODE = {};
       COUNTRY_FEATURE = {};
+      // Primero country_ref (todos los países), luego DATA.countries sobreescribe
+      Object.entries(DATA.country_ref || {}).forEach(([code, ref]) => {
+        if (ref.iso_num) ISO_NUM_TO_CODE[ref.iso_num] = code;
+      });
       (DATA.countries || []).forEach(c => {
         if (c.iso_num) ISO_NUM_TO_CODE[c.iso_num] = c.code;
       });
@@ -1335,7 +1347,7 @@
     //  TOOLTIP
     // ───────────────────────────────────────────
     function showTooltip(ev, code, info) {
-      const meta = DATA.countries.find(c => c.code === code);
+      const meta = getCountryMeta(code);
       const tt = document.getElementById('map-tooltip');
       tt.innerHTML = `
         <div class="tt-name">${meta?.name || code}</div>
@@ -1378,8 +1390,8 @@
     //  COUNTRY DETAIL PANEL
     // ───────────────────────────────────────────
     function openCountryPanel(code) {
-      const meta = DATA.countries.find(c => c.code === code);
-      if (!meta) return;
+      const meta = getCountryMeta(code);
+      if (!meta || !meta.name) return;
 
       document.getElementById('cp-name').textContent = meta.name;
       document.getElementById('cp-firstcase').textContent = `Primer caso: ${fmtDate(meta.first_case)}`;

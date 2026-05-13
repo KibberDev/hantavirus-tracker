@@ -1,4 +1,4 @@
-const CACHE = 'hanta-v3';
+const CACHE = 'hanta-v4';
 const STATIC = ['./', './index.html', './data.json', './icon.svg', './manifest.json'];
 
 self.addEventListener('install', e => {

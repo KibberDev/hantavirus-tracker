@@ -32,6 +32,7 @@ RSS_SOURCES = [
     ("El Mundo",       "https://news.google.com/rss/search?q=hantavirus+site:elmundo.es&hl=es&gl=ES&ceid=ES:es"),
     ("La Vanguardia",  "https://news.google.com/rss/search?q=hantavirus+site:lavanguardia.com&hl=es&gl=ES&ceid=ES:es"),
     ("ABC",            "https://news.google.com/rss/search?q=hantavirus+site:abc.es&hl=es&gl=ES&ceid=ES:es"),
+    ("20 Minutos",     "https://news.google.com/rss/search?q=hantavirus+site:20minutos.es&hl=es&gl=ES&ceid=ES:es"),
     # Catch-all genéricos al final
     ("Google News ES", "https://news.google.com/rss/search?q=hantavirus&hl=es&gl=ES&ceid=ES:es"),
     ("Google News EN", "https://news.google.com/rss/search?q=hantavirus&hl=en&gl=US&ceid=US:en"),
@@ -458,7 +459,7 @@ def try_update_metrics(data: dict, raw_entries: list[dict]) -> bool:
                 changed = True
         elif vals["cases"] > 0:
             # País nuevo detectado vía patrón estricto — auto-añadir
-            meta = COUNTRY_DATA.get(code, {})
+            meta = COUNTRY_DATA.get(code) or data.get("country_ref", {}).get(code, {})
             today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
             new_country = {
                 "code":       code,
