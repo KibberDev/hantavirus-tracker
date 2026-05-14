@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-05-14 05:51 UTC"
+    "updated": "2026-05-14 08:43 UTC"
   },
   "current": {
     "cases": 12,
@@ -1079,6 +1079,13 @@
   ],
   "news": [
     {
+      "title": "El paciente español contagiado de hantavirus, un hombre de 70 años que \"evoluciona favorablemente\" - Antena 3",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVHJDN0t2cEJaenVGRzBUOWh6dXdmbkRPSlNFV3Y3bnZiVDJJUVpPTHZfZzNlMGkycm5fOGNGd29UYnRNTUZncHRTX2VoNE94OHRxWVRwbFEzR2lGVXp0RTZ2REFKa1o0c2J1S1p0YzJZb1JLcTZ5WHJyNVlESXNIeFhrRC1JTGMwM0dSVWhPZzRyZFB4bmp4TEc0ZHhSUVg2WXpHTDh5bUxpQzBCMkpCdlU3THM4QXpJRzVfVjhPZkVjVWhmdVR6WUlMdTVsdlR4UnczWmlTMFkta0xPQTdMWGVUdW1pZXZwNjlpS28xQUtCd9IB8gFBVV95cUxPUlIySGVqa3h3STE1TkZ6YUxLZ2RsZVpac1ZuZm1sMl9MQjNNSGhPVzRMaS1TSE5uRjVnLUpnbHBnQ1hLeE9ybWRnTHllVS1pVUMwWS1OcjdZQXBMYW9lRGpoY3hlUHh0WTZieENGblZBemRrTER5ME1udDgxcFc0dlUxQW5zYXJqTHBRclpCWUZDcjRHX3UzU3NYa3dfZG0xZzlaVGZ0RGM5a1piRGxRUUtHeF9zNERjRzI5cS1xWU11c213bnJLQTMzWGNlYWN1cGl4Um1uXzNIeW5rRENFcHNTOVFMTzJqU0gyMTktc1BJZw?oc=5",
+      "date": "2026-05-14",
+      "source": "Antena 3",
+      "desc": "El paciente español contagiado de hantavirus, un hombre de 70 años que \"evoluciona favorablemente\"&nbsp;&nbsp;Antena 3"
+    },
+    {
       "title": "Mónica García, sobre la crisis del hantavirus: “España sale con más prestigio y liderazgo” - EL PAÍS",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSjVLTXdDOUUybDRDQUNOcE1Vdktfc2p2akZjTmJrTDZWQV94MEN1N1U3THZRTFptT0wyNC1VT0xDMVRQTzh6WHBNX3BzcjJ1dnFvQVBxZDhPUmpNZFhqNFdjUlVTVVZmSnI5ZWVOUWRZT3BHX0p3UmtsVGg4WFFhUjV5MGhzcHZlaDc4b1NQYVdrMHk2SnVPUmpIcGp4dnFfd0VFOHJhaEhFWFNrOFBxd2RYMkNHUHJvbkdhVHZYdFh6TF9vRXZF?oc=5",
       "date": "2026-05-14",
@@ -1086,11 +1093,11 @@
       "desc": "Mónica García, sobre la crisis del hantavirus: “España sale con más prestigio y liderazgo”&nbsp;&nbsp;EL PAÍS"
     },
     {
-      "title": "La OMS confirma que ocho casos del brote de hantavirus son de la cepa de los Andes - El Mundo",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRHBabUZKSlNTc0dveVR0c1hYYUtPYTJlcWh2WXJJY0RCbklSSVAyb0FVV2ZVaWNMTWwwN0w5eUU2RV9MMDFUUWRwTkRLMmhqRGl2RjRiZG04aDRDOFU5THprckgySG1zbmdGOGh5VFo5WnFTRHJUcXA0dDZOZFRqc1h0Rkl2NGNBLTN0U3RB0gGOAUFVX3lxTE0ySzg0dnBhb0lwOFlkNWpwa0J4Z2N1c3lZV3dIczEtQlFqSmtBTjRzSUVQODlzN3NpbV93Q1Z5ZzF3TUV2TEdJTDh6a2tWWTU1ZEQxSlhoc3FNQnd2T2JEM2lDaG91Y2dyeDR5ZlV4dE5QVmdIdDJHM3Q5Q3VieG9qNTk2dnVTR0pramNfa0E?oc=5",
+      "title": "Giuseppe Remuzzi, sobre el hantavirus: \"El HV Mondius fue una oportunidad perdida para realizar pruebas. Lo que sabemos hoy puede no valer mañana\" - El Mundo",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSm9WVTdudG9sdzN6V2lTSzdCcUU5ZHhEQTQ3YmZrWllzeDRHbmZqOXUxMUFoU1VVVXdsM0N1UGgzQ1Q3ZlhsNldHTlp5TW12M1I3bVVDb3prbm9LZ0VQOHZFWi1LRzVzUUpFMm9xeUNULUNMMGI0cGF4YjQzZXREczViRHNROUhCT05WT2pR0gGOAUFVX3lxTFBqYVdSbGVJVldYZ1ZVNUI5TmNaTXhCTWtCTUtjVUtwMEZqSmhqMV9WTnVvUkNKTk8xOHlxR0VFRmxxT3BkWU9uY0o2Skx3NkdPb1p6dG1xT21VZ25xTGt1d1JzenZzcGp4VXZvMzZhSFpRNkxtbGtZUGQtRHdNMWQ2SFBKNjg2N05Wa3puSnc?oc=5",
       "date": "2026-05-14",
       "source": "El Mundo",
-      "desc": "La OMS confirma que ocho casos del brote de hantavirus son de la cepa de los Andes&nbsp;&nbsp;El Mundo"
+      "desc": "Giuseppe Remuzzi, sobre el hantavirus: \"El HV Mondius fue una oportunidad perdida para realizar pruebas. Lo que sabemos hoy puede no valer mañana\"&nbsp;&nbsp;El Mundo"
     },
     {
       "title": "Los protocolos (y expertos) no descartan que el hantavirus pueda transmitirse antes de presentar síntomas: \"Hay que tener en cuenta ese potencial\" - El Mundo",
@@ -1100,8 +1107,15 @@
       "desc": "Los protocolos (y expertos) no descartan que el hantavirus pueda transmitirse antes de presentar síntomas: \"Hay que tener en cuenta ese potencial\"&nbsp;&nbsp;El Mundo"
     },
     {
+      "title": "La OMS confirma que ocho casos del brote de hantavirus son de la cepa de los Andes - El Mundo",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRHBabUZKSlNTc0dveVR0c1hYYUtPYTJlcWh2WXJJY0RCbklSSVAyb0FVV2ZVaWNMTWwwN0w5eUU2RV9MMDFUUWRwTkRLMmhqRGl2RjRiZG04aDRDOFU5THprckgySG1zbmdGOGh5VFo5WnFTRHJUcXA0dDZOZFRqc1h0Rkl2NGNBLTN0U3RB0gGOAUFVX3lxTE0ySzg0dnBhb0lwOFlkNWpwa0J4Z2N1c3lZV3dIczEtQlFqSmtBTjRzSUVQODlzN3NpbV93Q1Z5ZzF3TUV2TEdJTDh6a2tWWTU1ZEQxSlhoc3FNQnd2T2JEM2lDaG91Y2dyeDR5ZlV4dE5QVmdIdDJHM3Q5Q3VieG9qNTk2dnVTR0pramNfa0E?oc=5",
+      "date": "2026-05-14",
+      "source": "El Mundo",
+      "desc": "La OMS confirma que ocho casos del brote de hantavirus son de la cepa de los Andes&nbsp;&nbsp;El Mundo"
+    },
+    {
       "title": "“En Chile, un paciente con hantavirus es transportado con una simple mascarilla quirúrgica” - La Vanguardia",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdlg1TVZ2UHZDcDdFVFYzRXBFUUZkaEdLTXFUU0xHcUJvYUhUdEN2aVAybUhuZFV5dG1QbVUtbHBJSVE5RUpRODlrb1k5YXcxM2Y0NVlpLTVkZHYxZG0zbDNDQ29ELV9Ja3o5eTBJQUluWXJMRkpqQ2ZhcEpoNnZsQXJlQ3JUNlNLX1NYX0JoUlJaTWZqSGRUMDFpV0xza3d6QW1PQ085YVFJZXpLYUd3T0JDNA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdlg1TVZ2UHZDcDdFVFYzRXBFUUZkaEdLTXFUU0xHcUJvYUhUdEN2aVAybUhuZFV5dG1QbVUtbHBJSVE5RUpRODlrb1k5YXcxM2Y0NVlpLTVkZHYxZG0zbDNDQ29ELV9Ja3o5eTBJQUluWXJMRkpqQ2ZhcEpoNnZsQXJlQ3JUNlNLX1NYX0JoUlJaTWZqSGRUMDFpV0xza3d6QW1PQ085YVFJZXpLYUd3T0JDNNIBuAFBVV95cUxOWGFJUm84T2s5QzV3RW4weGpiVDBnX3hDTVltYm1WQ0tvdWtUQXZ1N1JtQUlTUkpHRzNIVDZkWDlZUW9kdm1hQ0wtOVNHbFV1bU1VcU5yZlJzQksxbmM0OHp6OHdvclNGaUxkRFMyYnRnTWRvZGlsQ0FFck9lOXduX3FzeDdjNWVlWjI4Rmxna2xEX1JSR2FiZThqbWpYaUZfUEJ6OU1TcVEwdmUyX24wRVpwZ3M3bjhr?oc=5",
       "date": "2026-05-14",
       "source": "La Vanguardia",
       "desc": "“En Chile, un paciente con hantavirus es transportado con una simple mascarilla quirúrgica”&nbsp;&nbsp;La Vanguardia"
@@ -1114,25 +1128,60 @@
       "desc": "Mónica García aprovecha la crisis del hantavirus para colocarse en la sucesión de la dirección de la OMS&nbsp;&nbsp;ABC"
     },
     {
-      "title": "Doctor from hantavirus-stricken ship tests negative, moves out of biocontainment unit - CNN",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcTc0QVV2U3RKUEJ4aFlWODBUdnNnNEdNUERsSEFfMnMyYjFNYlJDalR0UGQzNTR6Q3JCT0FpNzJyZEtDRERmSHAxbk11TDc4b0ZSVG5qb0lGT0NrdUszd2VndFBHY0JXLUJJbnA1N19fODhxa25kVXNlaFAtcVdKT2R0Rk44dw?oc=5",
+      "title": "Hantavirus, última hora del brote, en directo | El español contagiado se mantiene estable y los demás aislados siguen negativos y sin síntomas - El Mundo",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY29SSnRQOUZWYnFHbkk4TC1NLUtsaWUyWlVFYzlmMUM4alllVEJycjV3dmVPZU96ZEFOOUszdXhxaXd6Ql8yRWtOTWhmVjNYRXpGMmc4Zmd0Z3FUaE55VzkwbEswa2JnVDA2akJIc0JaRjlhQllUR1o2TVFzbHcxWDdFVzZZVzRZWGJwMUVjSVhIZHVkdE1UN9IBmAFBVV95cUxQaHlWOVU3N1U4ZGtjVHpRMFNFcHo1azJZQW83M1J2UEhBaEhQSEc4Vm8yNHZLcXNSNnR5N1JRWlZtMi1JcVljS3BEOVA0dmZ5LWVrZ2RRYUZpTG5MOFFrRFpXUXZaa09PYmdDdGtoY3d1MG8yN004R2MyY1lPMXRsUHQyczdNMU1DWUstdXdhejZkOGQyTktEQw?oc=5",
       "date": "2026-05-14",
-      "source": "Google News EN",
-      "desc": "Doctor from hantavirus-stricken ship tests negative, moves out of biocontainment unit&nbsp;&nbsp;CNNOregon doctor who helped cruise patients tests positive for hantavirus&nbsp;&nbsp;Statesman JournalFifth California resident exposed to hant"
+      "source": "Google News ES",
+      "desc": "Hantavirus, última hora del brote, en directo | El español contagiado se mantiene estable y los demás aislados siguen negativos y sin síntomas&nbsp;&nbsp;El MundoHantavirus, última hora del brote en el crucero MV Hondius, en directo | Paíse"
     },
     {
-      "title": "Nurse who treated Georgia Ebola patients shares into hantavirus battle at Emory - WSB-TV",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaXVaUGdpenhGZ1RNQnBpRy00WFZtY0g3RkpQcjM1ckFuSjJ1MEJkRkR1Qzc5U0JxVnJYYWVqSmRMSGQ2YW5KRjhaU2JMbnA4ZS0zS0VBcmZscXJWMUp1eGpFcWhic3EtWHdYVl9hLXVoWmpsN0x3YlU3ZmppRG5Tcl9TcVcxRWVzN3hKRzNQYzJOUVFsV1FxSVR6anIzSTRPLXhtaDNleWQyQnBfWlc0clU0Z3F6SUhybFFOZUlSaDI4OU9CWlNFSnh2ektFeWFIWWQzbnVJdWNEa0hPSXp2QkpRNVZsZw?oc=5",
+      "title": "La crisis del hantavirus evidencia la inutilidad del hospital Zendal: \"No sirve ni para cultivar setas\" - Diario Público",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeWkwcXJFU0hCY0JqcVNlNFpXaGR6dzJuVXRJaWhvM004UFpLemhlYlJEX1lZdjVGaGFOQVdaTHNpRk82RFBILTVCOXRhTDhteUQ3OGgzd0R6bjZEVXBKQlVnNmY5OURlTGR3SXA2NURsbzR4ZDB2WlNDYlNyTG85VXhDazVSTHF2WVpGTnhTbUw5UDZ2RlFJeU1RWENsU0ZFQUxCbHlpQVYxbUR3S3U1SnZIMzdfWUJ5ZjJJWtIBwgFBVV95cUxON29NYklvNnhLWHU2YkFaRVVsbUx6dHBSTzNaUjVHNFRaUFI5NEExV0s3WlBibjY0dFFqOGpNYllzRExza0VEY0V2SnVMNmh5YVRQak10OExPbnVxUFYwOGhWX2ZTMDY5d2k4NHZaNHYtSFVnNGlSb2F4TGJ5SHpYbWxzT0QxZHdxLWZHQVpMTWlEdmVyTm9BU1pCSnJRUTlja2JkbEJ3MGlJT05lRzJBR01xMU9WYUM1ZUE2RkdhTVBxUQ?oc=5",
       "date": "2026-05-14",
-      "source": "Google News EN",
-      "desc": "Nurse who treated Georgia Ebola patients shares into hantavirus battle at Emory&nbsp;&nbsp;WSB-TV"
+      "source": "Google News ES",
+      "desc": "La crisis del hantavirus evidencia la inutilidad del hospital Zendal: \"No sirve ni para cultivar setas\"&nbsp;&nbsp;Diario Público"
     },
     {
-      "title": "Health experts say there’s reason to be calm amid hantavirus concerns - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yaEVvUTYwSDVINWFsS3lJX3UxRTN6RFd5YjUxaFRiWmhPb0FZTlpnVlVtSy1TNTlFOXlHV1QyeGozVDlPRTJVMzhYQnlPVERYeDZWdXZR?oc=5",
+      "title": "Última hora del hantavirus, en directo: Sanidad informa que el positivo español ha amanecido estable - Cadena SER",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOVMzU1JwdFZEcVlNVFJ2MzNEYVA1RndDZUh6NjhvTDVFa2IyU3hXSy0zUzc1SEdkWnYwN1R2Y3AyOWp4V1B0VGlYa1FRSkN6Y2VxM2c3VXg3ckI3UXZmZS0wSFI1N3NOQ2NxSC0temtYRTNiZGFUMnV1VXl1YVBrRkdRLUR2bTZLa01HRVdTZUZadGhpR0tFU2lucFV2SlpsZ2lMU1VjdXAxWW5RWTJWd0hHV3M5ekRwbnp3UzNBUjJXdEo5cUF4MHRhZkRGUEwxbm1aaUJVbmQweVFmemJKaXh4VGlOVknSAfsBQVVfeXFMUGhpOGp0cjFlcE5IS0lPUkFJQjdvRE93OEhKRlJBUXB5ZlE5OWwwZ3FjRk1ORlVpT2FWTXBIWFZKMlJla1pTZVpnZmNBVWhZLXZ3Zk40Z09STTg0RjRvTVVLU1FkUDQxcWN1czhQM1Fvc21NN2txZGlSS1NSVXZKODdhLVJCMUJBLVpvaUp3d0Z2YV9TQ01BRWt4amV2c3pqWXBGd1lxYjVKelAydnk5ck5qZm1IYUpINkZmNC1pRTBIVU9SVElmMEJPSWFOeGZ2ZHVCMUdybElxbUNVTzFzSDh1Z0ZkQ3lVZlRORUtPd0QtTk8xOEMyZDdCNlE?oc=5",
+      "date": "2026-05-14",
+      "source": "Google News ES",
+      "desc": "Última hora del hantavirus, en directo: Sanidad informa que el positivo español ha amanecido estable&nbsp;&nbsp;Cadena SER"
+    },
+    {
+      "title": "Presidency reinforces exchange of information on the hantavirus outbreak - consilium.europa.eu",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT0RnZXV4c0Z2bDUzb2lSNnpjdmhZX21ZU2JhbmVQSzhaOHRseDA3VkJvVzd6MHVSLTdfWWtGeU9rVzBQQzFrQXNGcTVGWXYxQlNaZFFTOG1aX3ZVVFZGUGJMT3EwampzdTYxTFNHd0h1Mk1LN0YxdUprMDdLNE1WcGtSUDFBclB5Q29iN1Q0TVc1cnFPUndYdXRoSTRUcG1JdU9CYk9IczJxZkgtYnZHSG1PTGpuUlh1aE50ekc1b0xwOWN0ci1mZWdUSWJJX3Y5eTBzbnU0OA?oc=5",
+      "date": "2026-05-14",
+      "source": "Google News ES",
+      "desc": "Presidency reinforces exchange of information on the hantavirus outbreak&nbsp;&nbsp;consilium.europa.eu"
+    },
+    {
+      "title": "Hay que desconfiar de autotest domiciliarios para el hantavirus, dado que son recursos diagnósticos que no ofrecen las farmacias - Farmacosalud",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUWVPSm1hLTV0eWwwa0RxU1Fla1ZnWnJXclBPbHFMSnE4NVpqYldPcFBnX09OM3BDVTlfWVRncEgtbGs0X28yZjU5VklBdE4tRU9HTlNGTUtiVDlFSjJnR1puOTJOVmRLMTRub21vVUp6djluRG5KUUpULVp0cWt3RjNHTHFyUDBMUjJ4cE5JM1R0aWNRVUxuR3V3cElOU2h3eFJOZkU4SkFFQWNkRURnMi1COWs4WHBQaTQ2SmhrZzJxVXp3ZlcxdmY3ZFFDdjV1Y0xuUFA5LXk3MlRLVUE3OEpiNWJzWHBW?oc=5",
+      "date": "2026-05-14",
+      "source": "Google News ES",
+      "desc": "Hay que desconfiar de autotest domiciliarios para el hantavirus, dado que son recursos diagnósticos que no ofrecen las farmacias&nbsp;&nbsp;Farmacosalud"
+    },
+    {
+      "title": "La vacuna contra el hantavirus existe, pero no sirve para el contagio persona a persona - La Voz de Galicia",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOXdDQnhKYkVPRTFZYjRzTUtzREhwTzNUb0Ztb01iNlJPTUdMc213M05ISzViU1Y1M3Q4aDI2cWN0cUQ5NXdCOUlpNGVpcDlqRUFIZ2lZOUg1ZnZuYlpjZGVXX2h3TkRZd2tycjh4VUtXV0xjM0tzeDNncDU0QVpaSXpCY0FjaGhfRzc3dWhsbkdKZEFUVy13c0VIRzRjZWlwd1lLdXN0UzBSaldkdW5qcUJNS0c0M2tZX1BKRlhCMGpUVTY2V0pvRzhDQ0FzUkY3WElYX2tSVS01SktfaUx0ZDJn0gH-AUFVX3lxTE5RUzhWMm40M0x2Nmdob2QySDA0QUtLLUVROWhWbE9rSWJLcU9IbHZtMTE2cW9BZUJzUzdZZjgtanJxM1dsU0xDUUVkYWcxMS1ZQnVOUVN1OUpsMkZ0RWJkc0lXQlJSbS05NTVhWVYxbnpFa2lES1NWcHRMekZSZmh5SzNiMlBIYTZMSGpEekF6NEdoZWhsNzRad09WMnJaRUMwTGR5aWdwTGRRelpQMDZKbDdldE1EYUVwXzJGdkNwZ2R1dUY4dlBBQndjLTdfNExqcWZwMUZjQ0lqT3g0QUN6VFhfSkI4YmNGMkdQNDQ4czJsckpGb25YTTQyYm93?oc=5",
+      "date": "2026-05-14",
+      "source": "Google News ES",
+      "desc": "La vacuna contra el hantavirus existe, pero no sirve para el contagio persona a persona&nbsp;&nbsp;La Voz de Galicia"
+    },
+    {
+      "title": "Fox News gets firsthand look at hantavirus quarantine unit at University of Nebraska Medical Center - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fNUlTOEpXdmZneFN0clhkVF9BQmk1OGZtYW9IQzg1UFg5eEZxeXhEVGYtVm9pVFppS2RERFN2TGZneVBhZjl6aDJ6bEdUMUZDWkhtWGd3?oc=5",
       "date": "2026-05-14",
       "source": "Google News EN",
-      "desc": "Health experts say there’s reason to be calm amid hantavirus concerns&nbsp;&nbsp;Fox News"
+      "desc": "Fox News gets firsthand look at hantavirus quarantine unit at University of Nebraska Medical Center&nbsp;&nbsp;Fox News"
+    },
+    {
+      "title": "Three Washington residents were exposed to hantavirus amid the cruise outbreak. Why risk of further spread is low - The Spokesman-Review",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa3Fvcm41WTlnTnY4WnQxdUxfUUljdTNHNEhUV0Y0bmpCYXJvOGlsTld6ajItbk50T0xZWmpGcEU4ZXVpS081RU1sYjhGVE5tLUozM0k1U3FKOFR0MTdHQzB1eWZuZzdvLVM4enpUdHgxZFdwRG5icUhPT2xJYll1OXNqa2lROGpieGZKZTFMdG5CMERuX2M0ZC1Ebm10QQ?oc=5",
+      "date": "2026-05-14",
+      "source": "Google News EN",
+      "desc": "Three Washington residents were exposed to hantavirus amid the cruise outbreak. Why risk of further spread is low&nbsp;&nbsp;The Spokesman-Review"
     },
     {
       "title": "CDC Is Walking a Tightrope With Its Response to Hantavirus - WSJ",
@@ -1154,55 +1203,6 @@
       "date": "2026-05-14",
       "source": "Google News EN",
       "desc": "Residents keeping tabs on hantavirus as 2 Marylanders are monitored&nbsp;&nbsp;WBAL-TV"
-    },
-    {
-      "title": "Hantavirus outbreaks could become more likely as virus-carrying rodents expand their range, model finds - University of Nebraska Medical Center",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNR1dJc2U1ejVjamRDSkZNejAyUHZzNzMwaHduVU9oRE84dkh4QUV6YnBvQVlNcVYxNm4zcVZXdVQ5ZlFDdE9DOTh3LWNZUVhZYTZSQ01BLWxiU2xWNUltUEp5Y2VwUHZmNzlOcHI4WlFjYi1BbXJpbDZndTc1M1VPSmdRMXZFRnFSNUkyN2xTWUJhZzZWLS1rbHFid1RpWlJmZE5TSG9aMTlZMjljSVlXV0pwWTkzY01iMzdQYnpmdk5EMk1oemZ3Mk9iT0s4cTlINU1PX1JCY2p3VzUxSm8yRzE5WHc2akhhQXpKaVhkaThRczgyRFE?oc=5",
-      "date": "2026-05-14",
-      "source": "Google News EN",
-      "desc": "Hantavirus outbreaks could become more likely as virus-carrying rodents expand their range, model finds&nbsp;&nbsp;University of Nebraska Medical Center"
-    },
-    {
-      "title": "Map: Health officials in at least 10 states monitoring hantavirus exposures linked to cruise - KCRA",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdUhIX05oSDN0ZHlGX3Y2eXZmUEE4UEJjeXNzRW93Qk9TQzhSUnc2cFdTcFdfSlM2d2l3SkVzcWlYRWpRWEZUTkNkalIzSlpjbUk0Q2g4ckp1Qkozb3I3TDJlYWdpVXpUS09OUFpZbXRMWlZTUVc5M3lyT0Y3TENRSGswZFd2QQ?oc=5",
-      "date": "2026-05-14",
-      "source": "Google News EN",
-      "desc": "Map: Health officials in at least 10 states monitoring hantavirus exposures linked to cruise&nbsp;&nbsp;KCRA"
-    },
-    {
-      "title": "Hantavirus Update: A Glimpse Inside the Facilities Housing the Quarantined Cruise Ship Passengers - University of Nebraska Medical Center",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPeXVXRVVIOHR1RlJ5UWNESVNpSnVYcXFPamRqVk9xakRIaWxvckYyWnE0bV9qcW9nbG1Sb21wcVNGcHdLaUsyWkYxWEVoSE9aY3JfNDM4bUItNXdGRWNWUmZjb0RHUDJQOW5rRnB6MXRBSE9rWG9jOURIYTh1MFEwTGhwR3VHcXowR3otenQtdXZJUE00ZG4yb0hHYmZiLTNVb3R3UDZyY09XbmliYVRCSVVtaVZMMWJrQnN4MS1hX2ZXN1dheDVobzUxUWVvbDQ1ZzQtOExnOFoyQk11U0I0RWxySTJHWGttOTVNbmpB?oc=5",
-      "date": "2026-05-14",
-      "source": "Google News EN",
-      "desc": "Hantavirus Update: A Glimpse Inside the Facilities Housing the Quarantined Cruise Ship Passengers&nbsp;&nbsp;University of Nebraska Medical Center"
-    },
-    {
-      "title": "How are countries responding to hantavirus?",
-      "url": "https://www.bbc.com/news/articles/c4g8318v4yzo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-13",
-      "source": "BBC News",
-      "desc": "The UK, US and EU are asking all citizens returning home from the virus-hit MV Hondius to self-isolate for about six weeks."
-    },
-    {
-      "title": "French hantavirus patient is critically ill as outbreak grows to 11",
-      "url": "https://www.npr.org/2026/05/13/nx-s1-5820639/french-hantavirus-patient-critically-ill",
-      "date": "2026-05-13",
-      "source": "NPR Topics: Health",
-      "desc": "A French woman infected in the deadly hantavirus outbreak on a cruise ship is critically ill and being treated with an artificial lung. The outbreak has now reached 11 total reported cases, 9 of which have been confirmed."
-    },
-    {
-      "title": "Los síntomas que pueden hacer que el hantavirus se vuelva mortal: \"Lo que hace saltar todas las alarmas es la - Antena 3",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOanp3YTY0NHR5NG8zY1lkZ0hpRWRPZTJqTUhFbkltdGhmMlNKdUVac0taczNhOV9VTjFoRThhc0FIRmJXWmRMZG9XNnJwa3dySGdDeFV5dVpRX0trUFNSV2J0Z2hWZDIwX0tZY3NibTZFQ0YtLWpMdG5lMFh1cEVyWkRKRTU3ZmQyRmY3R2Q5Vzc3NlU4MW9jSTNyZkt1cEVVM0duQWxDVFBoVHVKQWk4N3Q2OWMzT3JJOXBHdnZSbTRUcldFOEdFSkgtUUZZc1dLZWd3WnktbExtcmxqQ0RoM0hoX1hnWGNMdEhiZGViWW5aSWpTMU1TVk1Xd3dfQTB5QXd5WFBIZ29YMGZIM0V3RWQ0TkYtbDc0VDJjRlB4anVvcXPSAaMCQVVfeXFMUDh3cTNiMkc0WkhmcFpoV0ZxbVoxSVBzcHRTakNUdjZ3TmVDbFVmbVBGWXhDbXd2OEZsUjFReXRIOWpSRzg0bTREbkpHYUNiSnJNNDQ0N3N1Q3VrRUh1UkhfVHo1ZU1CbU5XYjlkVzBJTUVYYk9tejRWVmlfSnh6QXA1Qk9kcjJEdXM4eUN1TEFkbG9WbnhmZ0hkc3lKVE0yR29sOFdmdjltdUxYZ3phZDBxRUItZlhjS1BYU2o1NEZsOEhGRVY5UFdfdkJ3Q1FhUTBWWklkRThVY2tSQWkya0FseE1ucV81Z283QlZsNEhRdGgyNXZwVkNJTmZMMEE2ZjhQcWtJZWpJYkhuVHM3T3JFZVZHVU9DYlZSYlFlazFyYWlj?oc=5",
-      "date": "2026-05-13",
-      "source": "Antena 3",
-      "desc": "Los síntomas que pueden hacer que el hantavirus se vuelva mortal: \"Lo que hace saltar todas las alarmas es la&nbsp;&nbsp;Antena 3"
-    },
-    {
-      "title": "Enfrentamiento entre Herrera y Rábago por la gestión del hantavirus: \"Vivimos en un tercer mundo\" - Antena 3",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQTFFRmFDR25VSzRxeFg3eVE1emdqT2NlUUhYRldGd0lyUVRfbXUtdHQtR1QycWx6ZjNyenNrVjZ4WEh6TjJteDg4a2NFMndMSXlSdmZKNzBSaVAzZ2xEQXFjeG1vaU9Qa1hfcG1PY2dYNUJvTXdqOWxIaHhOT0N1TWc3X0ViTU5jMnJMelo3Rkp2czJLSVFoR2pYb2NuYU9Eb3Z0TTUyT2s1dFpLVEdVUnY2VnV3ZW1zdVYzS3ZKNWw0UGxzeEJ6UUh3S1Njb0o3UXpqZ1pON05MRGxyWXVrc05mWmRrb3pPbDJSM2dVU1ktU3FsX0FxSdIB-AFBVV95cUxNZjBnVHhCbUtxV2o2dGxkN00yTkI2TWoyREQ2dzBZVFBTbmdqN21MZzBXSlBNbXBOejB3emFXMFlkQlpPanZlMm81Rm54SkVUY2g5Z3NxYkp3ejh3TGRJR3V3LXJDSnBlUDhzQk9UaS1SSGQwRUNkbWtMa0dhZy1TY2ZIazNCSnVLMHhPVWpQUU5ra3RuS2pyMy00dU0yR1p1VzA1QkZORk1xSlVKdExTdEtnZUE1a0ZFbDlQWDFvbld0bDJrU3ZkX29hMDJjZzdCNFZyeWZuOXk5eGZLdi04dEFMV04zOVFkNXI0VVRWSTBnZlVFUE52Yw?oc=5",
-      "date": "2026-05-13",
-      "source": "Antena 3",
-      "desc": "Enfrentamiento entre Herrera y Rábago por la gestión del hantavirus: \"Vivimos en un tercer mundo\"&nbsp;&nbsp;Antena 3"
     }
   ],
   "countries": [
