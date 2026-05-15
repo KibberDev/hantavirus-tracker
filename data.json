@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-05-15 18:55 UTC"
+    "updated": "2026-05-15 20:18 UTC"
   },
   "current": {
     "cases": 12,
@@ -1079,6 +1079,13 @@
   ],
   "news": [
     {
+      "title": "Hantavirus countdown: U.S. cruise passengers settle in for 42 days of waiting",
+      "url": "https://www.npr.org/2026/05/15/nx-s1-5819872/hantavirus-quarantine",
+      "date": "2026-05-15",
+      "source": "NPR Topics: Health",
+      "desc": "The hantavirus outbreak on a cruise ship has potentially exposed passengers to a deadly disease. Most returning Americans are now housed in Nebraska. Some may be cleared to quarantine at home."
+    },
+    {
       "title": "Un hombre rompe la cuarentena por hantavirus y es sorprendido en un bar de Italia tras viajar en el avión con - Antena 3",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWmxMd3JwSElxTDJycDZQanNwMmFVMHN5V2xjY25adTFvNXhqWlhwYTFxdXY2aUlXeWMwMkY2OHhMeFdQZTBWVGNzaVlRVkdBd0xwVGpsVW5rWWZqbnZlYUNuR0ZJYzgxTjVnQ1lTNE1DdFM1WnU5eWZOQVJQLVFmT0N6Q3dOQnhzX2plRDJFVUdJVXM1RWxDbDhLYXM1TnBtckYxbWNwVVF1YkVVV251QzRoc2VQSXlVVFlIXzRpRERxUkh1V01QUW9ldTlmYko2Y1ZnUWI1Ykd6UUQ0Uml0LXRZeDYzSlVvdlHSAeoBQVVfeXFMTmQyV1VHd2dPcFJZNmliZm9NV0JhUmVTUVl1Q0dmWWVTcVZPNmkyaW1hQXBTUFlYaXhUZ3NOTkg5VktEckVXX1YxUlh5ckdZUmVRYnVNeHM4MEVhX1lDZGhMa2VQcWl6S2NqS0llQ1FYUHNjZXJDU0hTNjVyMlVwTUh1bHAzbFdCZl9ud255NkZhYTlLOUdOQjdJeFl6TnpBZ0hrMXREcU14Qm5XRWk0Z0swQnppNm81YWlUMHpRazdhZlZWNDZ1QmtZaWl1OHUwVW9rdjBXTkszSVB0R080aGtfY0RTa3BHZEZR?oc=5",
       "date": "2026-05-15",
@@ -1170,39 +1177,32 @@
       "desc": "Del hantavirus al norovirus, diferentes brotes en el mismo escenario: \"Los cruceros son entornos de convivencia estrecha\"&nbsp;&nbsp;20Minutos"
     },
     {
-      "title": "Sanidad confirma que el español positivo en hantavirus está \"casi asintomático\": \"La evolución es buena\" - RTVE.es",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ3FfcWY1Y0dvM3ZjS0FsT2xIdUdwSkU0VkdaUEkzOGstWTVob1FhOXg5UnhCT3R5NG5EenpGZVRnTXh1WVB1QnhiMzNQMEhveEtONE9WbUhCenRHWlNabi1FTmlXc21NN1dId0FHWmJZSk9HV2EydjhaWGZSUzNUalZDYklCdGZMNTkxRWVHU2FRSnhyNmVJaWVqMDI1NlRDSUg1cUZCUTM2eEJRZkdxdVc1UjVadGtxRHJ1UllnZll4V1h4bHk1SkNFc9IBywFBVV95cUxQeHlrelJ3eWtESDB1bWtIcEtkazJNcWY3dDZ4MHhWMlFLOXl5bVJQV2JIQzRIVDYzaTdQbEQ4aWdVbDgtbUk1ZzJZa2gyNElCY1FuZ1Z4UFpIbGF5ajFiQ0theU53RXpiSC1pSXVaajBPUHdGcnhtY0NKbUozYjBiaXlYTVBWSHU0MDFzZGJCd0wtallkYXp2azVHUkJxTFAzTTRrNDlqWUJCQ1AwMkVXNHF3dWc0YjlubUV4aHNIbnQ5N3dMNlZwOGVyVQ?oc=5",
+      "title": "El Ministerio de Sanidad plantea la cuarentena domiciliaria para la mujer ingresada por posible hantavirus en Alicante - Diario Córdoba",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNcVFuS1FjTGg3T09KTGhtLVR0bEtad2t4TWNhVEZrRFFfVHNZX2lmLW9PZUlvZkJPYnRMMHR5NjJMZGZJdmo0cjlzWHhJM3A5YjRFNHBVUjdRUzlJRHBja3VVMmRvbmgtMm1KelZrUVZOY185Sk9XNDRRZ0I0MlRpQmFOZzEzZ3FFNWJrWHVLSW1XWVd4NnR1YnFvTWNJVGdkRnk3Q3FmalIwb2xjYnlpYUZlNjZINThTZjc5d2g1eHdIb0hUZnlkcmdoRnF0dTNHRzA3Sy1yUkoybDhGaFkxM0RCUUdjNDdsVmRFT1d5NGJoUnk3Z1BvWGNZVV9reGpGM01FQlRmONIBjAJBVV95cUxPbXJvb1B5bktrbFRocU5YOXp0bUpGQkVqSlFTNWVJS0pyVGZxWVRPSHJ5UTdVcnhFNTF6WENZMWdhX2lHbEI0X2RySXVQNmY1XzJZRXVOVzVXNXdyeUFpVi1nVmQtR2wtOVBvdTcyY2g1UzB3Sm5lNXVGNFJsSUhKRktNdmZxYWtzajY5UjZucGRQel92SkpJNXpiYUhLWFd4U0Q2RDdFa3lRbjd0akkySnBVMTUxRnF3RnhaOUZMNE5DNUk0ZGpuYm8za3h2V3ExaXN2R2laNl9JYmo5MTBXUnNpbVQ3LUEtaFhwRVlYMTRWb3c5RGRDbkgyOTZWaHRTbmJuNGt2Q3k5SDE2?oc=5",
       "date": "2026-05-15",
       "source": "Google News ES",
-      "desc": "Sanidad confirma que el español positivo en hantavirus está \"casi asintomático\": \"La evolución es buena\"&nbsp;&nbsp;RTVE.es"
+      "desc": "El Ministerio de Sanidad plantea la cuarentena domiciliaria para la mujer ingresada por posible hantavirus en Alicante&nbsp;&nbsp;Diario Córdoba"
     },
     {
-      "title": "Sanidad asegura que el paciente ingresado en el Gómez Ulla por hantavirus está \"casi asintomático\" - El Periódico",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORy1OSWdnVWZuTDQ1QVhRVWwxTWpaT01aVzNfa1A4TEdhVS1WcTlweUN1TVFLUVJOM1N2NXhaNW8xbkJCM1YzN1hxUlpkM0V6UmNuZXRyU2dpT3JDWGVUbUhHWGVieGVvMjAwdV9iSVo5SzRzcDlxNUhqaS1YbVFobGszRlBEeno3SGhOT1VBWTMxbVB5bjg3akY5Yk9SQUkxM3IzTVVUSFF5NW9rSUHSAa4BQVVfeXFMT0ExTzVKOFpMRnhTOGpuVkp2MjFMSjRPLU96X2VwZnIycWpHQjNnLURCY19IUlNnRGkzME5FMmNucDJHd21yUFpPN2MzYTAwZjVCQlNPTVdYN1hoS3FIYTVTOVhQSVV1Z1lnVXk5SzV2Q184bllhVjVmWDdOUlk4aENwWFJtVVZWenpOSVNOc2lzamZkQ0N2R0Rfb1dVVkkxRHFrWTQwOFd2UkNIM1FR?oc=5",
+      "title": "Hantavirus: Sanidad remite la cuarta muestra para la PCR de la paciente de Alicante - La Razón",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMXJ5bnJWZEN1ZUcybzROZk43bWh2LUNGWEZyb2kyUjJOeVpZUEFDeTl1VkJzbUZQSmxjWXlwRHNBWmdheWJVa3FCdHRDQjhqemR6UDNBblN2Y3RSVThOUDR2Yi12dlBZMkJKVVRCSHVQZVJGYVRKazVJMV9xNFptaWZtdGdpdWFyQm5KclRPT1VDb19HWHlTWlVBbmFSRDZ5OHJNcm9uNmlQc2JwSGVPUF9jbUtNcUFuN1BUVF96X1IzTVl5M0pDcG01aXLSAeABQVVfeXFMUG12MXJvUVpTSDFXMFVRTnV6QmRRNlVMa1BLWjhNLWQ0a0QzQ004M2JwUzg0c3JqX1UzNUVEZkMwSXBfVWk0NFNtMkY4b3VkOTRhVVlwbWJuQldtWHBKbUdWQ0xoMU5KMmtpQTg3ekNDNU9kbUZXRF9PTEo4RUNEVjRSN1JsbWV0UzBkQXhPTllESFhyenF2eHNicy1iODhFV2FMV19tM25iLWQzdVlHZzV2YTVsdDlaUUpMZ2dvY3EwR3lTZVI4bVh5bGtueHFIeXV5dGx2U1RiLVZsRVNTWFk?oc=5",
       "date": "2026-05-15",
       "source": "Google News ES",
-      "desc": "Sanidad asegura que el paciente ingresado en el Gómez Ulla por hantavirus está \"casi asintomático\"&nbsp;&nbsp;El Periódico"
+      "desc": "Hantavirus: Sanidad remite la cuarta muestra para la PCR de la paciente de Alicante&nbsp;&nbsp;La Razón"
     },
     {
-      "title": "La mención de Letizia sobre el hantavirus que bien en el PP podrían grabarse a fuego - El HuffPost",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZVB3NFhIQzdHWmlTdmpyWWtRZk5LLWk3LXlVOUZ1Sm8xb0tlVmRIN3JLXzZOVWxqcUdGNE5uS1pabXRITGNZOGJnNFRLbVhHZUU1YTg1bXBEMW1JV0FtWU5NMWxIa3V3MFlyaG9GdjA4djBQNFM2eTlpeWd1cXdienhIZzU4NmJRZTBUX3NJRUVud1RDOE1ieGxONjBtNXBBd2pfMm84MNIBuwFBVV95cUxOcFgxakFzNDFkUVlQSFhGRGQ1Uy1GVU54eEU1ZW9RSWtjaVY0aFM2M2hHZ3J1dWowaTBCbTY5SVFNSmc4ZzJMUnVnUDlZbUNQVkU2SVhUWEU3bXhMcGtzNGxGOEVUZWU3QkNiUXBMYU1OQ0RUN19WWk1CakR3NnJnZ0d1U1ZFeE4wTWVtOXc5a2JVdUZTOFNicVExUjB2YkdJQ3lBOHp4ZDdhakthQl95cEdaYlBSNno3ZUNZ?oc=5",
+      "title": "La mujer ingresada en Alicante con sospechas de hantavirus vuelve a dar negativo en la PCR - El Confidencial",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLWJZbGdfSlBBcVV6cDlBV2VDYTVHeTVsUTZvaXZBaWhlNG5STXVIRjZTSkRhTFVOQkZac3RzMk1lQW9EbFhDMmo1eXlaWGpET01nakx4X29RUHlYVEw3T2w4NHhLbkIyS0UxUjg0cWFrcU1fWW94RWFJekJRUThVdmt6c1ZvdHFaMl9hSGhQRmNCV1VyaWtEaTl6czdHazBJUXNyQkRXRjY?oc=5",
       "date": "2026-05-15",
       "source": "Google News ES",
-      "desc": "La mención de Letizia sobre el hantavirus que bien en el PP podrían grabarse a fuego&nbsp;&nbsp;El HuffPost"
+      "desc": "La mujer ingresada en Alicante con sospechas de hantavirus vuelve a dar negativo en la PCR&nbsp;&nbsp;El Confidencial"
     },
     {
-      "title": "Brecha en el protocolo frente al hantavirus: un británico rompe la cuarentena y es detenido en un bar de Milán - Telecinco",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaEhEMUVURVRPMHVpSXg4QlJHNjdpSHJxcWZnc1NoWENzWDROY3gxS1hpeUExWGctOW9oVTRVc2xrQV9tV0g4QnM5T01IRlJJaE1JdnhzRTRGOTJUNkhqOGtXVTY3Q1I2RTh3V0ltVlVkcUxHbVg5U05QbnRIeEU2TGR5d0JsU2VNRXpOanU1dGh4V1VJWFhsbTRDVEd0Ykp3UmZCbjJ0c1BEZ1pQVGpKbW9IOVhQOUtXZ2M3Tl81dnNZVEJQUGZHbXlB?oc=5",
+      "title": "Hantavirus, última hora del español infectado, en directo: contagios, muertos y cuarentena de los pasajeros del MV Hondius - La Razón",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPbWEzeGNIRFJzY0Rja0ZRaGxic3J4d2ducjhYQk5DRkF3aDFXVEJnSksxc3ItN3V0anpyLXZWbk90bnFsYmU4VkUwM3VadHlSSlNnUlotY1I3QVRtUFp0bWpjd0pFX0VhWGJSRjFBUFNtREU1R1ktOENVcEZ4MFhuOHRFc2dkcUd3cElCanZkVmtqcVB3ZmN4cGhua0dIeS1CcGkyRm1Nc2lkRU5lQXlvRDROZmRzR3pjLXk5QkdpdUdWd3FxVDJzbTdMNjZjX1JoTkpJSXNKSWpNREhLSzV1Z29iTzhBelFIcm1CVDluMnVOcURjeFlCbU5yY05XbElJT3BsNEpQSHNCSDkza0VqZy0xQlI3aWM?oc=5",
       "date": "2026-05-15",
       "source": "Google News ES",
-      "desc": "Brecha en el protocolo frente al hantavirus: un británico rompe la cuarentena y es detenido en un bar de Milán&nbsp;&nbsp;Telecinco"
-    },
-    {
-      "title": "Pillan rompiendo la cuarentena por hantavirus a un ciudadano británico que viajó en el avión de una de las fallecidas: estaba en la terraza de un bar - MARCA",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUUdDQnBPZEFsU0VGWThpNEs5NmxWQ2tDUTRRMFB5U2lFRDFWX1N4bWU5eEUyaTdzS0Y0NmlVS1BMU1Z5bV8wTkJ5OC1UMTRKeERfMWdIOGxPVXAxT0VnM2o5c0VOd2gxU2R6T08yU2dkbUVKWnZmRmxqUzVBc0NvQnJCd1VmZWtUN1dwcHEzRVI5MDJlT2E1Q3VPakx4SWZwMkhtakF3OXBuOTYzVHEycjRLNFFsVC1oV2lhWGg5aldIVXQ4TlpuamxNc2hXaFJkSXE1S3FEdFE3MlRrOUhrUEktcEtCd9IB5gFBVV95cUxOT0UyZldlNURYQnBpUnc4Q3U0QWdLaDJpb3dKcUc3TzBaSlNRT2RlV1lyMG5kU19PV1JsRWJPcnFlTTIta19ZQWxQSHQxSTZDREtUX1ZmaERWdmNJSm1tUDB4ZDFQZWMtOXJKdzE2RWhMZW16cnVVTmZLS2gxUTRsRTZFenlDU05iSmhBNS10OUIyYnQzOWtPbVNHdUVHWW1lSU13VUxENjJQdXVraFY1cGhJLXM4X2RSZ3k2N1BlTW5LeFgwRGpmMWVKMHd2amdxbUtUOUVrTnhWWmxreHp5cmJzREh3UQ?oc=5",
-      "date": "2026-05-15",
-      "source": "Google News ES",
-      "desc": "Pillan rompiendo la cuarentena por hantavirus a un ciudadano británico que viajó en el avión de una de las fallecidas: estaba en la terraza de un bar&nbsp;&nbsp;MARCA"
+      "desc": "Hantavirus, última hora del español infectado, en directo: contagios, muertos y cuarentena de los pasajeros del MV Hondius&nbsp;&nbsp;La Razón"
     }
   ],
   "countries": [
