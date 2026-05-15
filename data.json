@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-05-15 04:31 UTC"
+    "updated": "2026-05-15 07:45 UTC"
   },
   "current": {
     "cases": 12,
@@ -1079,11 +1079,32 @@
   ],
   "news": [
     {
+      "title": "¿Cómo opera el miedo social ante el hantavirus? La huella emocional y traumática que nos dejó el covid - RTVE.es",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOHhPb3NKa01fc3NBb3dvVjQycTN0WnBMNi1FcHl0NWhPaEo5RFBXYVpJV3FKd2xLV195T0lWbEhSc3lRRVJDZ01NbGxmbWViZFREMFVReXNoV2NtOF9fUzlsa0xwNEVrbWJ5MkU3RUVZYUNXbTZXYWxLNEJaR0lubFdpSEIwWFdLdHhvMEpuNUZ5aV9IN1NkejJXZWhWc0hUWjg4VHFPS3cyelh4V0x30gGvAUFVX3lxTE44eE9vc0prTV9zc0Fvd29WNDJxM3RacEw2LUVweXQ1aE9oSjlEUFdhWklXcUp3bEtXX3lPSVZsSFJzeVFFUkNnTU1sbGZtZWJkVEQwVVF5c2hXY204X19TOWxrTHA0RWttYnkyRTdFRVlhQ1dtNldhbEs0QlpHSW5sV2lIQjBYV0t0eG8wSm41RnlpX0g3U2R6MldlaFZzSFRaODhUcU9LdzJ6WHhXTHc?oc=5",
+      "date": "2026-05-15",
+      "source": "RTVE",
+      "desc": "¿Cómo opera el miedo social ante el hantavirus? La huella emocional y traumática que nos dejó el covid&nbsp;&nbsp;RTVE.es"
+    },
+    {
       "title": "Miedo a viajar, culpa o insomnio: las secuelas en la salud mental tras la cuarentena por hantavirus - ABC",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcWh2OF9YdG51ay1oOHA4aVNBaDVFc0pJTS1WZG1aU3pjRUp4bG9aa1RZaTNReHFVcXpOSnJLaDJURUg5d3dULWR4QTlCaGoxMWlVWDRzQjVMRDNiekFlRE9mSHBoVkdEWHZ0WHM5cUJCUmtseC14THR6dEk1SVJycEJuTUtQOGxxU0FPdTMwbXo5SWdPZnkzZ3l0MldCeGctbTZfczQ3bGdoWnVoYzJDckxfMHXSAboBQVVfeXFMTzlGYUNHa1A1R3V6NlFkM1Zrd0pRNTlYQVpRYV8wa09adjFvQlhmZW5VNndzMm0xTGYzb1lfRGtPOUkzOVFHRzZRQ3l5QkIxTzFxdV85TTFhaE13WVV2MS1pSldraHRGT3hxak5kLXc3SnJpRXBvV3JmSFF4VHBFSzVlSkVMNGo4eDJKV0VuQ2VpLWFWS18xZlpQRHJjeEdEQlNQVTUwOHRQaUlWOGdfSFJETVcya2dVOXJ3?oc=5",
       "date": "2026-05-15",
       "source": "ABC",
       "desc": "Miedo a viajar, culpa o insomnio: las secuelas en la salud mental tras la cuarentena por hantavirus&nbsp;&nbsp;ABC"
+    },
+    {
+      "title": "Del hantavirus al norovirus, diferentes brotes en el mismo escenario: \"Los cruceros son entornos de convivencia estrecha\" - 20Minutos",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUkh4Wm9PODRwaTJKdXhsRm43V2JnaEc0WE0yeU11RFpId0lOTWpseU9SWTVuX2thdGVfaE53VzBRTkEzRzM5cTRjZUdZNGs3a0FfWDVzbzIzYzhpRHQ2QWRMaGpON042WU40VDJfb3c0NXg0Mm83MC05NGZrY0xVOVNjbnQxVTNXVldLamRxdF9zRk5YWHp6aU1qQ05hNEhnWXJYTlBsVHppTjdEMVdvbXZ6YzlDMkpTTWNENy1NODItZ3pLMHh1eFVIRjBFOTRPdjY4VGdwelB6MUtoQnN4X3RoWQ?oc=5",
+      "date": "2026-05-15",
+      "source": "20 Minutos",
+      "desc": "Del hantavirus al norovirus, diferentes brotes en el mismo escenario: \"Los cruceros son entornos de convivencia estrecha\"&nbsp;&nbsp;20Minutos"
+    },
+    {
+      "title": "Última hora del brote de hantavirus, en directo | El paciente español que dio positivo se mantiene estable con - LaSexta",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcVRnUnJNZjFBdFAwa19NRV9IaVVfVkQ5eU5hbEV2Yy1oMXRjaDhFWHhDVVZJdXY4STdhWTVFbWFTWDJqY2c4RU1SVDRPcFF0WmtRaVJKTVZvdEhIWEFSd3V6azhrenN5WEhHb0UxUF8tT2stY1R0M0tlY2tZRzBna1hGVHlyRHRsR2hBSVc4Slh1WnZHWk9uRkszTHRUWVo5eF9yZmRFd9IBpwFBVV95cUxOWGdUU0pYdGE5Q0FlNWN3S0stYWx4MFc0ZTZpWjhSWWNabmZsV0hKSk9TNzd2V183RXJfbkdvajNxOUdVb0IwMG1CMmJWVHgwNmFvQk51eW5CLTRCaVRnNGUtbUdjN3JyOFhpOENsN2pWX2RmNVVyNGgyVTJiczdnUVpHUmZwTVRwWm9qbktlS2J0aHgxbE5jMkFYQU5veHc3czFXUzdUdw?oc=5",
+      "date": "2026-05-15",
+      "source": "Google News ES",
+      "desc": "Última hora del brote de hantavirus, en directo | El paciente español que dio positivo se mantiene estable con&nbsp;&nbsp;LaSexta"
     },
     {
       "title": "Las dos semanas de alarma por el hantavirus: los expertos diferencian qué fue exageración, debate o bulo - El Confidencial",
@@ -1093,18 +1114,11 @@
       "desc": "Las dos semanas de alarma por el hantavirus: los expertos diferencian qué fue exageración, debate o bulo&nbsp;&nbsp;El Confidencial"
     },
     {
-      "title": "EEUU mantiene bajo vigilancia a más de 40 posibles casos de hantavirus - Demócrata",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS3M3emxyNTFaUTIwWncwdDhUeHlXXzBjOXV5N0xiV3FxNGpGSjRqNjZ0V2Z1Sm9GUVdiaExUWEFuZi1zWFo0NjNTbzJqTS1HWFlTRkFGMzFsdTFlY1J6ZjhvWDBJTHpXLVh4MGlyQVU4R3d6UTJMbnBaVnJwRXpoRmNzLW41Njl5X1BQdUQ1WUwtdi1FZzV4TFJ6YzBqZVpQYi0wZVR0d3A2MER4M2VB0gG0AUFVX3lxTE9Ua3lxV2E0MGJkaFFIR3dMb25lbEp2TjRHVWFKeVRxTlpFeHphY2JZNWs0U0MydkNTVjYzQnJjMzFPd3k2d0d5ZnRsV1JrSkJjT1Q1S3c3V0hZVU5PQXlHaUNaUV9OM0Zhb2VmVGlWMXkweXNleW1QcHRQY1lQNjZNcjE4SE00SVZ1anZhaHFTZGM4OW5zdVZycW1IbDM3RVZZcUV3cEFLSzJtb0kzc0F1UTZiUA?oc=5",
+      "title": "El hantavirus y el brote de gastroenteritis no frenan la demanda de cruceros: \"Hay cierto parón por el conflicto\" - heraldo.es",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVUFMekNSUFg1c09DZEhBN0FBbXlFR2w1bkNBUVFhb1ZxS2prdGh2VUxqbGtldUY5N2VhU3h4Sk9mYU53ZzNndDRIMkR4RV93aHFsWmRDOXpoQ2lPeUpxVmJnMkJodjVQUnZ4SktXdVhISmpNZ3RGWExweFJBN3g5aTdOTUJkQ1ZzcXVCU09NSEg3WmNnbUhaaU83Znd0bmVJUi1aSmZ5S0lFREZFS1BZam9UN0x0UW80aEo5VEgweG1DaDBlUDFB?oc=5",
       "date": "2026-05-15",
       "source": "Google News ES",
-      "desc": "EEUU mantiene bajo vigilancia a más de 40 posibles casos de hantavirus&nbsp;&nbsp;Demócrata"
-    },
-    {
-      "title": "El hantavirus y los viejos recuerdos - La Opinión de Murcia",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeHhYSloyVzk4Wkd1MTFoaG9Jb1RncnJOdWFFVW5TdFVjWHN3NkdmQUZLWV9YeUZkY2dhV3lxcnhrcmZUaFJFX3Z4UWRfeWpSN3IyVDdnTVZuRDNmTnlWeHpqTmlTSWlibUhRQXFTQTVlVlJnb1B3V0hVVEVtc280VDZPTHV3U0ZpTzdONG5vTHdYV1NTRFViYXJn0gGfAUFVX3lxTE1NOUVRcEFLTko1M2kxR2FPQVJQakFCelgxVDZQOTZYYlBRTEZPT2k5eTMyZWZrVE0wMXB1Y1Y1LVEtbGNpMXJ5QUh4cmpFVlFhTWJlLWtPTVlPNnFVbkRWYVFYNVJFSGc0X0t4THY4QjJkcElHcWRQam1lbkVFMHpmb1FIRjRTTE5XR0xRTC12ZFZ1cTEtbDgza3lCbi04cw?oc=5",
-      "date": "2026-05-15",
-      "source": "Google News ES",
-      "desc": "El hantavirus y los viejos recuerdos&nbsp;&nbsp;La Opinión de Murcia"
+      "desc": "El hantavirus y el brote de gastroenteritis no frenan la demanda de cruceros: \"Hay cierto parón por el conflicto\"&nbsp;&nbsp;heraldo.es"
     },
     {
       "title": "Un catedrático en Microbiología de la UAH desmonta los grandes miedos sobre el hantavirus: \"El riesgo de pandemia es muy bajo\" - El Periódico de España",
@@ -1114,32 +1128,53 @@
       "desc": "Un catedrático en Microbiología de la UAH desmonta los grandes miedos sobre el hantavirus: \"El riesgo de pandemia es muy bajo\"&nbsp;&nbsp;El Periódico de España"
     },
     {
-      "title": "El español con hantavirus aislado, de 70 años, sigue estable - Segre.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONmJCV1prNXE0aEg5UzdvTEo5VnI1ZVJ1OG9VbjU3TFE3akx4WER5YzlqdmZ6aV9YbkRfZGpOdkJLeGRCZWFqVkFEWXl2T1YzUDdRSVpYYjZTVUtxZ0d2WTI0UEZqTjYtY01YVjJZbWw3UUI5X3hJWGpsVnNUTy04MVZEVzlmdkNPQTEydWtBNkplTzIya21pVDg5N0hvLWtSeFgtM3ZfWV9aSkZRM015UnVn?oc=5",
+      "title": "Hantavirus: nuevos retos para viejos conocidos - El Diario Vasco",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWmV0UHdjZTFpN3JjSUNwYlJIVkd2MkxoM1ZxYzF5ZF9iUkwyS2R0Y3YtSEZKSk1GalFTTWJXZzc1LWtKMlVOLTZYbEQ1Z1RkUjdXQlpEWHZFWUJMOGZPSHNGdmpST2toRmUyRWRyMC1SU215ekd4c1BCM2M3eHhpcjFlX2Rhc00xQS0yMXFRRmxwSTBOcjhSeW1UUlZ0dFNOQXJBY2dMTDBRa1dSV1VrY2RkTF9NVHczY042dXZFQkvSAcYBQVVfeXFMTmU0d0Y1UEdVb1M1Z285MlcySHk0SUp6dzVQdEtIanF2clpjUXoyWkR4V0JtM2xjU1JJbVBHZEtOQ245RmlycmhGTi02MTdqVHlWdDJQMVVmc1ZTLXZuY3ZSY1VoLTRiMUE3c1BYUDZNVDN1aXpndTF6RGhYVkIyM3U4ajFKNmdDWlYyRDBYT2pZZ2xVSmc5clZUcTBHMW1sSlhhS2dZYUlqMW1mNmFEYmR3Qk9wZGtIeTFxU21ScHpGV1BaZXBR?oc=5",
       "date": "2026-05-15",
       "source": "Google News ES",
-      "desc": "El español con hantavirus aislado, de 70 años, sigue estable&nbsp;&nbsp;Segre.com"
+      "desc": "Hantavirus: nuevos retos para viejos conocidos&nbsp;&nbsp;El Diario Vasco"
     },
     {
-      "title": "WHO Director-General Holds News Conference on Hantavirus Outbreak - C-SPAN",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONlV0ZjlhcXVQTDhNY3FpMzZJTGRmcjlPX2kzZTZ2akZtU19WSHg1VDNqRkk5WXU0SDY2Nm1FdWdMX1J1dklDWWZ1TS01dkhlVUZ5d0xNYlFqZ1g3LVZhbVAxNFBQZ2c1eGNwU01sVWlVUmVCekYtV1dNQlRmXzVjQ29yMzhZLXZVeTBLSmY2LWpsUnY3aHhzN2p1dVFvLUdKYWxNdW9zWkhzS2MxQUJMQWtXN3NzTFla?oc=5",
+      "title": "La paciente francesa contagiada de hantavirus continúa en estado crítico y está recibiendo cuidados paliativos - telecinco.es",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcmpOOHNiWGxwX2M5akZCd2Q3LUhYQ2pFYWsxNWlwNUVvX1FLN0pKRjAxUVVacXprdzZweWU4ZV9jN0RwNDI0Mi1RMjhqeW9yV195X1hYWmdOTzlSbUZIbUtRZDFLeUZvZl9hLVBxb3F2UkRpd3RUM0pjcTdiUHJYQTFESDhYem9iU3FWSnY1dWdBck02bjNEWVZVekx3STZfcGd4WEZRNHE0WUZNcENrSWhGZ1J4VW5iWk5HN1J2TGozWlJvSzBfNjVZalBULXF5a1I0NGtkX01oaVlZb3Y4RS1pTElzUlRMYWFnWmxn?oc=5",
       "date": "2026-05-15",
-      "source": "Google News EN",
-      "desc": "WHO Director-General Holds News Conference on Hantavirus Outbreak&nbsp;&nbsp;C-SPAN"
+      "source": "Google News ES",
+      "desc": "La paciente francesa contagiada de hantavirus continúa en estado crítico y está recibiendo cuidados paliativos&nbsp;&nbsp;telecinco.es"
     },
     {
-      "title": "Hawaii doctor: Hantavirus ‘is not the next pandemic’ - Hawaii News Now",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYllpSjlITld5VjRkSWNVVlY4UThacXZ2UUhfUXFQYldBMHVheDJQRGpuU3pFd2tQTXJGYkJpaXNERU1hNjRTbVduYllMVFl2QnY3M3BlSzh0TlZLYjEyTE5aMnJzZDAwd296NjE1b3JxeEc4VkNPZmwzT2hfRTI2RmctTEZ5QUJseDBiTFkzcFlzVWRONG1XcA?oc=5",
+      "title": "El hantavirus y los viejos recuerdos - La Opinión de Murcia",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeHhYSloyVzk4Wkd1MTFoaG9Jb1RncnJOdWFFVW5TdFVjWHN3NkdmQUZLWV9YeUZkY2dhV3lxcnhrcmZUaFJFX3Z4UWRfeWpSN3IyVDdnTVZuRDNmTnlWeHpqTmlTSWlibUhRQXFTQTVlVlJnb1B3V0hVVEVtc280VDZPTHV3U0ZpTzdONG5vTHdYV1NTRFViYXJn0gGfAUFVX3lxTE1NOUVRcEFLTko1M2kxR2FPQVJQakFCelgxVDZQOTZYYlBRTEZPT2k5eTMyZWZrVE0wMXB1Y1Y1LVEtbGNpMXJ5QUh4cmpFVlFhTWJlLWtPTVlPNnFVbkRWYVFYNVJFSGc0X0t4THY4QjJkcElHcWRQam1lbkVFMHpmb1FIRjRTTE5XR0xRTC12ZFZ1cTEtbDgza3lCbi04cw?oc=5",
       "date": "2026-05-15",
-      "source": "Google News EN",
-      "desc": "Hawaii doctor: Hantavirus ‘is not the next pandemic’&nbsp;&nbsp;Hawaii News Now"
+      "source": "Google News ES",
+      "desc": "El hantavirus y los viejos recuerdos&nbsp;&nbsp;La Opinión de Murcia"
     },
     {
-      "title": "41 Americans monitored for Hantavirus - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOEJ2dUE0TnBLalJaWFBQalhUamRldzBuSEp4NHVzVXU1XzN0cDAyLWhvNV8zQzFwaGFVYUhhT3RqUnlGMk96ZU9ZY1IyZW42SVVHOUJxaFJNZVdPcGxsNWRnckdUeGd1bWxQZkNEdGpuUkxwZ2NNRFRqb3U4cG1MLUxB?oc=5",
+      "title": "Una experta aclara las dudas sobre el hantavirus: 'El contagio de persona a persona es muy raro' - COPE",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQOEo2WjFrWjh1dFZWUW5hcG9RNmRObnFpbDRmeEpOYjBEcjRna1QtMU05b201OTAtdnpjb3ROMlBVOUo4VTVlZmZ6N1VvM0RWYWpTbUpTblZzVTJHTzhyekhGWXJVVDZ5aE0yR0p1UTY3cElOZ29KWmVRQUhjSTZidDFmMEI1dHVjZ1ZiRktWYkhobXNzU1JLcHdobTBVaWM2aFl2S1p4WGJ2NnVPRGFobWQ3UHFMdm4wMWg5X1pkcjRtUGZlYl9JTUtueTBlYjVqWHBjOTZzcVBNbFZMQUlVWTVrRWFxNUdZS1BiWlVkVEU5anFNVXVQX3NIa0oxeVZ1QUZV0gGIAkFVX3lxTE9pWW84dGZaU3lMSFRCOXVySTdrNm9NSlVJTDJ1UU5NNHMyYUoydWFyM3A4VGg5Y2ZTcGhjQkFDaklNaFFCYjhTMFlNWUo0VjV5VEhsUGZxczVPeDlZYmxScERHdjdobWxqejNVRzI2ODQ3RWJ2YVZFRVEtWmhTYVNMbVlLSjdlUHBSY0N2ZUhKT2tpMGt4TkJTVjdiWlE4M2NnTENhejk2c2N0MEZ1NG5IaGsxdEMxTlpmNURtZmZpTHJNbl9JMzE5X2s5MHBJcWZBLXREaHQxcjY5ZXBzNTlBcVlvTTVaU0hRWlpQVEdJaE1FOVZ5V0hUSmk5cFFBQXFaaFBmaFJDWQ?oc=5",
       "date": "2026-05-15",
-      "source": "Google News EN",
-      "desc": "41 Americans monitored for Hantavirus&nbsp;&nbsp;CBS News"
+      "source": "Google News ES",
+      "desc": "Una experta aclara las dudas sobre el hantavirus: 'El contagio de persona a persona es muy raro'&nbsp;&nbsp;COPE"
+    },
+    {
+      "title": "El 'sorteo genético': ¿por qué el hantavirus es más letal para algunas personas que para otras? - Diario de Navarra",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON3J6VUNXeHFsaFNlS01JVk5Hc2FUNGRWakxrT3pURXkzZl9EbGdvQ2ozY1N5V053Q0FabUg3QWQ2QjZTenBKUkgwazZWbWowRm51X3h1cG1rWlZkZmpNRkowMGg0Zi15bG1aNmhFN0tpcXVnbmNpcnlYM2t5M0tMc1J2R19vbkt1cm1qZGx3RmlXWDMxRG45M212dC0yTGZhNGtZYnVOX0t1NjBNc24tQ0hqb1I?oc=5",
+      "date": "2026-05-15",
+      "source": "Google News ES",
+      "desc": "El 'sorteo genético': ¿por qué el hantavirus es más letal para algunas personas que para otras?&nbsp;&nbsp;Diario de Navarra"
+    },
+    {
+      "title": "La mención de Letizia sobre el hantavirus que bien en el PP podrían grabarse a fuego - El HuffPost",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZVB3NFhIQzdHWmlTdmpyWWtRZk5LLWk3LXlVOUZ1Sm8xb0tlVmRIN3JLXzZOVWxqcUdGNE5uS1pabXRITGNZOGJnNFRLbVhHZUU1YTg1bXBEMW1JV0FtWU5NMWxIa3V3MFlyaG9GdjA4djBQNFM2eTlpeWd1cXdienhIZzU4NmJRZTBUX3NJRUVud1RDOE1ieGxONjBtNXBBd2pfMm84MNIBuwFBVV95cUxOcFgxakFzNDFkUVlQSFhGRGQ1Uy1GVU54eEU1ZW9RSWtjaVY0aFM2M2hHZ3J1dWowaTBCbTY5SVFNSmc4ZzJMUnVnUDlZbUNQVkU2SVhUWEU3bXhMcGtzNGxGOEVUZWU3QkNiUXBMYU1OQ0RUN19WWk1CakR3NnJnZ0d1U1ZFeE4wTWVtOXc5a2JVdUZTOFNicVExUjB2YkdJQ3lBOHp4ZDdhakthQl95cEdaYlBSNno3ZUNZ?oc=5",
+      "date": "2026-05-15",
+      "source": "Google News ES",
+      "desc": "La mención de Letizia sobre el hantavirus que bien en el PP podrían grabarse a fuego&nbsp;&nbsp;El HuffPost"
+    },
+    {
+      "title": "Seis pasajeros de un crucero afectado por hantavirus llegan a Australia para cuarentena de 3 semanas - Independent en Español",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcXhGcmkxYjlJci1fUm1qZkIwbGJ5RHkwNDNiOHlCVGR3enRRc2ZVSUlYOUZYOU1WaUxoMlMyRWNIZ2p0REcwenRMOEVGRTdaZ2xieU52ajRtbjNadGR3X3h0WEdYaFdNNng2T1EzZnhfU24tSXNsUmNobGxHNDAxM05TVk5tSGpZNURHamtKRVBnejFoT2VLRnZaNHA0NXNIYzBXTkhBLTE0MlRsR3NTeVAxeU5nSmNQZzBoalhua0t3dzAxcF9TZ1NmVFVXTndOUFZhMW9fZnFqNU5lTzAyZ0VuYTN4anppbUp2b1JxWldFaW1i?oc=5",
+      "date": "2026-05-15",
+      "source": "Google News ES",
+      "desc": "Seis pasajeros de un crucero afectado por hantavirus llegan a Australia para cuarentena de 3 semanas&nbsp;&nbsp;Independent en Español"
     },
     {
       "title": "CDC says 41 people across the U.S. are being monitored for hantavirus - The Washington Post",
@@ -1149,60 +1184,25 @@
       "desc": "CDC says 41 people across the U.S. are being monitored for hantavirus&nbsp;&nbsp;The Washington Post"
     },
     {
-      "title": "How Andes virus super-spreaders reveal the risk behind the MV Hondius hantavirus cluster - News-Medical",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQajZqWkdFa1RKT3hoY29hY3JqRk9BVzZJbWdjanlXSEU1cW44WEVjTFZjLTNraWQ2czhaSnJjNEFqVUlwX192MTdPdFlsZmtTYThoUW9CcGgxM3B5MExEbWxOaE5XX2tXNUh5TzFuSm5BYlZoVmxrOHFFc1JmdEZWNGs0OVVhd0xrbDQ5bGpRY0VyTE53MlV1QVZNR2YwTWhkVmM3b2ZxVEJheUFtNllxQkpCTnBPZTJHYk5Qbm5TNnR0SDJxLVRQRWRRZzlndnJ3aXc?oc=5",
+      "title": "Hantavirus outbreak tests post-COVID health communications playbook - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSk81N254S3VrSEdPbE5LaURkQnJnZXlIQVJDaDVtVV8zT0x1S251U2ZuTENMVTFCYURsekFFY3pxVzJ2RzdTclZLZVBwcDJnRldHVXVVR0cwalJaX2d5d3pXaGZlZDNpSDY1TDN5M2RxcVk0ejQ0dTc4YWlGSEJ0WnptalF0Yk00SkVKRC1LOE9pOTd3N1BkQ1d3cllLT2xCbGpoZVNlbVFZWWs1RkFscmxtMkdlcU5CTkt2OEY2cmFqeHkxMnFJU1c4RmNrREtqS3pvVUxB?oc=5",
       "date": "2026-05-15",
       "source": "Google News EN",
-      "desc": "How Andes virus super-spreaders reveal the risk behind the MV Hondius hantavirus cluster&nbsp;&nbsp;News-Medical"
+      "desc": "Hantavirus outbreak tests post-COVID health communications playbook&nbsp;&nbsp;Reuters"
     },
     {
-      "title": "El hallazgo que inquieta a los científicos del hantavirus: puede permanecer años en el semen - Antena 3",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaXZzUWR3YW5JcWZ5X3laazQ1b1k4bXE5TW5HQ184cEk4NkhXNEFNVGdOaVcwYm83T3VoUDJQbHNfcUJEQkh4eWxwR1BiclJnd2hWQ2xRMGJiYmhpY3ZBV19tRmxZSGc2Z1pLVnBxNk45cTJTVF9PUTNtdEEwRUJpalV0RHY5X3ctckJsTXVKYzQ3YTBteUJ5MVFSTmpXU0lNNEdXSTFvWEk2SU80Zy1SSGlvTVZIb25SRXJDcWY1WURPVzVnMTdaMnNOVkU3SUVrWXplTkhzOUNpclZDemJPaXFuWdIB4wFBVV95cUxPcUxRMFBTSTFvUURZUHEtOF9iQ3RSbUkwYjRUUkx6SFp0cjU1ZDNHUDlyX1N0RkhlQUd2N19Pd05GQzhZcW9UeVNyWFYzR0FpUmpuMWx5VlE0ZHM5blBYOXdJTndCTElmRGRUWmRkT3IycHlsNTRKenNVTEl3WmctMkpZSGlRSXdxRks3bnluRjlrX3ExcGE1djl2YTRsajlrdnV2MW81Qm5HbzVGaC00ZTVPTVlVeWk3RXY0MFRLdTNxTVQ5Nmw4YzRpd0d0b3JHeG1PaDFuN0tYUkdUMUU3dWFOUQ?oc=5",
-      "date": "2026-05-14",
-      "source": "Antena 3",
-      "desc": "El hallazgo que inquieta a los científicos del hantavirus: puede permanecer años en el semen&nbsp;&nbsp;Antena 3"
+      "title": "Australians from hantavirus-hit cruise ship arrive home to quarantine - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQWdqV3BkV3c3SkNjeTJoNlhNdElYTTM4ekJOdk56d1hMR2x1MDI4WHhOOXBLSDdmZDBvcjR6M055eGJEMDBSLWpCa3h6T2ZyM1N0dFgwdVZId29RTWRka0J1a2hDdHBuZzB6VHB0eVhmNUxRbTRodmktYno5TjBCRWlBN3F2SlRPTW9uUHo1M2hfLUpYN2RsZXhzV2IyWTNUUWhlZXZ1U19Bckk0WHJIek54MHhHWG1pRmt3QVREcXdDNm5MMEIzOGRscXRsZw?oc=5",
+      "date": "2026-05-15",
+      "source": "Google News EN",
+      "desc": "Australians from hantavirus-hit cruise ship arrive home to quarantine&nbsp;&nbsp;Reuters"
     },
     {
-      "title": "¿Y si los pacientes cero del hantavirus no se contagiaron en el vertedero de Ushuaia? Rastrean sus restos - Antena 3",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQSjFjekhaSFcyTXNoRU9fLU9tNm5zNUtINkdFR1h1a0JCWWpfbUd1M0J0ZFRUUnRGeTJKRUp2VVdiejhxcktaTlQxZUFPZGNKcUI0SkZ2MzdTSmZYMkdzTGxVUVdxSU9GWmFOS29ieThQZmYybkZqcGJqZWRLc2VuSWFnelFJd2d2MmxGa2xsNXJBSEVOd09jbm02WGRVUVVLUEhwekpHa3FFUUkyYkFDNU9yZV9SX2hpODRYRjlQQVljdmhuSjBnYlJjSElGaE1RbUJSYndWNEtnRHBidkhqVjdWMFVISHlBN01XNlBnb2d0d1lwTXNsbE5ac3czbWV1VFhfclBHS0ZDNWFkQUZ1TGtYVFROUEXSAZcCQVVfeXFMT0JLeS1samhPTEphcGRRRlZ0b2REd21tMVcyTzc3Z0pJeEV5d0phNWJ5aGw5cVpPNEtVYmJCUG00Z0VIVUszMk15MC14OXA0Rk9EZ0hIcG5rLUZFMWpzdlZRd0VsaUJLTGM4c3plMFRfb2twQjU0THdhbDNsMnoyNktGOGVpdDRCX0xOQXJoWEJQc1RZeWdQcHRoUkoybm03U05GREhqRDBQa0FQLXhjU2FrMzBvLU9tbDdWVEh3MUJKOE5Gck1SUzgzYmpJTVZGeHFtTGN1b0dVR3YtUThEMXVWM3NIT21VbWdNakVsOS1RRDl1Vm5adVJOUHVsLWEzTUk0MGFjQmJkRGVaYnJNaXFNalUxbXdJ?oc=5",
-      "date": "2026-05-14",
-      "source": "Antena 3",
-      "desc": "¿Y si los pacientes cero del hantavirus no se contagiaron en el vertedero de Ushuaia? Rastrean sus restos&nbsp;&nbsp;Antena 3"
-    },
-    {
-      "title": "El paciente español contagiado de hantavirus, un hombre de 70 años que \"evoluciona favorablemente\" - Antena 3",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVHJDN0t2cEJaenVGRzBUOWh6dXdmbkRPSlNFV3Y3bnZiVDJJUVpPTHZfZzNlMGkycm5fOGNGd29UYnRNTUZncHRTX2VoNE94OHRxWVRwbFEzR2lGVXp0RTZ2REFKa1o0c2J1S1p0YzJZb1JLcTZ5WHJyNVlESXNIeFhrRC1JTGMwM0dSVWhPZzRyZFB4bmp4TEc0ZHhSUVg2WXpHTDh5bUxpQzBCMkpCdlU3THM4QXpJRzVfVjhPZkVjVWhmdVR6WUlMdTVsdlR4UnczWmlTMFkta0xPQTdMWGVUdW1pZXZwNjlpS28xQUtCd9IB8gFBVV95cUxPUlIySGVqa3h3STE1TkZ6YUxLZ2RsZVpac1ZuZm1sMl9MQjNNSGhPVzRMaS1TSE5uRjVnLUpnbHBnQ1hLeE9ybWRnTHllVS1pVUMwWS1OcjdZQXBMYW9lRGpoY3hlUHh0WTZieENGblZBemRrTER5ME1udDgxcFc0dlUxQW5zYXJqTHBRclpCWUZDcjRHX3UzU3NYa3dfZG0xZzlaVGZ0RGM5a1piRGxRUUtHeF9zNERjRzI5cS1xWU11c213bnJLQTMzWGNlYWN1cGl4Um1uXzNIeW5rRENFcHNTOVFMTzJqU0gyMTktc1BJZw?oc=5",
-      "date": "2026-05-14",
-      "source": "Antena 3",
-      "desc": "El paciente español contagiado de hantavirus, un hombre de 70 años que \"evoluciona favorablemente\"&nbsp;&nbsp;Antena 3"
-    },
-    {
-      "title": "El epidemiólogo López Acuña advierte de los casos de hantavirus que pueden desarrollar \"consecuencias fatales\" - Antena 3",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNMkZVUGtuSTZxSzQ2Z2kyY0FrVXVoYXdyMmU5Q0FyX3dNWGw2VENPRFZibm1mU003aHptZUNKVFhCUEdXOUMyOGZKanpDd2NTV1V1UU5jQ1gtT3hMX2pRbXNBUi1qeTFWWDZYd01hbmc2M3pManh5UUFIOTNTM0VHVjFOb0F1TVRINmQzQ2FZNWZRSjJqc0lKeEZEaHMtbkI4N1VSTlhFOGpMaTZLcUc0a05RUTRYWm8wcDZEWEdwZnE2MmJxVXpTMmFkT2hPRThJQ3dOTzVrNzFtaWFyb25DQ3kxakoxTVVRZGduX2Vvd3daZmVveWR3S0tiaVlnMDR4U1HSAYICQVVfeXFMTXVwWTA5OVVheFVWYVdzWEdZSDJXNl9GTWh3SnpJVTdzZWtoSThCdURKUVFHNTJjaVllVXplNUt0dUZrWHNIa242OG8yeXY5a3lQS0pfcmtDRXVneFNDVC1nSk40WmNLRU0wczBZQXhGbUpNcFNMdnRZMEVUTEZtWS1zN0ttQ21JNm9EWUtTSDB0YUROdHdkS2NXdldkMHVRNEpwcFJqRElDdzRCdEFXYmZ1b1BOLVZ1NHlqUVE5Qk56ME9ja3o0aFZWMWoxZHpSM0xJb2ExRHdGMFJUdVhNVTZ2SjNFTFlmUE12VkR1bkRqdkRfZW54UDh3QzhfNUROdUt3?oc=5",
-      "date": "2026-05-14",
-      "source": "Antena 3",
-      "desc": "El epidemiólogo López Acuña advierte de los casos de hantavirus que pueden desarrollar \"consecuencias fatales\"&nbsp;&nbsp;Antena 3"
-    },
-    {
-      "title": "El hantavirus no comenzó en Ucrania hace 3 meses, es un bulo - RTVE.es",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeU9SRWJLV2tudjBwUlVOVE50T0NJVUhXODBCSHZFYlJSSlFWd3k0bUhrZThsNmJ2ZUFvanhaenNpbEdjQUdCeU1yXzNDazltb0FSQl9ka0N4bldRUXRib00wamtVbHdhd0h0TGZRUkN3MjZ6SVV3ZWd3dXhxdHpRMVJaajBpcmFSRkpwdzB5eHHSAZABQVVfeXFMT3lPUkViS1drbnYwcFJVTlROdE9DSVVIVzgwQkh2RWJSUkpRVnd5NG1Ia2U4bDZidmVBb2p4WnpzaWxHY0FHQnlNcl8zQ2s5bW9BUkJfZGtDeG5XUVF0Ym9NMGprVWx3YXdIdExmUVJDdzI2eklVd2Vnd3V4cXR6UTFSWmowaXJhUkZKcHcweXhx?oc=5",
-      "date": "2026-05-14",
-      "source": "RTVE",
-      "desc": "El hantavirus no comenzó en Ucrania hace 3 meses, es un bulo&nbsp;&nbsp;RTVE.es"
-    },
-    {
-      "title": "Esta foto no prueba que el hantavirus sea un engaño: es un simulacro en Almería en 2025 - RTVE.es",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbGE1SU4zb3RYVVRLd0c5ODZhUm56a3pWRTcyNWRRUVhJTllsbkJtbUU4WkNRT2tRWDlCa0l1bU9oSjhjemlpZzdRX21iNWZISjJpLWlpNkVvVklIcEMwYmtPQ2d6V09ZOG9jbmdndkM4aTdKQWpuWUp6MkdFSWZRWDZKTFo3UDZQbzBYdi1jc1VYSm9xLXh5enpjcjVwcEM3TkhZ0gGjAUFVX3lxTFBsYTVJTjNvdFhVVEt3Rzk4NmFSbnprelZFNzI1ZFFRWElOWWxuQm1tRThaQ1FPa1FYOUJrSXVtT2hKOGN6aWlnN1FfbWI1ZkhKMmktaWk2RW9WSUhwQzBia09DZ3pXT1k4b2NuZ2d2QzhpN0pBam5ZSnoyR0VJZlFYNkpMWjdQNlBvMFh2LWNzVVhKb3EteHl6emNyNXBwQzdOSFk?oc=5",
-      "date": "2026-05-14",
-      "source": "RTVE",
-      "desc": "Esta foto no prueba que el hantavirus sea un engaño: es un simulacro en Almería en 2025&nbsp;&nbsp;RTVE.es"
-    },
-    {
-      "title": "El español con hantavirus aislado en el Gómez Ulla, de 70 años, sigue con síntomas pero estable - RTVE.es",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORWp2bEpQSGVQRHlLZk9BN3ZtWURJeG4wYUp1RnRMVW5BME5zbXhsenl1S2RwcnZGOThnSDVYNV9GbmlhZzFmX2dqS1RmNmp5czBPMk5WTEZheDJpWTZydkxTaUFjNUxoQVBCMkgtYS1XS1RYZjRLVlE0Tk5pSlc5TmRTa0FfM1dMR3lHYVgwVEx4a1Z1MjI4eXdmRXdpUEdZUUVYX20yTTRYakHSAasBQVVfeXFMTkVqdmxKUEhlUER5S2ZPQTd2bVlESXhuMGFKdUZ0TFVuQTBOc214bHp5dUtkcHJ2Rjk4Z0g1WDVfRm5pYWcxZl9naktUZjZqeXMwTzJOVkxGYXgyaVk2cnZMU2lBYzVMaEFQQjJILWEtV0tUWGY0S1ZRNE5OaUpXOU5kU2tBXzNXTEd5R2FYMFRMeGtWdTIyOHl3ZkV3aVBHWVFFWF9tMk00WGpB?oc=5",
-      "date": "2026-05-14",
-      "source": "RTVE",
-      "desc": "El español con hantavirus aislado en el Gómez Ulla, de 70 años, sigue con síntomas pero estable&nbsp;&nbsp;RTVE.es"
+      "title": "6 passengers from hantavirus-hit ship arrive in Australia for 3-week quarantine - AP News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX3R4Mk5LTXUyOXUtTzMzaGM0dHV1OHVJNFh0RTVKeW15QmpFd1BtYVhJVDQzRGJvaWQ0d0JlbGZTdWFNQmxZaENrRVlfNW56LWttSWhXLTdhQm91T2NhNkpSXzRLOGM1aFVpM1VOQkVyNkJrR2dWQmo3ODYtem1sbk83ZVhWbTE0cmgySjkyaFZjZC0xRm9HWG84bTJmd0syTmZDb0RwZFpHUF9WcjVXbVdSaFo?oc=5",
+      "date": "2026-05-15",
+      "source": "Google News EN",
+      "desc": "6 passengers from hantavirus-hit ship arrive in Australia for 3-week quarantine&nbsp;&nbsp;AP News"
     }
   ],
   "countries": [
