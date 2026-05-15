@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-05-15 21:35 UTC"
+    "updated": "2026-05-15 22:39 UTC"
   },
   "current": {
     "cases": 12,
@@ -1177,6 +1177,13 @@
       "desc": "Del hantavirus al norovirus, diferentes brotes en el mismo escenario: \"Los cruceros son entornos de convivencia estrecha\"&nbsp;&nbsp;20Minutos"
     },
     {
+      "title": "Un caso de hantavirus en Alemania alerta sobre tener roedores de mascotas - Diario Sur",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb2VrMmhVRWp3aDlDS0NJQk1DazBYWGx6ZXM4OGdUc1FHV0dVN09qXzUxVjFka01MbGJuVTBVRnVTTWFSVnU1dGpUTVptQ21JNTlLbmswLTlSLXlRaXJMNEhxckgwODBTTEJicVFTZU16OUJ1NVVWYXh1T19JdVI4ay1PN1JlZkFGNXR3dUdrc1VaZDJGYTlNNGVtQkdRODMza0M2UndVNmZ6dHExbENtWmVxdHdjd9IBuwFBVV95cUxPbU9RTzZmaVltdkRlWHA5bV9JdElxSWJxRERoZTJQNHVra0FvNmpxdmQtOWd5ZWJ6M0l2Q1VSRjNHT0hNc25rdW1QbmxzSHZxTWxaLVBXNFpBWmZwckJEdm80S0kwMEx3Nkp3bkk5Q1EwUjJLbDNsSDE5Tk9lM2stV19kVWN1cjNKTGNBWmVXeTdoV1dmY3NCTWFjT1lMdXRpdGJpV1JrRzRnZG1hc2RSNXFIMWdHOUU4cVNB?oc=5",
+      "date": "2026-05-15",
+      "source": "Google News ES",
+      "desc": "Un caso de hantavirus en Alemania alerta sobre tener roedores de mascotas&nbsp;&nbsp;Diario Sur"
+    },
+    {
       "title": "Un médico que ha hecho cuatro expediciones en el crucero con hantavirus desvela su experiencia: \"Aquí estás - LaSexta",
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNbGpBcVU4bUJzWmIyOFFkaVVENG04VzFoZ0JRNFR1SlVsblZ5b296WFBlZ0o5LWJEeml2dWtxbGNvMTZ2a0d1bm9NaFNOaXg3SGcxYktwdC1iRzExSkwzd1NSXzE4SkIwN0xvNHpJZlprazEtbDYweEVKSEFkS2hoTmU1T0JiLVZrSk9nLWxoZlhjWUpnTW9MQ2F6UTIzWVJYeUVHejNfREo2RnVmSmh2cUY3aFNEandCQ2VfMXlMMlhWTEF6Y1ZsMDFseDF3N0lZX2U2dGtxU0hpdnlkN2o4M25hMm9OVFBSV19hYlc5QlRWb0g2MGY2NTJkMk1zakxlY0JaU0RmSW5hdVpQdktsMUx30gGSAkFVX3lxTE1Mc1hGT3V0Uk1ZcGg0ZXgxM29QeUZyUGcwMDdqZ0FTWWtBNGVlSjI0ZGloTHg3cWpWdVQ3SEpLMjUxQ0dMNjRtUTNFSFNGaDcxXzFRbF9pbDBJQnluVHBzazI0ckRWTVRlTzk1X1VUcGxtLXdsNmJkRF85Q2dlUDVIQ0ppTDhTWTRQNHB6YkdmV3RzdVZCRVRrQTJwMVNMejd3NDJSTmZoS2RwRnVtTy1lQm9mTjdLMEwwQ0k4SnNlRnkwRFNlaHNpMDZ0LUgtTkt3SWlHVkRna1M5MmNSUnNpQzNZZXlmeENzNk15NkN0TUVSYUpWNDlnemViUThJWEwzaU1kUC1tU0wxLUM4cXdPM1E?oc=5",
       "date": "2026-05-15",
@@ -1184,25 +1191,18 @@
       "desc": "Un médico que ha hecho cuatro expediciones en el crucero con hantavirus desvela su experiencia: \"Aquí estás&nbsp;&nbsp;LaSexta"
     },
     {
-      "title": "Hantavirus: Sanidad remite la cuarta muestra para la PCR de la paciente de Alicante - La Razón",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMXJ5bnJWZEN1ZUcybzROZk43bWh2LUNGWEZyb2kyUjJOeVpZUEFDeTl1VkJzbUZQSmxjWXlwRHNBWmdheWJVa3FCdHRDQjhqemR6UDNBblN2Y3RSVThOUDR2Yi12dlBZMkJKVVRCSHVQZVJGYVRKazVJMV9xNFptaWZtdGdpdWFyQm5KclRPT1VDb19HWHlTWlVBbmFSRDZ5OHJNcm9uNmlQc2JwSGVPUF9jbUtNcUFuN1BUVF96X1IzTVl5M0pDcG01aXLSAeABQVVfeXFMUG12MXJvUVpTSDFXMFVRTnV6QmRRNlVMa1BLWjhNLWQ0a0QzQ004M2JwUzg0c3JqX1UzNUVEZkMwSXBfVWk0NFNtMkY4b3VkOTRhVVlwbWJuQldtWHBKbUdWQ0xoMU5KMmtpQTg3ekNDNU9kbUZXRF9PTEo4RUNEVjRSN1JsbWV0UzBkQXhPTllESFhyenF2eHNicy1iODhFV2FMV19tM25iLWQzdVlHZzV2YTVsdDlaUUpMZ2dvY3EwR3lTZVI4bVh5bGtueHFIeXV5dGx2U1RiLVZsRVNTWFk?oc=5",
+      "title": "Brote de Hantavirus en el crucero MV Hondius, en directo: última hora del español positivo, cuarentena en el Gómez Ulla y estado crítico de la paciente francesa - El Periódico",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZHVSU2x3U2t2TDg1bjVDMUxjeXREdlNFU2Fnak56Yk1UY0F1OGl1bmJpM0dKOEdWeUNGZmtqTkIyMVl4U0tjU3poUXlzNlBLY2dqWURQY2NUZkRMWU52dU1CeEJGcndOSV92WXNnZ3FrRERlTDJ6WFVsYzVTY3dDOWF4U1E2ajFYNHc2VlZnZWp4aGd3R19NSVA1V0F0a2tLdF9fRlFadUxyUFliSloxY0JFMU5UNkhuUFNUclVMa3ZTQTI0dHJrTThwVkRLcW5qbjI1bXZSUdIB1wFBVV95cUxNbTR4a2xzTzBONVVRNDBPRVltckNmQThtcXptejVtU3FnOFBGQm02bWNlQm5acDFrSHpfbGUtSjUwU3dXd1FmVXdZdC04MUxUbzVsa1ZnS2hnWk1HZ2F5VWRvb1JtVWc2X29JWXVlZjU2QXpRRVBNdlowVF9NcjlCQ09odUgzV1lCdHI0OXBrWExabW9TZ0N0Z0tnOEJxUUtfWDBpNDdyM0FxY1p6aXZCYW9CejZjTTlwaXBJUnJTNTRpejIxRWFUMGtNcC1QeXpfb2FOek1sRQ?oc=5",
       "date": "2026-05-15",
       "source": "Google News ES",
-      "desc": "Hantavirus: Sanidad remite la cuarta muestra para la PCR de la paciente de Alicante&nbsp;&nbsp;La Razón"
+      "desc": "Brote de Hantavirus en el crucero MV Hondius, en directo: última hora del español positivo, cuarentena en el Gómez Ulla y estado crítico de la paciente francesa&nbsp;&nbsp;El Periódico"
     },
     {
-      "title": "Junts exige al Gobierno los informes de la OMS que \"obligaron\" a Canarias a acoger el barco con hantavirus - El Español",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMnVBbHZKQ1dCUnRpQ0NIUzRWRzVsUkdLNTlqSlZFS2ozYVBhNWVvYzdGcHgtZWxSMXFvZ3ZpR2tPT1dyTFp0cGdjVDN1OVByY08zZTJfVy04RVZ6WENfN1g3YTZoc1I4dE02ZjJOcTlXRVViRDh1Y3NxUnFrX3pNaGZsc05wQ1hIdUpkZUZoelhHYUctMHNIYUFrNmFJSzlQalMwd3Y1T3VjcmJpVTlWYUVEUmVrejNIZm9JVHBRT09KV1cwdzUtVUZMYWltTWZfRmExa2xoS1J3QkNlSHcxQUZn0gHnAUFVX3lxTE0tNWtEUkhRVGN2MDNWWmw1SDh3RTRWYmJwSjdQWjVqZ0prQ1NWTkVmcWs2eWRiR0hPdnFIcXozcmN3N2RidTlmcXFJNkVBbGZNNHdydjlfX1FzTzdxY2tfdUs2dERrQm4wT3J6OHduVWpHOUgyNzUtTlZrSk5wZlV3ZmZacUF2X01qc0NfQzRQNUZBbE1wdFdhTlUwdWp6YXo0emFRU2pqa2VmQWNmR3o2am84TzllNW96NVl5MnVNVTlmRXFNMm1RQ2F2MFNGYXZXNXVCRjlBa0NWZWc1SmJpRUIzTVhYOA?oc=5",
+      "title": "Hantavirus, última hora del español infectado, en directo: contagios, muertos y cuarentena de los pasajeros del MV Hondius - La Razón",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPbWEzeGNIRFJzY0Rja0ZRaGxic3J4d2ducjhYQk5DRkF3aDFXVEJnSksxc3ItN3V0anpyLXZWbk90bnFsYmU4VkUwM3VadHlSSlNnUlotY1I3QVRtUFp0bWpjd0pFX0VhWGJSRjFBUFNtREU1R1ktOENVcEZ4MFhuOHRFc2dkcUd3cElCanZkVmtqcVB3ZmN4cGhua0dIeS1CcGkyRm1Nc2lkRU5lQXlvRDROZmRzR3pjLXk5QkdpdUdWd3FxVDJzbTdMNjZjX1JoTkpJSXNKSWpNREhLSzV1Z29iTzhBelFIcm1CVDluMnVOcURjeFlCbU5yY05XbElJT3BsNEpQSHNCSDkza0VqZy0xQlI3aWM?oc=5",
       "date": "2026-05-15",
       "source": "Google News ES",
-      "desc": "Junts exige al Gobierno los informes de la OMS que \"obligaron\" a Canarias a acoger el barco con hantavirus&nbsp;&nbsp;El Español"
-    },
-    {
-      "title": "Sanidad confirma que el español positivo en hantavirus está \"casi asintomático\": \"La evolución es buena\" - RTVE.es",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ3FfcWY1Y0dvM3ZjS0FsT2xIdUdwSkU0VkdaUEkzOGstWTVob1FhOXg5UnhCT3R5NG5EenpGZVRnTXh1WVB1QnhiMzNQMEhveEtONE9WbUhCenRHWlNabi1FTmlXc21NN1dId0FHWmJZSk9HV2EydjhaWGZSUzNUalZDYklCdGZMNTkxRWVHU2FRSnhyNmVJaWVqMDI1NlRDSUg1cUZCUTM2eEJRZkdxdVc1UjVadGtxRHJ1UllnZll4V1h4bHk1SkNFc9IBywFBVV95cUxQeHlrelJ3eWtESDB1bWtIcEtkazJNcWY3dDZ4MHhWMlFLOXl5bVJQV2JIQzRIVDYzaTdQbEQ4aWdVbDgtbUk1ZzJZa2gyNElCY1FuZ1Z4UFpIbGF5ajFiQ0theU53RXpiSC1pSXVaajBPUHdGcnhtY0NKbUozYjBiaXlYTVBWSHU0MDFzZGJCd0wtallkYXp2azVHUkJxTFAzTTRrNDlqWUJCQ1AwMkVXNHF3dWc0YjlubUV4aHNIbnQ5N3dMNlZwOGVyVQ?oc=5",
-      "date": "2026-05-15",
-      "source": "Google News ES",
-      "desc": "Sanidad confirma que el español positivo en hantavirus está \"casi asintomático\": \"La evolución es buena\"&nbsp;&nbsp;RTVE.es"
+      "desc": "Hantavirus, última hora del español infectado, en directo: contagios, muertos y cuarentena de los pasajeros del MV Hondius&nbsp;&nbsp;La Razón"
     }
   ],
   "countries": [
