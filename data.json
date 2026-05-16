@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-05-16 19:50 UTC"
+    "updated": "2026-05-16 20:54 UTC"
   },
   "current": {
     "cases": 12,
@@ -1079,6 +1079,13 @@
   ],
   "news": [
     {
+      "title": "Canadian from hantavirus-hit cruise ship tests positive",
+      "url": "https://www.bbc.com/news/articles/c2k2p057ezno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-16",
+      "source": "BBC News",
+      "desc": "The individual is one of four former passengers on the MV Hondius isolating on Vancouver Island, British Columbia."
+    },
+    {
       "title": "El paciente español con hantavirus sigue estable y mejorando - El Mundo",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUVVxWlJmOHpZTEpiQ3cydE9KVlEzMVcxTHRUQjN5cGEtRnNwU0FtRDZCQXUyczBEMVBSVHZfSk5kZW93OXNfeW1XZjNybVlmbVl0Vm9Mbm84MkFWeUpObWlORkVMdGFOT0FFOWFKVjQzd3NNZkNrVXNWT3BxSk5MbEwwVDFGMVpSMlVPTkdn0gGOAUFVX3lxTE9WSWZXOGlEa2NKU25qZVZKMWtDcUYzZ1NmNXRIVTRDejBMTHZ5bkpZaGFnME4wZkMtRkxta1J3YklTT0RSb2RVUkd0Wkh1SnlLbzNKSDJ4eFFPa0pORFl2N2NIempvdVpyd3R0U2FXOThheTF0WjJmcTQ3eUJRMzBRaG1JZE5OZzNiSGpvT3c?oc=5",
       "date": "2026-05-16",
@@ -1107,18 +1114,18 @@
       "desc": "El PP afea el \"ninguneo\" del Gobierno a Canarias con la crisis del hantavirus: \"Los trataron como si fuesen sus mayordomos\"&nbsp;&nbsp;20Minutos"
     },
     {
+      "title": "El paciente español con hantavirus sigue estable y mejorando - El Periódico",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTGRJUHhNY25CdjZKM0xhcm5VVThNa0tBRzFaV2JlQ1U2RXZ4Z3ZmYWFrejZEdDdMLXctbUFnS0Y5WkdubVJ1V1JXWDNTNGpOb3JTdjZINWktdkVVTlpQd1ZiU0pMMzY3YmMtd1Z2T2lmM0tsRVZ4Z1hpaS0zcWVsWFhZUnkyMDF3ZkpzeVBDdVpQNlZtWmE3Ny14SkVXRDBIM1huTjRmZkhFTkZsamh2TlhsRmJmVnJqTzFJTUl4Z9IBvwFBVV95cUxOM2dhXzMya3loZHd5T3Zha1FMVlJpVTJuUGNKdW5lNVVIaTZib29SXzlrTVZXallFbERkQktNVWlVMDNhb1BoeHFvNkFRUXdHakdTcHdHLXNiMTh6dGxELUtoaWdhQk54NXJXZjBSUWt2dVVoaWRESy0yTml6UTV3RVpzUnB4M1NNanJsaUlfS3lDUm9rTVdUb1d0WmdPMWdiaXBwblpEbUtYektHbXFjSk5uRWFyQUdOQkR5Sl9uOA?oc=5",
+      "date": "2026-05-16",
+      "source": "Google News ES",
+      "desc": "El paciente español con hantavirus sigue estable y mejorando&nbsp;&nbsp;El PeriódicoHantavirus, última hora del brote, en directo: minuto a minuto de los últimos positivos, los confinamientos y los avisos de la OMS&nbsp;&nbsp;La RazónÚltima"
+    },
+    {
       "title": "Qué sabemos sobre el contagio por hantavirus - Diario Público",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVkZDckwxVGxLRVR1U3RsSG94ajJaYUQzY1ZzT1BUZ19GeDhVOFg0ZzhPQkwxUEpiRlp2VVZnakZtMkFxX0lLb3FOa2dCZVJ5RTFQV2dCUERfYzB6ODlCOVZzOUE4VER6cGY4T05PN3pjUFZWUVF6OWxnLVVBdnlWZkVheXg?oc=5",
       "date": "2026-05-16",
       "source": "Google News ES",
       "desc": "Qué sabemos sobre el contagio por hantavirus&nbsp;&nbsp;Diario Público"
-    },
-    {
-      "title": "El paciente español con hantavirus sigue estable y mejorando - El Periódico",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTGRJUHhNY25CdjZKM0xhcm5VVThNa0tBRzFaV2JlQ1U2RXZ4Z3ZmYWFrejZEdDdMLXctbUFnS0Y5WkdubVJ1V1JXWDNTNGpOb3JTdjZINWktdkVVTlpQd1ZiU0pMMzY3YmMtd1Z2T2lmM0tsRVZ4Z1hpaS0zcWVsWFhZUnkyMDF3ZkpzeVBDdVpQNlZtWmE3Ny14SkVXRDBIM1huTjRmZkhFTkZsamh2TlhsRmJmVnJqTzFJTUl4Z9IBvwFBVV95cUxOM2dhXzMya3loZHd5T3Zha1FMVlJpVTJuUGNKdW5lNVVIaTZib29SXzlrTVZXallFbERkQktNVWlVMDNhb1BoeHFvNkFRUXdHakdTcHdHLXNiMTh6dGxELUtoaWdhQk54NXJXZjBSUWt2dVVoaWRESy0yTml6UTV3RVpzUnB4M1NNanJsaUlfS3lDUm9rTVdUb1d0WmdPMWdiaXBwblpEbUtYektHbXFjSk5uRWFyQUdOQkR5Sl9uOA?oc=5",
-      "date": "2026-05-16",
-      "source": "Google News ES",
-      "desc": "El paciente español con hantavirus sigue estable y mejorando&nbsp;&nbsp;El PeriódicoHantavirus, última hora del brote, en directo: minuto a minuto de los últimos positivos, los confinamientos y los avisos de la OMS&nbsp;&nbsp;La RazónEl han"
     },
     {
       "title": "El brote de hantavirus hace disparar descuentos y promociones de los cruceros de lujo: \"Auténticos chollos” - MARCA",
@@ -1147,6 +1154,13 @@
       "date": "2026-05-16",
       "source": "Google News ES",
       "desc": "El único positivo por hantavirus en España evoluciona favorablemente a la espera de una nueva PCR&nbsp;&nbsp;LaSexta"
+    },
+    {
+      "title": "El hantavirus de la francesa que dio positivo es de las cepas conocidas en Sudamérica - La Voz de Galicia",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNkItemNRMWdEc2Eyam92ZENhNTF5UGRUTFFHbUw0V1Q0UEpGcVVnYWhQZ0J3WFZRU3RuUnhadk94MENsa0lqQ0xkZ0d0Q1VsX0hPaTdscXpXaG4taTV4alAtMVRKUTY4bXRrYTZ6SDBySlhRaFI4ZTVicmp4bUo5VWRnTlM5THFrYjRCSWR0MDlGaUN6N1hEV2tpX0tDdlFTdFc3UGNQUGxDMTg0TTdiYjMxbmZKTDNrTmpfLS00X0pzUkRhV0xKMFlBZWxYMnVwaHdYQ29Md2JwNTd2REHSAfoBQVVfeXFMUGJBWjI4U29EZlY2M20zVmtIS2xVaGkwQUtGU3BJVkR6U3FEWHdBczYxTkFlckZkRy1fX0x0QnN6N3NnY2FvVEhESGlDWE81LVlUbHVzN01nSXJ2c3pqS3hMV3ZUaDJkeUZQWEtzdmdLcGxJXzdKQ0VWYVozeDkydFRTbTRWSkZTNlRjZVV3eTJkWU5LTkxQdjliMndXcW5PWlVXVW9SeXF6bk5mTUdYREdEUkRlcnY1MlFDRFRmanU5TWU0cXJ1YmhyY0FxVUpWd2Q2cTliaGpnNlVuU2J0dklNdmc2dDZ3QmJWWnF4b3M2RHltd1ljektDQQ?oc=5",
+      "date": "2026-05-16",
+      "source": "Google News ES",
+      "desc": "El hantavirus de la francesa que dio positivo es de las cepas conocidas en Sudamérica&nbsp;&nbsp;La Voz de Galicia"
     },
     {
       "title": "Una de las pasajeras confinadas por el hantavirus enseña el paquete que le envía su familia al hospital - Telecinco",
@@ -1182,20 +1196,6 @@
       "date": "2026-05-16",
       "source": "Google News ES",
       "desc": "Fernando Clavijo reconoce que cometió errores durante la crisis del hantavirus&nbsp;&nbsp;Información"
-    },
-    {
-      "title": "El español con hantavirus está ya “casi asintomático” - Atlántico",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaHY0QTA0MnVvMVRaYThyS044aWtSVFBtQm9JQ1pTQlNwX1BNQm01OTQxWFRFZVk0NFBuNmRPY0NEM2RyQVBnR29naldWUXJkZDdmWG91bWtrbTlDYzF3MTcybmc1SENsN0ZqWXpaMmFveFpVSnFRXzFUanI4ODhRa29YTVFFSU9paFNQdmtuZTF4aldp?oc=5",
-      "date": "2026-05-16",
-      "source": "Google News ES",
-      "desc": "El español con hantavirus está ya “casi asintomático”&nbsp;&nbsp;Atlántico"
-    },
-    {
-      "title": "Clavijo, sobre la crisis del hantavirus: \"Fueron momentos de mucha frustración por no poder proteger a Canarias como se merecía\" - El Periódico Extremadura",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNHJPNHk3QmtMN0dkVjJuQTVuOG5JanpvZERaWEp2RVptZks3clBqWFRFQ01PYjQ5aHBpWVRJRnN0ZnZFbmFzOGd6eVBYMXNkUmVoeEpEQXh5b1B3NmIxYk1zUlVhbTFYN1prRTlDckNjMzlScFZZdTJpYk9LR3RmR2hBT2pTb3lvVFYwa0xkQmVJS0hra1Rwb2dYalpLU05EaDdZUXhobWc0U0hkR09ZTi1qek1BSjFob0VnUU9QZDZPVW_SAcgBQVVfeXFMUFVmRncxeWFjaGFicDhMWkpYYnlLbWpraTNkNkxzemNyQUpiT1RMQjVLcTQwOWdSWjhYUmcyS3BLV3NrTm1oZVFLSUl6cm1vQ21PZnc1WGdfdTN4STdfRnotS0YtNFRIVjlXS3cydWJDUmxscE1LNzVpRzQxN2t2MU5mWC1VT1IyYkNnMHlRQnBkbTVUTXgtZmhhS2VHVzFIcFlzdWNuRVNWdXlqX1J5NGhaeE1wWTRYX25WcFJVVjVHam8xMGRYTHQ?oc=5",
-      "date": "2026-05-16",
-      "source": "Google News ES",
-      "desc": "Clavijo, sobre la crisis del hantavirus: \"Fueron momentos de mucha frustración por no poder proteger a Canarias como se merecía\"&nbsp;&nbsp;El Periódico Extremadura"
     },
     {
       "title": "El 'duro' cambio de la valenciana confinada por hantavirus: de las vistas del océano a una puerta azul - Levante-EMV",
