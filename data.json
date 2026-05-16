@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-05-16 10:39 UTC"
+    "updated": "2026-05-16 11:38 UTC"
   },
   "current": {
     "cases": 12,
@@ -1079,8 +1079,15 @@
   ],
   "news": [
     {
+      "title": "Científicos argentinos estudian el uso de un spray para frenar los contagios de hantavirus - ABC",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaFZLNnNBMW1NVVhhUmVqamxpVmEzYTJ3ZUIyVU9QNkVzNzlOd0ktNVVnSFNnVG9sbU1EOFh4N3JFcGt3MmVvZEZTS29keDFjZ1pkZ3IwdGdBS0pxcG9Qa0dUdDVQZ2ZaVUYyenBTczBFUW1UbkthWFpGWExjS3dSbU91TUMwUTV4UUtDd0doS01QMERfR3NnSWxJR0VEY1ZwcTJLOXBSbW16RFNpQUHSAbMBQVVfeXFMUHFMOGFJMm1XWTRDNDBUS2NINlpaZVlVZ0UtcENkb3JLMFhhR29qVGVMMmw1STQwcUFtZjNVVFFVU08tdEN1Wkw0VzdOWW1nNm5aWXdIMVEwOThkMnhON2M1clFrQlhycUUyQWtOUTh5QnFPRV85LWRBTFEtWDlmNFFsV2EtV1lHNjNiaVluQ2FTaXBmQ29tV2ZPanRWMHVfYlMySTBpdlN0ZVFrdEFlblhHczQ?oc=5",
+      "date": "2026-05-16",
+      "source": "ABC",
+      "desc": "Científicos argentinos estudian el uso de un spray para frenar los contagios de hantavirus&nbsp;&nbsp;ABC"
+    },
+    {
       "title": "Un británico que iba en el mismo vuelo que una fallecida de hantavirus rompe la cuarentena y es detenido en un bar en Milán - 20Minutos",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ1pRQmk5MUhTTG8yOHRTUEtLLVZNN1hRSG1hUHlMc3FkWUJPSkZ0cnFHTTZZOHh5QUdtVmhqS1VHWU5tNUk2bW1jcWlXOFJKRFdBSjc4SGRlb1B5Zkk0WE5nNloxMjJrZXRDR29UMDFpc0MyckJ0QjJCVVlUNmctVUVNTW1veGZhbDZ3bl9LTG9yUU1yYUtMMmxRV0d0aG1BRjFuVHFaVUJzcFZZbkdzZEV0TjRpRXZlblNkSDNIOE1fcU50QWktbzB5MEp2Q0HSAdQBQVVfeXFMTl80LURBRnpEcU1FZmU3VEJfbGc1VjFGeDMxeF9Ea2dhdVc5bTN5aVB4VGkydFRfOENwN3BpS2k5eDdxZGZJdkN2d0dXYjV5RGpYb2dqSThWU3ZlTG9NRF9BRDBqcmpRbEtkT1Q5TElzVWM1V0VPMzV1R3FyUWstcGphcGVpU1hmd2hYZk82QkpUcDZMMi1qSlNqSDJVWHdzYU4xUmV0RzQ2c3hycjJnWGRVM3ZQQWJkVVpXaXpWblU1OVM2aEVLSGRDc1FnZlFpbUQ1Tlk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ1pRQmk5MUhTTG8yOHRTUEtLLVZNN1hRSG1hUHlMc3FkWUJPSkZ0cnFHTTZZOHh5QUdtVmhqS1VHWU5tNUk2bW1jcWlXOFJKRFdBSjc4SGRlb1B5Zkk0WE5nNloxMjJrZXRDR29UMDFpc0MyckJ0QjJCVVlUNmctVUVNTW1veGZhbDZ3bl9LTG9yUU1yYUtMMmxRV0d0aG1BRjFuVHFaVUJzcFZZbkdzZEV0TjRpRXZlblNkSDNIOE1fcU50QWktbzB5MEp2Q0E?oc=5",
       "date": "2026-05-16",
       "source": "20 Minutos",
       "desc": "Un británico que iba en el mismo vuelo que una fallecida de hantavirus rompe la cuarentena y es detenido en un bar en Milán&nbsp;&nbsp;20Minutos"
@@ -1093,11 +1100,11 @@
       "desc": "El único positivo por hantavirus en España evoluciona favorablemente a la espera de una nueva PCR&nbsp;&nbsp;LaSexta"
     },
     {
-      "title": "Hantavirus, última hora del brote, en directo: minuto a minuto de los últimos positivos, los confinamientos y los avisos de la OMS - La Razón",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZjdOVDZlTHFkbHFzXzNuZ3BwWXNJQkdQQ21TVzR6all4VVl4Qk5wbVpIQzlvUF8wM2Y2NVA5M3hrUmRrcWY1YUI4ZjNVd2JSTmdVNEtWR1hNZmRoNVJBZzhOWmdzNHU2V0tmeF9FcmJQelVocjRiSXlHY2pOLUVIRWo5MnVVRVFWWTlqanlpdHhWdzlWU256WVRweUd4MGVFZlJTQ2RwMEV5SkxNSU5WcnBWRTVwVFh4cFBhV1FiM1BrUVJSSTVhY3B0b1lhUmtzcHZiN0J4cG56bi1GNWJJT2dINlRUYkswa3pQcGpMNkM3Mk1vckIw?oc=5",
+      "title": "El hantavirus de la francesa que dio positivo es de las cepas conocidas en Sudamérica - La Voz de Galicia",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNkItemNRMWdEc2Eyam92ZENhNTF5UGRUTFFHbUw0V1Q0UEpGcVVnYWhQZ0J3WFZRU3RuUnhadk94MENsa0lqQ0xkZ0d0Q1VsX0hPaTdscXpXaG4taTV4alAtMVRKUTY4bXRrYTZ6SDBySlhRaFI4ZTVicmp4bUo5VWRnTlM5THFrYjRCSWR0MDlGaUN6N1hEV2tpX0tDdlFTdFc3UGNQUGxDMTg0TTdiYjMxbmZKTDNrTmpfLS00X0pzUkRhV0xKMFlBZWxYMnVwaHdYQ29Md2JwNTd2REHSAfoBQVVfeXFMUGJBWjI4U29EZlY2M20zVmtIS2xVaGkwQUtGU3BJVkR6U3FEWHdBczYxTkFlckZkRy1fX0x0QnN6N3NnY2FvVEhESGlDWE81LVlUbHVzN01nSXJ2c3pqS3hMV3ZUaDJkeUZQWEtzdmdLcGxJXzdKQ0VWYVozeDkydFRTbTRWSkZTNlRjZVV3eTJkWU5LTkxQdjliMndXcW5PWlVXVW9SeXF6bk5mTUdYREdEUkRlcnY1MlFDRFRmanU5TWU0cXJ1YmhyY0FxVUpWd2Q2cTliaGpnNlVuU2J0dklNdmc2dDZ3QmJWWnF4b3M2RHltd1ljektDQQ?oc=5",
       "date": "2026-05-16",
       "source": "Google News ES",
-      "desc": "Hantavirus, última hora del brote, en directo: minuto a minuto de los últimos positivos, los confinamientos y los avisos de la OMS&nbsp;&nbsp;La Razón"
+      "desc": "El hantavirus de la francesa que dio positivo es de las cepas conocidas en Sudamérica&nbsp;&nbsp;La Voz de Galicia"
     },
     {
       "title": "Leocadio Martín, psicólogo, sobre el miedo que causa el hantavirus: \"Ante lo desconocido, el cerebro trabaja con el peor escenario posible\" - El Periódico",
@@ -1107,32 +1114,11 @@
       "desc": "Leocadio Martín, psicólogo, sobre el miedo que causa el hantavirus: \"Ante lo desconocido, el cerebro trabaja con el peor escenario posible\"&nbsp;&nbsp;El Periódico"
     },
     {
-      "title": "El brote de hantavirus hace disparar descuentos y promociones de los cruceros de lujo: \"Auténticos chollos” - MARCA",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPV2J4eDB5QUVHMkNvRnpuTlJCanpQUEV4aUtLNkQ4QmVvejNnOGRfa0hMWXAzLUVfbHRCTDdHb0k2Sm1BVHRuQWhTLVNYbDdZakthbFNycjk5enEyRGkzZ25FYXFwd044RFE4N1g0N0pGcGdkb3B2RzN1Rnk0U3pJeDNuVFd3NWNyODVZci1rdE53dFM0ZE1lX1pLRGhPUEoxVjFqdUkzV0JfS0tNZVl1MnlLRUNiRkloZUtQWkFqVlNvczFTZWVFdDRrMU16X05LVFFnd25R0gHWAUFVX3lxTE1xNF9xbmRCMkVHbUt4c2QtdnAtTEVNNEN6WG5wOVEyRmctWVZjaVRTSm5QTGhWOUpna1VuY28xcFFIanZ6am1CMWsxd3UzdERUd3FOc0dKTFo0ejVzMWlFYWhTR1A2SURXWUxxRFdyaEhEaEphWmFET19EX3Vtem8yQWtVZGdxaVBXNUp6VFJ3QnN6ZVd5bWxIWHl6d21pelZnY3RwZkl5NTZDcVpEeVJNdTFtVFZlRnVVMm54NkRmb0VSSGoxUlkwRGFlcGc3MjZzc3Uxb3c?oc=5",
-      "date": "2026-05-16",
-      "source": "Google News ES",
-      "desc": "El brote de hantavirus hace disparar descuentos y promociones de los cruceros de lujo: \"Auténticos chollos”&nbsp;&nbsp;MARCA"
-    },
-    {
       "title": "Qué saber sobre el brote de hantavirus - AARP",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONG53Z3NaSGNHcTNwbGMxal90TEU1eTlxbzFaenlraEVlcVQ0c1RBbEN1YnczUTZUOW81RGYzREtHd2YtZ3c1UnhGTGJENG9aU0I3Q1k4U0tnVEV0b3Q2UTNPRjBPUmJyNFNyWGhNX016UzVoSk1BcjkxLUNOWTl4ZU1XdFdOSjBsOGFfdXdLa3hfT3lJREUyd1JtTkZydDdzMVVIcWVsQnZ6bEpGZjdpQ0l3?oc=5",
       "date": "2026-05-16",
       "source": "Google News ES",
       "desc": "Qué saber sobre el brote de hantavirus&nbsp;&nbsp;AARP"
-    },
-    {
-      "title": "'Por qué cualquier alerta sanitaria como el hantavirus revive el fantasma de la pandemia' - El Independiente de Granada",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUWd3cGRENlhhaTdMRERjUk5vX0hJU3oxTFh4c3d1WGNJOWZTc2Y1Yng2NnVxdXF2bUhpbC1BMlctUTRnb256WEhETzNRaUtkNXlDY1N3Qy1uNEdPdjR0RHNjeVNmTUlIY1JybVN4UXlKMGNSdU54U2E1WnY4V2RBaTJDWkxLTE9WNFVLQ0N6dGV6LWZkeGdzVk5NTmd3d3puVTJac0JJUzg4Z19QamsteXp5RWFuWTZrQ0E?oc=5",
-      "date": "2026-05-16",
-      "source": "Google News ES",
-      "desc": "'Por qué cualquier alerta sanitaria como el hantavirus revive el fantasma de la pandemia'&nbsp;&nbsp;El Independiente de Granada"
-    },
-    {
-      "title": "Qué es cierto y qué es desinformación en la crisis del hantavirus y el protocolo sanitario del Gobierno - Onda Cero",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSWhQR2ItaGJwdnEyS0NWT1hNYWx5LUZYNVhuMWpyMFNabXI4X1kyY2dyMGQzSXd3LUxXWVoyNlA0bThRX0FYOER2UXNaM2RuX0xaN21JMldpWnhCWTJPRldsUmNuZ1ZmcDNMV3pKQWtfQTBqSTY4c3hxZnM2dEdOYTIxWDA5SWl5ejRSSDg1V2NDNHVpcUVZX0U0SFRGdjM0RHJxSFZhV0tPUHBwUk9Uby1fd2VyYU9Fb29sbmlOenQxUEJfdWFlak5abHpVSDd0VVpaLUFLdmE1SElTaHV6ZGl0UDIxZmVa0gHoAUFVX3lxTFBjeGpTZTFzSU9HMC1DdjZ5WTdXNk1YR0FiUVd0cWR0SFA2RHpuVVFjc0pYMUZFOHY2LXd1cWIzR3RQUkxYb1l5TDB5a3haMUxWRWs1aEEzUUYtQmsxelA1LURVQVQ0V1NMQnJnMmxndlBqWGd0QnI4TGJVYUJMRnVNN0RuZTZfUEhjXzdBUnRSRV85TDFmLXUxeWo2RV9rajZjQnhLT292TVVUMFN3QUxoUmE0VlhlUjlHUThaRHNfZFNfVW52TndiNDZvQTA1elVmYU9DUmNVQ0l3TC1kSkpzOTB1R0pleHo?oc=5",
-      "date": "2026-05-16",
-      "source": "Google News ES",
-      "desc": "Qué es cierto y qué es desinformación en la crisis del hantavirus y el protocolo sanitario del Gobierno&nbsp;&nbsp;Onda Cero"
     },
     {
       "title": "Brote de hantavirus, en directo: última hora del español y la francesa contagiados, síntomas y cómo se contagia - MSN",
@@ -1142,18 +1128,67 @@
       "desc": "Brote de hantavirus, en directo: última hora del español y la francesa contagiados, síntomas y cómo se contagia&nbsp;&nbsp;MSN"
     },
     {
+      "title": "Qué es cierto y qué es desinformación en la crisis del hantavirus y el protocolo sanitario del Gobierno - Onda Cero",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSWhQR2ItaGJwdnEyS0NWT1hNYWx5LUZYNVhuMWpyMFNabXI4X1kyY2dyMGQzSXd3LUxXWVoyNlA0bThRX0FYOER2UXNaM2RuX0xaN21JMldpWnhCWTJPRldsUmNuZ1ZmcDNMV3pKQWtfQTBqSTY4c3hxZnM2dEdOYTIxWDA5SWl5ejRSSDg1V2NDNHVpcUVZX0U0SFRGdjM0RHJxSFZhV0tPUHBwUk9Uby1fd2VyYU9Fb29sbmlOenQxUEJfdWFlak5abHpVSDd0VVpaLUFLdmE1SElTaHV6ZGl0UDIxZmVa0gHoAUFVX3lxTFBjeGpTZTFzSU9HMC1DdjZ5WTdXNk1YR0FiUVd0cWR0SFA2RHpuVVFjc0pYMUZFOHY2LXd1cWIzR3RQUkxYb1l5TDB5a3haMUxWRWs1aEEzUUYtQmsxelA1LURVQVQ0V1NMQnJnMmxndlBqWGd0QnI4TGJVYUJMRnVNN0RuZTZfUEhjXzdBUnRSRV85TDFmLXUxeWo2RV9rajZjQnhLT292TVVUMFN3QUxoUmE0VlhlUjlHUThaRHNfZFNfVW52TndiNDZvQTA1elVmYU9DUmNVQ0l3TC1kSkpzOTB1R0pleHo?oc=5",
+      "date": "2026-05-16",
+      "source": "Google News ES",
+      "desc": "Qué es cierto y qué es desinformación en la crisis del hantavirus y el protocolo sanitario del Gobierno&nbsp;&nbsp;Onda Cero"
+    },
+    {
+      "title": "'Por qué cualquier alerta sanitaria como el hantavirus revive el fantasma de la pandemia' - El Independiente de Granada",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUWd3cGRENlhhaTdMRERjUk5vX0hJU3oxTFh4c3d1WGNJOWZTc2Y1Yng2NnVxdXF2bUhpbC1BMlctUTRnb256WEhETzNRaUtkNXlDY1N3Qy1uNEdPdjR0RHNjeVNmTUlIY1JybVN4UXlKMGNSdU54U2E1WnY4V2RBaTJDWkxLTE9WNFVLQ0N6dGV6LWZkeGdzVk5NTmd3d3puVTJac0JJUzg4Z19QamsteXp5RWFuWTZrQ0E?oc=5",
+      "date": "2026-05-16",
+      "source": "Google News ES",
+      "desc": "'Por qué cualquier alerta sanitaria como el hantavirus revive el fantasma de la pandemia'&nbsp;&nbsp;El Independiente de Granada"
+    },
+    {
+      "title": "El hantavirus: Europa ante el espejo sanitario - Noticias de Navarra",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQVhjXzQwS1NWY1BHSnlvQWZIc0Zoa3VjZUpFc0tERlc1TW1iaC1UR3ltMThjLTV4d2taWHlXODhwUXh0UUJuSWI4NjV5TFhtQUF3dk5wbTBSRER2cURCWUNZWmY2RmlVaDdvcHVUa21hMGpYTmF1eF9fX0RVMGRKZWxtdXAyblhzOENNQU55TUFWdGNoYTNMVDM2UjVTc3dUTHNJ0gGoAUFVX3lxTE05c2RxbU1RVERvY1hUTkphTy1YZjQ2M2pYa1NHaXJOZnZpcV83SGFTMVJOc2RWZ0d0WElrYWd6U0ZCT0FmVDJQQWUwS3NVZmJZVy1weVE3eEpLekpuWDR5a0hjRXFPUTZPNmxiakk1ZDhFQkt6T2EwN3JNcFRWWEl2aFloS3p4cEhTek5OZEdBRHlhQ3BPNm95QVAtYk9QN3ZScUhUVlhVSA?oc=5",
+      "date": "2026-05-16",
+      "source": "Google News ES",
+      "desc": "El hantavirus: Europa ante el espejo sanitario&nbsp;&nbsp;Noticias de Navarra"
+    },
+    {
+      "title": "El brote de hantavirus hace disparar descuentos y promociones de los cruceros de lujo: \"Auténticos chollos” - MARCA",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPV2J4eDB5QUVHMkNvRnpuTlJCanpQUEV4aUtLNkQ4QmVvejNnOGRfa0hMWXAzLUVfbHRCTDdHb0k2Sm1BVHRuQWhTLVNYbDdZakthbFNycjk5enEyRGkzZ25FYXFwd044RFE4N1g0N0pGcGdkb3B2RzN1Rnk0U3pJeDNuVFd3NWNyODVZci1rdE53dFM0ZE1lX1pLRGhPUEoxVjFqdUkzV0JfS0tNZVl1MnlLRUNiRkloZUtQWkFqVlNvczFTZWVFdDRrMU16X05LVFFnd25R0gHWAUFVX3lxTE1xNF9xbmRCMkVHbUt4c2QtdnAtTEVNNEN6WG5wOVEyRmctWVZjaVRTSm5QTGhWOUpna1VuY28xcFFIanZ6am1CMWsxd3UzdERUd3FOc0dKTFo0ejVzMWlFYWhTR1A2SURXWUxxRFdyaEhEaEphWmFET19EX3Vtem8yQWtVZGdxaVBXNUp6VFJ3QnN6ZVd5bWxIWHl6d21pelZnY3RwZkl5NTZDcVpEeVJNdTFtVFZlRnVVMm54NkRmb0VSSGoxUlkwRGFlcGc3MjZzc3Uxb3c?oc=5",
+      "date": "2026-05-16",
+      "source": "Google News ES",
+      "desc": "El brote de hantavirus hace disparar descuentos y promociones de los cruceros de lujo: \"Auténticos chollos”&nbsp;&nbsp;MARCA"
+    },
+    {
+      "title": "Una de las pasajeras confinadas por el hantavirus enseña el paquete que le envía su familia al hospital - Telecinco",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQR3M4T1ZYZGg2NVNhdlZfWlhfWHNrbnRfQTYxRUdGUDRuRnlrOHRhZHJhV3Q2aVhqYTd0cmthSFBTNDhjQzMwX2hBQWRnWk9icjUyNHVZX1V0UGMtaFdfTlBKME5iYWpOQmI2N3FtRG5GOGJtM0Q4WTdmaXlaQkpRYmpwZ3UzRlhGWnk1TGR0b3lDTmhwRTZWM0lTNzdxZmFSYTJ2aFYwNnVsdjZMSUZkSkdyS3p0N2pBeG1xNzZYczZ1dDMxc21DZldpQkprOWpHdHNN?oc=5",
+      "date": "2026-05-16",
+      "source": "Google News ES",
+      "desc": "Una de las pasajeras confinadas por el hantavirus enseña el paquete que le envía su familia al hospital&nbsp;&nbsp;Telecinco"
+    },
+    {
+      "title": "The hantavirus debacle raises a key question: why would anyone go on a cruise? | Dave Schilling - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUC1uNTVfRW84VEFVTHJqdURkLXV4Mll6QzZoVVhpY3BmWGhBTUFDZ0NZeUJ3Zk9mX05iUmd6WllBMERmNE1BNERlYjNvRlBCbkpCY3pzeGRySk9yMUxRdGFCOXVZNlZlSG1LcjY5UXNTM1FRRXZxYmlNSkhfdjlsZGlsbFZseGJ1MmtOSg?oc=5",
+      "date": "2026-05-16",
+      "source": "Google News EN",
+      "desc": "The hantavirus debacle raises a key question: why would anyone go on a cruise? | Dave Schilling&nbsp;&nbsp;The Guardian"
+    },
+    {
+      "title": "A rare hantavirus outbreak isn’t the next COVID. Experts still see warning signs - San Francisco Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWlJ0TWdiZFVNMHhoYU1pRzg2QzFUTmpwUi1HM21xYUpJOEtvMVhoblh3TjFZcU5NV0lFREU3MENKVGxKZmJodjZmdmVqVzdYZG90SHdjbXhfWExLUjJhd2hKWUhHSmxqZ2VYekNnNEhGeHhCNGwtdEtMbFlmelg0WWt4dHpGVnZFeFhqVzJwQ2s2aFU?oc=5",
+      "date": "2026-05-16",
+      "source": "Google News EN",
+      "desc": "A rare hantavirus outbreak isn’t the next COVID. Experts still see warning signs&nbsp;&nbsp;San Francisco Chronicle"
+    },
+    {
+      "title": "‘I just don’t want it to take over my life’: Hantavirus sparks fear, questions for some students in a post-COVID world - Chicago Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeGNTRTlEMl9aNEFreVlfdWtraG40eTNPNVZ2WTdEWTF1bUZ2UDJQMF93VmxSNWpobVVCcF9Ycm1JNTY4M3lUT1RTbmNVSDZJaERyQUFsRjd5cDk3UUM3SWd6NUNJMW9UVmNPVEF4Q08xS0ZpM2JPOFR3TVA1S1pYOVdDRWtfZmJMV0E?oc=5",
+      "date": "2026-05-16",
+      "source": "Google News EN",
+      "desc": "‘I just don’t want it to take over my life’: Hantavirus sparks fear, questions for some students in a post-COVID world&nbsp;&nbsp;Chicago Tribune"
+    },
+    {
       "title": "CDC tightens home monitoring guidance for high-risk hantavirus contacts - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM3drM1YzX1pNOHFnUkloNGUxSXJBcDFybEF5cmsyMmYxMnJhWEpjRGhFM2sza2lCU1RyaHF1RWV4ZmMtR1k2VWhWc2FKSnRIbG13dkVsT2lVTWRhZ0sxRjc4eFI0NmJRS2dJbi11S3M5NUlqSEE3X0w5VmVQb1RjUDd1eS1QVFFGbGREZ21RdUVSLVdZLVBHRlFkZHhYaEh4TGN1ZFdDNlRqdm1XM0F1V1JIM25JRWRo?oc=5",
       "date": "2026-05-16",
       "source": "Google News EN",
       "desc": "CDC tightens home monitoring guidance for high-risk hantavirus contacts&nbsp;&nbsp;The Washington Post"
-    },
-    {
-      "title": "Hantavirus live updates: WHO hunts for source of virus - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWVo2aXdMeVdMTWVwbzhReUpwX2dFYUNoQnpLWmxMNEdkcGU4V3hrQ04xelk2WjJiWVgtWkNvNWE3X25Xc1F6SWVDYmYyY2huRHA0ZWZFYmhPaUdHdVZwZl92WFJFWG9YWk96QmVwQzRxY3ExMlhJU3gwMmZ6M2ZWdUt3cTBIejN0VWN5Y3hOQS1MNGlweXkzbWZZT3VrbXZrVEpVOTJmcnlveUFfRFpn0gG0AUFVX3lxTE45UXZGY3Z5UnNGRVh2ZERCMWZmSWs3cU1DNjJXT0hoYWtWdks2TjJHcXFObUlyRUNwVU43RXZYeENOcjZrWUtiRzFxSEFkUGozMklrQU5lT2k4SWQ3aDEzajdEdnNOMENqVzRlV1BwR1NJdFRJNEZPY0hCVzc1RzNpUWt3X1JLNHlTekNoRlE2dVd3enlfZTRIdDFfVVFvcXcyMF8xWG43d1ZYT3J4ZUp5dlFmYw?oc=5",
-      "date": "2026-05-16",
-      "source": "Google News EN",
-      "desc": "Hantavirus live updates: WHO hunts for source of virus&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos"
     },
     {
       "title": "Hantavirus has not mutated to be more transmissible: WHO - The Hill",
@@ -1163,46 +1198,11 @@
       "desc": "Hantavirus has not mutated to be more transmissible: WHO&nbsp;&nbsp;The Hill"
     },
     {
-      "title": "Fourth King County resident linked to cruise ship hantavirus outbreak - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWU9mQnFhNzVLNElpR0M4bm1TclcwM3REbk5JNjJ6Y1lsU0EzMUJZWHZWV21JY05Lay1aMjBfZG14bnFNUGY0ZVY5cFJlaFRZWkduSzAtLXVSZVBzbUZXNFV3U1RzNlhIUDllUVRESGltVVUxLUpqU0Z5WWVGak9BUGZYTndzS1ZPLUJCZ19vaHFxQWtnelpQd2RDWWpKbVQwU1pycTJKWl9xY0FRRnlpamIzWlAteWM?oc=5",
-      "date": "2026-05-16",
-      "source": "Google News EN",
-      "desc": "Fourth King County resident linked to cruise ship hantavirus outbreak&nbsp;&nbsp;The Seattle Times"
-    },
-    {
       "title": "Hantavirus monitoring ends in Atlanta as Emory University Hospital releases patients - FOX 5 Atlanta",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORXZia2lfOHI4ZU50dnJaalFDVVR3OHB6N2JxVklrUnpNLXNvaXFvWS04RzFUQm1RSXhFYk9xVy1ndF9iMnhaMXY4QzVtWWR0ZWxfSm84dDVWaWtPMUJ3dFBLcXQtWDVKQk8xdjVmdGZ4RjdWa1pRWVFkV2h0MVF5N1R1eXU2bWcwc3NqdkJNdWowN0tCRC1ITmRlZkVIeXpQVXo4X3QxbGU3bnV4S29MZdIBtgFBVV95cUxQNjk0TWZ4QzVabjBmWlVmMEVyVHpEc2hWTGQxYXJVZXcyVmg3bUxEenktaVQ0UnRScm96bEdCZ0tjYXBKSmowYnR2MllSVDdXaTJRRG5fUndnR0xySDREVm0wMFktT09TWWJkcGU0NGh5VUNuRzVZQTQxRHhCWm9jdm9JRXphUVZZczExeV84S2Jvb0g3TmVoU2h6bC1DQkxoN3BaTkZfVWhFMjVRVk1Vd21haVQxUQ?oc=5",
       "date": "2026-05-16",
       "source": "Google News EN",
       "desc": "Hantavirus monitoring ends in Atlanta as Emory University Hospital releases patients&nbsp;&nbsp;FOX 5 Atlanta"
-    },
-    {
-      "title": "4th King County resident monitored for possible hantavirus exposure, Public Health says - KING5.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMXFvTWhmZEI5SlBmajJ2UjZzVXRMc2h1WV8tSzd4UDRRNGsxSFN2R2p2T2N4M2pKQmZOUldJZ3VvNDNHX1dKZzRiTHhyQkNXelRoSWpWZ0J3bnV4RjJmNWFxRTNWa3hRZEltY3RNcG53VjBsOWNFck9SRkN2MEplTWkzeFdhbnNsb1ZaV254UjJUUFZvM0lWUGljUTA5QzBLX3JzYngwREh3MFVrbkdSMnBtYlQ3NEw4OVJHSElNZEluWHV2UGRMT19sbWxwcGlJN3JV?oc=5",
-      "date": "2026-05-16",
-      "source": "Google News EN",
-      "desc": "4th King County resident monitored for possible hantavirus exposure, Public Health says&nbsp;&nbsp;KING5.com"
-    },
-    {
-      "title": "Colorado health officials confirm deadly hantavirus case - KUSA.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObDViczlYYzJIMU9lNDVXclVmbnozNW5CNjlybnZtdU93SlNRSDNSdU41WTQ1azRWZWUyY3gxRU44RGVUd0g0N1VlVEgwNHRlMHdhX1JuT01LZHhxOFpFYUlJb3RGeVAtY0kxcjZEMWlQWUYzV2Q5UGJzM1BmLXVlOG51REZKdXdjd2RPYWItSjQ0RjlHYlJjX085VlQ3ZU5EN1hkZjVuM2hEM2lEc3Jzd0ZTNDhWNU9FWlRRTE9GRzNSOUl5c3pGR05VYVlGTDRTWm5DbA?oc=5",
-      "date": "2026-05-16",
-      "source": "Google News EN",
-      "desc": "Colorado health officials confirm deadly hantavirus case&nbsp;&nbsp;KUSA.com"
-    },
-    {
-      "title": "Hantavirus countdown: U.S. cruise passengers settle in for 42 days of waiting",
-      "url": "https://www.npr.org/2026/05/15/nx-s1-5819872/hantavirus-quarantine",
-      "date": "2026-05-15",
-      "source": "NPR Topics: Health",
-      "desc": "The hantavirus outbreak on a cruise ship has potentially exposed passengers to a deadly disease. Most returning Americans are now housed in Nebraska. Some may be cleared to quarantine at home."
-    },
-    {
-      "title": "Un hombre rompe la cuarentena por hantavirus y es sorprendido en un bar de Italia tras viajar en el avión con - Antena 3",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWmxMd3JwSElxTDJycDZQanNwMmFVMHN5V2xjY25adTFvNXhqWlhwYTFxdXY2aUlXeWMwMkY2OHhMeFdQZTBWVGNzaVlRVkdBd0xwVGpsVW5rWWZqbnZlYUNuR0ZJYzgxTjVnQ1lTNE1DdFM1WnU5eWZOQVJQLVFmT0N6Q3dOQnhzX2plRDJFVUdJVXM1RWxDbDhLYXM1TnBtckYxbWNwVVF1YkVVV251QzRoc2VQSXlVVFlIXzRpRERxUkh1V01QUW9ldTlmYko2Y1ZnUWI1Ykd6UUQ0Uml0LXRZeDYzSlVvdlHSAeoBQVVfeXFMTmQyV1VHd2dPcFJZNmliZm9NV0JhUmVTUVl1Q0dmWWVTcVZPNmkyaW1hQXBTUFlYaXhUZ3NOTkg5VktEckVXX1YxUlh5ckdZUmVRYnVNeHM4MEVhX1lDZGhMa2VQcWl6S2NqS0llQ1FYUHNjZXJDU0hTNjVyMlVwTUh1bHAzbFdCZl9ud255NkZhYTlLOUdOQjdJeFl6TnpBZ0hrMXREcU14Qm5XRWk0Z0swQnppNm81YWlUMHpRazdhZlZWNDZ1QmtZaWl1OHUwVW9rdjBXTkszSVB0R080aGtfY0RTa3BHZEZR?oc=5",
-      "date": "2026-05-15",
-      "source": "Antena 3",
-      "desc": "Un hombre rompe la cuarentena por hantavirus y es sorprendido en un bar de Italia tras viajar en el avión con&nbsp;&nbsp;Antena 3"
     }
   ],
   "countries": [
