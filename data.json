@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-05-16 16:38 UTC"
+    "updated": "2026-05-16 17:41 UTC"
   },
   "current": {
     "cases": 12,
@@ -1079,6 +1079,13 @@
   ],
   "news": [
     {
+      "title": "El paciente español con hantavirus sigue estable y mejorando - El Mundo",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUVVxWlJmOHpZTEpiQ3cydE9KVlEzMVcxTHRUQjN5cGEtRnNwU0FtRDZCQXUyczBEMVBSVHZfSk5kZW93OXNfeW1XZjNybVlmbVl0Vm9Mbm84MkFWeUpObWlORkVMdGFOT0FFOWFKVjQzd3NNZkNrVXNWT3BxSk5MbEwwVDFGMVpSMlVPTkdn0gGOAUFVX3lxTE9WSWZXOGlEa2NKU25qZVZKMWtDcUYzZ1NmNXRIVTRDejBMTHZ5bkpZaGFnME4wZkMtRkxta1J3YklTT0RSb2RVUkd0Wkh1SnlLbzNKSDJ4eFFPa0pORFl2N2NIempvdVpyd3R0U2FXOThheTF0WjJmcTQ3eUJRMzBRaG1JZE5OZzNiSGpvT3c?oc=5",
+      "date": "2026-05-16",
+      "source": "El Mundo",
+      "desc": "El paciente español con hantavirus sigue estable y mejorando&nbsp;&nbsp;El Mundo"
+    },
+    {
       "title": "Científicos argentinos estudian el uso de un spray para frenar los contagios de hantavirus - ABC",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaFZLNnNBMW1NVVhhUmVqamxpVmEzYTJ3ZUIyVU9QNkVzNzlOd0ktNVVnSFNnVG9sbU1EOFh4N3JFcGt3MmVvZEZTS29keDFjZ1pkZ3IwdGdBS0pxcG9Qa0dUdDVQZ2ZaVUYyenBTczBFUW1UbkthWFpGWExjS3dSbU91TUMwUTV4UUtDd0doS01QMERfR3NnSWxJR0VEY1ZwcTJLOXBSbW16RFNpQUHSAbMBQVVfeXFMUHFMOGFJMm1XWTRDNDBUS2NINlpaZVlVZ0UtcENkb3JLMFhhR29qVGVMMmw1STQwcUFtZjNVVFFVU08tdEN1Wkw0VzdOWW1nNm5aWXdIMVEwOThkMnhON2M1clFrQlhycUUyQWtOUTh5QnFPRV85LWRBTFEtWDlmNFFsV2EtV1lHNjNiaVluQ2FTaXBmQ29tV2ZPanRWMHVfYlMySTBpdlN0ZVFrdEFlblhHczQ?oc=5",
       "date": "2026-05-16",
@@ -1100,18 +1107,11 @@
       "desc": "El PP afea el \"ninguneo\" del Gobierno a Canarias con la crisis del hantavirus: \"Los trataron como si fuesen sus mayordomos\"&nbsp;&nbsp;20Minutos"
     },
     {
-      "title": "El 'duro' cambio de la valenciana confinada por hantavirus: de las vistas del océano a una puerta azul - Levante-EMV",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT0hjMVQxYXZGNlZyRmJET2JnWG1DUEdpSm9DczZCME9tN0x5WEN6OWZvMDVkZ0l0OWdZeEUzMUEyT2VlTFR1elFaSG5xNmZMWnp4RDJ1WjNSQ3BZVkxQakhsRGtnTTc4VHU0X1ZFMTJYNTMwQ2d6c29nYm1XeGZ6aFhTNk9Qd2lhZUdGOHNnNk1FZk5yMzY5a2h3UmpxMWZkeTVnVnlHQ0pXN18yRzZzYTlKS05SUUtJa2x2RDNiYktzUUHSAcgBQVVfeXFMTVdyQUNXeGJRYmZVLVF4VDdoNnZtR21GYlZ4b0tIN2ZBNnRoTDB2UDh4OFVjMXIxTFZNM3M1UGRsSVRMS0tXdmp1VVNWZHFxLTliM25Nelk4ak5oYTh0TnFvamp0WXczQzdqS1lFb2ZzODdfZmJSa1RQaUhWNGZQZ3NfNzRNMUVRTFV1bEhUZVZOM0N1RXQwZndhdE9xa3R1RUdSa1dROGkwNDBmX2pQa2V0eUtzcjdwT1FHVFdGbU1MdzRkSVpEU2Y?oc=5",
+      "title": "El único paciente español con hantavirus sigue estable y mejorando: sus 13 compañeros siguen asintomáticos - Telecinco",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ2M0eXRrLUx6azJGNWFmOUt3aGdwREtVSlB6emtJLTNSQ3FTczdWSndyOTlEY1BKR2NqekxONjhLZjR0Zkg4aHZ5bHg1UnBaNVZ4dkprSF9tSlpaTzJHdXFxZjdKdXBtZWxWVVNzTXVmQV9scG8wSE54YzQyRldlZVJTNVJLT2dBR2llQVAwdHhXWWo1TXV3YTREVU5oV3BmRkZ2VnJTNzJRRnE0S21sM2ZR?oc=5",
       "date": "2026-05-16",
       "source": "Google News ES",
-      "desc": "El 'duro' cambio de la valenciana confinada por hantavirus: de las vistas del océano a una puerta azul&nbsp;&nbsp;Levante-EMV"
-    },
-    {
-      "title": "Una de las pasajeras confinadas por el hantavirus enseña el paquete que le envía su familia al hospital - Telecinco",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQR3M4T1ZYZGg2NVNhdlZfWlhfWHNrbnRfQTYxRUdGUDRuRnlrOHRhZHJhV3Q2aVhqYTd0cmthSFBTNDhjQzMwX2hBQWRnWk9icjUyNHVZX1V0UGMtaFdfTlBKME5iYWpOQmI2N3FtRG5GOGJtM0Q4WTdmaXlaQkpRYmpwZ3UzRlhGWnk1TGR0b3lDTmhwRTZWM0lTNzdxZmFSYTJ2aFYwNnVsdjZMSUZkSkdyS3p0N2pBeG1xNzZYczZ1dDMxc21DZldpQkprOWpHdHNN?oc=5",
-      "date": "2026-05-16",
-      "source": "Google News ES",
-      "desc": "Una de las pasajeras confinadas por el hantavirus enseña el paquete que le envía su familia al hospital&nbsp;&nbsp;Telecinco"
+      "desc": "El único paciente español con hantavirus sigue estable y mejorando: sus 13 compañeros siguen asintomáticos&nbsp;&nbsp;Telecinco"
     },
     {
       "title": "Hantavirus, última hora del brote, en directo: minuto a minuto de los últimos positivos, los confinamientos y los avisos de la OMS - La Razón",
@@ -1121,27 +1121,6 @@
       "desc": "Hantavirus, última hora del brote, en directo: minuto a minuto de los últimos positivos, los confinamientos y los avisos de la OMS&nbsp;&nbsp;La Razón"
     },
     {
-      "title": "El paciente español con hantavirus sigue estable y mejorando - La Razón",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQem8tbG1fbjdxZ2Q4SWRRNE52QkprNks4dmQtdjctMlZOa1BPbS04LVVrZmdkRVVLWFlRYUhMQklrOGUtQjhPeTVQM0VmbVFmZFlUSWhVTE9CcXk5aFRYYmVtUDB4QnF0Yk5HVWxJX3gzQWdnMEJiTWIzYUx0bm9FSlVmV1UwTEt3TVFabkpuRDBQc3JMY2p6UDVMMTM3WHZsX0tSWGswa09XaEQ0blNBNjdtQXN5dDhqRzlMc2Rn0gHSAUFVX3lxTFBsaFUySGtjNEp4Mk1QRkZDd3hxTWh4aHVzQmFvVTNvb2JiRk9vTlNLYTVxYWFmUkluYlVCYzBzS0Jxb2FncmZTT2NmcENnak5MUzJ2aWdkQnZ4enFQdW9HWF9fZHJ0ZS1MRUFLd2dFUHNDa1FzQWpVaVJycEUtcWZ4NVNoejBnVnlBX3lVZl9teG9xLV9rcmRpUmt2cE5PMVNHRDlmQ2Zvcy1vRU1SY3ZyVEdNRTloSmhGMndtU1RVR0RlVTRvMFozQzR2UzhpZlFuZw?oc=5",
-      "date": "2026-05-16",
-      "source": "Google News ES",
-      "desc": "El paciente español con hantavirus sigue estable y mejorando&nbsp;&nbsp;La Razón"
-    },
-    {
-      "title": "El brote de hantavirus hace disparar descuentos y promociones de los cruceros de lujo: \"Auténticos chollos” - MARCA",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPV2J4eDB5QUVHMkNvRnpuTlJCanpQUEV4aUtLNkQ4QmVvejNnOGRfa0hMWXAzLUVfbHRCTDdHb0k2Sm1BVHRuQWhTLVNYbDdZakthbFNycjk5enEyRGkzZ25FYXFwd044RFE4N1g0N0pGcGdkb3B2RzN1Rnk0U3pJeDNuVFd3NWNyODVZci1rdE53dFM0ZE1lX1pLRGhPUEoxVjFqdUkzV0JfS0tNZVl1MnlLRUNiRkloZUtQWkFqVlNvczFTZWVFdDRrMU16X05LVFFnd25R0gHWAUFVX3lxTE1xNF9xbmRCMkVHbUt4c2QtdnAtTEVNNEN6WG5wOVEyRmctWVZjaVRTSm5QTGhWOUpna1VuY28xcFFIanZ6am1CMWsxd3UzdERUd3FOc0dKTFo0ejVzMWlFYWhTR1A2SURXWUxxRFdyaEhEaEphWmFET19EX3Vtem8yQWtVZGdxaVBXNUp6VFJ3QnN6ZVd5bWxIWHl6d21pelZnY3RwZkl5NTZDcVpEeVJNdTFtVFZlRnVVMm54NkRmb0VSSGoxUlkwRGFlcGc3MjZzc3Uxb3c?oc=5",
-      "date": "2026-05-16",
-      "source": "Google News ES",
-      "desc": "El brote de hantavirus hace disparar descuentos y promociones de los cruceros de lujo: \"Auténticos chollos”&nbsp;&nbsp;MARCA"
-    },
-    {
-      "title": "Leocadio Martín, psicólogo, sobre el miedo que causa el hantavirus: \"Ante lo desconocido, el cerebro trabaja con el peor escenario posible\" - El Periódico",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc0V4NC1GVTA0VEEyd1lobkQzVjYzb0pWMzloemJveHBfWFhCcU5DTkkwbElQU1lvdUZmbDB1RU1ZZGRtRUw2c2Q3eU9fYy15T3AzM3BESkRBX3JacW5paWh2SDVpLThzUXZ6YXJkdWlqUUtmTWRQYVNYSXdzTUdGNXA3WWo5ck5zZlpaVEIwcmhHOTdub2lzUm9nN3PSAZwBQVVfeXFMTzFQcjJLSVJfdUZuNDNxd2tGMDJfS3lNU3FqLTlIeFlhWmxhQm1wc285T2Y0X3VmV2ZrUGNPZXhGb0p0dVJIT1VXOEdBQTc3SWJ3RUVTQ1ltS0RrbmxSZ0RoNHlYNXhiU1V2dHNUQmdNSVJVNHIwNHlFbFptUG5zUDNVVlJGejk1aF9BYk9iYlFjNHNxSVRFTnRSUUJX?oc=5",
-      "date": "2026-05-16",
-      "source": "Google News ES",
-      "desc": "Leocadio Martín, psicólogo, sobre el miedo que causa el hantavirus: \"Ante lo desconocido, el cerebro trabaja con el peor escenario posible\"&nbsp;&nbsp;El Periódico"
-    },
-    {
       "title": "El único positivo por hantavirus en España evoluciona favorablemente a la espera de una nueva PCR - LaSexta",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSTJzdElremdEOElwV3B1aDdwUHhHWjNoQUQ0T0hYWWNLOXZ6Wm0wTEZVLW1qa19PRFlDeklNQklKMWJWc293bG5XY3hyWVlaeDl0UXA3MGlWV1h0ekUxMkx6aktWaFZDSGR0VFdYcHpTdFVIZzJDdXdVN0RqMzlUQ2pOZEU0ZFhJOENIY2dqMjR5bVQySmN4MHZCaTlLQ1ZwNThJSHkzQUVFb1RITTFSbUFxaTR1STdwVnM4VEhvc2o0X3UyNkJVQTZXYmphUElWQUF4Z19IQndxZXN5NmpzZ1ZGcmpIZjg2Sm5V0gHrAUFVX3lxTFBtZWhxMUNDMW5tMXc5d3FBVnNNRUlaWTZReTNDdHhJN0pfMXdNNkwxZHg0T3Z5ckdfUTVYVFZFeDdVUG1xYUdsS1lORzRmSHFBVFZ0LTN4NHM1eU4yYWhSSm56TEhKRm9xVUxjVkZwa0NiYXp0dEJkbW0wUVBIYlZyLVBSYzBpNThoOFBNMDFYc1Y5OW1fR29rYnl2VVdzampCTkhfdWoyZDlJTHJ6YTgwTm9FZTVtT1FRZElLaTdOQTloeXlkOTlsUXBfeWpkamVaSEZDNWZQeXNVWnVNa3pZQ3dQS1FoMHFNbmM?oc=5",
       "date": "2026-05-16",
@@ -1149,46 +1128,11 @@
       "desc": "El único positivo por hantavirus en España evoluciona favorablemente a la espera de una nueva PCR&nbsp;&nbsp;LaSexta"
     },
     {
-      "title": "Qué saber sobre el brote de hantavirus - AARP",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONG53Z3NaSGNHcTNwbGMxal90TEU1eTlxbzFaenlraEVlcVQ0c1RBbEN1YnczUTZUOW81RGYzREtHd2YtZ3c1UnhGTGJENG9aU0I3Q1k4U0tnVEV0b3Q2UTNPRjBPUmJyNFNyWGhNX016UzVoSk1BcjkxLUNOWTl4ZU1XdFdOSjBsOGFfdXdLa3hfT3lJREUyd1JtTkZydDdzMVVIcWVsQnZ6bEpGZjdpQ0l3?oc=5",
+      "title": "Últimas noticias del hantavirus, en directo: estado actual del español y la francesa contagiados, nuevos contagios, síntomas y novedades hoy - OkDiario",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQ0NUYjZfazZYb1RXQWVzRXhfZHZyZjFwYklfWWhDRXRjQkRrMTlYbDFlR1dyWlJLVXN4dUlGLTRJbHJOUUtpS3g3QVVWTjhSY0wyLXJ1S21EZ1NULW8zVHF1ckYwWXBtUVVkSnBaLTIxVzRrWGE0THlhX2p4bVFXdnpnRUx4YXFhSmtSQXVJUTNSUmVPa1ZiT3VQUjhJbTIxc1Jva3E5OHU2THRJTDl0VElDVkFoYllacFBBajM0RWY3dU1MalZlc2o2Y2xnVGhKS1l1Z0VaTmphOUdzck5j0gHkAUFVX3lxTE12OXNXcXRULTBCcGpuM28yZVp1elJDSjR6M1prTXRtUDdFMVB2UnRBb0pnZ0tkQkNGWVlhYWUxY0NwVEdhS09MalN0Vm9Ockk0cng5OWZ3OWFLT2phSU9xX19GTUpyT1FMY2JxZHdQcmh5bDBWNmwzRWdfaGszbXJzNkx6M0EwNTRaUm5TZWxOWlVIOTA0ZU5RWDlNcFFrUG91WTkzRGFQYl9HZHJDMGRNRFdtV201Ny1iOV8xbWJoMUFXdjVJaGRBODFEMVdDYndyMUo0OXZoaVF6ZTB5V0tXbUlJWg?oc=5",
       "date": "2026-05-16",
       "source": "Google News ES",
-      "desc": "Qué saber sobre el brote de hantavirus&nbsp;&nbsp;AARP"
-    },
-    {
-      "title": "El hantavirus y el norovirus ponen a los cruceros en el punto de mira: ¿se están quitando las ganas de subirse - LaSexta",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeTM4cHhRRy1sei1hLUcyZU5wQkN1cC1kTTk3aU4xZ00zRUZjQndCb3cxWXZJTnBVRnZLcVBya3dodnVNTGNlSDJWSE5UMVY4RmRXOGdPVU5xdU9fVHA4WnRQSHJNYXF0cTNkc285czZZVjczbjg2NmRwX2lKaEQyQThMeFpla28tcTBnN1k5UktPLUY3eEREdDM3V0ZvNDNSV3pBOG9hY3B5V0dtTU9qYzJfVjBwcGlvb1dmT01nSmJtMldQX1dnbzE2YUFrWHZCNk9TSEpxQWt1dmNnYThVT1EzeE1BaVNISFluVEx1RG43NFnSAfMBQVVfeXFMT29YS2N0Ui1zUDhlX2xjUnkwaEFOdEozTmcwZUt6bVVWNmY3SUZFZW94UkVWdFZwMk9SZUh4VUdzb1ktUDRaajg0eG9IQWNDcjhoS09tRE84SE55UmlIeEVQXzAzTGozTlJqUnhNZFNZdXZZd3lpZWVlMFNmTXlWQjJFcmJwZHBUSkVXSzBVaTVhMnFva0ZmZ0QtNDNSV0lZcmZpZW9VR0k3bTFkMUUwaWRSem43UFp1UVFMaG1ldHRSbm1Ma2ZkQUU0d2NyVXdvQnI5RDdoWWlSWER6TTNIcTB6aDAtS0M1UHdaY1BrVnZJSUt3?oc=5",
-      "date": "2026-05-16",
-      "source": "Google News ES",
-      "desc": "El hantavirus y el norovirus ponen a los cruceros en el punto de mira: ¿se están quitando las ganas de subirse&nbsp;&nbsp;LaSexta"
-    },
-    {
-      "title": "Brote de hantavirus, en directo: última hora del español y la francesa contagiados, síntomas y cómo se contagia - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOYnpQdi05NHRSRzRfNE12VmJCSGlOUC1UT3V6SUFIUXB4cmhDYTB3ZHlEelIycFlQbkJGZE1VMTFtbGozc2lGVXhDWDZTOTFHWldFSlVtWmRaY2FIYTFUM3NvZ0k3cElWc0VVdXcyRHJDZWFaWmViR203czBCWWZNcVcyMzI5cUkydjJqZV9ham5ma2pfWVMxLUNHWlNqQXVxRURWTnRsd3dDeEdkOVJtbmhzVEN4Ui1heXBRUC1QQWpSVzVKbnRRaFlQVzg5ck8zaHJHbVMtdzZOX3QtUkd1SXh6ZEtLaFJaekpwZU84Vk9Fbzl3b083TV9INTVramJpamt6YVRRT2VSN25Lc1AzSTBwbWtTbktqYWdneHpLQTEtNHpMN3hoMTdwUXBNcEM2NnlMUkUzRExYemZaaGtBQUNvRWtudzJiTE5SeWdZQnJWb2puYXdNMldB?oc=5",
-      "date": "2026-05-16",
-      "source": "Google News ES",
-      "desc": "Brote de hantavirus, en directo: última hora del español y la francesa contagiados, síntomas y cómo se contagia&nbsp;&nbsp;MSN"
-    },
-    {
-      "title": "Qué es cierto y qué es desinformación en la crisis del hantavirus y el protocolo sanitario del Gobierno - Onda Cero",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSWhQR2ItaGJwdnEyS0NWT1hNYWx5LUZYNVhuMWpyMFNabXI4X1kyY2dyMGQzSXd3LUxXWVoyNlA0bThRX0FYOER2UXNaM2RuX0xaN21JMldpWnhCWTJPRldsUmNuZ1ZmcDNMV3pKQWtfQTBqSTY4c3hxZnM2dEdOYTIxWDA5SWl5ejRSSDg1V2NDNHVpcUVZX0U0SFRGdjM0RHJxSFZhV0tPUHBwUk9Uby1fd2VyYU9Fb29sbmlOenQxUEJfdWFlak5abHpVSDd0VVpaLUFLdmE1SElTaHV6ZGl0UDIxZmVa0gHoAUFVX3lxTFBjeGpTZTFzSU9HMC1DdjZ5WTdXNk1YR0FiUVd0cWR0SFA2RHpuVVFjc0pYMUZFOHY2LXd1cWIzR3RQUkxYb1l5TDB5a3haMUxWRWs1aEEzUUYtQmsxelA1LURVQVQ0V1NMQnJnMmxndlBqWGd0QnI4TGJVYUJMRnVNN0RuZTZfUEhjXzdBUnRSRV85TDFmLXUxeWo2RV9rajZjQnhLT292TVVUMFN3QUxoUmE0VlhlUjlHUThaRHNfZFNfVW52TndiNDZvQTA1elVmYU9DUmNVQ0l3TC1kSkpzOTB1R0pleHo?oc=5",
-      "date": "2026-05-16",
-      "source": "Google News ES",
-      "desc": "Qué es cierto y qué es desinformación en la crisis del hantavirus y el protocolo sanitario del Gobierno&nbsp;&nbsp;Onda Cero"
-    },
-    {
-      "title": "'Por qué cualquier alerta sanitaria como el hantavirus revive el fantasma de la pandemia' - El Independiente de Granada",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUWd3cGRENlhhaTdMRERjUk5vX0hJU3oxTFh4c3d1WGNJOWZTc2Y1Yng2NnVxdXF2bUhpbC1BMlctUTRnb256WEhETzNRaUtkNXlDY1N3Qy1uNEdPdjR0RHNjeVNmTUlIY1JybVN4UXlKMGNSdU54U2E1WnY4V2RBaTJDWkxLTE9WNFVLQ0N6dGV6LWZkeGdzVk5NTmd3d3puVTJac0JJUzg4Z19QamsteXp5RWFuWTZrQ0E?oc=5",
-      "date": "2026-05-16",
-      "source": "Google News ES",
-      "desc": "'Por qué cualquier alerta sanitaria como el hantavirus revive el fantasma de la pandemia'&nbsp;&nbsp;El Independiente de Granada"
-    },
-    {
-      "title": "El paciente español con hantavirus en el Gómez Ulla sigue “estable y mejorando”: el resto continúa sin síntomas - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWVJzcTJoa2EzQXpNaXJwU1hwVEJweG9zMFFNM25zQ2tzT3U2NmhmVERfRHVKLXFhazlvZHQ4bjN2cHhqYVNQYjBIZXlGMF9lWGRhSGZWRWQ4bWl6N1l1Z0RWaXdBQWw2Nlk3NWd5ZDhta2dDWmhaQjZ4MmhZZGgzUjZwcXljcnlhNEhwQmVPMmo0YVIwcmVyMFJMRDMtT0ZVYmM3QjA1WktUck1SMVp5WEk4MGhzZTYyLTJ0dlRMLVlxVl9EUzRpU2ctX1M2RHQ3SlBUTHBWOEhodW5NWWlpbVNXYTF1NjjSAYICQVVfeXFMTjF4Zi1VNXM3S3FNRGZuUEdaYzQ0bFI0RG9PVWdoY204eG9tVGltN3BSR2JiNUhUY0VZbE1iNm53NkpfTm84YUZuQmhnVTNJQWk5S2VTbzJLcDg4VERDMUVDazZIdXhYWVEwZkdNVGR2ZE9Fa050NHU3NVNXOWR5aFA0enFsQmFzYUtiY0tpdVJFb05BeFVHZ0Y2c0UtaWZodDZYYjZzcFRrWWM5SVNNRHNkbUtqZmxVbmktdENZeXU3dk5sU0pNRFo3VENqNXFGclgyMkpERG5iWWpvdzVmN05qWDZiN0kxczVSd0h2MlF4a3pLS1pIR3Z4czlyYVlyeHdn?oc=5",
-      "date": "2026-05-16",
-      "source": "Google News ES",
-      "desc": "El paciente español con hantavirus en el Gómez Ulla sigue “estable y mejorando”: el resto continúa sin síntomas&nbsp;&nbsp;Infobae"
+      "desc": "Últimas noticias del hantavirus, en directo: estado actual del español y la francesa contagiados, nuevos contagios, síntomas y novedades hoy&nbsp;&nbsp;OkDiario"
     },
     {
       "title": "Del Covid 19 al hantavirus… y a los que vendrán - elDiario.es",
@@ -1198,11 +1142,67 @@
       "desc": "Del Covid 19 al hantavirus… y a los que vendrán&nbsp;&nbsp;elDiario.es"
     },
     {
-      "title": "Here’s What Science Tells Us About the Risks of Hantavirus - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN3NYSE5lNUdGTkhZQ3RsS3Z5ajZFY3hIR1AyT2NxcEJUTVZYSHV6MW5DcGhDUHFmZlU5bGJDUklWSjJibWJONnV4d2lPYk0xZWs0Tmp6NEh5aVliRDFpcjhNajZEZ2I5RlVDTUpSOG9zbWp3YkNqRDRzeHFpU1ZxaDNBMWRjcUhBbUw0dU44VFV0VXZpbWFoa0NuTlVPNUhvZHBORQ?oc=5",
+      "title": "El hantavirus y el norovirus ponen a los cruceros en el punto de mira: ¿se están quitando las ganas de subirse - LaSexta",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeTM4cHhRRy1sei1hLUcyZU5wQkN1cC1kTTk3aU4xZ00zRUZjQndCb3cxWXZJTnBVRnZLcVBya3dodnVNTGNlSDJWSE5UMVY4RmRXOGdPVU5xdU9fVHA4WnRQSHJNYXF0cTNkc285czZZVjczbjg2NmRwX2lKaEQyQThMeFpla28tcTBnN1k5UktPLUY3eEREdDM3V0ZvNDNSV3pBOG9hY3B5V0dtTU9qYzJfVjBwcGlvb1dmT01nSmJtMldQX1dnbzE2YUFrWHZCNk9TSEpxQWt1dmNnYThVT1EzeE1BaVNISFluVEx1RG43NFnSAfMBQVVfeXFMT29YS2N0Ui1zUDhlX2xjUnkwaEFOdEozTmcwZUt6bVVWNmY3SUZFZW94UkVWdFZwMk9SZUh4VUdzb1ktUDRaajg0eG9IQWNDcjhoS09tRE84SE55UmlIeEVQXzAzTGozTlJqUnhNZFNZdXZZd3lpZWVlMFNmTXlWQjJFcmJwZHBUSkVXSzBVaTVhMnFva0ZmZ0QtNDNSV0lZcmZpZW9VR0k3bTFkMUUwaWRSem43UFp1UVFMaG1ldHRSbm1Ma2ZkQUU0d2NyVXdvQnI5RDdoWWlSWER6TTNIcTB6aDAtS0M1UHdaY1BrVnZJSUt3?oc=5",
       "date": "2026-05-16",
-      "source": "Google News EN",
-      "desc": "Here’s What Science Tells Us About the Risks of Hantavirus&nbsp;&nbsp;WSJ"
+      "source": "Google News ES",
+      "desc": "El hantavirus y el norovirus ponen a los cruceros en el punto de mira: ¿se están quitando las ganas de subirse&nbsp;&nbsp;LaSexta"
+    },
+    {
+      "title": "Una de las pasajeras confinadas por el hantavirus enseña el paquete que le envía su familia al hospital - Telecinco",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQR3M4T1ZYZGg2NVNhdlZfWlhfWHNrbnRfQTYxRUdGUDRuRnlrOHRhZHJhV3Q2aVhqYTd0cmthSFBTNDhjQzMwX2hBQWRnWk9icjUyNHVZX1V0UGMtaFdfTlBKME5iYWpOQmI2N3FtRG5GOGJtM0Q4WTdmaXlaQkpRYmpwZ3UzRlhGWnk1TGR0b3lDTmhwRTZWM0lTNzdxZmFSYTJ2aFYwNnVsdjZMSUZkSkdyS3p0N2pBeG1xNzZYczZ1dDMxc21DZldpQkprOWpHdHNN?oc=5",
+      "date": "2026-05-16",
+      "source": "Google News ES",
+      "desc": "Una de las pasajeras confinadas por el hantavirus enseña el paquete que le envía su familia al hospital&nbsp;&nbsp;Telecinco"
+    },
+    {
+      "title": "Qué saber sobre el brote de hantavirus - AARP",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONG53Z3NaSGNHcTNwbGMxal90TEU1eTlxbzFaenlraEVlcVQ0c1RBbEN1YnczUTZUOW81RGYzREtHd2YtZ3c1UnhGTGJENG9aU0I3Q1k4U0tnVEV0b3Q2UTNPRjBPUmJyNFNyWGhNX016UzVoSk1BcjkxLUNOWTl4ZU1XdFdOSjBsOGFfdXdLa3hfT3lJREUyd1JtTkZydDdzMVVIcWVsQnZ6bEpGZjdpQ0l3?oc=5",
+      "date": "2026-05-16",
+      "source": "Google News ES",
+      "desc": "Qué saber sobre el brote de hantavirus&nbsp;&nbsp;AARP"
+    },
+    {
+      "title": "Fernando Clavijo reconoce que cometió errores durante la crisis del hantavirus - Información",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTHpNc2J5YmNGMkpaRmE5eGFLUWd0djVCMUMzczhZRjNsdkRPUTFPQjgtZG9XT0hDd1pPQnUwc3lQbUtQOWdzOVJ4b0VwcjF4Si0tVkpvcm1qOTJ3SEpFWkFwLXpmOVVsR2dyVmJnUXhrSGV6MnpIUFlpclFraGpBVks3X2F4QnA1MWhlQmRXSmlhX0tkT25PeVp1OC1UZEFoOHFHbVc5WjVrX0c1WUEw0gG0AUFVX3lxTE50NXNrV1JDd1ZQcGFFMmc3ZUtaZlZJYm9xU25UZjVQNWZ2TVFEOThEeUFZQ3RLYTRBU2dtMTZoeU83NHFieVhDQ2NIUUNJU2VTcDZ6RkhOYmJ1V2JRbnZfd0p5RW9jX3RYU3NSei1oUFJqWUVIamREWUhwSGQ2T2JuZldrMkNqUlpvcHBxUGFIR2tlNFdSa2dYN1cxMDNhblZUNVFDTWpyOWh4dXRkbXRESVVPTQ?oc=5",
+      "date": "2026-05-16",
+      "source": "Google News ES",
+      "desc": "Fernando Clavijo reconoce que cometió errores durante la crisis del hantavirus&nbsp;&nbsp;Información"
+    },
+    {
+      "title": "El 'duro' cambio de la valenciana confinada por hantavirus: de las vistas del océano a una puerta azul - Levante-EMV",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT0hjMVQxYXZGNlZyRmJET2JnWG1DUEdpSm9DczZCME9tN0x5WEN6OWZvMDVkZ0l0OWdZeEUzMUEyT2VlTFR1elFaSG5xNmZMWnp4RDJ1WjNSQ3BZVkxQakhsRGtnTTc4VHU0X1ZFMTJYNTMwQ2d6c29nYm1XeGZ6aFhTNk9Qd2lhZUdGOHNnNk1FZk5yMzY5a2h3UmpxMWZkeTVnVnlHQ0pXN18yRzZzYTlKS05SUUtJa2x2RDNiYktzUUHSAcgBQVVfeXFMTVdyQUNXeGJRYmZVLVF4VDdoNnZtR21GYlZ4b0tIN2ZBNnRoTDB2UDh4OFVjMXIxTFZNM3M1UGRsSVRMS0tXdmp1VVNWZHFxLTliM25Nelk4ak5oYTh0TnFvamp0WXczQzdqS1lFb2ZzODdfZmJSa1RQaUhWNGZQZ3NfNzRNMUVRTFV1bEhUZVZOM0N1RXQwZndhdE9xa3R1RUdSa1dROGkwNDBmX2pQa2V0eUtzcjdwT1FHVFdGbU1MdzRkSVpEU2Y?oc=5",
+      "date": "2026-05-16",
+      "source": "Google News ES",
+      "desc": "El 'duro' cambio de la valenciana confinada por hantavirus: de las vistas del océano a una puerta azul&nbsp;&nbsp;Levante-EMV"
+    },
+    {
+      "title": "Brote de hantavirus, en directo: última hora del español y la francesa contagiados, síntomas y cómo se contagia - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOYnpQdi05NHRSRzRfNE12VmJCSGlOUC1UT3V6SUFIUXB4cmhDYTB3ZHlEelIycFlQbkJGZE1VMTFtbGozc2lGVXhDWDZTOTFHWldFSlVtWmRaY2FIYTFUM3NvZ0k3cElWc0VVdXcyRHJDZWFaWmViR203czBCWWZNcVcyMzI5cUkydjJqZV9ham5ma2pfWVMxLUNHWlNqQXVxRURWTnRsd3dDeEdkOVJtbmhzVEN4Ui1heXBRUC1QQWpSVzVKbnRRaFlQVzg5ck8zaHJHbVMtdzZOX3QtUkd1SXh6ZEtLaFJaekpwZU84Vk9Fbzl3b083TV9INTVramJpamt6YVRRT2VSN25Lc1AzSTBwbWtTbktqYWdneHpLQTEtNHpMN3hoMTdwUXBNcEM2NnlMUkUzRExYemZaaGtBQUNvRWtudzJiTE5SeWdZQnJWb2puYXdNMldB?oc=5",
+      "date": "2026-05-16",
+      "source": "Google News ES",
+      "desc": "Brote de hantavirus, en directo: última hora del español y la francesa contagiados, síntomas y cómo se contagia&nbsp;&nbsp;MSN"
+    },
+    {
+      "title": "'Por qué cualquier alerta sanitaria como el hantavirus revive el fantasma de la pandemia' - El Independiente de Granada",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUWd3cGRENlhhaTdMRERjUk5vX0hJU3oxTFh4c3d1WGNJOWZTc2Y1Yng2NnVxdXF2bUhpbC1BMlctUTRnb256WEhETzNRaUtkNXlDY1N3Qy1uNEdPdjR0RHNjeVNmTUlIY1JybVN4UXlKMGNSdU54U2E1WnY4V2RBaTJDWkxLTE9WNFVLQ0N6dGV6LWZkeGdzVk5NTmd3d3puVTJac0JJUzg4Z19QamsteXp5RWFuWTZrQ0E?oc=5",
+      "date": "2026-05-16",
+      "source": "Google News ES",
+      "desc": "'Por qué cualquier alerta sanitaria como el hantavirus revive el fantasma de la pandemia'&nbsp;&nbsp;El Independiente de Granada"
+    },
+    {
+      "title": "Ciencia canaria a 3.000 kilómetros: un virólogo tinerfeño firma el primer mapa genético del hantavirus causante del brote en el crucero - Eldía",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLS1KTS1FdmZQMktOZHhKajhlUDRXaFBaWnFmeEdkMTdOV2tVa1BoNS1vb3BZSzFjS3gzaU5UVkNHXzY1MFhUd0stVVBIa2ZKc3lMNkhCcEZQalNkNTN0ZnpNMmxTcnY1c2tNSVhSa0MwOC1vN1JmU1c4V1h2cXZ1SC1XZ0JvSE9PS0g5UjVfWkdxUdIBlwFBVV95cUxOcEd6dEdvTndEZnN0U3BCZE9DcnJfTnZRUW0yVmNwLWxCMEFwVXRHVWs4SU9kbzN0ZTRqVVNrRFVRd05MMVZ2Q1p4NmN0MnRFdWJ4VmRtYXZMZzQxWGNkalhLQUROeGVYRUU0c3phVE1UTnF6aWNnTTVlY3M2Ukozek5iOGFPenJKQzBka3A2VDA1ODdjTzcw?oc=5",
+      "date": "2026-05-16",
+      "source": "Google News ES",
+      "desc": "Ciencia canaria a 3.000 kilómetros: un virólogo tinerfeño firma el primer mapa genético del hantavirus causante del brote en el crucero&nbsp;&nbsp;Eldía"
+    },
+    {
+      "title": "Ansiedad, insomnio y miedo a viajar: las secuelas psicológicas de los afectados por hantavirus - Cadena SER",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNM3k3NjB1ZENqSENWRUN4ZGFwMEs0TUNBT28yY2tWbHRuUldETE9Mb2czUURsUmlQbFpqcUFvMHlURGZhZGY1bURROUotai1wU2xVSUJmUDRrdlNpY2xRdEZManhXRWFTWnd5RnFrblIycG1qUjZYWEE5b2k2QlNaT3Nia2t2VkhTclItcHoxV3pJd3IzdDVnYzZ4NTNOc3NHWXlyQWI4ajZjUjkyWDVNZzUxb0JybWFQOFpVcTBhM3BSQXl0b19mNWlNS2YxYkF6YldvZ3JqMUFHQm1vWGpj0gHzAUFVX3lxTE1KWWdETkFWRWhaT0ZJR0dPRjRmbWVIUmhKV3FrcTNDSFd2dXRmMWFmUkFXcnlwd3pVZDJLVkVlM1FsX1RZNjNWbElpZTBXZTJDUjk1N1gzcjVJR3NZVHN6aXBZT1V6VEt3Mkw4ZUZLeUlCaFBLeTZzSHEtM3pPWVB1dzh5ZDJTb0ZzWjZ4S1cxQnQ4WHJIYkJkWmM4SkdpSkt5dm1pM2tUWUoxRHJkcHJpemFTQTZKQ1dTRDllVUJ5c3RtdlNfcVluV3UwS01Hb1I2bnpBTHVxaHB3bS1SeFdkY0dpU2t1MmtTVHhzU25La1E1VQ?oc=5",
+      "date": "2026-05-16",
+      "source": "Google News ES",
+      "desc": "Ansiedad, insomnio y miedo a viajar: las secuelas psicológicas de los afectados por hantavirus&nbsp;&nbsp;Cadena SER"
     }
   ],
   "countries": [
