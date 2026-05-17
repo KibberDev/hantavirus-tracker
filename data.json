@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-05-17 11:47 UTC"
+    "updated": "2026-05-17 13:38 UTC"
   },
   "current": {
     "cases": 12,
@@ -1079,6 +1079,13 @@
   ],
   "news": [
     {
+      "title": "Canadian from hantavirus-hit cruise ship tests positive",
+      "url": "https://www.bbc.com/news/articles/c2k2p057ezno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-17",
+      "source": "BBC News",
+      "desc": "The individual is one of four former passengers on the MV Hondius isolating on Vancouver Island, British Columbia."
+    },
+    {
       "title": "Las PCR de los casos sospechosos de hantavirus en Alicante y Barcelona dan negativo: así evoluciona la alerta - Antena 3",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNMHd1NE8xekRLU0lMNTRaYUt2TUtpSzJwNVpzcFpHRG1TSzV1bGdKRWxKQ1hHWjA0UUc3WDAzcXNoX0ZnTlgtZzVwalFXaTJWaWZicTJFTS1Va1V3dTRCYnI5LUxkclVEa05ldDNWQzZHXzVmUlFZSXluMENGbUF0VFFRc25WTmY0RFE4dlpsUEN4ZVUtQ3RiMmlJUXduZWFTTXNfMnlWcDlrdmNTWHR2aE9ZdEpJSVZIT05SZ3RURkdaLVpsQUxuTnRqZXhOWXJjcF90TjA4d3ExTWlGcmQxXy16aTRtVFN6SDRMVmxPal9VU1hjalE3Y19abUZkd3AxT3hv0gGDAkFVX3lxTE1KaERfRWktbE96M1ZDaUgzY0Y1NjAzUlFtT3I2akxuYmdqUnJYNmtSa3hqWHNpVWxlVC1fY0ZBRlJxQndqT1hubDhsRWJ2d0xaQlBqRFNHcUF3RllmT3RfcVVuWXZwd1UxN21USU5tTlpMRWU2LWlIbGE3Zi1NRTNKaTVuc05YUEVoYWZGQUVSa1M2c1ZLYUZ0dVg2aEJSZkZQSXoyTWFYZGVXbEFzc1oxc0FETE5fUHoxWUZwaE1TMXRwYXBsSEx0REhUR3c3T3g0WVh2VHpjQTlzYWM3bm9fSkxZVXBKMFdTakZMTk5KYmV4aFc5SWRNZllVLVZxVkRGRlU?oc=5",
       "date": "2026-05-17",
@@ -1093,6 +1100,13 @@
       "desc": "Un canadiense que viajaba en el 'MV Hondius' da positivo en hantavirus&nbsp;&nbsp;Antena 3"
     },
     {
+      "title": "Las mujeres ingresadas en Barcelona y Alicante podrán recibir visitas y, con otro test negativo en hantavirus, aislarse en casa - RTVE.es",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNQkRYN3JtM1J1bnhSRG5ZQ0wzRXAxbTBwUmcyMFhKM1YtemZFYzgyeVJMOFRwV1hsS0tWZ3lLb2dYbXJHY005RjhyNy1mY1YydHU4MmhHQWp1ODFIRGVrM3JicjlOR2pSR3doUXNJZ3BQWTNrRl9DZ3pnR2g2WEVwekpDSG9UQmV1SDlZQmc1emZkRWJ1aXpRQ3IzcWk5M2EwLWJzUFZHMExLSU1XWm5iZDNGWEFvX2k1TW1KWFBpVU9tVUNZWXlfZmFMNjRwdEo5UmZQbzhxQkJSczlpT2RnRHg3MHZmZ2tJbWRwVGZ6QjVBRXfSAfMBQVVfeXFMTklyMXc4c09mcW9xZUNkWXVQMlhRZTFPOXRaN1VjZHVPbklCN3I1eDcyNFo5QXlYOTJMNVZhcDNEYjRtclZrUmhrY1hhTzVTQURmQmFpNmExZkV2WWdhNDBIY2NjcjNLcWUydDBYT2ExaU1GVXlBeFVvQ3RveTluX201dWpna1RwSEphalpnc0VNSHphNmliYmIwNDJwZVpaMjBWa1NKeldXUmdzSklOYUtsMC1uc3VlWnNpb2E1c2VOZEVCX2NZaFczZlNwVUZ0Sk5BU0NSMjVYNUpDazgyV01US0NSTjlZelY4WHE3UUNHN1Z3?oc=5",
+      "date": "2026-05-17",
+      "source": "RTVE",
+      "desc": "Las mujeres ingresadas en Barcelona y Alicante podrán recibir visitas y, con otro test negativo en hantavirus, aislarse en casa&nbsp;&nbsp;RTVE.es"
+    },
+    {
       "title": "Las mujeres de Barcelona y Alicante podrán hacer cuarentena en casa si dan negativo en hantavirus - EL PAÍS",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUVRFTHMzYWhjZ0ZOV2sxS19GajdNaHdsOXQ2Y2RWTGlXNWk5eVd2QWh2M2VxYjJ3RWZvWVVOaGdlTFJpU1JIY3JCZ201YUVmTlB4MzI3azVIR2g3YmdJS1F1Q3M2ZFN4SlNmTjUzMFFvQVFlOWtnSi1JVTgxWjdaNE1Tb25zZTZ2OWFBRUZ0dmhRZ1VyUU9HU0ROc3NhMm4wdGtGbWpLYkdESjRQSVlFSkY2QVJaZ25aUV94ZzdpazZWVXRMN0w2SUUzVzEyOVZadFd5TWZsS0_SAewBQVVfeXFMTlllVHRxaThtT085dWhwVElKalVfRHlHVHVlelAtSnVOZ0VJM0N0aGdWNTFHMUQzaGZjaHdkcThEVHFJeFpfR280Y3M1YTVtREUtUUVTM2hEVGpYdnpNT29RNEhjeF90VmJHOFdzZjUyWjMxdXdIeGhIcHRVbFZOalZvdWVWZWZCTktzWmlueXQ0bWtnTlIyZlVWX2tKSV9mV1lfcGt1VEYtWW1uT0tvOVpEVGxZdnpFVk16clBRNVQ2SEk0MUVxUUtWazNjb3pfV240RV82YlNTTmE2RUtZdGdlUHRkcEFlSmwxNl8?oc=5",
       "date": "2026-05-17",
@@ -1105,6 +1119,13 @@
       "date": "2026-05-17",
       "source": "El País",
       "desc": "Qué es una zoonosis y por qué el hantavirus no será el último virus en saltar de animales a humanos&nbsp;&nbsp;EL PAÍS"
+    },
+    {
+      "title": "Las dos mujeres aisladas en Barcelona y Alicante por la crisis del hantavirus ya pueden recibir visitas - La Vanguardia",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRlozQ1VmODR4V1ZpYUVWN3hWbnJLYW9VT0Viankxb0lTRU9SMnd4dDNxU2tCSEdkUXpsNEhCMjNUY29uMnZSaDgzazdNU0llckhRX2M2OW00M3piX0RtNEM4NmJuc3F5Q1RnLVpqRUpsaFdnZTdudy1BdmRHd1NSbDVJdVJBeFhfamltYkc4UUxHSkZXVnVYQzhDamJSLTRodXhHbjFoU0JJa1VtbmVmZG8xckhMY2JLV3VMZ1NUZWFsTzAzSFczTWlmRWZ0QkpGQjFBOC04cy3SAdgBQVVfeXFMT0ZaM0NVZjg0eFdWaWFFVjd4Vm5yS2FvVU9FYmp5MW9JU0VPUjJ3eHQzcVNrQkhHZFF6bDRIQjIzVGNvbjJ2Umg4M2s3TVNJZXJIUV9jNjltNDN6Yl9EbTRDODZibnNxeUNUZy1aakVKbGhXZ2U3bnctQXZkR3dTUmw1SXVSQXhYX2ppbWJHOFFMR0pGV1Z1WEM4Q2piUi00aHV4R24xaFNCSWtVbW5lZmRvMXJITGNiS1d1TGdTVGVhbE8wM0hXM01pZkVmdEJKRkIxQTgtOHMt?oc=5",
+      "date": "2026-05-17",
+      "source": "La Vanguardia",
+      "desc": "Las dos mujeres aisladas en Barcelona y Alicante por la crisis del hantavirus ya pueden recibir visitas&nbsp;&nbsp;La Vanguardia"
     },
     {
       "title": "La mujer aislada por hantavirus en Alicante vuelve a dar negativo y podrá recibir visitas - La Vanguardia",
@@ -1149,25 +1170,11 @@
       "desc": "Las mujeres de Barcelona y Alicante podrán aislarse en casa si dan negativo en hantavirus&nbsp;&nbsp;20Minutos"
     },
     {
-      "title": "La cuarta prueba PCR por hantavirus realizada a la mujer en seguimiento en Alicante resulta negativa - 20Minutos",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQU1BmbjRWc21NMmpWam9NWE1tYk55aEhBMm5DeUJ0QjRRaDFabHNnVEMzejNPdE5KZ0lwUjlaSjNLVEJ1b1A2SWFpQWlINlBEX2RQc0pQS0RTR2FkNFE5R3RXdjM2Q2pkSWVKR2pEWXZwWHB1dUFmVDVSb19hZ2lyeHhTNHh4b2NGcWE5c0tlX1BrbllRUzlWSEhuNzBuNU1hbmlsS2ZoZDZJYnJuSTU2Uk5KMWRlYlhDLS1hbHQwb0dVZTRWZE1tSC1QSlJrRFRXdTFkT0VycC1QTTBHSDJFQTlWZjBvTzdMc1pkOQ?oc=5",
-      "date": "2026-05-17",
-      "source": "20 Minutos",
-      "desc": "La cuarta prueba PCR por hantavirus realizada a la mujer en seguimiento en Alicante resulta negativa&nbsp;&nbsp;20Minutos"
-    },
-    {
       "title": "Una semana del desembarco del Hondius en Tenerife: el español contagiado de hantavirus sigue estable y mejorando - 20Minutos",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRWJaLUlJYm1PSVFncTd4VW1TQ2tFSzhOVEFuQzZnT1paWVBGVHlkSE5JODN1d2dBRDlqSUI4a1dYYlJwaGpCdkVLZ0g3cGdMMWx3Y25OZFBmNVdBSjB3eVA5QnlGVzB1QVNyZ0hTRjhBdXJKZE9GOVV2UmVGc19lbzVFc1N6TGxqanRnZm0waGwzSmJibWxqOFBTUHJFQ2FlX29HYjhLaFJVMjhaTngzUV9HOFdRSGpYYjBqcWZjdFlWbnVjS1NEaFFQalU0X2Iya05pTndlVjjSAd4BQVVfeXFMT25VMVpMZDBCSHp1MkFHbjhaNktJX3QyNEdmdkliRGEtVWREUEVNbTE2ZkhLa1RZZjItbk5fYUt1dGtpbk05VUhSWDYyQk0wMEFGYld0UFFjU2htVUdDYTZUcUYzQ2pKdEcyclNzWWVsZ2VGMEIxSXUwZW8xQXFVa2JEb3RxYzN0QXRBSUlFZnZqdEZJU2FKSFE5WWpHRFBFbW5VVDFPbHlrVUF1dTM0a3g0TG14alBRcmlZd212bmtRVEQ3Zm9qVWlXYV9jZDFlY1o1a1RkZ21aTVlic0R3?oc=5",
       "date": "2026-05-17",
       "source": "20 Minutos",
       "desc": "Una semana del desembarco del Hondius en Tenerife: el español contagiado de hantavirus sigue estable y mejorando&nbsp;&nbsp;20Minutos"
-    },
-    {
-      "title": "Un canadiense del crucero afectado por hantavirus ha dado \"positivo preliminar\" en la prueba - 20Minutos",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN2dfRk1xUHVST3ZxLS02YWFLcUVWWmcyNmp1RmNQRmZ2V0l5RWxHNVdFOUg2MVVTZU9Kc3IwaUhqSmJRNllLNFdTdWk0YTZpYmJLQTFYNzlhdmRFOW9CSGVxallYUzhEY3kxMmlSRU80YmdqNi12T2hFVzVvemJBb29tZ0hVbk5jd2V3WmZVYk9maGdIV1B1Vm9TdEdTM19HekpCeHBtcExMX0FvYjZuUWxtSDBMd0FLLU9Z0gHAAUFVX3lxTE1Tc011N1FfYnB0c0xoVWNocjdsdTBBa2xMTU9CZHJHMUc5SGxobzBPczBsbzE0ejZOYkdzNWpJUmNuRGJUaXdkT0puMkVkRkZ6VTE2cTBKdWhFbkFMU0Z4Zm82aHNUYnFxa2p0SXF4MVA1ZzZoc2cwWmhwbzREeWlici1jOF9QNXU0MV85UXFpOWlOOFBHUzB3TkhnZHNyamlBNllycFhHd2lVTXJ6TklTSHlLZEpZTE45eHJHdkFnQg?oc=5",
-      "date": "2026-05-17",
-      "source": "20 Minutos",
-      "desc": "Un canadiense del crucero afectado por hantavirus ha dado \"positivo preliminar\" en la prueba&nbsp;&nbsp;20Minutos"
     },
     {
       "title": "Infecciones climáticas: sequías, olas de calor o pérdida de biodiversidad impulsan que virus como hantavirus salten al ser humano - 20Minutos",
@@ -1177,32 +1184,25 @@
       "desc": "Infecciones climáticas: sequías, olas de calor o pérdida de biodiversidad impulsan que virus como hantavirus salten al ser humano&nbsp;&nbsp;20Minutos"
     },
     {
+      "title": "Un canadiense del crucero afectado por hantavirus ha dado \"positivo preliminar\" en la prueba - 20Minutos",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN2dfRk1xUHVST3ZxLS02YWFLcUVWWmcyNmp1RmNQRmZ2V0l5RWxHNVdFOUg2MVVTZU9Kc3IwaUhqSmJRNllLNFdTdWk0YTZpYmJLQTFYNzlhdmRFOW9CSGVxallYUzhEY3kxMmlSRU80YmdqNi12T2hFVzVvemJBb29tZ0hVbk5jd2V3WmZVYk9maGdIV1B1Vm9TdEdTM19HekpCeHBtcExMX0FvYjZuUWxtSDBMd0FLLU9Z0gHAAUFVX3lxTE1Tc011N1FfYnB0c0xoVWNocjdsdTBBa2xMTU9CZHJHMUc5SGxobzBPczBsbzE0ejZOYkdzNWpJUmNuRGJUaXdkT0puMkVkRkZ6VTE2cTBKdWhFbkFMU0Z4Zm82aHNUYnFxa2p0SXF4MVA1ZzZoc2cwWmhwbzREeWlici1jOF9QNXU0MV85UXFpOWlOOFBHUzB3TkhnZHNyamlBNllycFhHd2lVTXJ6TklTSHlLZEpZTE45eHJHdkFnQg?oc=5",
+      "date": "2026-05-17",
+      "source": "20 Minutos",
+      "desc": "Un canadiense del crucero afectado por hantavirus ha dado \"positivo preliminar\" en la prueba&nbsp;&nbsp;20Minutos"
+    },
+    {
+      "title": "La cuarta prueba PCR por hantavirus realizada a la mujer en seguimiento en Alicante resulta negativa - 20Minutos",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQU1BmbjRWc21NMmpWam9NWE1tYk55aEhBMm5DeUJ0QjRRaDFabHNnVEMzejNPdE5KZ0lwUjlaSjNLVEJ1b1A2SWFpQWlINlBEX2RQc0pQS0RTR2FkNFE5R3RXdjM2Q2pkSWVKR2pEWXZwWHB1dUFmVDVSb19hZ2lyeHhTNHh4b2NGcWE5c0tlX1BrbllRUzlWSEhuNzBuNU1hbmlsS2ZoZDZJYnJuSTU2Uk5KMWRlYlhDLS1hbHQwb0dVZTRWZE1tSC1QSlJrRFRXdTFkT0VycC1QTTBHSDJFQTlWZjBvTzdMc1pkOQ?oc=5",
+      "date": "2026-05-17",
+      "source": "20 Minutos",
+      "desc": "La cuarta prueba PCR por hantavirus realizada a la mujer en seguimiento en Alicante resulta negativa&nbsp;&nbsp;20Minutos"
+    },
+    {
       "title": "Detenido un hombre en EEUU por planear un tiroteo masivo como protesta ante un posible confinamiento por el hantavirus - 20Minutos",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMWMzNEdWakNmUjlQY2FOTzhNRHcyalViSUNCYUhKNkhrekFpb3hyZHEyTzEtRkJqekpTLU5FM1FPMEdyVWtQQ1RfMnpSSkk1WEczcU5Bbmsxc2JpVjViYnIzTEE4bG1fZGZERlRvNGJ5djVBT21KOVIzOFBSTjR5ZVhEaUl0TjF0NGJjT3FkT2VvLTF0bEZzVzFlVFpzRzdDR0gydTE3Tm1lWDg1Z05PbWQzYWoyQm5BVm1KdEVIM2pNMGlVYldrUzRtQjhVMjdVaE8wNFNlV1J4bzUw0gHiAUFVX3lxTE5LNEY5ZkpTNW92UVRWazAyVXAxNzh1blh5QzJIaXFONWpHSDBJVmFtMU1GT2RCSWJVbWp0SGZZeHJUc2FFWHVDUjl3b1Y1VGo4QlJSR0p3b1cwbDJmaExuYlk1bWEzVFFWaWlFSTJ0YjVEandEa2QxbzVSTGEzYnNMMjVuN2JaU3AxQ2dVTG5kaDJRYVVjdjVNSi1zZm8yYWF4VVRpcFJkTVdNMURlWGdCZXliRm9EMkpuWXY3amJRTFBhdlJ5SVgxVGhhV01pLThOTlhXUE42YVVYSjFhQlJpcnc?oc=5",
       "date": "2026-05-17",
       "source": "20 Minutos",
       "desc": "Detenido un hombre en EEUU por planear un tiroteo masivo como protesta ante un posible confinamiento por el hantavirus&nbsp;&nbsp;20Minutos"
-    },
-    {
-      "title": "Un virólogo español firma el primer mapa genético del hantavirus causante del brote en el crucero - El Periódico",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSnFmNkNpbkdhTzBORnIwNUt5R0dzVzl1WG1QeTJ5RmRnd0hyMzJLUWlXbElTN0FUWERGRko4RC1lX05iWlF0bTI1X0c3VVdnWXFYckUwZ0owYUpQTUZ5TkhKX1BXUTdyY2txeHRKUk5BYjBjSHYyYmhITVRkTzloRnVCaC03R0puaXo2UmpHYjJIMXJJTDIxa9IBmAFBVV95cUxPS2JhdnlTN2toNGRiWm9JR19Ra2tFanVRNGlmQnpMczRpTFMzdUE4WWIzdFBNYVI4TEUtZUd5WkNqMmZvNHdLRlV2bTI1QmwwYm1RcWZDWmhkSVRCMlF2SkFxQzZxNXhVYi1wd0NJbW1GMlJOTFpPVm40aEl2WDlHNVc4QmJid0d5YnllUWpGek9tb3cydDNFSg?oc=5",
-      "date": "2026-05-17",
-      "source": "Google News ES",
-      "desc": "Un virólogo español firma el primer mapa genético del hantavirus causante del brote en el crucero&nbsp;&nbsp;El Periódico"
-    },
-    {
-      "title": "La alicantina ingresada por posible contagio de hantavirus da negativo en la cuarta prueba PCR y podrá recibir visitas de familiares - Las Provincias",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVlFkektTay1hOFM2OXNuUXJFRTZRY3ZXdDkyWEpQS2xnX2xBYzR2R1hid3N5S3ZNaU5zOHA1VWpfV3lsWU81WHdYZTNLbW0wS0lLTGpsbEtiX3BpUWJzY1ROTDZyMHQ5bDZnWi1oZDQ4NkRpTkl6anpMWksyMUVjbTJZUmpvNkdDS2thZjFrM0NKMmxmdUlieE91ZEJhTkZfdHVKQmpEUWFlUWI40gGyAUFVX3lxTE9FZWpfVEhNdnZfeFg0M2diVHMzUnNaZElXcXA3WVU2bHFtUFdkTjBFY2h5Wi12MjZpNjkyTmVDWnhtSWtRRzVyYlFaMTU3ZUtJbk1QSktGMTJUbDFEX2trdGFIQXZJWnlBQWF1UzktNFlmUVFLRjZyOVNKYmFnRXhVZlZ1Y2pkSmotb2l6STh4RmJ3bl9FRW9Dalg3SWRUeFFvYmhKMVJfREZlTFpEVTVxcXc?oc=5",
-      "date": "2026-05-17",
-      "source": "Google News ES",
-      "desc": "La alicantina ingresada por posible contagio de hantavirus da negativo en la cuarta prueba PCR y podrá recibir visitas de familiares&nbsp;&nbsp;Las Provincias"
-    },
-    {
-      "title": "Brote de Hantavirus en el crucero MV Hondius, en directo: última hora del español positivo, cuarentena en el Gómez Ulla y estado crítico de la paciente francesa - El Periódico",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZl9UeTE2dTZGQm43MUNQRkZLWFRoMEtlTmJiVlBqaC1EMmw2OWs5b1lHODMxNmF6TEtFSEIzTjg4SV9yaFpVWXJnc2hBUW9hcG5ySndNMnpYVV9kemNLZlNCR0NNbFpuQ1dyZkhkajBLMGNHNkJiUnQzM2xoOTN2WTk2SHg0akhLOXRLNU1QR2psZk9mUHNDekF0YkUxaDl4ZnBSN1BFRjVPQ25US0lBZTBVVTNFbGdjUENlR2pmVkNTTmNRckxVSnYzelRIdTBIckpzSjBaY9IB1wFBVV95cUxQb25MblVzSkxtcHFpNjc1QTRuWmhhSUE3VHNOazFvODMxdnlocUxCUy0xNHpxVDdlUnlCLTNYcWY3NFBhUGEtaS1CYTgtVmJpRkhHSmtUemNJOHdjY1lEYU9fUWNDOVo0SVcyLUFNb1MyQVk2YnhScEt5WUNxeUVmekNVUXMtWkdHU1NOdnhaSlc2ZUJWZ0FUcjdRc2NZVTZ4czA4QW9uSmFaanZia2YtR3FQX29JS3N4UGtIZXhiRFhIS213LTdGdUduNDN3RnJzVlBGTWY2RQ?oc=5",
-      "date": "2026-05-17",
-      "source": "Google News ES",
-      "desc": "Brote de Hantavirus en el crucero MV Hondius, en directo: última hora del español positivo, cuarentena en el Gómez Ulla y estado crítico de la paciente francesa&nbsp;&nbsp;El Periódico"
     }
   ],
   "countries": [
