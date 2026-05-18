@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-05-18 18:12 UTC"
+    "updated": "2026-05-18 20:03 UTC"
   },
   "current": {
     "cases": 12,
@@ -1079,11 +1079,25 @@
   ],
   "news": [
     {
+      "title": "Los trece españoles ingresados en el Gómez Ulla vuelven a dar negativo en hantavirus - Antena 3",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQME1XUmR1SUl5Uko3eDllWlJsb0hpYnAtNHlxaEE2ZktvMkRRNnNYMkF5bmdIaWlPYWIxUEFlRm0tcjNKaXRja2RYRndsTU1TUXNjYndQX2NxQklhUVlvTU1WTENEY1dPaW9XM3lBTWpzYjd5SWlxWGdkTUpjNDlYZ09ZeGFHMW81akE3NWVmZEFHU2w5bHl4b0Vlek9wMWdRTUpMZ0FXS0hrSDdZR1dGVUU2NFNwUzFiNGV0dzdaMFViNFVXdFlFZHRYT0gyb0ZmeUxIQjR2TXI2ZXA4aHlz0gHfAUFVX3lxTE82NTFFNmQwLWFCRmxURW1LSjZxM3F0NmNIenh1M2c4SzhETGFOdzZjNnM3VFB1cGNjZEJmcjAwTnJNS0RyTVhSb2JPMnN2YllTUi1yOFdvWmdTc0FVc2NkWmN0SGY4RnBXaXFvSjZycHRKeUgzRFNqU2Fvb0ROcHVSMi13dGx2MVViYXkyb3IwN29WVHFRSkRpcnI1amJ1X08yWTNrSW5nQUsxWnRsUmloNzFUcHB0azFIZ0swejFjMXQ0SFIxRkhiS2F5NFZrWkhPM0U4c21EaE5lVDJtcXM?oc=5",
+      "date": "2026-05-18",
+      "source": "Antena 3",
+      "desc": "Los trece españoles ingresados en el Gómez Ulla vuelven a dar negativo en hantavirus&nbsp;&nbsp;Antena 3"
+    },
+    {
       "title": "¿Qué pasará con la tripulación del crucero del hantavirus MV Hondius? Llega a Róterdam bajo máxima seguridad - Antena 3",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdU1WMmRmX0FBSG0zSTBLVXV4aWtqMFh4b2ZpWG1saC0tdm1XQnJfZlFGQmVTU05RQnVIWk5ubnZtcWJBRFRld3MtZG82N21ZU1g3OVJ6M1pMVmNlVW9LREZOakMyT1JmdENNSVpGV0hRMDZxWHVzcno2LURXMzJzOVZvcmhjcUFyQnVwNmVYazYxN09lY2RCTC1CT2EtN3I2RHg4TWRsWkhKTGY4VnZUYVNNbXRwa3VVdFFZV0hpRURfRkZncDNwUk02eGE0WUp0NkVqa3ZLTkMweVNocGNTOTJueVdjMVJxOW83b0lGa9IB7wFBVV95cUxNZ3dDakNlRVJHVVZFTzBoc3pwOVpuTTRybWU5ZG50YVJGdkdfTmx2VjhRTExTQXJJUHJwS2lJR0t6MWd2Rzhfd1lwcjZpa3FrbE9keTcyUlZ3Qzlyak92OWhFTEhFemV3Y0puaHFsbFF4Rm5pVE1wd2xHYVNhQ1ItWW5YTGhXc2tLUVZ2RFlOelY5MEZKU0pIMXhGOXNMd2ZGYkpBcTM0OTdJMkhaVEdISjFrVktCc3NYZVA2S3VwbXRuVFc5ell4WlM1V2ZYWk1tdkp3Ylc0a2tQVkRQUldLY2xBY2NtQ2Y4TnJwTEZKcw?oc=5",
       "date": "2026-05-18",
       "source": "Antena 3",
       "desc": "¿Qué pasará con la tripulación del crucero del hantavirus MV Hondius? Llega a Róterdam bajo máxima seguridad&nbsp;&nbsp;Antena 3"
+    },
+    {
+      "title": "Los 13 españoles del crucero Hondius vuelven a dar negativo por hantavirus en la segunda PCR - RTVE.es",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcHY5VERJTXVZaVdfZExyVGlmU1dwVi1qcnV0cjFuY2pleG1mV3B2Y3M0SGtBcUZ5Zng1cGN0M0lzSVJCMmtYd2ZWUkNlejhtV2dENFJTU3MtNWd0MkZaTC1DMHBVZkd5aDhQNFVvcWQxb0o4M0VXRTVEQzk1N0lDaUZXdEtKWmRYYlozcDlIVmhGcFJYNi1HMm1IdGgtZnJUMG16blU4MXZiNVNsTXlmUFNWMzlpUGwzLWfSAboBQVVfeXFMTTBhU1NlSWZpSUNXXzQ2WnRkWUlMWmwySGxLRFRISFN4Yk1HbG43d240YnFnb2lkcUEzUUZnN3VqUHpJNHd3TldmRU40M2tydTBZTThlWUl4VG9ZczhVVHV4dVo5VXUzZml0YkttcERfdDBQNVZGY2wyRGluZ3VCLU9TX2x6VlRiYmlWTVBfWUxRY2lDS2c0WDgtbE1RbWR4cjVrYUd6VExQclpTR2hNN05PclBrMklPbE1B?oc=5",
+      "date": "2026-05-18",
+      "source": "RTVE",
+      "desc": "Los 13 españoles del crucero Hondius vuelven a dar negativo por hantavirus en la segunda PCR&nbsp;&nbsp;RTVE.es"
     },
     {
       "title": "El barco del hantavirus llega este lunes a Países Bajos y las 27 personas que aún siguen a bordo serán puestas en cuarentena - RTVE.es",
@@ -1100,6 +1114,13 @@
       "desc": "El hantavirus revive los bulos sobre las vacunas de Pfizer contra la COVID-19&nbsp;&nbsp;RTVE.es"
     },
     {
+      "title": "Los españoles en cuarentena por hantavirus dan negativo en la PCR y podrán empezar a recibir visitas - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaTl0dENyeGUzb2lNYkxnNlRrZHRVV1lNWXg5bHRWYXZ2cFNHMXdtNkpQVEZxVGJmRXNoZmFQbEtxSTVzajdwbWdBLUR5VVdDbHlvVTVTRERQenlJMUNIallybFp5NndncWJrSG0zMzFfSHo1SWRsUS02dWo3RlZMem9LUWVCRVhPeFBJNHBjMm5ZZU42U1lZLXVFajZmN1NFaW5NRG5sR1l0TGpFV0VEbWdONDFTSnhjUVBac3doQm03VVBOVmJ4SWpOMFZkeldWTGNzTTlCUXFrSENn0gHwAUFVX3lxTE42eGM0QlgxMENOU2dGc2hjUUFaekl5REpIQ1pUMVBFNl9XdWpDd3Vha1BmVWZJSXkzc1ptZjRRMzduZ19VZmRNQmNSMEFBaXlYRTg0SDJ1akExVkQwMkl2VkhvZTRsakhzVzdtdXhQd3ZuYS1xMi1rc0Fna291NUFOYUVDV243WFVzdmpMcW9lZTFrMzhRNk5nb0NLbkFKSDI1WjVTLUVrN1RoejlfV25SSnJ3ODlubi0wS2dLbVBueWxMSUs4R1ZNTmIyM0g3dXpsN3dnZFJ1V09sSzR2UERKaWxTSF9aNUFPdWUteFVRYg?oc=5",
+      "date": "2026-05-18",
+      "source": "El País",
+      "desc": "Los españoles en cuarentena por hantavirus dan negativo en la PCR y podrán empezar a recibir visitas&nbsp;&nbsp;EL PAÍS"
+    },
+    {
       "title": "El crucero ‘Hondius’ atraca en el puerto de Róterdam para su desinfección tras el brote de hantavirus - EL PAÍS",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNekY3bFFKbjRXdS0zWmJ3S25xWHE4Y2ZxNlFJU0t0Q1Nhd0FhaTN2dWZXcmxMbVZsd3lTRFZlWmJLUDRaejJ0N0pkQnJyRlJick1NakU0RV9hTGZ1NlN2UGdJdnphckFpSzh0eHZKdHc2VjBNM2pSM1IzRlFoZzNLUHg3TGZJQ1FBLU1CckZrY2tzWlFZUFE4cXVtdlRVYVMyOE1LWGlTV2s4cTluZ2w3Y3RiMFg2MEs1Y2ZQSHZYRUFxVjNCM3RUQndnLVloSV8ycEhDWnBkVzVoMXfSAe8BQVVfeXFMT3B4dWVaN2lmdzdaZXZ3RTRVd2hIWmlsWHVNSmFDa2lvQWp0eVpoZEktSk1jYXpqSGI5Y1I1VzhjV2pvSUlScXpLM1d0T08yTTBPSUdGQngyVDloV2J6aWtyX1F3LS1nZ0luR29LQkVsaTBCVWgwVXhHR0dJT1MwQm1nMXlxQUdvajhGYXFVWklUTDdpbjVCakc3bDRkczdiRXNQak05ZDZsbXNfQmo5LUVmUktxZGVkbHUxVGFtakNGYnBYQlBZZHVNaldLTUQ4dld3d0J1Tk5wbHREWGtSQVR3WmVMa0Y2eXBLb1J6c2s?oc=5",
       "date": "2026-05-18",
@@ -1114,11 +1135,32 @@
       "desc": "Hantavirus en EL PAÍS | Pág. 4&nbsp;&nbsp;EL PAÍS"
     },
     {
+      "title": "Con EPI y mascarillas FPP2: así serán las visitas a los aislados por hantavirus mientras sus PCR sean negativas - El Mundo",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMkpCMVZsR29seFc0cWsyaFZPVldfMG82bnFpeUFEbUtuT013UVVjRGxRaFNoYUNUS0dKLXNvRURqUm9rN1BydFdiM2J6eXE1b0xlSnFfc3plRFNKbGpNYkN0cmcxdVJURE1PWGgwcjNOUHRHcHpsa0RmaW9PeTdsMlBxOG9ONE9oM0E5Y3dB0gGOAUFVX3lxTE82aUhPRFFpTFhrY01RZDlQNHNoQlJBY1ZaVllGRTJ3amctV2hBWGlNbzJQTTN4YlFfb3pKQUlBXzVFekhGSWRERElFWFBVb3N6Wk56V21DbVNVeVdvdXlvdG9jcTNrVDFmVFNFM3V3bDM1bzg5Tkc5NkNoLXFKUHlJeG9Jd1FrcVFraUNuUkE?oc=5",
+      "date": "2026-05-18",
+      "source": "El Mundo",
+      "desc": "Con EPI y mascarillas FPP2: así serán las visitas a los aislados por hantavirus mientras sus PCR sean negativas&nbsp;&nbsp;El Mundo"
+    },
+    {
+      "title": "Las PCR de los españoles aislados en el Gómez Ulla por hantavirus dan negativas y podrán recibir visitas - La Vanguardia",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUENTZGtqckUtaEYxNkc0OU9PSFpHSk9vWGcwejJncDhHbENZLWhNQTJzLWFWeU5qYU9PZmxfaVNlaHFzMWxZcWdoV2JJX2VLX0w3S1YxNXlGUmlQbGlVemhtN0dZTmRLV1ZrUVJWb0lwMzFZN2JnVnVodWRXU3ozVXpTZkk5MUZGelpVaDVJYldFVlhhX29yWmd2bWxycllEQ212N0R4NDZOaW9SdHBqV3Q1UXVpanN6dlhRZDZ5MjFDbmdEb0xqcEtqQmNTd0VkUEZradIB2gFBVV95cUxNbUE0NWxKeHhZcHJTcWRQQjduLW40UDJTYkpHS3hPbThESzFpaXdXZ3o5QkZlYVZlQzBHMFRoN2tRRGJfTDllMlQtUnNTNFNNM25ZMXlCSm5MOFhCRklvQWhpdlhna1FPcnpDMjFkaC04bjhwclBuSUlzU0xGVUdpb2VuNkJadS1jMnBFclhWOGNEYmRYNGRvOXI4dndaUHl0N2dhWmZUeHJ3MnE5WUMtNHV6VzFzYTMtQURCR1NnaEhKQThXVkVodUVsQTZnelRNYnhrSUppbUNFZw?oc=5",
+      "date": "2026-05-18",
+      "source": "La Vanguardia",
+      "desc": "Las PCR de los españoles aislados en el Gómez Ulla por hantavirus dan negativas y podrán recibir visitas&nbsp;&nbsp;La Vanguardia"
+    },
+    {
       "title": "El 'Hondius' llega a Rotterdam para su desinfección del hantavirus - La Vanguardia",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOTJlaHU2ZHFRYVlFNnAxbS1UUTQ4R3ExQXlaTzhIWEkxN21NMDFrYWZ6R191bHBlVXkzS19INllwSlozNEZQM2NoZmRKUWx0bmhlZ3plemxaNjQ0Z0dXdkZVU0c2Q2h2a3c1eWFBa1VxeXh4dFMxbExaZmMxaVlWTm94TFNPMEJpYU9vcGVDalMyNVMzMmRuVVJOa2NpOGRkRWpoaGs3b9IBrAFBVV95cUxPQjI0UmNSbjVTX1V0UzZGdnE5Yy1lMnIxUjg2ellJNnZockM5TlhxbDAzVmdIRjBHQkFFVmoxZXRmNDBUWHRoOFNyQ1kyTUxSVWxJR1c5RWxMQVB3VldibHlaWDlHZjJtczFkVzE5bGZSdXhNMnBYaHA3ZUFOUlpxOVI1VHdZTDZrOUFFQW1nZkVUNWZfVEN1dzZTcGNscEU3ejRCaUF5Zi1lMk8y?oc=5",
       "date": "2026-05-18",
       "source": "La Vanguardia",
       "desc": "El 'Hondius' llega a Rotterdam para su desinfección del hantavirus&nbsp;&nbsp;La Vanguardia"
+    },
+    {
+      "title": "Sánchez reivindica el liderazgo de España en salud global con casos como el del hantavirus - ABC",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSzVLNmN2NktpaGRjZ0RjTm00NzQ4VDIzOFlyaW1CdG1xRGJQQ3JCRmxEZXdHWU50N3Jlb3RCTXNOZVRlcmpfamRHQl9rdVhmQ01SN3NRRk1ibjhtMUJFTTFJSjhTdXl4OXYxcDd2UjVWVjBtNWw5ZW5ScUo4RnFQdzJnMjd5NG5yNGZiYlk1ZU1mWUpmMEMtYTVJS3VEOG1hZFlUYVRn?oc=5",
+      "date": "2026-05-18",
+      "source": "ABC",
+      "desc": "Sánchez reivindica el liderazgo de España en salud global con casos como el del hantavirus&nbsp;&nbsp;ABC"
     },
     {
       "title": "Los 13 españoles aislados en el Gómez Ulla vuelven a dar negativo en hantavirus y ya podrán recibir visitas - ABC",
@@ -1135,18 +1177,18 @@
       "desc": "La desinfección del barco con hantavirus se hará a mano y los colchones y ropa de cama se incinerarán&nbsp;&nbsp;ABC"
     },
     {
-      "title": "Tedros agradece a Sánchez la gestión de crisis del hantavirus en la Asamblea Mundial de Salud - ABC",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNemZDV0l1aUVSYlQ2aWlFSjhEWDRCRGw1MlpCZ0otSnhxTmUzUlM3MGVIVVcwQkgxWW5RZTNJMHFpZHd3M18tSGlfclRKbzlLUHJFTVNtRkZaTWJoN0dEMGdnS0pNYUVQTnRBb2hQSnNLbC1jZHBZbVUyNDdKbU1jT1lNMHZVbjRQa253WjBPQk1zbkZ0NnNkTFlnYm1iQUJXNGkxOFR5ZVZ4b01VLTB1YkcwQ04?oc=5",
-      "date": "2026-05-18",
-      "source": "ABC",
-      "desc": "Tedros agradece a Sánchez la gestión de crisis del hantavirus en la Asamblea Mundial de Salud&nbsp;&nbsp;ABC"
-    },
-    {
       "title": "El hantavirus sobrevive en el semen durante años - ABC",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVEpGOWRxcUNFZjZpUFhZUTY4VTR0d1NzXzRKeEFxNXBuYURuanpyazJLazZITEFFdmZhYTRVQ25UeUFzS1RCTkVMRklLVGN5RmdPWHozMEZtekxlcUFkSWdGVS13Sl9SSUl5UzhiNk5RYmszbDFFNDlkRXl0OHJ0dXRKamQwMWJRc0HSAY8BQVVfeXFMTjB3MDN3TVBfUl9BMGJneVk4aU5WVDJEUF9JZ09SeGdWOXhHczc3V3ZLTV9QX0dXVEpicG5Gb1doZFREU21KTURfLWNXVDRnbXlXUjY2LWNrVGNIWlR0QUpKbzQ4cDEyLW1hYTA5X3QzZEZselRUeHVLRFRHdWdNelkzMUduM3NLTGYydTJCWFE?oc=5",
       "date": "2026-05-18",
       "source": "ABC",
       "desc": "El hantavirus sobrevive en el semen durante años&nbsp;&nbsp;ABC"
+    },
+    {
+      "title": "Tedros agradece a Sánchez la gestión de crisis del hantavirus en la Asamblea Mundial de Salud - ABC",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNemZDV0l1aUVSYlQ2aWlFSjhEWDRCRGw1MlpCZ0otSnhxTmUzUlM3MGVIVVcwQkgxWW5RZTNJMHFpZHd3M18tSGlfclRKbzlLUHJFTVNtRkZaTWJoN0dEMGdnS0pNYUVQTnRBb2hQSnNLbC1jZHBZbVUyNDdKbU1jT1lNMHZVbjRQa253WjBPQk1zbkZ0NnNkTFlnYm1iQUJXNGkxOFR5ZVZ4b01VLTB1YkcwQ04?oc=5",
+      "date": "2026-05-18",
+      "source": "ABC",
+      "desc": "Tedros agradece a Sánchez la gestión de crisis del hantavirus en la Asamblea Mundial de Salud&nbsp;&nbsp;ABC"
     },
     {
       "title": "El buque del hantavirus llega a Róterdam para su desinfección - ABC",
@@ -1161,48 +1203,6 @@
       "date": "2026-05-18",
       "source": "ABC",
       "desc": "Hantavirus, últimas noticias - ABC - Página 11&nbsp;&nbsp;ABC"
-    },
-    {
-      "title": "El barco con el brote de hantavirus desembarcará en Canarias - ABC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4c2tHcE9Gd2pqdGxKTmdBRmxWRmJLdDRKdXdLVjB1dHNqQTM0X3RRazlQc3M3ejg2aUF5S2ZVR21SUkw2WkVjeGtVU0lxZ2JhZXo4RTVXazhmbXBxOUVOZFNJOA?oc=5",
-      "date": "2026-05-18",
-      "source": "ABC",
-      "desc": "El barco con el brote de hantavirus desembarcará en Canarias&nbsp;&nbsp;ABC"
-    },
-    {
-      "title": "Sánchez arremete contra Clavijo ante la OMS y le acusa de querer \"abandonar a su suerte\" al crucero del hantavirus - 20Minutos",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSVdwd0poSUdLWFZNakJXQUI2Slpma1ZBYTBlMXg1T1dNX3pTWW9oRjhEVGZ5RjhCSlR5NW5zX2ZOUzVGam5xLVowT2VTOUNqN0RPVEdrT0xXMUE3VndkYzV6emFhVGZuYWNDQ1pQcDNuTUMzbTcyRzZ6Y044LUdIOTAyMlR6ajhhUFZqcmZjb01zTnp4RHZVVEJhMTFkTzlCMGdGYldjR1kzUjREQk5QSlhOQ1BvMUg1b0F5c3VEZWZxTDJ0c1FhRFpBX3ZUUldueV9SNGUtSFo0c2Ja0gHiAUFVX3lxTE5ocHp4TF9sNzRmNlZyOEtpX3p5S0FhLUU3VUZKd25GY1ZsaElIY0FoX2tRdDVsTTFJa3ZiZXdHX0tsdW41c0lkSnJBNGRETVIySTFOV3FrWVdSLXJ6cU5pbnp3bk1yQU5tRm11LVpuV3RtWkpwM1NZRy1nVGxHckNHRUVhSTAxdlY5ZUtVdngxZWs1U2F3dmtiUmpHZ09XNWJxN19YNUUtMUtjV0dteFk3bzlSOUFjMGRzZ2ZFWm9tdnV2N2JIRUlGT3AtRzVNUTlUTGtFMDBITWR1Z2lSa05OSmc?oc=5",
-      "date": "2026-05-18",
-      "source": "20 Minutos",
-      "desc": "Sánchez arremete contra Clavijo ante la OMS y le acusa de querer \"abandonar a su suerte\" al crucero del hantavirus&nbsp;&nbsp;20Minutos"
-    },
-    {
-      "title": "El crucero del hantavirus llega a Róterdam para su desinfección bajo estrictas medidas sanitarias - 20Minutos",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUU5mRTMzVVFHTGFKdjRWa3Fnakl4aXBuTU5PVHhJc0YwYTM3NHppX00wMWp6VzZ5cU9uNkd1M0Z3TGlhbzBjQThqMnhidTJ5YlBhaUJsZktheTUwQXQ3V3pUVHE0UmQ2QnkzcVVOOGlXLVgxaGQwX2cwbzZJSWRlcmlDV3ZTT0Z2aF94T2NIYmM0U2ZBazMzMUE1VGVyNm9uY1M1ZkJraEVYYjVfN0pISUkybTlVbk9pQmxJTkRWSmx2aVY2ekNPanRJc9IB0AFBVV95cUxQd0Y4SHRvOVJLaGlQZG1WWHFBSHlyZGc3SHZwWGFJWS1Na0ZWQ3NJcDV1TmFTLVR2UmRKZnoyWkFUekxNVTlQcGNva0hoZ0ZFZ0VmcVM0dE51dHR6eFZKSl92STl2a1NrVXRHSC02NkVCUTQ4QU9aNlNTb3JSOUNTay1TeXFlREJiYlFKSkZwSTdXMERqVzZ6TFhDd1o4eDNQTlB5cW1KLTZmRDU4UHNZNFhJeWRFZnVjYkZ3YmVLWjZYMDRFZzVWN0lqb1FqNHJu?oc=5",
-      "date": "2026-05-18",
-      "source": "20 Minutos",
-      "desc": "El crucero del hantavirus llega a Róterdam para su desinfección bajo estrictas medidas sanitarias&nbsp;&nbsp;20Minutos"
-    },
-    {
-      "title": "Brote de Hantavirus, en directo: Última hora del crucero MV Hondius, contagios, infectados y confinamientos - La Razón",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcG1mY0g4YjllUG9mZ2RhZHdYMFU2QnY2WWxUTWVhRHc0WTM0amVuZzd1VWdmUTBBRG12SXFvaXlFaENFOVRoVWxVYXZEOFBtQVRRd0tkNDBBUmxYNkstSkhETlo4RDBQTEhWWVZWLWJoOER3b1BZbi1FUi1lbElBdnA3cjdzNlJ0TlRidmhUVUR0MGsyemViLUFRcHZ2MXB2cHBqYXotQzZkaHNXMERlSjdXTEIxakVMQ1lRNnZ6Q2pHUmVfMWQxNzV0UDNQS19zM1hQcFhXRW1PMWNneVVSc05JM3FIWmpYamxnakphbXNyTm8?oc=5",
-      "date": "2026-05-18",
-      "source": "Google News ES",
-      "desc": "Brote de Hantavirus, en directo: Última hora del crucero MV Hondius, contagios, infectados y confinamientos&nbsp;&nbsp;La Razón"
-    },
-    {
-      "title": "El paciente español con hantavirus sigue evolucionando favorablemente tras una semana - La Voz de Galicia",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcktlOXpTOTFGTDg3SFlZcDJieUVnTUVTN0s0UnJpcXdfMy1ucFBNRzJrVno0b0lwajdOeGZYdE9IYTZjWDhhZnM0UE5aNVExem81Q0t0UFgxUERJcVZ3Q0dwTjJrTmRjZ2gzOFE5N0cwSlFGckZMMXdSenZfMEdWRTdjS2lpa2ZhcVd1REVMaldxQ2ZZZE1KbFVBdl9YNVJWbVI3Q2xqRVNOVGJGcFlFc1I2eHRQR2d1VGRISGVqdlZtVVRIVmo4aHh1TEhBSkZRMmZCdzZuS1l5MmFCOUdYY3RfYW8yWHFZZ3R1YXRNR1VEQdIBjgJBVV95cUxNVkU1Z0twRnI1ZEpiQTkySzF1djBDLU5MWmtLbGp1U2FHUnN0NFZPb0hFUTBFZzNpUGR2NnhZSlNxS3VmZ3k3R0ZmbUNodFNaVmhkSzY3SHBscldLSzNSYTZKc3Rkd05yUjZRZHItalNSdTk1Y21hdGk5eks5dmFjUG82d2I0SjRMRkVOOWxPaS1oYUtKRXdqOXJ1RDFRMlBxLXlWZGRXR2kweDlMUnFqWUZCTjc2MVYzRXlXTTgtRTJVRTQtMUwtUW0zREFLWXhOT2JuZ2ZwRnZidDBOYTZYbFpqQ3N3MExRamR2cjFUclB0RkZINUhUUFI4cmJUZTR5SGJFeXZDUUtiNEpBc2c?oc=5",
-      "date": "2026-05-18",
-      "source": "Google News ES",
-      "desc": "El paciente español con hantavirus sigue evolucionando favorablemente tras una semana&nbsp;&nbsp;La Voz de Galicia"
-    },
-    {
-      "title": "Los españoles en cuarentena vuelven a dar negativo en hantavirus y podrán recibir visitas - elDiario.es",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbzZNWEotQ1MtOGZoVi1uU2cwb1NpaU9NeDg3dl9RTmIySlZySHdFRnF1ZEYwMWNPdFl5NXdiMUFPdWQ3U0Y1M0lOYlVNaDk3TDdZQzNUTXlzMXYzYUZ1bEtnTW4tNFNrOS0zVlhKZXpKcXZDRVVmQm5NanhrTVRqVUdIcHY2cjR6SHNZdmx3WDROdGJncVh0dmtXZ1ROUS14TEE3azlLMG1LbXJxd3djbUtxZzlXRFZwM0pCamxXeVFQUdIBxwFBVV95cUxOMFQyWXB6UnBRR0IxX1BpR2prX253MDZuUVJJcmEtS3dwckZaRDlUNmI2YVlEMWtzUERQel9kT0k0UVprRVREOEk3ajZwNEx5WlpxX0NFRE1DdzNVek9qUm1Xa3BaUE9jMjR2YmVtc3NBSXVlOGpmdm1BU2xXWUU4U0xTY0NVUm1nY0JzMWhwUHlPWVJYVllGbjktTHBfV1o3UFFPcVJjelEtVWFweVROWXdDckZDczNXWTZpcXEzYkRwLUFma0ZZ?oc=5",
-      "date": "2026-05-18",
-      "source": "Google News ES",
-      "desc": "Los españoles en cuarentena vuelven a dar negativo en hantavirus y podrán recibir visitas&nbsp;&nbsp;elDiario.es"
     }
   ],
   "countries": [
