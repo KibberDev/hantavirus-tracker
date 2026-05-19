@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-05-19 11:24 UTC"
+    "updated": "2026-05-19 14:11 UTC"
   },
   "current": {
     "cases": 12,
@@ -1079,6 +1079,20 @@
   ],
   "news": [
     {
+      "title": "Pese al bajo riesgo del hantavirus, la OMS pide seguir vigilando a pasajeros y tripulación - ABC",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUUlBTnR2QzdjNHJfdWc3akZJbFZFNUkwSExhSWNFMUhudkFJMFJhaDlGQmhocUp6SnFWRW9kOUVKaHEyTTV4WjZMRTRLZGpYNmJham9XWDBacWFPSDczV0JfSW41WlZNLUNWcFFJR18zNFhfMm9IRk1CSkJOS1pvYmNoTVM4SnR3a00tanpPWGdUUmhGSmc?oc=5",
+      "date": "2026-05-19",
+      "source": "ABC",
+      "desc": "Pese al bajo riesgo del hantavirus, la OMS pide seguir vigilando a pasajeros y tripulación&nbsp;&nbsp;ABC"
+    },
+    {
+      "title": "La OMS agradece a España su gestión “compasiva” del crucero afectado por hantavirus - ABC",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX0ozaWJubW1DeFZKZW9WdEhqTXZTbTNwbjBla21odUZSRDA0R09YM0JaT0hiZElIVjR3VWJIbXVzZ19wRjhIdk9CNWxBS3hRTS1iWkxBTjhweV8tOV9SVEUxbWlucFFxa2gxblFtakNoRVNEWU05RlF2V1B1MkM3dmFUaVgxODRFdTE3dS1YZnZ1Z01haUU3UFRNc1JTZ01IQzg2aQ?oc=5",
+      "date": "2026-05-19",
+      "source": "ABC",
+      "desc": "La OMS agradece a España su gestión “compasiva” del crucero afectado por hantavirus&nbsp;&nbsp;ABC"
+    },
+    {
       "title": "Los 13 cruceristas españoles vuelven a dar negativo por hantavirus en la segunda PCR - ABC",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQzZHOTNuc2hsTjU1ZU10bDY3c015OUxlUDRKX3dXSFJJY3dVOTNtZGpKazJlc2JCMXNHWG9Ld3NIWnZFZmRvNXJxMUgtaUxDWlhGME9YdzhMOE9NR3AzSm9vVUhCSTlRbzFad1FhUUFzOWtKYjRxZnVMUnczUkpDN0Q2REFGSGlXZDUzX09CZ3JndldHWE9UeEhrakhRb3UtNGE3M0JMQUdxTEFKTWc?oc=5",
       "date": "2026-05-19",
@@ -1091,20 +1105,6 @@
       "date": "2026-05-19",
       "source": "ABC",
       "desc": "Hantavirus, últimas noticias - ABC - Página 11&nbsp;&nbsp;ABC"
-    },
-    {
-      "title": "Argentina busca respuestas en Ushuaia: trampas y análisis genéticos para rastrear el brote de hantavirus - El Confidencial",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV3k0N1J6RjhPcW9uWjdibkYwV3U3U2FvWXdlVVJ0SVR0a20xejZURE9IOGlfc092QzEybURENUhwbFJRTTc3Zm9ITy1KRWlVSzE2X2lnWVVMOXVlaG5uejNzU0c2YXJkbXlBbUpSYUNmRzJHVE1KTW9wMF8xaUo3YWJDQUxKUFNITi1hV1lfOFVvczhIcFE?oc=5",
-      "date": "2026-05-19",
-      "source": "Google News ES",
-      "desc": "Argentina busca respuestas en Ushuaia: trampas y análisis genéticos para rastrear el brote de hantavirus&nbsp;&nbsp;El Confidencial"
-    },
-    {
-      "title": "García reivindica ante la OMS el Tratado de Pandemias tras la crisis del hantavirus - Gaceta Médica",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOVJRWFB5OUQ5aTduVHBYZjVJTHJBbktGRWl2RUltWGJpaUotSUVxdlFteDh4ajB5NXRqM1BLT1JWdW9OR2VtLUpxSkZfenVkbVQ5SVhNNUZjTkM0aG1qMmVWdHlQWHNTVGJ2MWEwbVFqTnJIR2ZZQk50R2F4blFUNXhKdWVRWHhh?oc=5",
-      "date": "2026-05-19",
-      "source": "Google News ES",
-      "desc": "García reivindica ante la OMS el Tratado de Pandemias tras la crisis del hantavirus&nbsp;&nbsp;Gaceta Médica"
     },
     {
       "title": "Confirman el primer caso de Hantavirus en Estados Unidos no relacionado con el crucero MV Hondius - HOLA",
@@ -1128,11 +1128,11 @@
       "desc": "Hantavirus y el crucero: La ciencia desmonta los bulos y el alarmismo social&nbsp;&nbsp;Radio Popular de Bilbao"
     },
     {
-      "title": "Las restricciones que se relajan para los 13 españoles aislados por el brote de hantavirus tras el negativo en las PCR - Gaceta Médica",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWE1NUEQwc3JDX1AtdmVKNElIQ09NQWwzT0pxWWFsMDVjY0U4U0MzQnpCcnJPUU05UlhHcjBRcEh2Z1VCT1FmYmdiYWtZaXJrOTRfdW1nMy1JR0hMc0thVFlFWHNMeHg3U1lSaG1tZWVMTXJfVkFJVWVFSW45NF9DQWNQU2x1THlnUnM0OU5hc0dlSE5RMEk0YVd0d2J2NXVMOVg3bWhac2IxYndv?oc=5",
+      "title": "El hantavirus y la importancia de la sanidad pública - infoLibre",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ0dJVFRJZlhxZTJWeEE5Z1ZlMkxpaWJ2QmZQeDMtemdJMENMWFlMN2hBU0R2MkJTbFVLa3l6MWItQk1wOGF0TVBuSHlJWFBneG81d0RPdkdYSHZ3NlRFRlpXS0ZVeFhza1d1N2tEbTNhOWNFZG0xaVdrOGdHakdlNW5jTVZpZ2RVRVdQbmE4MzdKZkN5M2pVLVlodjhDUkVpOEZvck54a3FhM2pISEwtVNIBtgFBVV95cUxNT2gteERTVDBxeWpMQVpXMXluYmRtYlNTY3JlemREa0pQNUQ2UDFqNi1XbU4zNzg0RHluZUtRSEJaVk1WQS16dmtyeUVDLUZwbWFScVM3anBrRUJWa2sxWF8zd2RYWC1XWHp3Z3NsTFlJamtQaU1jMTJqU3dlcTZMUFNiXzVaSGp0YllNcnZrZzdRQzlHa3FwU3AxZFFrQWZQbkwxSFZweDJzU0hReGFhbG1HOThkZw?oc=5",
       "date": "2026-05-19",
       "source": "Google News ES",
-      "desc": "Las restricciones que se relajan para los 13 españoles aislados por el brote de hantavirus tras el negativo en las PCR&nbsp;&nbsp;Gaceta Médica"
+      "desc": "El hantavirus y la importancia de la sanidad pública&nbsp;&nbsp;infoLibre"
     },
     {
       "title": "Así ha desembarcado el cadáver de la muje muerta por hantavirus en Rotterdam - Telecinco",
@@ -1142,6 +1142,20 @@
       "desc": "Así ha desembarcado el cadáver de la muje muerta por hantavirus en Rotterdam&nbsp;&nbsp;Telecinco"
     },
     {
+      "title": "García reivindica ante la OMS el Tratado de Pandemias tras la crisis del hantavirus - Gaceta Médica",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOVJRWFB5OUQ5aTduVHBYZjVJTHJBbktGRWl2RUltWGJpaUotSUVxdlFteDh4ajB5NXRqM1BLT1JWdW9OR2VtLUpxSkZfenVkbVQ5SVhNNUZjTkM0aG1qMmVWdHlQWHNTVGJ2MWEwbVFqTnJIR2ZZQk50R2F4blFUNXhKdWVRWHhh?oc=5",
+      "date": "2026-05-19",
+      "source": "Google News ES",
+      "desc": "García reivindica ante la OMS el Tratado de Pandemias tras la crisis del hantavirus&nbsp;&nbsp;Gaceta Médica"
+    },
+    {
+      "title": "Las restricciones que se relajan para los 13 españoles aislados por el brote de hantavirus tras el negativo en las PCR - Gaceta Médica",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWE1NUEQwc3JDX1AtdmVKNElIQ09NQWwzT0pxWWFsMDVjY0U4U0MzQnpCcnJPUU05UlhHcjBRcEh2Z1VCT1FmYmdiYWtZaXJrOTRfdW1nMy1JR0hMc0thVFlFWHNMeHg3U1lSaG1tZWVMTXJfVkFJVWVFSW45NF9DQWNQU2x1THlnUnM0OU5hc0dlSE5RMEk0YVd0d2J2NXVMOVg3bWhac2IxYndv?oc=5",
+      "date": "2026-05-19",
+      "source": "Google News ES",
+      "desc": "Las restricciones que se relajan para los 13 españoles aislados por el brote de hantavirus tras el negativo en las PCR&nbsp;&nbsp;Gaceta Médica"
+    },
+    {
       "title": "El Gómez Ulla confirma que el paciente positivo en hantavirus evoluciona de forma favorable - El Periódico de España",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbjJSZ0JRY1B2b18wXzg5OWdjQzJXU2VzMDlxY3lEa0VOMUNwdWh2ZHNGVEx0aG9qMEM0RGVqTFYxQWNES3VzNW9nQmEyaERGSDFxaFNsUEx0eU5XbXN1REdZdWlvX2lqZC1pclBKY01FemQ0amVGbFEtSG9UaU5DaUtvdkVjaUplSGJUbjExc1BWeTJaQUF1eDFCMV9yT2ZJekxtdFFaTXgxaE5pWVdJWEluMDJyaF9yLVgwZG1vWjhPV0pV0gHEAUFVX3lxTFBqeU1HRUVZMGlTNHBFeTF0M1dDTkhEYWRWdklCaUxmVE9BUk9oRjBsaGN6bVVJZGt1WkQ0aWZJbUZBNEhxbXVhczcyMGJzSThHMFZZa0R4ZTJqOW9pMGhYeFB3YkNlZTZDcUM5cU5zN1ZCdHFnVjZZSEV0eEZKT2NBMUoza3RHWXBTNzBiUFFLV2owZ3ZOYnJvSWtxLWtDTzNOUWxKX0k0Y29NY05PUHhxS1ZRUmRrZWJ0alN1M29GaHFtel8?oc=5",
       "date": "2026-05-19",
@@ -1149,32 +1163,32 @@
       "desc": "El Gómez Ulla confirma que el paciente positivo en hantavirus evoluciona de forma favorable&nbsp;&nbsp;El Periódico de España"
     },
     {
-      "title": "Dutch authorities expect more cruise ship outbreaks as hantavirus-hit vessel docks - France 24",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVjU3MUZiLXpwWWlPVEFVVHptcjd6eWU0TzdVSG1xclkzdFR6a0tXQXlNSVBudWQwUmJMSmtnQTB4T1RrcGlZU1JkZzFBRFlxMnpqLW5XS1RuQVZDNnp3eFVNV2dCWUk3YXk3NHQxZk1oMnJjOFlHbm9hRkxGTjhJVFJhUkE5dEEwT0M2TXRwZlpIV0hmMzVnZC1FZGFNclVsd1RrUnJQUEQ0RDlFX1Yw?oc=5",
+      "title": "CSIF velará por que se cumplan los protocolos de seguridad en las visitas a las personas en cuarentena por hantavirus - Infosalus",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSkMwR3Nwb1M0aTAwd2VKbmZ2djlSaUtfckw5QWgxQ2VZdEExTGlnbFJqVFlnLXc0a0ZLTGk4MTRScTF3TkNiRGhtUUd2U002ZzRqYTFOOXdKQlpHaURBY3JqdEtqdldIeWpaRi1WRFZfM0pTMlZ5WGpjTGZBS1RXaThLV2tkSlFGNVNiMUh4U3hHU25UTzkwS1BNM19LbHVlT2lTNVFnWDJkcWNMV0hXQXVJbEQ5aHlJTVdKOVB0M1Y4WFpSWl9FaDRyekxKYTk0VlBhekFreWoycGl0?oc=5",
       "date": "2026-05-19",
-      "source": "Google News EN",
-      "desc": "Dutch authorities expect more cruise ship outbreaks as hantavirus-hit vessel docks&nbsp;&nbsp;France 24"
+      "source": "Google News ES",
+      "desc": "CSIF velará por que se cumplan los protocolos de seguridad en las visitas a las personas en cuarentena por hantavirus&nbsp;&nbsp;Infosalus"
     },
     {
-      "title": "Douglas County adult dies from hantavirus, health officials say there’s no link to cruise ship outbreak - Colorado Public Radio",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oN2Y1SlBMb21GRzI3WEFIMFRuUS1NQzVqY1ZtMEswZUluTEExdlZiTkcyYkY3ZGJKaTQzTFZCaTdYVzVpRGNWTGhFUDRxMXY3U1JiUkFiN1lIZWNoaHIxY0FPUFlJa0JJaFBzdENQc0o?oc=5",
+      "title": "Argentina busca respuestas en Ushuaia: trampas y análisis genéticos para rastrear el brote de hantavirus - El Confidencial",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV3k0N1J6RjhPcW9uWjdibkYwV3U3U2FvWXdlVVJ0SVR0a20xejZURE9IOGlfc092QzEybURENUhwbFJRTTc3Zm9ITy1KRWlVSzE2X2lnWVVMOXVlaG5uejNzU0c2YXJkbXlBbUpSYUNmRzJHVE1KTW9wMF8xaUo3YWJDQUxKUFNITi1hV1lfOFVvczhIcFE?oc=5",
       "date": "2026-05-19",
-      "source": "Google News EN",
-      "desc": "Douglas County adult dies from hantavirus, health officials say there’s no link to cruise ship outbreak&nbsp;&nbsp;Colorado Public Radio"
+      "source": "Google News ES",
+      "desc": "Argentina busca respuestas en Ushuaia: trampas y análisis genéticos para rastrear el brote de hantavirus&nbsp;&nbsp;El Confidencial"
     },
     {
-      "title": "Ebola international emergency, hantavirus update, ticks, heat, opioid deaths decline, and more. - Your Local Epidemiologist",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSnFGOGREZzktNnNrc2pYaVc5OG1GVmRzMnB1ZnA5VXdDM29yclFKU0JRWk9YX18za19NRUVLSGhpTlhXcnJ4bUI1OHBwYjFldWttSm1JYmM0TzhHSkgzaUJjS3hwRW1YNlVMcUg4X29TcHBTU3NaNkJjeTViMlhwQ05uXy1kRllVMV9VRGg0WHc?oc=5",
+      "title": "Argentina's icy outpost at the end of the world fears the hantavirus will chill tourism - WLRN",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdGh1SkFNTlhXNFBRNGFXNmh6eHU4a0h4XzJTcXRVYUVTb3FHSmtTbGhIV1VXTnZLZWR4WGhzS0JDcFlIeVBOWUQydjFzWTQxTHBaOWhHaG5aZm04dlFzdU9DMWVZU1hHalZRbUpEaEV3dmhkbW1QZENWbmZmdWtFaGZEbWVWdlR2RE4xYmFUcmN6dndHSi11b2dvV2xlWXMzbFBtQ2dSSW96YlQxN3B0M2VYZV8tSWJRZE1BRF9IN1dBeUUxblE?oc=5",
       "date": "2026-05-19",
       "source": "Google News EN",
-      "desc": "Ebola international emergency, hantavirus update, ticks, heat, opioid deaths decline, and more.&nbsp;&nbsp;Your Local Epidemiologist"
+      "desc": "Argentina's icy outpost at the end of the world fears the hantavirus will chill tourism&nbsp;&nbsp;WLRN"
     },
     {
-      "title": "Booming Expedition-Cruise Business Grapples With Fallout From Hantavirus Outbreak - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaFo5QzRfQUhHS3M3M1hNZzVacFctMU9odVZPVzQ1RjBFdTJFdGR5emJKWUlfVnVENThfZUhUQ3NpY1JSNTRndS1yb0Zkakg1cVAwTzJSNXJxcTI5VWRDS3FPdlRfeU9BRVNfRTJyRkRlRWtFZThGcExPUzJuYU1WVDlGeVdOVlBmOTBkVzBobXpja1BaS3EwSW83eFF5U3YwWGlYaUowUEt5OTlBYzV5dkgwR18?oc=5",
+      "title": "Ebola, hantavirus and what these frightening outbreaks really mean - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUWpXa21hMVQxZUh5eUJNN1FkbUZhOFdNd2lYUU5MMXBzRDJTc2txNllQTUk0b0VXOUdwbXEtbEQtdjVGa2wzN1A5M1puT3NRMndwSXdNRkZJMFNMUkNnTTRxZWh1LUY5ZGw1NVZLM3Y0ek54cTlOVFl5NzQzY2stT2lsanQwRG50eWZpWHlmYkpRT1Z0UjRHUzdtMHJVcWFTQ3VPbnF1Ykg0SUlXZkpPMEdn?oc=5",
       "date": "2026-05-19",
       "source": "Google News EN",
-      "desc": "Booming Expedition-Cruise Business Grapples With Fallout From Hantavirus Outbreak&nbsp;&nbsp;WSJ"
+      "desc": "Ebola, hantavirus and what these frightening outbreaks really mean&nbsp;&nbsp;USA Today"
     },
     {
       "title": "Opinion | Why Congo’s Ebola outbreak is far more alarming than hantavirus - The Washington Post",
@@ -1184,25 +1198,11 @@
       "desc": "Opinion | Why Congo’s Ebola outbreak is far more alarming than hantavirus&nbsp;&nbsp;The Washington Post"
     },
     {
-      "title": "Los trece españoles ingresados en el Gómez Ulla vuelven a dar negativo en hantavirus - antena3.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQME1XUmR1SUl5Uko3eDllWlJsb0hpYnAtNHlxaEE2ZktvMkRRNnNYMkF5bmdIaWlPYWIxUEFlRm0tcjNKaXRja2RYRndsTU1TUXNjYndQX2NxQklhUVlvTU1WTENEY1dPaW9XM3lBTWpzYjd5SWlxWGdkTUpjNDlYZ09ZeGFHMW81akE3NWVmZEFHU2w5bHl4b0Vlek9wMWdRTUpMZ0FXS0hrSDdZR1dGVUU2NFNwUzFiNGV0dzdaMFViNFVXdFlFZHRYT0gyb0ZmeUxIQjR2TXI2ZXA4aHlz0gHfAUFVX3lxTE82NTFFNmQwLWFCRmxURW1LSjZxM3F0NmNIenh1M2c4SzhETGFOdzZjNnM3VFB1cGNjZEJmcjAwTnJNS0RyTVhSb2JPMnN2YllTUi1yOFdvWmdTc0FVc2NkWmN0SGY4RnBXaXFvSjZycHRKeUgzRFNqU2Fvb0ROcHVSMi13dGx2MVViYXkyb3IwN29WVHFRSkRpcnI1amJ1X08yWTNrSW5nQUsxWnRsUmloNzFUcHB0azFIZ0swejFjMXQ0SFIxRkhiS2F5NFZrWkhPM0U4c21EaE5lVDJtcXM?oc=5",
-      "date": "2026-05-18",
-      "source": "Antena 3",
-      "desc": "Los trece españoles ingresados en el Gómez Ulla vuelven a dar negativo en hantavirus&nbsp;&nbsp;antena3.com"
-    },
-    {
-      "title": "¿Qué pasará con la tripulación del crucero del hantavirus MV Hondius? Llega a Róterdam bajo máxima seguridad - antena3.com",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdU1WMmRmX0FBSG0zSTBLVXV4aWtqMFh4b2ZpWG1saC0tdm1XQnJfZlFGQmVTU05RQnVIWk5ubnZtcWJBRFRld3MtZG82N21ZU1g3OVJ6M1pMVmNlVW9LREZOakMyT1JmdENNSVpGV0hRMDZxWHVzcno2LURXMzJzOVZvcmhjcUFyQnVwNmVYazYxN09lY2RCTC1CT2EtN3I2RHg4TWRsWkhKTGY4VnZUYVNNbXRwa3VVdFFZV0hpRURfRkZncDNwUk02eGE0WUp0NkVqa3ZLTkMweVNocGNTOTJueVdjMVJxOW83b0lGa9IB7wFBVV95cUxNZ3dDakNlRVJHVVZFTzBoc3pwOVpuTTRybWU5ZG50YVJGdkdfTmx2VjhRTExTQXJJUHJwS2lJR0t6MWd2Rzhfd1lwcjZpa3FrbE9keTcyUlZ3Qzlyak92OWhFTEhFemV3Y0puaHFsbFF4Rm5pVE1wd2xHYVNhQ1ItWW5YTGhXc2tLUVZ2RFlOelY5MEZKU0pIMXhGOXNMd2ZGYkpBcTM0OTdJMkhaVEdISjFrVktCc3NYZVA2S3VwbXRuVFc5ell4WlM1V2ZYWk1tdkp3Ylc0a2tQVkRQUldLY2xBY2NtQ2Y4TnJwTEZKcw?oc=5",
-      "date": "2026-05-18",
-      "source": "Antena 3",
-      "desc": "¿Qué pasará con la tripulación del crucero del hantavirus MV Hondius? Llega a Róterdam bajo máxima seguridad&nbsp;&nbsp;antena3.com"
-    },
-    {
-      "title": "Los 13 españoles del crucero Hondius vuelven a dar negativo por hantavirus en la segunda PCR - RTVE.es",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMGFTU2VJZmlJQ1dfNDZadGRZSUxabDJIbEtEVEhIU3hiTUdsbjd3bjRicWdvaWRxQTNRRmc3dWpQekk0d3dOV2ZFTjQza3J1MFlNOGVZSXhUb1lzOFVUdXh1WjlVdTNmaXRiS21wRF90MFA1VkZjbDJEaW5ndUItT1NfbHpWVGJiaVZNUF9ZTFFjaUNLZzRYOC1sTVFtZHhyNWthR3pUTFByWlNHaE03Tk9yUGsySU9sTUHSAboBQVVfeXFMTTBhU1NlSWZpSUNXXzQ2WnRkWUlMWmwySGxLRFRISFN4Yk1HbG43d240YnFnb2lkcUEzUUZnN3VqUHpJNHd3TldmRU40M2tydTBZTThlWUl4VG9ZczhVVHV4dVo5VXUzZml0YkttcERfdDBQNVZGY2wyRGluZ3VCLU9TX2x6VlRiYmlWTVBfWUxRY2lDS2c0WDgtbE1RbWR4cjVrYUd6VExQclpTR2hNN05PclBrMklPbE1B?oc=5",
-      "date": "2026-05-18",
-      "source": "RTVE",
-      "desc": "Los 13 españoles del crucero Hondius vuelven a dar negativo por hantavirus en la segunda PCR&nbsp;&nbsp;RTVE.es"
+      "title": "A critical window to stop hantavirus is opening. Not all countries are managing exposed travelers the same way - CNN",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQV3VFdWVMS1RrQ1l3RDJQUTUxQnA1LUZzREQ3TkNKcjU1S0lSWV9md1Qyc3h4enJ0ZktQOWdJWDhZVkQxQTFibWdBd0F2Z29HR1R0YVhYeUw0eTZqUUJOb0VmTWl4OExUaFQ0Um5NVGpQT19UV1VZYm5jaUM0bGFsV3VSSGlaRzNZWDVHZ0dsVlMwSG1pWkN3?oc=5",
+      "date": "2026-05-19",
+      "source": "Google News EN",
+      "desc": "A critical window to stop hantavirus is opening. Not all countries are managing exposed travelers the same way&nbsp;&nbsp;CNN"
     }
   ],
   "countries": [
