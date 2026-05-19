@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-05-18 23:48 UTC"
+    "updated": "2026-05-19 03:55 UTC"
   },
   "current": {
     "cases": 12,
@@ -1079,18 +1079,60 @@
   ],
   "news": [
     {
-      "title": "Los trece españoles ingresados en el Gómez Ulla vuelven a dar negativo en hantavirus - Antena 3",
+      "title": "Confirman el primer caso de Hantavirus en Estados Unidos no relacionado con el crucero MV Hondius - HOLA",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3VsYjJOMHNjeFpfam4xcGYtLVhPM0tGLWY2MUdFUkFPNW9FMXFQVEZjSWw5V2Q2bHBkZ1pzS2VvSUFHdklzLUU3TkpFMEFNZGM4WDQ3bWZzOTdvU3I5eU5yQllUeVRnZUlnZmJseHFEZU5nT1ZwRmRuRjJQQ0dUbFJpVDBlbTc5Rml2Z243aGVodV8zZ2l0TEpQYkJKREtjNVpVUQ?oc=5",
+      "date": "2026-05-19",
+      "source": "Google News ES",
+      "desc": "Confirman el primer caso de Hantavirus en Estados Unidos no relacionado con el crucero MV Hondius&nbsp;&nbsp;HOLA"
+    },
+    {
+      "title": "Opinion | Why Congo’s Ebola outbreak is far more alarming than hantavirus - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVjBacFhQdU9NVWdmUGFQeWQ0OGU2UjJnR0ZkUWNuY3Q1el82VU5TMDBKay15elRqMWtnNklub19tSHhWeHQ5ZDV4Qzc5S3B4cXpXY2dUT0xTd1QxSzFwZC1pN1JtbmRXdnQ2eDI5NjJaNVplcHltckVFZWN2OUxqM01fbG12dGl0eG5MaDlhclVybTcyNTcydmU0eTlqbXVZU1RKcA?oc=5",
+      "date": "2026-05-19",
+      "source": "Google News EN",
+      "desc": "Opinion | Why Congo’s Ebola outbreak is far more alarming than hantavirus&nbsp;&nbsp;The Washington Post"
+    },
+    {
+      "title": "Argentine Scientists Lay First Traps In Hantavirus Hunt - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb3NHUGEzUDNpbkxuSnZBNDBSVEsxaDNqWjRqUGV6VHo4VS1wejFQc1BObXBWcWl2NG5uaENERFpuWjFWQkcwNFdGbExBa1lDMFpzb3R1WjJsa2pnWTdpSF9PaWE4S3diN3lxcUs0TDhJU3Rnd1dYS0RDOGJnaWhiLUNUTlFtelZVeFBFczlLeE96ZmRBN0lheQ?oc=5",
+      "date": "2026-05-19",
+      "source": "Google News EN",
+      "desc": "Argentine Scientists Lay First Traps In Hantavirus Hunt&nbsp;&nbsp;Barron's"
+    },
+    {
+      "title": "Hantavirus in Focus I: what we know and what it means - World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlFKTmFYZ01HWlZ0bjNERmFrcG5mMU1oclNSQnk2SU1aM2xlTkY5NDVmcmh4WWpTWTUyVHltSFJGa1gtMUctSjYtY3NqcUYxcEZBcDhZWkRBemYxSHhFcVRjNm9uZEV6eEFnMUdDZHdWTEY1MlhpWGVpRHI5WDlRQTJKTmM3aE91S0lYR1ZQQlU3T0ZMSWRxZ3JTSGU4Yk5ITFY2ZDlPdVoyd3NtVUlLY2Vab2VQbVVQNklMcjd4Q21RZw?oc=5",
+      "date": "2026-05-19",
+      "source": "Google News EN",
+      "desc": "Hantavirus in Focus I: what we know and what it means&nbsp;&nbsp;World Health Organization (WHO)"
+    },
+    {
+      "title": "Douglas County adult dies from hantavirus, health officials say there’s no link to cruise ship outbreak - Colorado Public Radio",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oN2Y1SlBMb21GRzI3WEFIMFRuUS1NQzVqY1ZtMEswZUluTEExdlZiTkcyYkY3ZGJKaTQzTFZCaTdYVzVpRGNWTGhFUDRxMXY3U1JiUkFiN1lIZWNoaHIxY0FPUFlJa0JJaFBzdENQc0o?oc=5",
+      "date": "2026-05-19",
+      "source": "Google News EN",
+      "desc": "Douglas County adult dies from hantavirus, health officials say there’s no link to cruise ship outbreak&nbsp;&nbsp;Colorado Public Radio"
+    },
+    {
+      "title": "Booming Expedition-Cruise Business Grapples With Fallout From Hantavirus Outbreak - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaFo5QzRfQUhHS3M3M1hNZzVacFctMU9odVZPVzQ1RjBFdTJFdGR5emJKWUlfVnVENThfZUhUQ3NpY1JSNTRndS1yb0Zkakg1cVAwTzJSNXJxcTI5VWRDS3FPdlRfeU9BRVNfRTJyRkRlRWtFZThGcExPUzJuYU1WVDlGeVdOVlBmOTBkVzBobXpja1BaS3EwSW83eFF5U3YwWGlYaUowUEt5OTlBYzV5dkgwR18?oc=5",
+      "date": "2026-05-19",
+      "source": "Google News EN",
+      "desc": "Booming Expedition-Cruise Business Grapples With Fallout From Hantavirus Outbreak&nbsp;&nbsp;WSJ"
+    },
+    {
+      "title": "Los trece españoles ingresados en el Gómez Ulla vuelven a dar negativo en hantavirus - antena3.com",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQME1XUmR1SUl5Uko3eDllWlJsb0hpYnAtNHlxaEE2ZktvMkRRNnNYMkF5bmdIaWlPYWIxUEFlRm0tcjNKaXRja2RYRndsTU1TUXNjYndQX2NxQklhUVlvTU1WTENEY1dPaW9XM3lBTWpzYjd5SWlxWGdkTUpjNDlYZ09ZeGFHMW81akE3NWVmZEFHU2w5bHl4b0Vlek9wMWdRTUpMZ0FXS0hrSDdZR1dGVUU2NFNwUzFiNGV0dzdaMFViNFVXdFlFZHRYT0gyb0ZmeUxIQjR2TXI2ZXA4aHlz0gHfAUFVX3lxTE82NTFFNmQwLWFCRmxURW1LSjZxM3F0NmNIenh1M2c4SzhETGFOdzZjNnM3VFB1cGNjZEJmcjAwTnJNS0RyTVhSb2JPMnN2YllTUi1yOFdvWmdTc0FVc2NkWmN0SGY4RnBXaXFvSjZycHRKeUgzRFNqU2Fvb0ROcHVSMi13dGx2MVViYXkyb3IwN29WVHFRSkRpcnI1amJ1X08yWTNrSW5nQUsxWnRsUmloNzFUcHB0azFIZ0swejFjMXQ0SFIxRkhiS2F5NFZrWkhPM0U4c21EaE5lVDJtcXM?oc=5",
       "date": "2026-05-18",
       "source": "Antena 3",
-      "desc": "Los trece españoles ingresados en el Gómez Ulla vuelven a dar negativo en hantavirus&nbsp;&nbsp;Antena 3"
+      "desc": "Los trece españoles ingresados en el Gómez Ulla vuelven a dar negativo en hantavirus&nbsp;&nbsp;antena3.com"
     },
     {
-      "title": "¿Qué pasará con la tripulación del crucero del hantavirus MV Hondius? Llega a Róterdam bajo máxima seguridad - Antena 3",
+      "title": "¿Qué pasará con la tripulación del crucero del hantavirus MV Hondius? Llega a Róterdam bajo máxima seguridad - antena3.com",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdU1WMmRmX0FBSG0zSTBLVXV4aWtqMFh4b2ZpWG1saC0tdm1XQnJfZlFGQmVTU05RQnVIWk5ubnZtcWJBRFRld3MtZG82N21ZU1g3OVJ6M1pMVmNlVW9LREZOakMyT1JmdENNSVpGV0hRMDZxWHVzcno2LURXMzJzOVZvcmhjcUFyQnVwNmVYazYxN09lY2RCTC1CT2EtN3I2RHg4TWRsWkhKTGY4VnZUYVNNbXRwa3VVdFFZV0hpRURfRkZncDNwUk02eGE0WUp0NkVqa3ZLTkMweVNocGNTOTJueVdjMVJxOW83b0lGa9IB7wFBVV95cUxNZ3dDakNlRVJHVVZFTzBoc3pwOVpuTTRybWU5ZG50YVJGdkdfTmx2VjhRTExTQXJJUHJwS2lJR0t6MWd2Rzhfd1lwcjZpa3FrbE9keTcyUlZ3Qzlyak92OWhFTEhFemV3Y0puaHFsbFF4Rm5pVE1wd2xHYVNhQ1ItWW5YTGhXc2tLUVZ2RFlOelY5MEZKU0pIMXhGOXNMd2ZGYkpBcTM0OTdJMkhaVEdISjFrVktCc3NYZVA2S3VwbXRuVFc5ell4WlM1V2ZYWk1tdkp3Ylc0a2tQVkRQUldLY2xBY2NtQ2Y4TnJwTEZKcw?oc=5",
       "date": "2026-05-18",
       "source": "Antena 3",
-      "desc": "¿Qué pasará con la tripulación del crucero del hantavirus MV Hondius? Llega a Róterdam bajo máxima seguridad&nbsp;&nbsp;Antena 3"
+      "desc": "¿Qué pasará con la tripulación del crucero del hantavirus MV Hondius? Llega a Róterdam bajo máxima seguridad&nbsp;&nbsp;antena3.com"
     },
     {
       "title": "Los 13 españoles del crucero Hondius vuelven a dar negativo por hantavirus en la segunda PCR - RTVE.es",
@@ -1161,48 +1203,6 @@
       "date": "2026-05-18",
       "source": "ABC",
       "desc": "Sánchez reivindica el liderazgo de España en salud global con casos como el del hantavirus&nbsp;&nbsp;ABC"
-    },
-    {
-      "title": "Los 13 españoles aislados en el Gómez Ulla vuelven a dar negativo en hantavirus y ya podrán recibir visitas - ABC",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNFpnRjhJTG1VOGxoLTZCaXVVSmhsRllGcnZyRkw5QURTMzcxZHZsSDB3djhaSkVXT0t5M1BLNEQwSnBkVGpUQTQ3WHMyMUhUTVdCdndOa3BBYVRCYzhEd1Q2R3AzUC05bFhxTUJ5QmpiUi0ybzVwRGZVWm5wZy1uQlEwV3JMRlRPdE10bFAzLVlPck1CdXZxeUVhS0tmNi1nX05Z0gGoAUFVX3lxTE85TUxDU2c0VWJja1VfUzNodkNiYjRUUlF5Uk1Fdk5tTmlRZ3RaSk5VMzVlZWxzVHRBbmVrV1FYVXEwZTlFWkd5QzkxQTB1UGgtVERDQU56bktSaXNqZlRKdWw1NXVISzhFU0ZwZHFYZ3p6M3ZhTUloRElLNmU3SGIwVVBCR2hJd1BiV201WnU5VlhkdjVFdEJFNlRFVkN3bGlkMTVBQ054Mw?oc=5",
-      "date": "2026-05-18",
-      "source": "ABC",
-      "desc": "Los 13 españoles aislados en el Gómez Ulla vuelven a dar negativo en hantavirus y ya podrán recibir visitas&nbsp;&nbsp;ABC"
-    },
-    {
-      "title": "El hantavirus sobrevive en el semen durante años - ABC",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVEpGOWRxcUNFZjZpUFhZUTY4VTR0d1NzXzRKeEFxNXBuYURuanpyazJLazZITEFFdmZhYTRVQ25UeUFzS1RCTkVMRklLVGN5RmdPWHozMEZtekxlcUFkSWdGVS13Sl9SSUl5UzhiNk5RYmszbDFFNDlkRXl0OHJ0dXRKamQwMWJRc0HSAY8BQVVfeXFMTjB3MDN3TVBfUl9BMGJneVk4aU5WVDJEUF9JZ09SeGdWOXhHczc3V3ZLTV9QX0dXVEpicG5Gb1doZFREU21KTURfLWNXVDRnbXlXUjY2LWNrVGNIWlR0QUpKbzQ4cDEyLW1hYTA5X3QzZEZselRUeHVLRFRHdWdNelkzMUduM3NLTGYydTJCWFE?oc=5",
-      "date": "2026-05-18",
-      "source": "ABC",
-      "desc": "El hantavirus sobrevive en el semen durante años&nbsp;&nbsp;ABC"
-    },
-    {
-      "title": "Tedros agradece a Sánchez la gestión de crisis del hantavirus en la Asamblea Mundial de Salud - ABC",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNemZDV0l1aUVSYlQ2aWlFSjhEWDRCRGw1MlpCZ0otSnhxTmUzUlM3MGVIVVcwQkgxWW5RZTNJMHFpZHd3M18tSGlfclRKbzlLUHJFTVNtRkZaTWJoN0dEMGdnS0pNYUVQTnRBb2hQSnNLbC1jZHBZbVUyNDdKbU1jT1lNMHZVbjRQa253WjBPQk1zbkZ0NnNkTFlnYm1iQUJXNGkxOFR5ZVZ4b01VLTB1YkcwQ04?oc=5",
-      "date": "2026-05-18",
-      "source": "ABC",
-      "desc": "Tedros agradece a Sánchez la gestión de crisis del hantavirus en la Asamblea Mundial de Salud&nbsp;&nbsp;ABC"
-    },
-    {
-      "title": "La desinfección del barco con hantavirus se hará a mano y los colchones y ropa de cama se incinerarán - ABC",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTC0teVlpemFKc2s3SVhSQVpIWnJVUTMtNGRKQW5XTHlSRHFldkI5Q25FTC10WVJnQTZDX1BqU2psc2lYZVF4OG1TWXpvc21PUDhyQWJiUndHYnpIV0JDUlJheXpCZ1JQaE1uU0RnNF93VUhQS19IM3VoOXdxUWxESWw2N0gtWUNVWUdHWUFaekl5QlZjaHJtMXd0SVlwcFBWYlRsMHdVaV9FSl9VYjZ3TGY2d0dlUkJ4SEtRcWdB0gHDAUFVX3lxTE9fYkk2cFJJSXdRRVd1Zml5ODZKMWpyQjhQZ3ZOSWZ2TkFBZ1lNSm1PaWt1ZkctcXJXR19uNzJnWXRXS3FwRFBlaEp4ZEtWUXhXdXlNR0JGTTk5MnI5NEt6Nm1QQWF6X2ltZmYxTUFUVmZEa21ueUFPSjJNU1JwWUMxbjNvQUhJNEh1Rms5a2JxV2gxZlpLNjRrb19vY0o3ZjhONXVJYVhSaXhZNm1XLV94V1dKTTdTeHgxb2hGMXgwUnNnSQ?oc=5",
-      "date": "2026-05-18",
-      "source": "ABC",
-      "desc": "La desinfección del barco con hantavirus se hará a mano y los colchones y ropa de cama se incinerarán&nbsp;&nbsp;ABC"
-    },
-    {
-      "title": "El buque del hantavirus llega a Róterdam para su desinfección - ABC",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTDhiTnMtTWFZVllyamR2MnZWVXpSYTJLZnBOb0VaTE8ydmJ5Q3hMTDg4MXZqWG5FWEtnNHBiM3hzYlJjMFVvbnNMUEd5TkVERUh1MjNqYmlxRVBxMHl1WWJkSTNCdVdoaFE4QThTbFo5MWlfbUIzWGpkbGYzU1RWc3FsaDFjaGF6Rzh6TnQ3a3liRUotdVZDcURRTdIBoAFBVV95cUxOSVI3eVVLUS1kRGFqSHBRQkpacFVoZ0c1WmRMazhJbHRjRzhUV0RWMXVkV3dUU3RaU01tWm1MbjJid2FqcnA0c2xvLWxBaWFlYjZja3E5ZE5hdFRVX3pJLUhRWXhieUJNaEZvYjNMOWxXRWJKSjdfbUJlc2M3bENFY01oWVJKOEFsWDhRbmFySUZzRE0tQVI0VUdJQ3U1Y01U?oc=5",
-      "date": "2026-05-18",
-      "source": "ABC",
-      "desc": "El buque del hantavirus llega a Róterdam para su desinfección&nbsp;&nbsp;ABC"
-    },
-    {
-      "title": "Hantavirus, últimas noticias - ABC - Página 11 - ABC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tOXp6eDZfa21weVBnN0VkZ0YtRHNIeUlJUHBqVDBRbjg5MXk4bW9pUzJhSEI2WXRRWVUxQmZhMW9JbFRTRUxIbjJzcDJDSXNHek9Fek9MSkc0V3RaaVFjQzBKUQ?oc=5",
-      "date": "2026-05-18",
-      "source": "ABC",
-      "desc": "Hantavirus, últimas noticias - ABC - Página 11&nbsp;&nbsp;ABC"
     }
   ],
   "countries": [
