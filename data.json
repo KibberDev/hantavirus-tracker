@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-05-19 03:55 UTC"
+    "updated": "2026-05-19 07:51 UTC"
   },
   "current": {
     "cases": 12,
@@ -1079,6 +1079,20 @@
   ],
   "news": [
     {
+      "title": "Los 13 cruceristas españoles vuelven a dar negativo por hantavirus en la segunda PCR - ABC",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQzZHOTNuc2hsTjU1ZU10bDY3c015OUxlUDRKX3dXSFJJY3dVOTNtZGpKazJlc2JCMXNHWG9Ld3NIWnZFZmRvNXJxMUgtaUxDWlhGME9YdzhMOE9NR3AzSm9vVUhCSTlRbzFad1FhUUFzOWtKYjRxZnVMUnczUkpDN0Q2REFGSGlXZDUzX09CZ3JndldHWE9UeEhrakhRb3UtNGE3M0JMQUdxTEFKTWc?oc=5",
+      "date": "2026-05-19",
+      "source": "ABC",
+      "desc": "Los 13 cruceristas españoles vuelven a dar negativo por hantavirus en la segunda PCR&nbsp;&nbsp;ABC"
+    },
+    {
+      "title": "Hantavirus, últimas noticias - ABC - Página 11 - ABC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tOXp6eDZfa21weVBnN0VkZ0YtRHNIeUlJUHBqVDBRbjg5MXk4bW9pUzJhSEI2WXRRWVUxQmZhMW9JbFRTRUxIbjJzcDJDSXNHek9Fek9MSkc0V3RaaVFjQzBKUQ?oc=5",
+      "date": "2026-05-19",
+      "source": "ABC",
+      "desc": "Hantavirus, últimas noticias - ABC - Página 11&nbsp;&nbsp;ABC"
+    },
+    {
       "title": "Confirman el primer caso de Hantavirus en Estados Unidos no relacionado con el crucero MV Hondius - HOLA",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3VsYjJOMHNjeFpfam4xcGYtLVhPM0tGLWY2MUdFUkFPNW9FMXFQVEZjSWw5V2Q2bHBkZ1pzS2VvSUFHdklzLUU3TkpFMEFNZGM4WDQ3bWZzOTdvU3I5eU5yQllUeVRnZUlnZmJseHFEZU5nT1ZwRmRuRjJQQ0dUbFJpVDBlbTc5Rml2Z243aGVodV8zZ2l0TEpQYkJKREtjNVpVUQ?oc=5",
       "date": "2026-05-19",
@@ -1086,18 +1100,32 @@
       "desc": "Confirman el primer caso de Hantavirus en Estados Unidos no relacionado con el crucero MV Hondius&nbsp;&nbsp;HOLA"
     },
     {
+      "title": "Muere una persona por hantavirus en el estado de Colorado en EEUU - سانا",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5oeUY2VXlONGZSME1MdDhWZTdIWTl1d1FYWFAtZXFFbHBqWEg5YkdwZThpTFBlUl8yV3BRSVotWm13VWJGQlVxSg?oc=5",
+      "date": "2026-05-19",
+      "source": "Google News ES",
+      "desc": "Muere una persona por hantavirus en el estado de Colorado en EEUU&nbsp;&nbsp;سانا"
+    },
+    {
+      "title": "Protocolo de visitas para pacientes negativos de Hantavirus en España - El Imparcial - Diario liberal e independiente",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdGR0RzU5cGl2X2lDYi1oSlp3QVB2aG0tTXh5eGNPRnhQWXZzZ3NSU0RZckVmdk56dWRCVENKTERiZGRhcXJWWEhObC1UTzFSNTZpRDNVUW81R01vR21JZlZtOWpDdGVsSjNTMFlsQU54WmRUWlRyZ0xybng0Qk5UWmtiZm9acEtaeEs2d2owejRPRmN3SVJiSW9jckpaQWdOTDQwcTFkTUplX3JOR2tGM2xzRG9GV3RtdjltSy1zcm9wZFhhazUtZnhZR1E2VFRP?oc=5",
+      "date": "2026-05-19",
+      "source": "Google News ES",
+      "desc": "Protocolo de visitas para pacientes negativos de Hantavirus en España&nbsp;&nbsp;El Imparcial - Diario liberal e independiente"
+    },
+    {
+      "title": "Japón envía a Reino Unido un antiviral para combatir el hantavirus: qué es y qué posibilidades ofrece - OkDiario",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONHROTzVWMTMyMVNPdC16ZmxwWG1DNk9ObHg1ZWlVVEVDNGJBZGlEY21RTEc2Zl92NWJpekhiMUpiZEQwTHc3Tnd0TlNWaVlLWkVNRlRqT1R5THJlVUZ6bU5EZjlQVEozVjV2bmFjTWFfMWg4VjR3aDRfWTZ5c2xlVWdDU2JTekVtV04xRmxxQzNnVXNWNV91MExUczNoV3Mxc3Nlcy02a1poWjUtbUZMaVJvVVlCcDAwQWfSAb8BQVVfeXFMUHU4bG9QU1c2b3JqT2c3Z3oyY010b3k1Z0ZPbzVwMHBVNGl3ejFwLUQtTW9SOTJPMFpvXzRzS084Q2dGY3BGbE9lWWZ4RDFrT1pXb01Oa2t5eUcxaGliSkF2R3NheEpqdlo0WXNzZ1B1aUp2ZVpSYTRZb3ZKQ1FDSGV6S2ZSVlBxSVg1ZFFmUHh0YVFFbDZIRkZicVVXR0VEWDM5MWFpdE9PSGhuZGZMVVZsRDV6MklBb2xRZzh4b0k?oc=5",
+      "date": "2026-05-19",
+      "source": "Google News ES",
+      "desc": "Japón envía a Reino Unido un antiviral para combatir el hantavirus: qué es y qué posibilidades ofrece&nbsp;&nbsp;OkDiario"
+    },
+    {
       "title": "Opinion | Why Congo’s Ebola outbreak is far more alarming than hantavirus - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVjBacFhQdU9NVWdmUGFQeWQ0OGU2UjJnR0ZkUWNuY3Q1el82VU5TMDBKay15elRqMWtnNklub19tSHhWeHQ5ZDV4Qzc5S3B4cXpXY2dUT0xTd1QxSzFwZC1pN1JtbmRXdnQ2eDI5NjJaNVplcHltckVFZWN2OUxqM01fbG12dGl0eG5MaDlhclVybTcyNTcydmU0eTlqbXVZU1RKcA?oc=5",
       "date": "2026-05-19",
       "source": "Google News EN",
       "desc": "Opinion | Why Congo’s Ebola outbreak is far more alarming than hantavirus&nbsp;&nbsp;The Washington Post"
-    },
-    {
-      "title": "Argentine Scientists Lay First Traps In Hantavirus Hunt - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb3NHUGEzUDNpbkxuSnZBNDBSVEsxaDNqWjRqUGV6VHo4VS1wejFQc1BObXBWcWl2NG5uaENERFpuWjFWQkcwNFdGbExBa1lDMFpzb3R1WjJsa2pnWTdpSF9PaWE4S3diN3lxcUs0TDhJU3Rnd1dYS0RDOGJnaWhiLUNUTlFtelZVeFBFczlLeE96ZmRBN0lheQ?oc=5",
-      "date": "2026-05-19",
-      "source": "Google News EN",
-      "desc": "Argentine Scientists Lay First Traps In Hantavirus Hunt&nbsp;&nbsp;Barron's"
     },
     {
       "title": "Hantavirus in Focus I: what we know and what it means - World Health Organization (WHO)",
@@ -1175,34 +1203,6 @@
       "date": "2026-05-18",
       "source": "El País",
       "desc": "Hantavirus en EL PAÍS | Pág. 4&nbsp;&nbsp;EL PAÍS"
-    },
-    {
-      "title": "Con EPI y mascarillas FPP2: así serán las visitas a los aislados por hantavirus mientras sus PCR sean negativas - El Mundo",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMkpCMVZsR29seFc0cWsyaFZPVldfMG82bnFpeUFEbUtuT013UVVjRGxRaFNoYUNUS0dKLXNvRURqUm9rN1BydFdiM2J6eXE1b0xlSnFfc3plRFNKbGpNYkN0cmcxdVJURE1PWGgwcjNOUHRHcHpsa0RmaW9PeTdsMlBxOG9ONE9oM0E5Y3dB0gGOAUFVX3lxTE82aUhPRFFpTFhrY01RZDlQNHNoQlJBY1ZaVllGRTJ3amctV2hBWGlNbzJQTTN4YlFfb3pKQUlBXzVFekhGSWRERElFWFBVb3N6Wk56V21DbVNVeVdvdXlvdG9jcTNrVDFmVFNFM3V3bDM1bzg5Tkc5NkNoLXFKUHlJeG9Jd1FrcVFraUNuUkE?oc=5",
-      "date": "2026-05-18",
-      "source": "El Mundo",
-      "desc": "Con EPI y mascarillas FPP2: así serán las visitas a los aislados por hantavirus mientras sus PCR sean negativas&nbsp;&nbsp;El Mundo"
-    },
-    {
-      "title": "Las PCR de los españoles aislados en el Gómez Ulla por hantavirus dan negativas y podrán recibir visitas - La Vanguardia",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbUE0NWxKeHhZcHJTcWRQQjduLW40UDJTYkpHS3hPbThESzFpaXdXZ3o5QkZlYVZlQzBHMFRoN2tRRGJfTDllMlQtUnNTNFNNM25ZMXlCSm5MOFhCRklvQWhpdlhna1FPcnpDMjFkaC04bjhwclBuSUlzU0xGVUdpb2VuNkJadS1jMnBFclhWOGNEYmRYNGRvOXI4dndaUHl0N2dhWmZUeHJ3MnE5WUMtNHV6VzFzYTMtQURCR1NnaEhKQThXVkVodUVsQTZnelRNYnhrSUppbUNFZ9IB2gFBVV95cUxNbUE0NWxKeHhZcHJTcWRQQjduLW40UDJTYkpHS3hPbThESzFpaXdXZ3o5QkZlYVZlQzBHMFRoN2tRRGJfTDllMlQtUnNTNFNNM25ZMXlCSm5MOFhCRklvQWhpdlhna1FPcnpDMjFkaC04bjhwclBuSUlzU0xGVUdpb2VuNkJadS1jMnBFclhWOGNEYmRYNGRvOXI4dndaUHl0N2dhWmZUeHJ3MnE5WUMtNHV6VzFzYTMtQURCR1NnaEhKQThXVkVodUVsQTZnelRNYnhrSUppbUNFZw?oc=5",
-      "date": "2026-05-18",
-      "source": "La Vanguardia",
-      "desc": "Las PCR de los españoles aislados en el Gómez Ulla por hantavirus dan negativas y podrán recibir visitas&nbsp;&nbsp;La Vanguardia"
-    },
-    {
-      "title": "El 'Hondius' llega a Rotterdam para su desinfección del hantavirus - La Vanguardia",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOTJlaHU2ZHFRYVlFNnAxbS1UUTQ4R3ExQXlaTzhIWEkxN21NMDFrYWZ6R191bHBlVXkzS19INllwSlozNEZQM2NoZmRKUWx0bmhlZ3plemxaNjQ0Z0dXdkZVU0c2Q2h2a3c1eWFBa1VxeXh4dFMxbExaZmMxaVlWTm94TFNPMEJpYU9vcGVDalMyNVMzMmRuVVJOa2NpOGRkRWpoaGs3b9IBrAFBVV95cUxPQjI0UmNSbjVTX1V0UzZGdnE5Yy1lMnIxUjg2ellJNnZockM5TlhxbDAzVmdIRjBHQkFFVmoxZXRmNDBUWHRoOFNyQ1kyTUxSVWxJR1c5RWxMQVB3VldibHlaWDlHZjJtczFkVzE5bGZSdXhNMnBYaHA3ZUFOUlpxOVI1VHdZTDZrOUFFQW1nZkVUNWZfVEN1dzZTcGNscEU3ejRCaUF5Zi1lMk8y?oc=5",
-      "date": "2026-05-18",
-      "source": "La Vanguardia",
-      "desc": "El 'Hondius' llega a Rotterdam para su desinfección del hantavirus&nbsp;&nbsp;La Vanguardia"
-    },
-    {
-      "title": "Sánchez reivindica el liderazgo de España en salud global con casos como el del hantavirus - ABC",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSzVLNmN2NktpaGRjZ0RjTm00NzQ4VDIzOFlyaW1CdG1xRGJQQ3JCRmxEZXdHWU50N3Jlb3RCTXNOZVRlcmpfamRHQl9rdVhmQ01SN3NRRk1ibjhtMUJFTTFJSjhTdXl4OXYxcDd2UjVWVjBtNWw5ZW5ScUo4RnFQdzJnMjd5NG5yNGZiYlk1ZU1mWUpmMEMtYTVJS3VEOG1hZFlUYVRn?oc=5",
-      "date": "2026-05-18",
-      "source": "ABC",
-      "desc": "Sánchez reivindica el liderazgo de España en salud global con casos como el del hantavirus&nbsp;&nbsp;ABC"
     }
   ],
   "countries": [
