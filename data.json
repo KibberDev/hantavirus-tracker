@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-05-21 08:34 UTC"
+    "updated": "2026-05-21 11:54 UTC"
   },
   "current": {
     "cases": 12,
@@ -1079,11 +1079,32 @@
   ],
   "news": [
     {
+      "title": "COVID is shaping Americans' reaction to Ebola and hantavirus",
+      "url": "https://www.npr.org/2026/05/21/nx-s1-5825891/hantavirus-ebola-covid-pandemic-virus",
+      "date": "2026-05-21",
+      "source": "NPR Topics: Health",
+      "desc": "Some Americans seem to be extra-alarmed about Ebola and hantavirus in the wake of COVID-19. But public health experts say they don't expect another pandemic this time."
+    },
+    {
       "title": "¿Hay vacuna o tratamiento contra el hantavirus? - ABC",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tOXp6eDZfa21weVBnN0VkZ0YtRHNIeUlJUHBqVDBRbjg5MXk4bW9pUzJhSEI2WXRRWVUxQmZhMW9JbFRTRUxIbjJzcDJDSXNHek9Fek9MSkc0V3RaaVFjQzBKUQ?oc=5",
       "date": "2026-05-21",
       "source": "ABC",
       "desc": "¿Hay vacuna o tratamiento contra el hantavirus?&nbsp;&nbsp;ABC"
+    },
+    {
+      "title": "Bruselas pide mantener la atención sobre el hantavirus y recuerda \"las duras lecciones\" aprendidas con el covid - 20Minutos",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVXdnVldCRE5nTVlrdlNFeVh4SFo3aDlfWWFtVTBBV0diamNDNkJvbDk1ckxYcElUTWhwbzh1VWFHTU45UjNjT09sTXJERWVtN2JnYW56X0ZTOU9kSFV3X0s4Q3VrYThrSzdsQU05b19tSFljMXVaQ1RoTHdDTTREd2szN2FTQkwtOEoxczhvN0RtMjcwR3A2QTl5emt0Q1psVmMwcHo1djh2RW8tQWJlTFVISFI4Q2JLWDlyTWV6OVJyUTEyTDkxMDhnSUIxQUkwWnpfb1Y0cjhGRTNRSmhicXJQOExFaGfSAewBQVVfeXFMUHQzOGlZWDdVTmZNcXFZempNUXJoT25fYmxCU2pCWXZxX3Myb3R6bmlQUDRpVVhhY2xHTllDd2RVN3JFV29UU0hVWlAzeVFNUFk3TUN2dmJjaFpiSE03MXBCQlJ0Tzl0REh4SzBTc0tIdEZtQ0F3Sy1rZ0VCdmJYM200c293VkZORXh6LVVmd21qbzJOb19ObG0xUlZYMmp3c1lmZ21DVVZLMHZiM3BpUWdtelZFTUc4eVVLSmFBLUtscHhQNkRqeDF5OWU5UlV2TUVDdGpRaGtnS1dqc3dPMGh3SXlRS0FxVHBTQm0?oc=5",
+      "date": "2026-05-21",
+      "source": "20 Minutos",
+      "desc": "Bruselas pide mantener la atención sobre el hantavirus y recuerda \"las duras lecciones\" aprendidas con el covid&nbsp;&nbsp;20Minutos"
+    },
+    {
+      "title": "Última hora del brote de hantavirus, en directo | Bruselas insta a no bajar la guardia ante el hantavirus y recordar las lecciones del covid - Diario de Mallorca",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOelBKLU1NbVRUV0pHYnhKRDk4cG8zMnRsSXhKR0VvcmpXX25nZTlVRUtaZGpyY2RVQzhxNjVabC00VEZocVd3MjVneUJFdGo3aElfc2MyQ1NXOGREUmk4bU9NTzlmaU41R0JIU0l2N2NXQU40ei1iWnNtajNKSzVxZEZEZFAyUHV2Rk94Zi1RVGdEOGNyeTQ2M0NORFRlRFJSZDl0aUlOM21FcHBJ0gGyAUFVX3lxTE5xNTBRMS11dUlzZzNaOW4zY0JCMDR5QUZkSWdVa2dad09FVkM1UG5MWEtSSmhNLS1iZEo3NDE2NU9Hc19HMVBpU1RWOFVIcUtQR0t5MkpLQTNwbG5qZEhZUDNBeDRVSko0dUVBamxWVkEyWjBDazhqdTh4UFdPclRvTWQxZzlvUDBZaDFENF9uOXZtdDY0MkRXYTZ6SDJ1ZlRQUFEzT2tzaURkMGVKOW9BZlE?oc=5",
+      "date": "2026-05-21",
+      "source": "Google News ES",
+      "desc": "Última hora del brote de hantavirus, en directo | Bruselas insta a no bajar la guardia ante el hantavirus y recordar las lecciones del covid&nbsp;&nbsp;Diario de Mallorca"
     },
     {
       "title": "El brote de hantavirus del MV Hondius no activa alertas de acumulación en el sector asegurador - Inese",
@@ -1093,11 +1114,53 @@
       "desc": "El brote de hantavirus del MV Hondius no activa alertas de acumulación en el sector asegurador&nbsp;&nbsp;Inese"
     },
     {
+      "title": "Bruselas insta a no bajar la guardia ante el hantavirus y recordar las lecciones del covid - Deia",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdE5HeWFNMmFEQWhQR1ZfeW5lUzd5TVZ3QkY0YzNRejFiZVFpMHJDTWtMNzdBNjhMNmszTDB2U3pUUnlNeEgwSlJiUGZwRzlWeEswZGJNb1dWWUloNDZnWmlGVFM4dnRjSmZDOW5lMU81SUtwSVNSYy05dTUwcERjdEFnZ05ndmpUU3FYSDIxZnMxOUlXRzdGdHhJanllanFi0gGmAUFVX3lxTE5jNWFaSXlwZmVTOWdwZ0ZUZVZUa1M1ZTkyNGVPTHNvQzRDdlpkd2RuYXlsZ2Rwc1U4ck4waVZGYkNYR3NnR2JLa2VUeXlkQTlaTXZhaEZqMHRYZ0hOaXR2MjR6dEplZDhPamwwbXBRNlJQV1NzMWF2Ujl0am54YllHYy1td3FyeGRKQ3hNV0E3ZVQ0OGIyUnVBRExhNmh6ang3Q28xbUE?oc=5",
+      "date": "2026-05-21",
+      "source": "Google News ES",
+      "desc": "Bruselas insta a no bajar la guardia ante el hantavirus y recordar las lecciones del covid&nbsp;&nbsp;Deia"
+    },
+    {
+      "title": "Bruselas subraya el riesgo \"muy bajo\" del hantavirus pero pide más preparación y vigilancia frente a crisis sanitarias - Europa Press",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcWRGdXI5R1NjVllHZTJLblctSHFSc1ZJVEtDcGpEQTNJck1JLU5HbFd3cUYxWVhybkV1bkZ4RW8zTWUzS0U5eUZLM0VLZm5QMWJkNFZHaV9ac2RWM2FzU3lTbk9JaVBhcXQtNE01SGNsOTVPMTFNY29TSjdLZXBFUUhpclJlVTZZUWstUDlCOGdtdEkzTFlTQ2NRSmwyTm95M1M5a0lqWl9CLXpTZnFtaHdFdnI3U0JLVXlFSHhwVTFmblB5bjNPMldFbFU3TXRKbmJsYms5a0JGN0ZyTU1KVzNRVmpvNXlLOWJ6U3V5YnJHNzVXVzdPbFMzNkY?oc=5",
+      "date": "2026-05-21",
+      "source": "Google News ES",
+      "desc": "Bruselas subraya el riesgo \"muy bajo\" del hantavirus pero pide más preparación y vigilancia frente a crisis sanitarias&nbsp;&nbsp;Europa Press"
+    },
+    {
+      "title": "Confirmación de muertes relacionadas con el hantavirus en Estados Unidos. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54dENtczhSS3hmTndfRTRzeDFUTUltejhhSUJDdjhhRFJuYUNTRVhXUzdtMnRqQkluRkE4TjJUYlA0b2h3YkF6NEFYOGtmc0VsWVljaDNJNmdSQXlGRHFEYUxyOGhuVmk5MUdtekEyRUlma0owU0E?oc=5",
+      "date": "2026-05-21",
+      "source": "Google News ES",
+      "desc": "Confirmación de muertes relacionadas con el hantavirus en Estados Unidos.&nbsp;&nbsp;Vietnam.vn"
+    },
+    {
+      "title": "Sanidad considera bajo el riesgo de hantavirus para viajeros que vayan a Argentina o Chile - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeElSbU5lSjAzRy1ieEt0X3o4dGdaQkR3MWFOeHMzRjZnOEFaUDdfU0VtcW1EOEM4QmJvaUZIYmpnWnh1Y29hQ2dxVThQeWFaZDZjUXZKbHB3Rms5OVdKQjRhTzFWbDlJUXdRTngyZ2ZBcDNJT0pfaUxBcjRhaXowVF8wWDBaaC1WZlVlSTUwSDFWdWxRZ1NLT0hXcmxqZy1TVzJyV2IxNlQwWkpKMU5WOC04MUdFQ0VidkFDc3huX1hQdTc2Vm9XY2hEMElIOHZ5eGpxQ3d4RGZld9IB9AFBVV95cUxQQVc2emxPZmdUdU1yeERfdDNhaEZhdU94ckVwYnFZUGNPZ1pka2dKaEFPVFNyNUVxV1lzTW5IdE0zcThLOFFGUlhVdTlINU5lUlBJWURXZ1diWVRvQkhfelp4VWpWSWZKclFYWlBDV0g1LTF2czJmdXlXSE5KejBFMTV6UzRnNThnaUtldXNZLWY5b1dKcE9XTXBhYV9VQXNLLWRady1uLXhSeDJoZndxMWZQLTFXM2N2SUxKbm4tWURNdjQxRVRzbXhNekhOeWNTVDBnZXBUdkJlMW0takV0b2p1aHJvNm1hUTRyQnQ1TjBWVVRq?oc=5",
+      "date": "2026-05-21",
+      "source": "Google News ES",
+      "desc": "Sanidad considera bajo el riesgo de hantavirus para viajeros que vayan a Argentina o Chile&nbsp;&nbsp;Infobae"
+    },
+    {
       "title": "The Ebola and hantavirus outbreaks warn us we must be better prepared if we are to prevent the next pandemic - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSGRMYjJhZWc5bkdrM3BObEY5cml3SExUajRyeDNaR0wzNEozb1d0aHhMd3dvVFJiME5UM010YnBfa3hGeHlveGt1SWVnY0RmRGZ4ZDdQQVN3UnQ2MU13ei1fMTQ0RFB3SjZiajRXVTJjRGhBMkZLUkIxamFkLVVNWDBzRU1fUDRydjI5d2dPZVNMQ0p3bGIxbk1kcDl4YkxCX0VKY1p6NUFOd3ZQQkpZdkxXLWxfcVhFV2ZrUUxCWXFFaXJDc1BRN2JONjNrV1ZpNFhPdlZRWl92bVVOdGdiZ0pDVDZyMTZzbVNNNnZjMVR6aDdJ?oc=5",
       "date": "2026-05-21",
       "source": "Google News EN",
       "desc": "The Ebola and hantavirus outbreaks warn us we must be better prepared if we are to prevent the next pandemic&nbsp;&nbsp;The Guardian"
+    },
+    {
+      "title": "COVID is shaping Americans' reaction to Ebola and hantavirus - NPR",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLVlUdGMzNV9aelhBVzh0bGxSYnN0V0toREtuelNIQ2wwSUE5YVRkWGI0VDhKNHhSNkVadGdreVlwVE5fd2dGQWVXMW9ablktZEF0YjkwaURPM2g1U3RVZWY1ZmtXWFcwb0s4WWtBMUpBNGhtN1E0bWRmYW1UamZScWFVRWtscEVCaUE?oc=5",
+      "date": "2026-05-21",
+      "source": "Google News EN",
+      "desc": "COVID is shaping Americans' reaction to Ebola and hantavirus&nbsp;&nbsp;NPR"
+    },
+    {
+      "title": "‘Do travel bans even work?’ Answering questions about Ebola and hantavirus - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOFExb3JFUVVFb1JoWUNfTDUxSml2OEp0Zm9qNTRmTEJ2Wm5yeEV2UGswbzNCYkN1eFE1TU96eEUwWHJiTS1HX19yZkw3bVJiYUhkU3hKalh2UGJXb0VOWXA5V0wwa2w2UHhxOUpFRi04TzNuN2xoTld5ZFpwajJ2T2xjM0U2Ukp5OW1Qc2lOVXI4VUR0MzVHSTNFZ3hLVTg?oc=5",
+      "date": "2026-05-21",
+      "source": "Google News EN",
+      "desc": "‘Do travel bans even work?’ Answering questions about Ebola and hantavirus&nbsp;&nbsp;The Washington Post"
     },
     {
       "title": "Man Charged After Threatening Mass Shooting Over Possible Hantavirus Outbreak Lockdown: Police - People.com",
@@ -1121,11 +1184,18 @@
       "desc": "What to know about hantavirus&nbsp;&nbsp;CBS News"
     },
     {
-      "title": "NC officials: Nebraska hantavirus quarantine extended through end of month - WRAL",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbHVZNHl2MmVDYmFZWG5fZHVsTDFLNEN2NHhOQXk2WXptenJvUGY4WnpPdWlSZVc0SGtjQ1hFaXU2UUlkeVpFd0NKQlpRM2pQeGVwR0tiS2RmQUw5T1AzMGlGemxOZHd5b1NSR3ppMXUtdlp2c21oQ1B0MTB2YTdOeUFSUm5LV0JDYk1XbXJncko5Zw?oc=5",
+      "title": "YOUR HEALTH: What is the hantavirus? - The Labor Tribune",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zcEVDR2NrUVhfVDVHanNYdWpVNHRiNFc4a1UwV1lnSjA0cDl5ajBTOTJTbEdQQk50TTJRVHg1MnFZQ1F4c1A3T0NtTUxfVWg3LWVlMG51bTNCTmJ4cGVMYjg5TDROaW5yYnNpYQ?oc=5",
       "date": "2026-05-21",
       "source": "Google News EN",
-      "desc": "NC officials: Nebraska hantavirus quarantine extended through end of month&nbsp;&nbsp;WRAL"
+      "desc": "YOUR HEALTH: What is the hantavirus?&nbsp;&nbsp;The Labor Tribune"
+    },
+    {
+      "title": "What Ebola and hantavirus are revealing about America’s public health system - Politico",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV1loTDAxemdLT285cDNreXlKVDNjUVRMbVdENUJlOEtTSUpzNzVOSEUtNzRyTXpJdGdvUFV5ZGpDWXJoRG0tUnJ2S0RCRjVFQXlRTzZQNGJtLTIyVnVxLUk1OURldzExRXFGaVYxS0lkVE95UEJQclkwYmZ3SFZqdFhzekRaX3VwbkFfa3p3?oc=5",
+      "date": "2026-05-21",
+      "source": "Google News EN",
+      "desc": "What Ebola and hantavirus are revealing about America’s public health system&nbsp;&nbsp;Politico"
     },
     {
       "title": "CDC orders 2 passengers from cruise ship hantavirus outbreak to remain at UNMC - Omaha World-Herald",
@@ -1133,76 +1203,6 @@
       "date": "2026-05-21",
       "source": "Google News EN",
       "desc": "CDC orders 2 passengers from cruise ship hantavirus outbreak to remain at UNMC&nbsp;&nbsp;Omaha World-Herald"
-    },
-    {
-      "title": "CDC Chief Orders 2 Americans to Quarantine Over Hantavirus Concern - MedPage Today",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RVnQ5WGZiM3RNWkV2NUdHR3FKTkIyRVpyRGtyazlRdTBBRm94MFpFQ3J2MWJvYllQVzJ3YVhkbFh0WjFhTW9jcFRWY0VrTmk0TnhQUXBjSVE0dDBudnBrbm03X1I4WjVqMkJNb2VVbFZneS1TNUE?oc=5",
-      "date": "2026-05-21",
-      "source": "Google News EN",
-      "desc": "CDC Chief Orders 2 Americans to Quarantine Over Hantavirus Concern&nbsp;&nbsp;MedPage Today"
-    },
-    {
-      "title": "Is Hantavirus Worth Freaking Out Over? - seattlespectator.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWFZfbTE3SFZDenNjSnlwVHNCLVloRUcyTHAySGMtUjVGLW5RUjNfdEw1dTdKcy1kaWl0WEJyVjNYVDhrN05qd1VsSDNHcFVucExZUHB2VnlkSFk3OW5POHBkdktKcXZNTHVTbUp1NkZIQjluX3Mxd19vN3FQNUFJNVhyQkk?oc=5",
-      "date": "2026-05-21",
-      "source": "Google News EN",
-      "desc": "Is Hantavirus Worth Freaking Out Over?&nbsp;&nbsp;seattlespectator.com"
-    },
-    {
-      "title": "El verdadero peligro del hantavirus es la ignorancia - EL PAÍS",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLWVxUjlydm9ESFBtQnNJSnlzSmpZSEJkcDJlYk1ZOC1fZThId2hQNmRFdFpEanRsNWZUSmpYbndheHJOSktnNVhCUHRwanVRTl9TSzBmbVgtNVFmZmtKaXU0R3RxeTNSMzVKYTBRMjlHNGY5bFNPd19LNl9FNWUxZEdGcVlGOFB4V0ItVTI1NnhhSWdic0ZPd0ZjY9IBrwFBVV95cUxQMFpOT1JKeHJ0cEZueEVhcjFHMzM0enBvTmpCa2ZxYzZCaWdtbG5MbjFrdFlsNXBYSjJleDFldEQ5MnRxWUk4clNheEF3Nlh0eWgwQ05saTI1bW9pVFNoR0I3OGxrTXltN24zRWp1R2l1SU1QUnNWUTdPSVJ5TTA4U2IycnY0aWJoYkhsOVgzbnN5TmpvNWF1bjRfVmMtdURkVV9lOFBISDhlZ2FEczhJ?oc=5",
-      "date": "2026-05-20",
-      "source": "El País",
-      "desc": "El verdadero peligro del hantavirus es la ignorancia&nbsp;&nbsp;EL PAÍS"
-    },
-    {
-      "title": "Hantavirus en Buenos Aires: confirmaron 18 casos y 7 fallecidos en lo que va del año - Página|12",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSzdBWWd4MHpFV1o5Mno4QU14ZkluRWo1Y2h4TFNpT0JZSkNERkxpeGVwOURwNGwxUmFuWnFfRVFjS1JIaXNIdE55RFlEOHFEcVFFbzJNV3NELXpYUXZYeXZGUXpvYXZfdGk2clgzUnVpR3FJRWJlQ05aa0pUTDZmM2FwN2RZQW8zYVBrS3FRYWpwQy1WRDB1Uk5VbkJoSWtJejl6ejdScGZUNkxJWE9PYV9TdDAzOUlaOEhYSTZFYjE?oc=5",
-      "date": "2026-05-20",
-      "source": "Google News ES",
-      "desc": "Hantavirus en Buenos Aires: confirmaron 18 casos y 7 fallecidos en lo que va del año&nbsp;&nbsp;Página|12"
-    },
-    {
-      "title": "El hantavirus suma 45 contagios en el país y un equipo del Malbrán trabaja en Ushuaia tras el brote en el crucero - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPN3BZVE5ObUc0c3VrME5aQnhjRWhrZ3llY2dwN0J2eHZxeUQ5RXBtenZZaF9ZQi1UWllSQTVZNWxlOGE3X0ZkeEdSS2xLOFpGWFZlSEJBWFNoM2pZZVhiMGoxdWM5VmJMQ29GWUtBYkxtUjNoMmplWkV1cFdvM0drZHdjYW1qUk1DaGMzZ1k1ZlhXN2dKMjJVZ0RJOXg2STZ3SWFwMWJwb2VCM3pJSFJkVEUxLW44T2p6dWY5VUw1bFRpWjdLR1Q2bjZRM05ZNWR1ellYSzhSb2R6TWs5amZqakxhSVdjSVJrNzZz0gGGAkFVX3lxTE92dUlmai1OQVY4Z3lneEtkVndHOVl0YXJwZWdWRnM1NmpvNS03dUtRSDVLSWYxbUd4aVBCN0ZkbXBSbG9uVHBrZVluSlM0Z1FMdVhSU2FFYy1TSWhrM2ZRNjhOWG1aamF5ZXNVa2hnNDJOWXdHb0xteUJoLXgzSGFDeTk0OVBfOUhINi1rdmMyVmVEcXlmSUVMQ0ljRnRucFVqZEVBMllndEZFVG41dldDZnQyNDlNUFNjeHQxSE5FcWVlQlR0ZlFxMk9XTUF6OFBvUEN2LUozSmdPczFwUXpOREV4aGpBT0NrZk1wRGhLRVpScDFuV21oek8zOGhFaEt2aW9aUUE?oc=5",
-      "date": "2026-05-20",
-      "source": "Google News ES",
-      "desc": "El hantavirus suma 45 contagios en el país y un equipo del Malbrán trabaja en Ushuaia tras el brote en el crucero&nbsp;&nbsp;Infobae"
-    },
-    {
-      "title": "Colorado informa su primera muerte por hantavirus desde 2024 - Gizmodo en Español",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLVVnTXdydEFJU0NYTG9HaVQtWWRfcUdyZzBxbmFfSWhvSWRObk5tYzdxLXBsaHJVRUFqTURXZ2tiZHA0QWEycHBORHA5bjFTaEJCbHBtWnUwU19paW14aUlOQ0dIVVVaMzliY1phV2tYVkJ3bW5xQTRDN2ZwYWlreXNYa1BCNEZ1Y3U0cjlSZ21LMGp0eElrMGJ3?oc=5",
-      "date": "2026-05-20",
-      "source": "Google News ES",
-      "desc": "Colorado informa su primera muerte por hantavirus desde 2024&nbsp;&nbsp;Gizmodo en Español"
-    },
-    {
-      "title": "Brote de Hantavirus en el crucero MV Hondius, en directo: última hora del español positivo, cuarentena en el Gómez Ulla y estado crítico de la paciente francesa - El Periódico",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRUxmUVhnajQ0RlNiT3RQR08yeUEzVmlkWHhjQnFLellrQUYxTUhzYnJpSldSY202U0F0b0I4VnFGQXF0OGYtNU1Tc3hRbmpZRko4Y3FqdDRZenZwSmRwYXp1SkRkUUdhMjhyZ3BaMzhSaV9rOE0tRWxxdkZhdWZVVTdJT1phSlJyVVNLWlBhdUhZUDFoT1hyQVBuR3pnUmYzRFdBZi0zX0h4T1dDdGl1U2xDRkdQQVRrbTd5VDNoX09sZVV2XzBDakRrVHNoeVNnTWNsS2xDMNIB1wFBVV95cUxQemE1NHotN2ZoLWtqUlpmM3oyOExLQjBFblJYXzlMeDBITHhiQWhCT28xdzk2VzZ2YTBMMDZPMlljb2tyNmNTb3RVMEhMWlNoS29TLTJJSXg4LWJRdUNTWE9xbmNSR3J1bFh6bWMzbHZ5TTBmaWduREsweHc4SDd3VlhwUXpwMGd2c0lFV1prdHB4VFcyZnRuOV80TEM3b2FLVVFOWkNMQU5YMWFIT0RTQU92RUt4TURxQXBlNWlkSUFpQUZ3UkYtQlhQX2xtTF92bDViT2lFWQ?oc=5",
-      "date": "2026-05-20",
-      "source": "Google News ES",
-      "desc": "Brote de Hantavirus en el crucero MV Hondius, en directo: última hora del español positivo, cuarentena en el Gómez Ulla y estado crítico de la paciente francesa&nbsp;&nbsp;El PeriódicoDesembarcan el cadáver de la pasajera alemana que llevab"
-    },
-    {
-      "title": "Estadounidense a bordo del crucero con hantavirus se siente \"engañado\" por las nuevas órdenes de cuarentena - CNN en Español",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcEQzdFYzTU5lQ2huLWN1VGZrM0wtelFzNVpWb2JaeFBUS0RUSVR5VW9qVDNaVEszdnI0VG9EQmIyMHdiRk9pSE14WVQ4ZnRQQW9xUktld0xIS1MxMldudDNWZ1JsYm85TDQzbUJlNmI4bG0xZEV5ME1RS2t2Wld1NXNuQkJ2djl0a1J1WU9qdHhFTlpicU13Mw?oc=5",
-      "date": "2026-05-20",
-      "source": "Google News ES",
-      "desc": "Estadounidense a bordo del crucero con hantavirus se siente \"engañado\" por las nuevas órdenes de cuarentena&nbsp;&nbsp;CNN en Español"
-    },
-    {
-      "title": "Del hantavirus al ébola: «Seguimos sin estar preparados para la próxima pandemia» - La Verdad",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdzktc3JXa19WQU05OTdtYVE3N2hRZUwtTFlZMGhBa2RwVWJOTUFXQWFUaUw5cU9yUUpObk0xMnZ6eUREeG15TzY4NHNtZWl2alZmY0laS0FjQWl3MkgyVDE3QmFNNndhdHFpZVBNekVGcDZnbnRIUmNvZUlMTlZUMUVhVmlWd2FoRy11aEl5amNYX0kzODlXd192cjRyZVJibVROMFA5MmHSAa4BQVVfeXFMT2NNclRzem1oVGdPWUQ1SC1MZGRqQ0ZhckF4YjcwT09pOHh6andzaE1rWnNHT19OaVV1YnpEaFBWQUlpYThoa3pULUh6Zi1CUTZENUp0eUFVVUVaRlNENXNWWEd2UEdEaFZlOG5ULUEwUUpsSzdDb3BSMjVCMU1wT1JKYjNsallSVWpkVjlCNF9tT0NMQnRzb3lGbmp1ZVJScU5XcGdCT3NrQU44c1hR?oc=5",
-      "date": "2026-05-20",
-      "source": "Google News ES",
-      "desc": "Del hantavirus al ébola: «Seguimos sin estar preparados para la próxima pandemia»&nbsp;&nbsp;La Verdad"
-    },
-    {
-      "title": "El Concello de Cangas desratiza el casco vello en medio de la crisis del hantavirus - Faro de Vigo",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbTFlcGl4RGNDQ3p2c1lzUUNfR2xmbmtMSDNma0VCNm81NFJNN2hHOEpTS2pMemMzZ01HT25EOUdyZDdtc1RyUnRzX0FMUkE4eGZxUjhMelhKbkRsVEZXUmRKcmI3NFNuT1cwZU43bnhMSlpQUmN5T1Zka1VWNzJHNlRLOWxTZVJENUs3WXpTTFM2WGN5OEVqRzdkS0lpaW5k0gGmAUFVX3lxTE5IRUQ5ZDNCUkY4ZlhhT3ZsTzZHc3UzeWxlR0hZeEpQOVNaZUljSkgweXkwRjNEckRMQUtRZjhJTDdQd3c0LW04bzVFN0RoR0hYVUxjamNXVUNoNHZBYlByWnE3NmgtbTk5RVRjZ0EtWmY0ZWN0dkp2NmU0TkxvV0lobW94TF9EYWo0REhCUjR6bUpwQmdhVDBjTlQ1M2RZeFV6UUdEVWc?oc=5",
-      "date": "2026-05-20",
-      "source": "Google News ES",
-      "desc": "El Concello de Cangas desratiza el casco vello en medio de la crisis del hantavirus&nbsp;&nbsp;Faro de Vigo"
     }
   ],
   "countries": [
