@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-05-22 00:06 UTC"
+    "updated": "2026-05-22 04:40 UTC"
   },
   "current": {
     "cases": 12,
@@ -1079,6 +1079,34 @@
   ],
   "news": [
     {
+      "title": "Study finds widespread hantavirus exposure among Pacific Northwest rodent populations - News-Medical",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNa2pWdWtDM0VHMFQzaTNDa0JDZWVpc3p3elZxWXVhZUhuVF9vNjhyNUdwemRqN0Q0M01tSFJNSkJNd3htZFlEVWRpUnBxX05KNmh1SW96QW9aZkVnQ0tlYV83MW8xMnRtcHhXR0dYajZiTVdzU2E1bjZTMExadzBqa3lVU3pDVVd1U1dqSUlVRmRWME1YX01ucVVpaXI5eFN1Z1hGb0pVanBhZXJqaUxERUhZbEtyZEx5YUJmVWktR2F5Q1NNMEFGWk5qdUlLZw?oc=5",
+      "date": "2026-05-22",
+      "source": "Google News EN",
+      "desc": "Study finds widespread hantavirus exposure among Pacific Northwest rodent populations&nbsp;&nbsp;News-Medical"
+    },
+    {
+      "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus II: hantavirus in an international maritime setting: natural history, infection control and clinical management of patients in hospital - World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOd1d0bnp3cHl1WVFCbEJMT2QyV18wQnhmTmhXOUtuV0d6LTU1SFpnYmF4dEtrYzJPNE5GSkstb3VmbHh6b2NKdEFodU1BaTJTMW9melNTU2xYOGFWS3dLb3BvUUdiSWVlNVFBVW12Xzg5bU5NS0ljTnJwMlBHLVpfWlZNZnZFMFBqQ3ZxZFF1YXRhVkdlLVY2X3VOb2VGaDVjZXFwRTIwY3VUdGYyTEd6WmJHODJwandQd1duQV9FVmViUFhFdDNyRGVGSlREU2NOLUNOdk5qeC1HODNZRlJKLWxtZEp6UllmQWFFRDc3MXRCMVdCWU1OUFlTNnFXdF9zRjJ1MHczcDI4ZFBxdEN1dzQ3ZEtjbWdWZTJ6eXJfcHp0eTdJZWM3bEdqR1F1d2xxTDlOMnFjcW10QXV4bHNMbHJFTlZkT2NubzE3RG9fRmphT01GYjZVckg4RjJNUWNUTlNuMXNxUk9VTllKcWx4VHUtTFM5TVdCVFo0?oc=5",
+      "date": "2026-05-22",
+      "source": "Google News EN",
+      "desc": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus II: hantavirus in an international maritime setting: natural history, infection control and clinical management of patients in hospital&nbsp;&nbsp;World Health Organization (WHO)"
+    },
+    {
+      "title": "Hantavirus cruise ship quarantine orders are based on a disease list that doesn’t include hantavirus - Healthbeat",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWFlyMXFieFJPSmxuSUFKUlR3NHVFbG9QT0ZoSWlWbEN1X01JR3NWRFBBUHM3QjdlZzZNX1NfakNuNkhhTXpPakdPdE1IUzM1WjM3LXhTa3ZlZjNVbVN0Q3VsbWpua3BSRERGUFB2ZVJweFhwSjk4UEhLa01URWRxSXQxY0tGcHVVR1FzU1BxRURSc0VwUEltVmNWenNNa1duMHFoNXVmcHRuVkhzaUE?oc=5",
+      "date": "2026-05-22",
+      "source": "Google News EN",
+      "desc": "Hantavirus cruise ship quarantine orders are based on a disease list that doesn’t include hantavirus&nbsp;&nbsp;Healthbeat"
+    },
+    {
+      "title": "Hantavirus is not a repeat of the COVID-19 pandemic, University experts say - The Cavalier Daily",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWkdMSFRUQzl3QkI0Y2VWUnZQSFNRWWZmNUdyRlV3MVExLUVKcXBBXy1OQlVaOGRJMnd6aWR0cnJiUTNscmhNTTQxcjBMNVFKNS1ZS1MyZWN3ckxsNnM4SUJydVVSNjMzUi1nWTQyQXdPQzRWc3ZIbVRyZHF4X19vZE1UbVd2TjF6YkxrVDJVVkNyalRIbjFMdmJ6UlYxcjJtUUdHWUxacmVJSU00eXprV19wMXJkc0s4TmZKLQ?oc=5",
+      "date": "2026-05-22",
+      "source": "Google News EN",
+      "desc": "Hantavirus is not a repeat of the COVID-19 pandemic, University experts say&nbsp;&nbsp;The Cavalier Daily"
+    },
+    {
       "title": "American passenger feels 'betrayed' by federal order to stay in hantavirus quarantine",
       "url": "https://www.npr.org/2026/05/21/nx-s1-5827015/american-passenger-order-hantavirus-quarantine",
       "date": "2026-05-21",
@@ -1114,18 +1142,11 @@
       "desc": "Ojo si viajas a lugares endémicos para hantavirus: las 8 claves de Sanidad&nbsp;&nbsp;Redacción Médica"
     },
     {
-      "title": "Hallazgo inquietante de la misión del Malbrán que investiga el hantavirus del crucero en Tierra del Fuego - Clarin.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWlFVV09BeU5GQnpoc01LR1JEek11SGdYSTZaSEZDSzRFeUxrRC1WWFhVdS00WktjbmptZnRYSUZnWDZoMWpoRkJYa08tVlFxQTk0SlBaWDlPcWdEbURCMnRFRDhiWnl6V0ZVcS0wanNUY3dVUnViZ19fWXVaMVFCeEMwQTlYQzRpdlFKVGtraDk3RkJ0Mk1aZGwxYXV1TDNpbk94OTFuQ0V5OHNERTRCVFNheE9OWE5ndWdyd01MWkxhT2thT2c?oc=5",
+      "title": "El barco del hantavirus llega a Róterdam: en qué ha quedado el caso del MV Hondius - El Faro de La Palma",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSTZMMkUtSFhyMHFoem9ZajNLeXZKZC0tNTQ3WVZVWmYwN2NPN045WVg3RXpKYms1em9xcUxzRVZXWVZMclk0UTQzYk9BREFyX001a3BtMGp5cFJTN2ZQOHlfUW5yUFlkN2NSSTBYNXlVTVJOcTJNN29oMlpTbVR6YXlva3RENU1wN0xCbFRwd0tqZmtZQ2dpTFQzLWdBeC1nTUpsNjNRcUZpOUJJWXc?oc=5",
       "date": "2026-05-21",
       "source": "Google News ES",
-      "desc": "Hallazgo inquietante de la misión del Malbrán que investiga el hantavirus del crucero en Tierra del Fuego&nbsp;&nbsp;Clarin.com"
-    },
-    {
-      "title": "Los pasajeros rastrean el origen del brote de hantavirus: “Aquí se dice que es posible que fuera el matrimonio holandés” - EL PAÍS",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTWhSem5BcURVaHFnZUo1bldQN0I0RU5CSC04dnpTeEg2SnY0VkUxSTFNSHpPT1VpbzlZcVRDQndyal9Qai1Pb0wtbzFlbmljQmJHZzJHRkJyMXl3YkxBYjNncy1zeHE2eXhSRjF5Q2lxVVhzdXNLemJ4aXV5QXV3a0lxZGJCVzNtS2RNeWd6emR4ZWI5R3lyTWkybnhjMjN3OWNVMzI3N3VyTUpweEl5YzI3LXZpVEs0aVFqWjh2OXprakZiVmNUbVZ4MW1UQjR5SzVtdENXeW5lZU5OUjcwZnBpMERqVnEtRUhHeUE1Yi1uR3fSAYcCQVVfeXFMTTJES2tsVEFTVXdnTGl5SV9jbjdIY05fcW9JQmNILTNiZ1YtLXNfbWpYNjRKRUVKZTNiRk1xem5oOEp1NWZIeDd1cEZ0RkdRV3NvbzA1NWpVTFZ2NE9sSTFXd1dYVEQ1ZVI4amFrR1QwSnhBZlFrY2xlamFRWmVMWWFXLXFWUDFDQVNXS1A3SFdrUDRPbUxzZzFWM1dmMWFlUWxWcVRaN0tBSUw4TC1zOTAxWFprVE5zRUlqS05KQ0tGZkdZR0oxVzNfZnNEVnZ5YWVuMEk0V0stU0J0clJKWkdFOTJMbC1FVzNxTURIaks2cFJXTGMyQXdzVUdfdHUwZWxkNUxibzQ?oc=5",
-      "date": "2026-05-21",
-      "source": "Google News ES",
-      "desc": "Los pasajeros rastrean el origen del brote de hantavirus: “Aquí se dice que es posible que fuera el matrimonio holandés”&nbsp;&nbsp;EL PAÍS"
+      "desc": "El barco del hantavirus llega a Róterdam: en qué ha quedado el caso del MV Hondius&nbsp;&nbsp;El Faro de La Palma"
     },
     {
       "title": "Bruselas subraya el riesgo \"muy bajo\" del hantavirus pero pide más preparación y vigilancia frente a crisis sanitarias - Infosalus",
@@ -1140,6 +1161,13 @@
       "date": "2026-05-21",
       "source": "Google News ES",
       "desc": "Plan blindado contra el hantavirus en Tánger ante la Operación Marhaba&nbsp;&nbsp;El Faro de Ceuta"
+    },
+    {
+      "title": "Los pasajeros rastrean el origen del brote de hantavirus: “Aquí se dice que es posible que fuera el matrimonio holandés” - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTWhSem5BcURVaHFnZUo1bldQN0I0RU5CSC04dnpTeEg2SnY0VkUxSTFNSHpPT1VpbzlZcVRDQndyal9Qai1Pb0wtbzFlbmljQmJHZzJHRkJyMXl3YkxBYjNncy1zeHE2eXhSRjF5Q2lxVVhzdXNLemJ4aXV5QXV3a0lxZGJCVzNtS2RNeWd6emR4ZWI5R3lyTWkybnhjMjN3OWNVMzI3N3VyTUpweEl5YzI3LXZpVEs0aVFqWjh2OXprakZiVmNUbVZ4MW1UQjR5SzVtdENXeW5lZU5OUjcwZnBpMERqVnEtRUhHeUE1Yi1uR3fSAYcCQVVfeXFMTTJES2tsVEFTVXdnTGl5SV9jbjdIY05fcW9JQmNILTNiZ1YtLXNfbWpYNjRKRUVKZTNiRk1xem5oOEp1NWZIeDd1cEZ0RkdRV3NvbzA1NWpVTFZ2NE9sSTFXd1dYVEQ1ZVI4amFrR1QwSnhBZlFrY2xlamFRWmVMWWFXLXFWUDFDQVNXS1A3SFdrUDRPbUxzZzFWM1dmMWFlUWxWcVRaN0tBSUw4TC1zOTAxWFprVE5zRUlqS05KQ0tGZkdZR0oxVzNfZnNEVnZ5YWVuMEk0V0stU0J0clJKWkdFOTJMbC1FVzNxTURIaks2cFJXTGMyQXdzVUdfdHUwZWxkNUxibzQ?oc=5",
+      "date": "2026-05-21",
+      "source": "Google News ES",
+      "desc": "Los pasajeros rastrean el origen del brote de hantavirus: “Aquí se dice que es posible que fuera el matrimonio holandés”&nbsp;&nbsp;EL PAÍS"
     },
     {
       "title": "Los consejos de Sanidad para prevenir el hantavirus a los españoles que viajen a Argentina y Chile - Telecinco",
@@ -1170,39 +1198,11 @@
       "desc": "N.Y. man who was on hantavirus cruise ship says Nebraska isolation center feels like ‘prison’&nbsp;&nbsp;NBC News"
     },
     {
-      "title": "Study finds deadly hantavirus more widespread in Pacific Northwest rodents than expected - KOMO",
-      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNLVIwbmhRS2NFeWwwYjd3TVpRTXd0Y01YMmc5WC1YVzBPY3lqTERKRFJ0TTd6STZHdU9mM3JBaGFiLWVLUjRZQ0pxc2dwSHY5VU9tSjAtVjVhQW00QnR6NHhCVjhMVUpDWWZYdVJySmMweHc5MDlXRUw0TTNod2ZyZ1JubjhhUGV2QlMwajRRUzJKQWxiYlQydDFJeU91ZFlIWFRUa19HVFZKTjVuTUJ4UVNYenJqdVJoYWl2SWRXMTV2MkpnR25zeks2ZzdxZUFId2FKZF9YLUZrY2dDS1kyNnJYY1ZlNDN0cndGN016ZUt0VkVOYUl0SW9xenBDM2xYU3VBWHlmc2dWMjNlVGVCbkl0Q1JmV1RnQjZOOVBuRXh4aElnWktjOVFuYUJqTkxrUU1UdWFzLWJmbXhBX3RNc3ZGejk3LUJRdGM0SXBtbw?oc=5",
+      "title": "Sentara prepares for possible hantavirus infections - WAVY.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYUpZUFRydUxfU2xUdWJ6bktOelNFZUI0dUsxdjFXX1Z3Q2dWZ2NkNzc4Q2l5SUloUFllSjAwZktjQzZXdXVkVDNPQ1FsOWFucHVSY1BlMDRobWVEWXlCUFhoZ2tXNUdscEZHWmU1bE9DUW5YNTYyQVNjUlJtLWQ2cE9mVzJDRUtadmJib2ZR0gGTAUFVX3lxTFA3bWEyTnJ4eVhGRTYwLXllV0F1dFNDOWxpdGplVF9QOTA1X0I4VXZZWXhVSlVkOWxKcE5BUXpYRkxJdzdJU05iM2NCdWtjemE3RjZaaXk2OTN4RXNNbWU5dHRnNVV2NURnUDNpX01yVk1SRVp5djNUV0I2MHAyLTQ5bThUbEdJeFlFb0FOeXYzeUhBZw?oc=5",
       "date": "2026-05-21",
       "source": "Google News EN",
-      "desc": "Study finds deadly hantavirus more widespread in Pacific Northwest rodents than expected&nbsp;&nbsp;KOMO"
-    },
-    {
-      "title": "‘Shocking number’ of PNW rodents may carry hantavirus, Scientific American says - OregonLive.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVzd0a2xETmNJbFV3QVlRZUprWXVGa1FUWmRtczB3ZFhycmdIbW4wdEVZMmxtckxWRldhUThLNkphanF1VWNTYXJEcTl5WDREYm1Xcnh4NVdGdFQtVkVUY2JIcFFSeTU2LUFVR0h4Ri1lcHVobDZkc1FXRWtBTVcyemowUVBCcTZQWWRhVTlCT2cyS0hjV3RxbEtjZ05mbjJPalR4cDY3NjhLamhzUEt1Z2tmUTFiM0F5LVlKRTAtelHSAdQBQVVfeXFMTkZZamhaTVdBMzM4SE1FRVpieldIeU5rLVZPWE03VkJxcFlJcnBWeWtWZjE1R0hKeHQycFhCaXZWYkxteVI1OGdJWllQS2ZOTjdiV285VmJmcVpLWFlPVmhnTnhvRjhsdE0zYzhpRkRNNnlPemhGT1lnYUsweTBEMklPaWpfZjFWSERLRGZYVW9Wb1pxS1ZGUVZRNldSQUsxeHdrVTFZZDAyVFBsOTdlSjJIa0FfOFJOUUJxS2hNLWlaMEZkSTRsMW56T0ZOa1p5TjlHU3g?oc=5",
-      "date": "2026-05-21",
-      "source": "Google News EN",
-      "desc": "‘Shocking number’ of PNW rodents may carry hantavirus, Scientific American says&nbsp;&nbsp;OregonLive.com"
-    },
-    {
-      "title": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest - WSU Insider",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa3ZjdlQ3bjV4alloM1R6eThyZ2dKNGVnV2s4MjF1dk5rZ0ZicndDQkI4YUo3TVU2TlpsMU9uTDVCNFl3LWdCZDRrMW1jd0ZVb3l3dTZBTFh3YUtlbm9jRm5wS3UtSnQ1QlJUZHJLb1duZXQ1Snk5NXpwWHNlVnZiaG1HQ05CbEVwelBtZ3AxRHIwT0RhelN5X2l2WEw4bER2MjVRRWtUcHhQdnI0XzFDcjh6QXZYZkdKS0RWdWJ0Qlp4dWdHMEE?oc=5",
-      "date": "2026-05-21",
-      "source": "Google News EN",
-      "desc": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest&nbsp;&nbsp;WSU Insider"
-    },
-    {
-      "title": "The Ebola and hantavirus outbreaks warn us we must be better prepared if we are to prevent the next pandemic - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSGRMYjJhZWc5bkdrM3BObEY5cml3SExUajRyeDNaR0wzNEozb1d0aHhMd3dvVFJiME5UM010YnBfa3hGeHlveGt1SWVnY0RmRGZ4ZDdQQVN3UnQ2MU13ei1fMTQ0RFB3SjZiajRXVTJjRGhBMkZLUkIxamFkLVVNWDBzRU1fUDRydjI5d2dPZVNMQ0p3bGIxbk1kcDl4YkxCX0VKY1p6NUFOd3ZQQkpZdkxXLWxfcVhFV2ZrUUxCWXFFaXJDc1BRN2JONjNrV1ZpNFhPdlZRWl92bVVOdGdiZ0pDVDZyMTZzbVNNNnZjMVR6aDdJ?oc=5",
-      "date": "2026-05-21",
-      "source": "Google News EN",
-      "desc": "The Ebola and hantavirus outbreaks warn us we must be better prepared if we are to prevent the next pandemic&nbsp;&nbsp;The Guardian"
-    },
-    {
-      "title": "COVID is shaping Americans' reaction to Ebola and hantavirus - NPR",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLVlUdGMzNV9aelhBVzh0bGxSYnN0V0toREtuelNIQ2wwSUE5YVRkWGI0VDhKNHhSNkVadGdreVlwVE5fd2dGQWVXMW9ablktZEF0YjkwaURPM2g1U3RVZWY1ZmtXWFcwb0s4WWtBMUpBNGhtN1E0bWRmYW1UamZScWFVRWtscEVCaUE?oc=5",
-      "date": "2026-05-21",
-      "source": "Google News EN",
-      "desc": "COVID is shaping Americans' reaction to Ebola and hantavirus&nbsp;&nbsp;NPR"
+      "desc": "Sentara prepares for possible hantavirus infections&nbsp;&nbsp;WAVY.com"
     }
   ],
   "countries": [
