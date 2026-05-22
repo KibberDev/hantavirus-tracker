@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-05-22 13:54 UTC"
+    "updated": "2026-05-22 16:28 UTC"
   },
   "current": {
     "cases": 12,
@@ -1079,6 +1079,13 @@
   ],
   "news": [
     {
+      "title": "Nuevo caso de hantavirus en el crucero MV Hondius: ya son 12 contagios y más de 600 posibles contactos - Antena 3",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeTZXcnEzN1Fyem9ya1BoeXZMUkNjTFRLbmZDYkZsY3ZlRXpSZ1JTYXh3TkVBdGdVWm9BLUJ1LVQxYmx4Q3BxTGJOWW93aVB5UlJZc0V6NExfck4xTUY4QVdYN1M0VFAtQWxoVnJEWUFhRl9qaEtGYndybXk5S2VmVXFLNnFHemtWWGdWeklia05VeDh4ajRmVk9vV25yek5sVjc5TXQ0N01rRU13enZoQ0doYnozQkl2bW05RjhlQVlTX2tFYW1TdXppVHFyZHlQY2M3T0k2ZXA1UzFyb3ZHZU9pSXAxREk1SUpwOUE5c9IB7wFBVV95cUxNN2JOTUttVU5JMTJjaU1rZXpXUlg2aXRNMG5TdWJKSkllb19RWVZfTkt1VmdORjFJdmFCZTJTU0JrYW1ubWJUd0M4QTQ5MHRoTm90a0RwR3pUNElydzNmalI5Z1EyNmpYVHhPaFJkOF80N0ZqR1AtSEhSb3FfNmdRbHN6ZTVldlFmZkRRU0U2ZWhXQ2l5X3F0cXRIdE5QQTlleGRsdlhCbmFzYkdybFVIYzRVTzlhOFFmb3QtUzhQbEFONEVLWXRaRGtJalY1S096czNVaksyOXZISGVlb3VZal9XS3dLNG9YSld1RVFsTQ?oc=5",
+      "date": "2026-05-22",
+      "source": "Antena 3",
+      "desc": "Nuevo caso de hantavirus en el crucero MV Hondius: ya son 12 contagios y más de 600 posibles contactos&nbsp;&nbsp;Antena 3"
+    },
+    {
       "title": "Los 14 españoles que cumplen cuarentena por el hantavirus en el Gómez Ulla ya comparten las zonas comunes - RTVE.es",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObmxicEN5T0lJZDFmMTNOcWp3UGFSR2tiUlFLYUo0WUNja3FQLWlsRzRCZUttZ1BpeUtlWXFMTGRqNkhJT09rd3Zva0s1d2dzY05wVDNhVEhlb2lxcmFsYjN1MUdUcTg3MkpuTHNmd2JXWng0Y1pzb3JwaWJ6U083S3ZLOUhJWVZjMjIyT3pBNEJ4TV9sOUJGUmkybUpaOXhaQ2g1LWdEbEE4dWw3ZFNXb190YnpJN3RTRmQzZzhBenA4bTlDUGxlMXY1SGh6cXVWQnRz0gHTAUFVX3lxTE5ubGJwQ3lPSUlkMWYxM05xandQYVJHa2JSUUthSjRZQ2NrcVAtaWxHNEJlS21nUGl5S2VZcUxMZGo2SElPT2t3dm9rSzV3Z3NjTnBUM2FUSGVvaXFyYWxiM3UxR1RxODcySm5Mc2Z3YldaeDRjWnNvcnBpYnpTTzdLdks5SElZVmMyMjJPekE0QnhNX2w5QkZSaTJtSlo5eFpDaDUtZ0RsQTh1bDdkU1dvX3Riekk3dFNGZDNnOEF6cDhtOUNQbGUxdjVIaHpxdVZCdHM?oc=5",
       "date": "2026-05-22",
@@ -1093,53 +1100,32 @@
       "desc": "Un miembro de la tripulación del Hondius repatriado a los Países Bajos da positivo en hantavirus&nbsp;&nbsp;El Mundo"
     },
     {
-      "title": "Sanidad permitirá que los españoles finalicen la cuarentena por hantavirus en sus casas - elDiario.es",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNakFsbzBCREdvTF9HZW5sbi0xeDlsSVlwUV85cWpYSVNrLU5udVNfU3BNQUF0RFQzQ0dfSkdkVC1PSS1RcDd6WWxfSG1wQ2VWZGdwN0htenVTYUZfcXRNTWk3RGhsQUhPYmtPMTlPUHFMNFlLazc2OXVIbUVRUnFJMi02aU5TazdoaXZiVDJmNWd4Z1d6emVMemF6eEVjM0xDdmxZbEhjUkR2bkNSX3RkaUw2eWbSAboBQVVfeXFMT1VjRG96RmhQaUN4eHNQaXZqN3MxVDdrb0Z4SlF2ZkJOdkhDUlRMY0ZBNFEyd3FlSWNGNnRwaWdsN29QMmdHTmhIVkNpcDNCWjROUVU4WDB4THl1UFVFendIQ2hVb0pNWjhndU9xNWdOTXF6Tno5eEtGVjFFd3AzWnotcks1SmYzSERnTURBMUcxYk1Ub2wzVWhzaEFQdi1qcUY3ZWxKSi1sTGNubDI1alctQmxHSTExZzJn?oc=5",
+      "title": "Los contactos españoles negativos de hantavirus terminarán la cuarentena en sus casas - La Vanguardia",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWUhnaTZOZjROd25IdWJTcmpfTDZ6RmVEY1RoMF80X2pQM3pjd2VEWHp1cTN4N3p0Q3dWMFVHTjRkR2d3TGw1bXo3SUl0MnpMNmZQM003bU1qbUhydEtKbUdqTlNUV1pvalpaTlNLdHJEUTlraW92RlFSZjVndjNXVlVxQ29KdEl1Nm1JblA0b0tCbjV4TjRHRjJ5OFQ4ODVLY0llYWtWdWlraWs5Y2hVOGkxa05rdVZ1dGcwV05aTlhSMEHSAcgBQVVfeXFMTVg2Yk1KTkw2OEhpcVd0M1plZmFaQmhIQTRoSmd6WGk0WS02S1E0R0p1T2tfS0NTZWcza25ablJfcDhRSUtjVDVUWnQ0RFQwQ25aOVlLcmxGVzE3bnQ2blp3QTQzeDNDUEN6TjM3eTlWTG9NMUZVNmVncE4tMEd2cEphQXFHN1RWc2g2aFdjVnZpNUNCdFFuaXBqa0UxXy1odTk1U2F3SHNvZTFGa1BvQTFPNnhlaTFwcEk1RG1uWVJHeWpDYTNUQ0s?oc=5",
       "date": "2026-05-22",
-      "source": "Google News ES",
-      "desc": "Sanidad permitirá que los españoles finalicen la cuarentena por hantavirus en sus casas&nbsp;&nbsp;elDiario.es"
+      "source": "La Vanguardia",
+      "desc": "Los contactos españoles negativos de hantavirus terminarán la cuarentena en sus casas&nbsp;&nbsp;La Vanguardia"
     },
     {
-      "title": "Gustavo Palacios, experto en hantavirus de los Andes: “Este patógeno es más virulento y puede haber contagios en cadenas” - EL PAÍS",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZDVuSUpNODRzRHk1MmtEei1IdHpaakE2UlBNWmVzMFIxYnZfbnQza3lxdGZZdWtURmRKWm91alppU0JrSEN4QUVYOHlNZk5NZDNqWGNwOS1mZ25JN0cxV3FNWXBTRlIxQWJRbkhpdy1NZTV1NUoyTGhPMW00Y25oVG9VVjF2eGV1dnhQSEwyNDdWOGREaF9sNDhjMDF6WkNxbFpibW5sanhseWZMaHB1Q3VzSFVxdVBrMmNiNjUxSFlBcTE1VWc4R2R5aGo5ekV6dU1nUjB1RVRCcERvcGlvZtIB9AFBVV95cUxQd1huVjAxZFVuS0d5Wk1CVHVNMHpWMVlGVllFS1ppR2JBSHZNZTBOLS01bll1M3JZVDhDcFRzTGs1Tm1nel9jX0FrNWpoOGNDX3RKQnFpc0lwOTlZdE50TUVac3J4RWh3eVFGSnkxZk9WWl8zSGJ2dHJPNml0NHFvMnd4SmVEVVR2OGw5dXUzcncwR3haRFFYMFUyUUw3UWw3VDlGRk13YTJRZDh0SVpPQXpxeWMxMm5LeDF2ZTRyRTMtMmZReEtQd3NXTWhxMThvaHY4STQ5M1IzZDlNTTFTdVpRZXVwRlBISERYMF8xVXhTbDZx?oc=5",
+      "title": "La OMS eleva a 12 los casos confirmados de hantavirus tras un nuevo positivo de un trabajador del Hondius en Países Bajos - 20Minutos",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNV045bjRPSzlfeWRIWjloOUk0VFd4QlZxZTdTRkl3aW43LXk4TkppeEtxRTJ1dUtjUVREXzhpb2IyOGhELWhzZVVhV3ZXUDZWTDRTaWVUQVNUSDZ0VS1Nb2RCbkxGX2xmaHNnZkFjcG9MQWRVYlNhUjdudm5QUXhIc3k2ZnhuZFlFLWVUOUw1ai1LMWhmMFhUOF8tZDJYUmRhTGI4QUFkVlpBRGJsU3hXbmVQcHBwR3hwc1pjbEVfVHhzbkI5U05vTmVvUmFsSF9xMTdVOU9wR2ZtdXRleTVVOXJ6REFCZVRGRjVvdkR30gHzAUFVX3lxTE85SVZJT00wa1Yzc0E4bXVTYldLcGU3SVk2SF9nYmJTV3czeVhIRVU0TXZiWnFCSGVrZ256aUFkbHAwNkx1bmtSd0RYSDl6Yk9CX1U1S0JDNlUxcUtUSFVZd1FCd3pvaWVyMXl6TmJndnh5MWg5ZWdrSVBwUFZRSDBwbk16dm13bWtCSkhXNWRBc3BpNmdxR3VucmRJVEpvNkc4WlMtbkpkMUlZOFd4VGNfcEtTTkR5VjVnZFNRNEhVSTlubFpKeHc0UzVvLW53NE9zd3FPR1NvNGpRVE5xdDFmLUo2RXdWTDQyOElWVnRsMVdHTQ?oc=5",
       "date": "2026-05-22",
-      "source": "Google News ES",
-      "desc": "Gustavo Palacios, experto en hantavirus de los Andes: “Este patógeno es más virulento y puede haber contagios en cadenas”&nbsp;&nbsp;EL PAÍS"
+      "source": "20 Minutos",
+      "desc": "La OMS eleva a 12 los casos confirmados de hantavirus tras un nuevo positivo de un trabajador del Hondius en Países Bajos&nbsp;&nbsp;20Minutos"
     },
     {
-      "title": "La OMS confirma un nuevo caso de hantavirus en el crucero MV Hondius - Noticias de Gipuzkoa",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNHhVUnZjVUVRUEtNTGcyekhYWGR1MW1PZURCX0VHakRaWDVDZlc2MEIyZ3d6U2ZwM1dkWS1OYkxFTlByMWE5UHNzSzdJT0FGVUJOLWlOTHJ1QkFvT0cwS012NkQ0c0Q2Y1JjQmx5dEs0dE9FY3hlbmo2amh6Z0tvcHgtcHNLZGpRWEFQYjVxUms3RXZKSnBnc3g2Mk02V3RNRHBrVGFjVUFTaGvSAbABQVVfeXFMUFBSeS0xWlBFUEYzRVVaVDRzVGhxVHg5S05nbzVUdWlCd1VPOWFNcmxjWVdxUElQNXJjanJOTzlwRGh4S3dnYVk1UDZnLU81VGR4OG9iSTJhcDM5dHo0aXNDVXhzQzdHQTN3XzVuVE13MkNpeHVvbWtlTHF1djkzdkxQcWcyb0YycXVWc1J0cUc1dkFuaGpRblpRU3hhNk5pYktVekxqeHh6b3Vqem1xdEg?oc=5",
+      "title": "Los españoles aislados por hantavirus podrán hacer cuarentena en casa los últimos 14 días si dan negativo en PCR - 20Minutos",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNajRrY0ltZFNCbURTcU91RGtkWHRmV3g1UW5yNjk3UGRVQ3FkYWlDSktET245RWdFcUNCZTFQd3NnMEI3TE03UTdkVjBmTklyOUYtT2xLV3BxQ2I3WGhEUzVWRlVvUnRBUWdoU0NGaTdVcTJQQWFuVDB1Rkw5R2s2ZFBYUGZZQkJiNWR2Z1paZ1BYZy1YZU9Vci1mV09wdHZfQ0FHZktPdjdzaUZ3ZHYxQUNiZElDdFlCcG9fVkV5a3lpVjlDQTN3b1BBYm00ejY4aUJFRW5IWHRnbGxxeXRvRENQZUQ4WDczR1A00gHwAUFVX3lxTFBaclZHZmlRR1daZjIya0Z5WGtTcVhpZktwVzdBQTNwNlVlek5UMGRNRTItNG5yQlQxcEdLaE1IVlNuYXZBYS1qbVowMkE1MVZhQ0tGbUxZUkRkNWJvbVo1Y2hoNTlGaFp2UXg5MnZIQWxLTl9uWFJJZktodENMRDhON2V1bGZJVDJ0djY1U19uVWZSQlRlSWVOT3RvT1pFUWEzbW9SdmJSRTRNdjZJQVNvTWpYWldlR3B2a2VWdFZTTm5VMHdTeWJsbG1IRzFHUDdTTXF4ZUpBNzNYenlrQWNKbGpBV19yQUFmY211ekVYbQ?oc=5",
       "date": "2026-05-22",
-      "source": "Google News ES",
-      "desc": "La OMS confirma un nuevo caso de hantavirus en el crucero MV Hondius&nbsp;&nbsp;Noticias de Gipuzkoa"
+      "source": "20 Minutos",
+      "desc": "Los españoles aislados por hantavirus podrán hacer cuarentena en casa los últimos 14 días si dan negativo en PCR&nbsp;&nbsp;20Minutos"
     },
     {
-      "title": "La OMS eleva a 12 los casos de hantavirus vinculados al crucero tras confirmar un nuevo positivo en Países Bajos - Servimedia",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOR3NEeFh0bzB6WWNhSi1EUWtOYThVRDQwemVkdlR6U3piV1hGYy1vRXlnWldBU1ViM2xxV3I3SkVteU55RHpmWkxSamdGamhrVU54VlZHWW9jcFpQSi1La1NETmVRMDNDeF9yeWhtSzF5RDR4QTFjcXZmOXRDb2NKWGx6MXBsaWlHWVJjdnRWXzFIZ0FsTXBFZEIwM2gwNVAyRW9QcFBrZnFWaFczSndHWTJiZndNU2Z2SEZmU0ZZalhZYWZZR3M4NnJpMjZIczdoN0U0?oc=5",
+      "title": "Países Bajos confirma un nuevo caso de hantavirus en un tripulante del MV Hondius que desembarcó en Tenerife - El Confidencial",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaFFIek1UeHp2Y05nN2p6ckZQRVNjOWNmMDNuRGVLVVF5eW9rc3E1bmhheW53V21GeUJicFdTT2x1RTFueWUwekNzSy1QMmRIdDU2LWNZZnhvWXVQc0w2Q24ySWs4OHhqcGV3UWstWkRfRzFqTzBOZ3FZQlhQYV83RmxtVnAtbFdwYXkyV0FIZDFvUzhmRkF5WG11OWhnelBwbGJuS2xyV0RHd2pUaUphNWlhS25hQnM?oc=5",
       "date": "2026-05-22",
       "source": "Google News ES",
-      "desc": "La OMS eleva a 12 los casos de hantavirus vinculados al crucero tras confirmar un nuevo positivo en Países Bajos&nbsp;&nbsp;Servimedia"
-    },
-    {
-      "title": "'Lotería genética': Inmunóloga explica por qué el hantavirus es más letal en unas personas que en otras - Infosalus",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSG9MZUtnalctcF9jT1V1eUktQmRFcGJ5NWl5RXdpYURPTTlVczhpMjRkWTJ6bzh6S1JFVG1UYTZWbWlqYkdkb0plZ3JEYUJYWTl1ZWd4WkNfUHVjaG9TLUVEdHN6Tk5NTnlfR1hTWXVPdTh2MXBVWUR4YUpXT2FtRVZVTENOQVZJWThNVXUydEFBczBDMjBiU0drcUJOOXUybVI1VWRKMzl5bnlHalZIWE8xVnpuTnpCLUlkWkpVUWg3a1JuWWNjMWhSSFg3Z0pGS2dRVzBiUF9pdlk3cXc?oc=5",
-      "date": "2026-05-22",
-      "source": "Google News ES",
-      "desc": "'Lotería genética': Inmunóloga explica por qué el hantavirus es más letal en unas personas que en otras&nbsp;&nbsp;Infosalus"
-    },
-    {
-      "title": "Sanidad confirma que el español que dio positivo en hantavirus \"está asintomático\" y el resto sigue dando negativo - Cadena SER",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNblI5SVV1Nl8wLU54SGhBQk1DM0F2M1RCN1FieVRpNzYxc0ptMDg0Z0MtRDVZQjY2cjFyZUhGZzBRTVJVbGl0ZU1mVnRsckNtWmRDRXRlMGJLZDZFM05uN19YNGFVQUk0eG5aZ3VmVGdPZVZLazJuejFUbXlBZG5LV0UxRGdySlRaSXlBdEJKcWs3S3FSZGxDNmtPMFdkNjh2Vy05Vl9TNTUyMDQySF91YXdrY0tEUkc3aDVBZ0xmajdidElkRzgzM3I4cEtTd2s1WW90elhYZEIzSlJBekxTOGxsbXlSdy1ES3JCeVMzLWNzWjRzb3k3d0F30gGOAkFVX3lxTFBLQzB6bE1Pb0hYZmNMN2czZzRFZ1RCa0NIQVRLSFduX1ZWcHFacGo4VXp2ZjYtakpMbVNSYng4WFlsZXN5bmpyeUI1MzNBd1VaMlBnazZUdDJMSkhlMzdpSHNEblZ6YmtHNWNoa3NqTzZCTHJmQ3pKNERiR0VKSUNLeWNvU1FGdHVoODhQek5PUDVsWDN4V2ltLXlXMnFzYXFPTHU1TUxPUEVFNm9HRGFscE1aaDRYZWtEU1NTMzFDejdmVHRlSm1BZnNqOHk0ZTB6ZnFBUG5HZFlJRXBLZFg3SlI1eUFQWHAyV2dpWWJucnM1UVRkWlFudFUwSmlqMzZXdWx0NHpjekFxblF2UQ?oc=5",
-      "date": "2026-05-22",
-      "source": "Google News ES",
-      "desc": "Sanidad confirma que el español que dio positivo en hantavirus \"está asintomático\" y el resto sigue dando negativo&nbsp;&nbsp;Cadena SER"
-    },
-    {
-      "title": "Hantavirus y Covid, nefasta gestión del Gobierno - Hispanidad",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU2JCY1NGT0dmRmhLb3hKMlBLU1Z2eGV4TExtSVJVVmcyaW9xcmViWFE4NHl0WDZuRllIdVhSUDc0S0NTZHU5NC11T2hQZllqd2IwMnhKbHV2QVNZX201eDN5b2hxOHN0T2cwSVJweDljbVR4Nk9SY3kxTE1YTF8yblJlb2hNR1pJWW9MN2lmY2hlWm5zUW4wcmNn0gGeAUFVX3lxTE5ZZ1JkcndLam1yLXJwTi1jRmtZV2dTdmZVa2IwcWRTOUwzVFJ4ckV1eFZPVVlwV2FjWUQwNk56Wk1nYllqTXJwLWlZSFpkQjJMaVI5RHM3eEdFQlZPMVVhSEd3SWRBemRGN1ZVQlJyTkxSOTZHVzEzQTZjWXl0b3Y4RExqbmVFQ1V2eWJsMzZxeXUtM3FSUzVYYkVDMFln?oc=5",
-      "date": "2026-05-22",
-      "source": "Google News ES",
-      "desc": "Hantavirus y Covid, nefasta gestión del Gobierno&nbsp;&nbsp;Hispanidad"
+      "desc": "Países Bajos confirma un nuevo caso de hantavirus en un tripulante del MV Hondius que desembarcó en Tenerife&nbsp;&nbsp;El Confidencial"
     },
     {
       "title": "Mario Picazo explica por qué el cambio climático está haciendo proliferar el Hantavirus - MARCA",
@@ -1149,60 +1135,74 @@
       "desc": "Mario Picazo explica por qué el cambio climático está haciendo proliferar el Hantavirus&nbsp;&nbsp;MARCA"
     },
     {
-      "title": "Así es el hantavirus de los Andes, la única cepa capaz de transmitirse entre personas: síntomas, incubación y letalidad - El Periódico",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMkM1QUVYX2FORUlQTi1UMU9mOEtRaTN4czRwRUMwNVI3YkZGbFVuZTJyRlJ4SEFZS3hvUzJwTDhKTElXQlZZUTQtT0JLbkJOYTVUWUZnTUZIamtZR3JsbGJxWHlYM3NzYjlWY1FTOF9iMTJCME42dlJBQWM2MXdNd1pRektTTDJwX00tWm80MVNLWURhbERIZ3FHTWNjaHczczhKM3lOQXo3VE5TMm1n0gGvAUFVX3lxTFBIVjYyRVdpWGw3NGFoUTM2RWVnTXNVRVZqZm4xclVJREpCY2VhRjV1MkZETW5BRHVQZEJ0NlRoM3ZUTW5DRm5FZ25idzNBVDFDUUF1MGRKbVV2UFRROGsxeTAyZUxnYTAtRGp4ZmFVMlV6NUVuLXZqa0NRNDJHalpud25TOVdCTU9iRThVYS1oN0RKQVhBZE1nWHpLQnZYMlZxLUJkUUMwNXI2eHJfLXc?oc=5",
+      "title": "Sanidad actualiza el protocolo frente al brote de hantavirus e incorpora la cuarentena domiciliaria supervisada - La Moncloa",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaVoxN1MxNnFpajlkUTBwOHVxbkNkNG9Td3VwLWRMSjJHbjF1Q0Y3ZTZwRHkxQ2s5VUhQUDAwN19NT1JibDlhYXhFZ1F3TzNNcjNnaEtRa29vXzFTQXUyU0NIOUhLenZoUXlaQjdwalpCb1IxWV8yNnlER2xNNEEwYTJ6RVc3YTNLOVVOUnUzYjctLTY0UlVNYzZjdDdDWGUwWld5c3NlbF9FVW9xSWFDeGdVVG5fdlpqRWVIcA?oc=5",
       "date": "2026-05-22",
       "source": "Google News ES",
-      "desc": "Así es el hantavirus de los Andes, la única cepa capaz de transmitirse entre personas: síntomas, incubación y letalidad&nbsp;&nbsp;El Periódico"
+      "desc": "Sanidad actualiza el protocolo frente al brote de hantavirus e incorpora la cuarentena domiciliaria supervisada&nbsp;&nbsp;La Moncloa"
     },
     {
-      "title": "¿Hay riesgo en Canarias? Qué dicen los expertos sobre el crucero con hantavirus - El Periódico",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdlhndjJZTmVZdDhDd3RDeVdDX0xuREJMb0ZNQ3BSNkpUUG9hX0ZVV251RU14Mk9tendEa0Q4aDh5REd2czRLR0piVjZGaTYwaEx5SzVzQUJVaXhNNkZCdHRCVjR6OHFDSllkRHdUSEk5ZDZtaWVkR2ZLVGFGS0lVSkQyTDB1Q3hIV3hEV3pEdlFySmtkTmlaVGdDdXJPV0ZOSFNLTzY5OXBVUdIBqgFBVV95cUxQc1UyV0hOTklUeXljRDdrMVlBVEtmNW8tNzBVOFJBTDU1UlI3aTAtc1RiZW1pZVJpUV9YSWpWcW9vVDRSRGhmaG9Eb2dpd2JYZTJBbVN3azJRRXdWc2hwWFN5bllJTlBvZk9XVjExU3BZcEpidnUyLVZfTWROSDZkdDZCcG5kVTFDcTlnUkFPTTJldGdCWTNEckJibXVybV9LZi1pUjZWd1laZw?oc=5",
+      "title": "Gustavo Palacios, experto en hantavirus de los Andes: “Este patógeno es más virulento y puede haber contagios en cadenas” - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZDVuSUpNODRzRHk1MmtEei1IdHpaakE2UlBNWmVzMFIxYnZfbnQza3lxdGZZdWtURmRKWm91alppU0JrSEN4QUVYOHlNZk5NZDNqWGNwOS1mZ25JN0cxV3FNWXBTRlIxQWJRbkhpdy1NZTV1NUoyTGhPMW00Y25oVG9VVjF2eGV1dnhQSEwyNDdWOGREaF9sNDhjMDF6WkNxbFpibW5sanhseWZMaHB1Q3VzSFVxdVBrMmNiNjUxSFlBcTE1VWc4R2R5aGo5ekV6dU1nUjB1RVRCcERvcGlvZtIB9AFBVV95cUxQd1huVjAxZFVuS0d5Wk1CVHVNMHpWMVlGVllFS1ppR2JBSHZNZTBOLS01bll1M3JZVDhDcFRzTGs1Tm1nel9jX0FrNWpoOGNDX3RKQnFpc0lwOTlZdE50TUVac3J4RWh3eVFGSnkxZk9WWl8zSGJ2dHJPNml0NHFvMnd4SmVEVVR2OGw5dXUzcncwR3haRFFYMFUyUUw3UWw3VDlGRk13YTJRZDh0SVpPQXpxeWMxMm5LeDF2ZTRyRTMtMmZReEtQd3NXTWhxMThvaHY4STQ5M1IzZDlNTTFTdVpRZXVwRlBISERYMF8xVXhTbDZx?oc=5",
       "date": "2026-05-22",
       "source": "Google News ES",
-      "desc": "¿Hay riesgo en Canarias? Qué dicen los expertos sobre el crucero con hantavirus&nbsp;&nbsp;El Periódico"
+      "desc": "Gustavo Palacios, experto en hantavirus de los Andes: “Este patógeno es más virulento y puede haber contagios en cadenas”&nbsp;&nbsp;EL PAÍS"
     },
     {
-      "title": "Dentro del laboratorio africano que ayudó a descifrar el brote de hantavirus - MarketScreener España",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVVF1cXRqMUYtaFphX0JfcTk0aUdHQ0xQc0pHVmx0YzBhSjBJSlZPbTNCT2h4NnFac1l3YUdCYzFtZldMVjRUS2N2UGNFS2FjQllnMzJHcndxb3RLOGtXenhiSmhENEdaZTNvRVF3c250OTVNdjBHVXdCTENKak5sYm9jUXlPNFpMcEdUcDJlU18yWlJBS0JxRzc1dUczdHFYYWxKOGZkMGd4N21IUGJQa2g5c3pneU9BNWFKanQxRzFCanptR3EwWFNjTQ?oc=5",
+      "title": "Países Bajos confirma un nuevo caso de hantavirus en un tripulante del 'MV Hondius' que desembarcó en Tenerife - El Periódico Extremadura",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVUN5ZzRzRDNlanJrLU0tYkRIZHJSUE1wenZzOXUtbi02d2JGZnhHRF9CVkhncm5EX1FFcWFnVFhRZ0JJcVFMWi05anlaNEtMYVhSS0p5RkwxWnNZdmF2eUVFcFpWQzFCQXJZUUtseld1Mm9yZUFVZy1tOWE2RzJmbklhbXc1TS00M0RlbWJJaHdKcUZnbHdnVjJSeENRMnlqT2R3cWdMT2JOUGk2TjllLUwxcmpHSzRHeWQ3ME1McnFxLUdEOUpWYWpjNTVjMjE3WmpJ?oc=5",
       "date": "2026-05-22",
       "source": "Google News ES",
-      "desc": "Dentro del laboratorio africano que ayudó a descifrar el brote de hantavirus&nbsp;&nbsp;MarketScreener España"
+      "desc": "Países Bajos confirma un nuevo caso de hantavirus en un tripulante del 'MV Hondius' que desembarcó en Tenerife&nbsp;&nbsp;El Periódico Extremadura"
     },
     {
-      "title": "La directora del Centro de Salud Animal avisa de que \"no estamos preparados para afrontar con garantías\" amenazas como el hantavirus - Servimedia",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQS2lqRmJIVEV1YW9uMVJmWDlkRzIwRWIxZG9qOV9UeFExNGp5SHhVcTZ3aldJbmhpXzlKOENSQnZ5anRQRFpSdWYtSzhWYmU1LUxjZG1EZDFYWklKVWlaZ21QRnRrNllqUDNOQVBPY1FCZ3dwQjh5Q2dFbWh2TW5ldnllb0F6Ym94UFkyek9xcDFMVlQwcEJUVThvcmZtOTBsUGZFWGk1amE1NTZoTjNyV1JQRHNZQkRwNERqNzlFSDI5RHJxTjg2MEhWRnc3TlRqZ2o2MFlLcjFrZ2JueXZtWGkzOWdJb28?oc=5",
+      "title": "La OMS confirma un nuevo caso de hantavirus en el crucero MV Hondius - Noticias de Navarra",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRUdpUDlwYUFiU3hfMEkxV2FKZVczNzdKU2ZTWi1PQXFURkxKR3JGUE9MMDF1VDVTNm5pV1B0bE9wMkpCS2xtdkZXbUlpaTl4UllrU0NPX0lxQ2E1SVRaaEtoN0JqQWlhVzl6Z056ZERCQmZnOFFoQmpmV0hIeDVTNWlDUTczVmg5X2hoZy1kWl9Rd3phbVhLQ3ZWbm91aDV6ME5HR0NncGl6Z9IBrwFBVV95cUxOOXk2S1YtUWppeTNlSDVVY0x6NVRKN1E3SjNtVzNzdWEyZ1ZjRGNERkdzYmNUdDZ2ckdPd01tSy16ampiT1ZkanNSOXlYRzY3OFRVNWJLTWVRSEdGVWpEbmpfeUpsYXEtWnpubnprSHFMSjBhVVA4NzQ5RW1qajJVNjRhb3hJeDg2LWI0d1pieE5OMzdKTHVONkg5am1LQmhFd2VIbVJyZlJQZS00MjFz?oc=5",
       "date": "2026-05-22",
       "source": "Google News ES",
-      "desc": "La directora del Centro de Salud Animal avisa de que \"no estamos preparados para afrontar con garantías\" amenazas como el hantavirus&nbsp;&nbsp;Servimedia"
+      "desc": "La OMS confirma un nuevo caso de hantavirus en el crucero MV Hondius&nbsp;&nbsp;Noticias de Navarra"
     },
     {
-      "title": "Hantavirus exposure risk may be higher than believed in parts of US, study finds - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ2YzUHg3c1VOTzFlM1R5X1RDNWV2MFIwZmZxLTVvYjFsZWpBNzZ0NFE5RTF2ZG9TYXhPeUVjS2JtLU1hVWZ3OFNsODRVR2FIWGYyMVBaMy1oTURKNGI1YnU3aFJLZUwyaFJLaHhLaTh6NmxEakNpN3NqY0xXY1gtRnVrZE92dFRDVDhPUUZDUHdhX2VDdkdVS2Q3VlLSAaIBQVVfeXFMTVljWkVkSkZKem1KWDdVOGdPVGVhTlZxQW9udDZhUDRuN2RTTTdXQXhNbUYyaVllOTlCdTh5YWRRZ1hPX3hXZ3g1aUk0MndoU21yZXZ5Y3gyVUhuT0VPcjU5QmxodHFwS1ZUbFgwOHF6Tm9SWFZ5TWNFVVFCVXBsNnB1NVhJVVM2OWpOeU5BYWZfbkRKNUhDcF9UWFVYdm5UOExR?oc=5",
+      "title": "Los aislados por hantavirus con PCR negativa podrán pasar los últimos 14 días de cuarentena en casa - La Voz de Galicia",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQdmNveW9iZHRrbnpvRkNSTDNMN0djWXpjQjQySG5wSWRXQjVZcjRqcHdRRUhva3dBeExCVG5QdUI3QzRPakgwWHp2SFJKY0NxbTRSVXo0RzJQTnJ2S1JzQTg5VU1GckY0V040S3JmVm9YQjhEOW4zRzZiUGN4bDBTS1dUR0Y5YVpjelBtd3F4OUFWWUl1WWRiMzJyRnpoeEtaaDU4MzVadmVRUUY0cktSZGZmbDMxWkhfdjczWmJLY3VnMFhGUUdraWFEQ25ZWDI3VXFMSmt2Z25nejZrSjMyOUhUQXBpYWx5RVQwUkNGbC1SOXh60gGQAkFVX3lxTFB3c1gwc2RjWVQ3UENwRThVY3UtMmVVYnVULWlFWTh2TXdQUVQ1THMzMWVyR3dRNlJ3cUVydjI0QUZOMFpKM2swTWhuLXNvOWJaZWY2YVdndmw1Uk5kbjF0SFRwd2xqQmw5LVVWT2Mtak1oSkV3ejM1aUN5V2xyTjVjYWh1WUN0RWVQWEhWUmlBZTFZVU9NTFEtZkxrLVFsREQ4V2ZPZzBVejdaeXpkdEZZamtERjRlYVp6S1VsaWI2TWRpNmdGeUR1M1NWZjdrM2lDWi1yRTFGckxSd2dRVnFlNE1DRUVIcUluU0x4dmdDUGpERUg3bkE3dW1GZVpucTJXdVIxekxVdElZbmxDVUcz?oc=5",
       "date": "2026-05-22",
-      "source": "Google News EN",
-      "desc": "Hantavirus exposure risk may be higher than believed in parts of US, study finds&nbsp;&nbsp;Fox News"
+      "source": "Google News ES",
+      "desc": "Los aislados por hantavirus con PCR negativa podrán pasar los últimos 14 días de cuarentena en casa&nbsp;&nbsp;La Voz de Galicia"
     },
     {
-      "title": "Inside an African lab that helped crack the hantavirus outbreak - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ2NOOFBydEVILXdJZzZtMVJVb3psZ3VENktYX1QzYkRiNEtqa09HYzRES3NsS0szcWZBMXl2Q0V2R0gxdVpMdzJ2RGdXOTdFenlEX21OcHFCMFMwUFRsMXlQM256R1I2YTF3YTVVOHo3QnpwTFp4TTRVM1hMT2hTNjRMRENyUmQwZG1SNDkxZHRVbGhOWDhabGdtclliV0ZlbTh0LUdaZExScWEzQjI0dXl4bXdKNTNhaXZ2S2RYWlRmMVhJdGkwYk5JTQ?oc=5",
+      "title": "La OMS eleva a 12 los casos confirmados de hantavirus tras un nuevo positivo en Países Bajos - El Debate",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeUpCYmVuN0VJanpWRUdnLUs2YjQ5NHFhTGloNnROaEg4LUM1eDFmV3Z1aUF4c3NyLVk1Ml9GWDFFYzk1eG5uRDNfZ3JYbEJYSGVNUFk3ejhJSDA3dzg2bWdfcUo3TU5GTkNDRk42S1Q0ejlyLWt5aEl3ei1ONW1OZWNYUkpiNWhURDhQWGktQ3FBRHE4SFAxclNqdUZzNmNraGhLQ01LWWF2MmEtMmxVa1J1RG1PSXJSWlNEZ0NYekR6d9IBxwFBVV95cUxPRlI1NWNFaTRGMnh1TEpFS0Q2OWo4SUxKMkJTLXAyaFh6eDJVVVVCQ0tHRHBIbUJTR0kwX1dPcHM3YkFfd1BpSnQ3bV9wMWVvOHBBSWVqeUtNbkVScFpEb0FKLVJBc3VyODY1RWhkVE9YYmEwNTFzR3F5Sm5ZQmxXeTlsZFVDSEF0dEFGaHl3UnFPODVzU1R1ZHNpbkpOaktlWnp2enExUXlEaDlhM2pKNTZXUzEwYzJibDI1UFhUdXV0S3FTVU1n?oc=5",
       "date": "2026-05-22",
-      "source": "Google News EN",
-      "desc": "Inside an African lab that helped crack the hantavirus outbreak&nbsp;&nbsp;Reuters"
+      "source": "Google News ES",
+      "desc": "La OMS eleva a 12 los casos confirmados de hantavirus tras un nuevo positivo en Países Bajos&nbsp;&nbsp;El Debate"
     },
     {
-      "title": "Digested week: memories of Covid resurface with hantavirus and Ebola news - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbnJ6ZklodTNvcnlCV0szbEw0Q0oxMF9ZUzFQcmZHT2ZxNmUxNjV5MUhWUXFYV0Nrbl9qOTdLekJzQjRDbTlPY2p4OFoxRlhXZjZnelJHYXZVZkVqSW9MWGhGYUxnaHJEX0R2b1RyeFFvR0paaFJIQUZBaXJZYmFOSlRGTGdvYUxKZWxYQ1VxaTdYR09GSGRvVlNpVTBfdXRCNFFQVEZHQUxuY0t6?oc=5",
+      "title": "Los aislados por hantavirus negativos podrán hacer cuarentena en casa los últimos 14 días - Diario de Mallorca",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQajhHODlwcTdZQkJhU0I5SFR6amlhZXFnXzRPQTNPYjgwdWpCNlVtWW5CbmljaUZoVHZybGNTS20yaXEtNG1qNzJWVk5yT0lRSnhzR3VFNTFEdlZRQmNyVzI5SThjQ1RkbFlEM1VYeFlqcktDMlJuM1lFUVBFNThJbElwZ3lBNWFFVmZYSXdsOWJBTS13ekk5QjEyalh6aUN5ZE5iSkFtdXE4dU5PMVJhNVRHaEfSAboBQVVfeXFMTVZNanpsanlDVFI2aXU4dFlRajBkd3g4eHY3SEU0aG9PMFh0XzFidFJlWDZQWUdfTU1yUTBVOHZJT1FDNTVuZWNWTG1wb21FYXFZZXVUZFFqemhYTVRfSGVRYWlkbUMwcFc4QzdSckFnWHItdlRvUk16Y01KQXV3U1NnX0kwSGEtWkJKczhvbmdpb3JwRlZtQmk0dFYzUjhSOEFxRFNBbzliRnJ4TmVka3dhcVR3eGJVdW5R?oc=5",
       "date": "2026-05-22",
-      "source": "Google News EN",
-      "desc": "Digested week: memories of Covid resurface with hantavirus and Ebola news&nbsp;&nbsp;The Guardian"
+      "source": "Google News ES",
+      "desc": "Los aislados por hantavirus negativos podrán hacer cuarentena en casa los últimos 14 días&nbsp;&nbsp;Diario de Mallorca"
     },
     {
-      "title": "The Ebola and Hantavirus Outbreaks Offer an Ominous Warning - Time Magazine",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSVJEeHE3UFlJWTd2eUtVdnNucG8zN09LNkdHQkM4OWhDbGc1VFIweVdyeWpZaEpHcEE3RXQxR1EwUmR5ajBkN2Nub1JsZTdiUDd6dWxEMWdYbVVDNW5EUEgtbkc3TXlmVWpFMjFVVjRLX0F4RGFMRnN5ZU9RQldFM2xoU2pZdUVZdmFUR2dlX0VFZG8zMVBnY3EtOTg?oc=5",
+      "title": "Sanidad permitirá que las personas aisladas por hantavirus que sigan dando negativo puedan hacer cuarentena en - LaSexta",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQMVp3YW5pVmVvblBEQk9WMzdhTDFiMXZEbDNOSzhiWXR5SFM5aVFtUUJKdGFfdWVPTk5WaDZCWm9XM08wbXZwQzRfeFJLdk5zMG43WURKcC1RN3RvM3BXN2ZXSEZMRllfcW1OZ0tUSXd5YXctMm42ekdRRUlTcThOSEVhQmdOSEhuX2lHelpTeDhxRFJSaWtSb0JzRVNZaXJpSW1qekRKYS1LVUh2aEotRXJqUzFYU01zUXV6UnRveVlGaXk5aV9yUkE0VXg0Ukh3LWVGQWZIVlhOa05ZWXVUdnMyZHBaMUlpVk1mOVhEVkZEa29RaEF5bTlNYmtZcHZsZHJqLWdoT21QVUlidTlpRVJ30gGSAkFVX3lxTFBsVHE5V1pBeG5Jc3dLWUduQm1QRkJpdTR0OGQxdVlhVEpqREc2QUtuOVlKamIwbGRaOVpwWElBcFZ6ak5zdTRJWGdlMURvWG0xZzhqaDU3ZlJoQ29ycGZSblUtSkdNZ19CN25HUHBXQkxWbE5kcGpqMTI0QmFHWTZBX3ZFQkdtUHVGTDVPdk5Fd2JHZlVRaVFJU1dRc2EtZy1JTWlWaTJ6dWR4SUp5a2RaQUVCVmE3VXdiTzNFZkV3X29NV3d1R0lKN2FtaVk3cHpyNVdlR3BNcE5nMU51Nkw1bGxPVkVpb2szOE12cHd2NmVkajVUb21PQk00VGVJbG9NMlNaVkZtS29MczhOdTF5Vnc?oc=5",
       "date": "2026-05-22",
-      "source": "Google News EN",
-      "desc": "The Ebola and Hantavirus Outbreaks Offer an Ominous Warning&nbsp;&nbsp;Time Magazine"
+      "source": "Google News ES",
+      "desc": "Sanidad permitirá que las personas aisladas por hantavirus que sigan dando negativo puedan hacer cuarentena en&nbsp;&nbsp;LaSexta"
+    },
+    {
+      "title": "Países Bajos confirma un nuevo caso de hantavirus en un tripulante del ‘MV Hondius’ que desembarcó en Tenerife - consalud.es",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOSERPdDV4a0JDdWUyTGNuLU1HNE5iVWN2Wkd5RFRuci1TRnpOZHNLMGhUdWNSckZNZVVkandhbXowaGR1OHlzWUhwVlR2dzBseXp3WEJndW15bmxpUUl6V1g5ZXVJdTZ5bG5lTi0zRmFHWGZoeTU3NVdGMDV6VHpBMWZsM3J4dW9BRzl6WEhJNlYwSDUwZW1hRU5mTmVCU2lQWUhPRDBHRWNzWkNXNE1LaWFYY2M4NkROX3BYZ3JkQUNzYm43R09YdkxTMUNNQlRjLTR5UndhMW9NYmZQMkx1REVndGVkU1kwNnJFSV9tRm5yNFpuOXVTallueGt5MFk?oc=5",
+      "date": "2026-05-22",
+      "source": "Google News ES",
+      "desc": "Países Bajos confirma un nuevo caso de hantavirus en un tripulante del ‘MV Hondius’ que desembarcó en Tenerife&nbsp;&nbsp;consalud.es"
+    },
+    {
+      "title": "La francesa positiva de hantavirus sigue en cuidados intensivos tras 12 días hospitalizada - La Razón",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZG1STGp1cFo3Mkp5RTU4ckZmbDFuX05SZnl3ZXhQbThGWnhMSUtvbkw0VWtScnFlanBKelViZ0xMT1lyd053bkNRT3hISVVGSGtCRGZCalg4Y1AxT3ZNbklSYzFEVlJTeER4a19QNDNYSXRkYXd4cndKRUkxVTRTRkVrNHB6ek1wTmxhQUdQMHBiMUdNWlN3U1dvYzJBQTdpWUlnNERoUG51ZWVZU3BUQVFYMVl1NHpRY0JxcHYwc0x5cVFLUW9vUFFoUFlTZE1mR0c2OTJMdGZUZWs3OTA40gHzAUFVX3lxTFBZSDRobU9KbTZfbTdGRjVjbnRjemp2WDhuWVFGMUtvWDNGcGkyaWlvdnFObGszRVNWY3NORDNvRmlrU09yejZac1FyLTJ4em1HeGZnQ1BTcU9jV3FhRk1US05jWDl4MUhEVDNjWDJ6TjBaYnB4R1hoVkVOUHJZWnJnQmpWMXN0TVNEcHNVanlNckFIMl9JbkVCb3RNeDk1ODg1S0FQRGMwZWVqUUJKTFJCMHdSX3hEZzNWWEhieTQ0WjFxZWNSUnlTb084Q1FObUpqWE9GSUpsdHpUeWxRSmp6UDlDRnNCSWFJTzFIWXpudTEyUQ?oc=5",
+      "date": "2026-05-22",
+      "source": "Google News ES",
+      "desc": "La francesa positiva de hantavirus sigue en cuidados intensivos tras 12 días hospitalizada&nbsp;&nbsp;La Razón"
     }
   ],
   "countries": [
