@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-05-24 13:43 UTC"
+    "updated": "2026-05-24 14:53 UTC"
   },
   "current": {
     "cases": 12,
@@ -1079,13 +1079,6 @@
   ],
   "news": [
     {
-      "title": "La mujer aislada en el Clínic de Barcelona da negativo por hantavirus y seguirá la cuarentena en casa - Diario Médico",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdHQ4UmptaUlFVmVCQTdudUdMMkNzbTNiNEJWU2tYZ0E3YTFEcWplWUk5czRDMXc5QVhUNGlqYXBqZ0IyRXI3VXlHRDBKekZ4YWxaMXNkTTcxbi1lN2FyOWpJbm1lMlNDV2hsb0NsVTlyU0VsVGJ3ODFETU52c3NUVGQwQjR4aWxnRjZ4NUx5RG9PdkFJY19YTFQ2enZ0eEtRb2FSczZEVEJhV3RxSjMwT0NzeHZFVU1RSjBCUGN5NlQ4SmEtYmY2dg?oc=5",
-      "date": "2026-05-24",
-      "source": "Google News ES",
-      "desc": "La mujer aislada en el Clínic de Barcelona da negativo por hantavirus y seguirá la cuarentena en casa&nbsp;&nbsp;Diario Médico"
-    },
-    {
       "title": "Los bulos de los “falsos muertos” por la Covid-19 que vuelven a difundirse sobre el hantavirus - Newtral",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE02VWptMVB5T21fMnRwTnlaZGVLTERYdnFuelBmWVZuVDJsVl83QnpFVFJfdXM1ZENTRzZIRFdsTTRIT3BsU1B4LXpuQ3NFa3MwNk1zYzRuQVJvMU45cV9Ec0oyNnhJd9IBa0FVX3lxTE9SMXcwUEpjNHdUcVhXb180WWtjTnMxVWo3NUNEY0tZam9sWUkzU1R5T3dPVFhyOUFzX2VoWVp2MTN1N3hxZ2dlMjRCNklZLVR0d2xwTDRSRTkxYmtua1lyV0s5SzZleXAzZDZB?oc=5",
       "date": "2026-05-24",
@@ -1098,6 +1091,27 @@
       "date": "2026-05-24",
       "source": "Google News ES",
       "desc": "La UHU participa en un consorcio internacional que propone utilizar la IA para crisis sanitarias como la del hantavirus&nbsp;&nbsp;Huelva Información"
+    },
+    {
+      "title": "La Universidad de Huelva participa en un consorcio que propone utilizar la IA en crisis sanitarias como hantavirus - Europa Press",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQm5VY1hFaGNkTmRZdjZ1d0p6UUIwN2l4QzVoaXZxN2NJMmJRU1J5LXF0TmVUaTcwdFI4WTBhNGxLVGh1RWRDSzJvZ1A4dno3cnNvVUxjN0FHLUJna2ZDcVBxRlJYZDFPbFBocmlGTEx3Wk9CdnV5d0FSdXVZVWJ6b3VJNDZEWTBoRHlWTkNxSFpvcjZMWkRoXzhEanZVY2NFcnc4Y1lHeWhyT2lnc0RrdlJNM2FJWWZ4T0V1eWpaUUZJVmd5cV9wOU1EWkpqZ2thUnlEc0RMWkJwa1YxSHB3X3RCWTJ2MHZVX1dVdEptUFVIZHpCVHczbg?oc=5",
+      "date": "2026-05-24",
+      "source": "Google News ES",
+      "desc": "La Universidad de Huelva participa en un consorcio que propone utilizar la IA en crisis sanitarias como hantavirus&nbsp;&nbsp;Europa Press"
+    },
+    {
+      "title": "A shocking number of Pacific Northwest rodents may carry hantavirus, study finds - KTVZ",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDc2NGhDWWtsdnR4WVA0QVlkZXQ2elB5eFMwdXZodzJuRTg3eGlYQkdtSlhLUXgyMkhmNDUzVXBVTkViVVJ3Z2hTNTFiV1k0WmR0VTdWR3JEUTlXRUZDRVpTSjd3YVVjMTFuNWljLVRQUDJVRHBpS0s5YmtOY04zOTRnZFdfZ1VLN1prN2V6ekJUMlliclV6MnJhU0xERW5PMnBaUmpWN2hmanVITGdleWNwcmRob05td015ZDZtWGJabWc?oc=5",
+      "date": "2026-05-24",
+      "source": "Google News EN",
+      "desc": "A shocking number of Pacific Northwest rodents may carry hantavirus, study finds&nbsp;&nbsp;KTVZ"
+    },
+    {
+      "title": "Hantavirus is gaining ground in the US, startling researchers: ‘Widespread and complex virus’ - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOThlZWllWlVaNWdUTnFmY1JrMi03Sncza2JETXAyV0tVSEp3NlRoYllwVjZTQ1E2emFVOUx0ZVZDa0VqNENBajJUb2JRSVZmcURpSUg1eDhYcDVPZXBHa202d29oQmp4ODZjU1VlQnpZWDFlZnlhcXNKOEJPUnJZNTY1dlNmbGZZWkZxV2s1Y0F2cTdOQ1RraW1nYndBcHc?oc=5",
+      "date": "2026-05-24",
+      "source": "Google News EN",
+      "desc": "Hantavirus is gaining ground in the US, startling researchers: ‘Widespread and complex virus’&nbsp;&nbsp;New York Post"
     },
     {
       "title": "Mayday! SA scientists identified hantavirus outbreak in 24 hours - The Times of India",
@@ -1119,13 +1133,6 @@
       "date": "2026-05-24",
       "source": "Google News EN",
       "desc": "Ohioans should 'just generally stay tuned and not worry' about hantavirus, local experts agree&nbsp;&nbsp;Toledo Blade"
-    },
-    {
-      "title": "A shocking number of Pacific Northwest rodents may carry hantavirus, study finds - KTVZ",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDc2NGhDWWtsdnR4WVA0QVlkZXQ2elB5eFMwdXZodzJuRTg3eGlYQkdtSlhLUXgyMkhmNDUzVXBVTkViVVJ3Z2hTNTFiV1k0WmR0VTdWR3JEUTlXRUZDRVpTSjd3YVVjMTFuNWljLVRQUDJVRHBpS0s5YmtOY04zOTRnZFdfZ1VLN1prN2V6ekJUMlliclV6MnJhU0xERW5PMnBaUmpWN2hmanVITGdleWNwcmRob05td015ZDZtWGJabWc?oc=5",
-      "date": "2026-05-24",
-      "source": "Google News EN",
-      "desc": "A shocking number of Pacific Northwest rodents may carry hantavirus, study finds&nbsp;&nbsp;KTVZ"
     },
     {
       "title": "La mujer ingresada en la unidad de aislamiento del Hospital Clínic da negativo de hantavirus en la tercera prueba PCR - EL PAÍS",
@@ -1177,32 +1184,25 @@
       "desc": "Torres señala que la relación con Canarias sigue bien tras la gestión del hantavirus&nbsp;&nbsp;ABC"
     },
     {
-      "title": "Hantavirus en Canarias: un crucero por aguas revueltas - El Correo",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPakQzYndpQ204UmMwTFRjNEZSeExJYkV5SXk2ZE9BY0ROMk53bHNHOW5lbENTWFllUFRLdUNsbXZpcnJnN3dnR25oMG1CU20tNExrY1lESHR5NmhrNFcycC1qbmNiQWFTLW9GSnJzUkpQNmJqZG5QRnZwQXM2WjI4aVQ0b3ZHQUtJS2wxUURMUlp1VW1ucTN4NURjUnR6cEhHbEVpQkhYLTZ3YVdtbXJBSTRHOHJGak9MZ0xoM2xEMWhoV3PSAcgBQVVfeXFMTnNCSlVDY2tZLWVVc1pUOUFIOFVudTFMa2RHTlU0MU5Hd241dE01UFRRQmM3VG5wYWY3clVVcWFNZ00tT05KN2pHTk83bS15aDh1MHVvZlFVdUcyenlhZXNZZDVyNFVLb1Q3dWRvNDd3cDdwQnpYdUljdkx3ZDk3WnM2dXlvbHdiNDhuUVhVbEg5c2czUVduRGFnYVMzcGNIUWRFLTJCSUFLZHRvd1RsdnVjZWNVU1JFQ1c5VjA1WklkOE81anhVUUs?oc=5",
-      "date": "2026-05-23",
-      "source": "Google News ES",
-      "desc": "Hantavirus en Canarias: un crucero por aguas revueltas&nbsp;&nbsp;El Correo"
-    },
-    {
-      "title": "La mujer aislada en Barcelona por contacto con hantavirus da negativo y continuará la cuarentena en casa - diaridetarragona.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYnFwYzBfZW9tUW5aVUloV0RVQncwNjhGNEI2QVJKbnV2NXJaalA5TmE2NHk4Z3Z2NFRvTUNTbll3OTBpa1BYLWpBbElPUklPU1doSEZzMFo0a0w3amN3dGs0T1FJRzR5VGpmQVpRc2ZtVElEclAtTHI2UlhaNE95d3FSRnJVV0c4SkI4S0YwVEdpMlFhdEFVQjhIbXl1OWZ1WDJjSFYzblZWVl9sUG0xRHA5bjFFSXJqVVo4X0pmSFVnOXVqM1ZYV1FEVkNHZGVvU25n0gHYAUFVX3lxTFBoVFNBVkRRbHhCR0JLYWNXMmRTcEw1akRpRUd2Z0d6VmF6RU5IVUdlTWNfakdpbkd4ZVBEbEhKanREc21EamJrLVVKRlJmdGFyeW9WRkFLM2lpM2FsVkNkU1lFTXB0dVpoNkI1MTgwRjgxY0Nsc3U3blctOERRZUhtOUxIQk5YbGFFbHdyekhUNHRtcHBtZWRrX3NheWRmNkVENjZ1VWhTMTlOd1pPeUhvZ003TzExZnBCdTh6SkNSME14Y2wzMEgtQWNNbmdNVGtxYmNWeUZlNg?oc=5",
-      "date": "2026-05-23",
-      "source": "Google News ES",
-      "desc": "La mujer aislada en Barcelona por contacto con hantavirus da negativo y continuará la cuarentena en casa&nbsp;&nbsp;diaridetarragona.com"
-    },
-    {
-      "title": "El contacto de un caso hantavirus aislado en el Clínic da negativo en la tercera PCR - El Periódico",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWXEyX0RPcXowcUozck1acVRKUy05TmE4WjAta2NTbGRjSG5mNDN1Uy1VUGFZRVNoMkE2WjFzMDBPVlpoLXlDM3dWNnZzcnJtTEJjcGVKcEtnSmlCc3U3dzV4WG93QUFCUEVuRWctSDRGVDNqWi1RSzFhQ0Fuc3VvSGFrTmgyWUhVQV9VLXd3V1lhNG01MzQxa1Atb09ZWTTSAZ8BQVVfeXFMTjBVRHdIWWRMQmhDVFZiMlM0R0otUjVqMXVXNndVM0hpNkotZjRhbko0U1pOeFplVlZIT2RMYUtQUjYxYzdQdWpXcHlFc2k3aTBCdG5zYk9iaHpHTllmaFJUYXQ3clNCV0JLM0ZLbjlTbVVsa2ZBdllPTk5vUWdpVkJ5eWFCQlJFYUptUHZXNml6dGRTZEdtYWJiZy1JbUZZ?oc=5",
-      "date": "2026-05-23",
-      "source": "Google News ES",
-      "desc": "El contacto de un caso hantavirus aislado en el Clínic da negativo en la tercera PCR&nbsp;&nbsp;El Periódico"
-    },
-    {
       "title": "El operativo en Ushuaia para capturar al roedor del hantavirus concluye sin rastro alguno del ratón colilargo - LaSexta",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZ244V2lpNnBIcHN1UDN1S2FrZDBKVTQ2aFlqN2RlVnh1bmIxUUlMS05Ld21MOU9xQ25CYk1sRmhVTVRqb2NKd3ZNVmJxMHZVd0dRbmttRUE0ODlUdVBObGVOaGt1MmV2OFVPcllEMEhUSVlVQzhFNHlCaDlxOU0tN1NKVEdua01UYTlpSW4wVzdnUkh2RHlHWTkzeEJ5bUZiNU9pT2dHbmpNN25QeGtVV3RyZW9uY2VDRUd3V0tMZFppbG01b3QxTHdRWlN2ZmQ1b2RJVk5CWk4yb3pHRUdlZ1diN3ZBdEZ6alBtdTYtNnFlMDNiTkh6UE9fZ2jSAfwBQVVfeXFMTm52dHB5aklBb2FBWlR0bi0yWWZvWHltQVFxN2MwUi1GeTR6T19KWHR1dHNJRE1kUlZYbkxmTWl5TDBFVGR1QmlMY3VZY29nak9ueGd4clZmd2NZaHRjamdaX01KYW9jYUpFXzYtdldDSWFjNjhkelRVZ3NnZmZMb0ZUTUFZa3hFdXlaZWtRR2NWdDVLdmYyRjZkUVVkam5ub05JUHF5TWRnTnFod1ctOVN6cjRoSjlEU2YyUVFheEVMUUgyVHVWdFpaSGVYd0dlc1V3Wi1HSjZudnpoWXYxU3FNR2ZFWnJQYkFabDA5M3p3aWcwOEZxTEk5UnNy?oc=5",
       "date": "2026-05-23",
       "source": "Google News ES",
       "desc": "El operativo en Ushuaia para capturar al roedor del hantavirus concluye sin rastro alguno del ratón colilargo&nbsp;&nbsp;LaSexta"
+    },
+    {
+      "title": "Operativo en Ushuaia termina sin capturas del roedor asociado al hantavirus - Diario Médico",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLXg0ZFJUcnR5Y2Vwdi10b2V2WmZLM1BhcGc5OExDUVdDVHAwNUNQQzI0eW9UcU9kdkdQbkQ3eXNQaHFWa3FHUjdPYWdUYlVDa1dTY2IzdFZCbjhuWnc3QlpjS1NGUHhRSzdzWXl0ajA1WHBUVkpmR2l1aEo5T2tYNGZlT0FlNUs0N1ZnLWFqNFBldlN6RThlTEVQVUZBMWJNcDhrOVUxX3d5SjdFc3hBVkM2WQ?oc=5",
+      "date": "2026-05-23",
+      "source": "Google News ES",
+      "desc": "Operativo en Ushuaia termina sin capturas del roedor asociado al hantavirus&nbsp;&nbsp;Diario Médico"
+    },
+    {
+      "title": "Operativo en Ushuaia termina sin capturas del roedor asociado al hantavirus - heraldo.es",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSm1Ka1FlQ1NHMXcwb1ZLdHlDaDVSZ2VhTElBTHZmdjFQLThTVXhWQUh3dWIyNkxkWV9lX09LTFdsWS1jdGZIeEdwUk9zMXdsSUcxZ2lQYl83dEgzb1ROR1hmLVQtdWFFR0tPeUZ6VVlVd0RGOVRIQXlFNXBhdEVuSVpCbjk2aTdxVHdmM2RtNlpEelhkYzBMbzN3dGF1MGJRRjlhUEk3Wjg1LVZnRzNnT1hJczk2UVd0QjF5anF1UnZ6M19fbnhQOVhwUzd1RFJu0gHWAUFVX3lxTE5xbFpiX1dSWE9aUWxzbTVIUlFDV3FaRk00UzdwS01mREE2c3htZTZyQWZSaEczSTJaMGl2VW5QTkZ2Y3luLVFKQ2JZVEx6cHNtSU1rTTI3aUJFY0JXbkVxWldhZXQtcS1KNW1tLXBhNDRYWnNJWWtXV1AtbUE5YXVHU3ZQRDdHb0RpMko5LTF2TUVXRzBCZlFiNDFac0RiQzZsbjlIRy1mS29ZUXN3ekdKR25OenljSW1TdFcyVjdReFVyY0R0NUowMWE2SHlGNDJHSjFBbnc?oc=5",
+      "date": "2026-05-23",
+      "source": "Google News ES",
+      "desc": "Operativo en Ushuaia termina sin capturas del roedor asociado al hantavirus&nbsp;&nbsp;heraldo.es"
     }
   ],
   "countries": [
