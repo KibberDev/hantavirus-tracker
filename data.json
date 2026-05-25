@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-05-25 01:32 UTC"
+    "updated": "2026-05-25 06:11 UTC"
   },
   "current": {
     "cases": 12,
@@ -1079,6 +1079,41 @@
   ],
   "news": [
     {
+      "title": "El análisis genético y la bioinformática son herramientas clave para entender brotes como el hantavirus - The Conversation",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQy1QQUhKZE54YXJSREM1dHM4QnJuWUdvUC1MMThrTEJLRmxqMGxGN005dzhmcHJudmVZNXZqekdFeUROb1JJbm1NNzlzMU8ya0RMZWQ1TENMSGFTQlJ0WTAycXNIV0pYVHNuMEZIZGFZMUo1N01LOC0xY21ZbkFCX1R0d19OcGdDeUtsMGtlZTE3YkJvYXJsX2FoYlBQR3N4RjY2U29ROXJ1ZjZKMldEOFEtYmtZSHNMM0plZnFMa1ZwX1Z4WGFwb3hTb1pBSTJ5Sl9ncg?oc=5",
+      "date": "2026-05-25",
+      "source": "Google News ES",
+      "desc": "El análisis genético y la bioinformática son herramientas clave para entender brotes como el hantavirus&nbsp;&nbsp;The Conversation"
+    },
+    {
+      "title": "Hantavirus latest updates: WHO says outbreak is stabilizing as the Netherlands reports new case and ship captain disembarks - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRW9nMlF6Y2plVWEzbVY2YVBScW9EYU02QnRmbjl4WDJ1R21IeWQ5WGpwNHZPUkRsUmVoVE1MUUNUbkFLdlY1UFhkRWlLVnpDQV9RTngtZmVoUUZidFhNMGhxcXRHTGlOci03U3U4UmhnaU5jSy1KRVRuSHRqZHJWcUZNYkZRNHBLODNjSnQ3UGxYbnIzVWFxamFnRjE0X2NKNmpFaTgzMGRPUWxKTktxSXRvQjRFRFRrOFlqUjdBMF9DeHduNGl4WHhmLTZmRjRZNWV3ZWZTTzN6NFFwVmYtV2FmS01KWGpGQVBMSklEdmtSN2M?oc=5",
+      "date": "2026-05-25",
+      "source": "Google News EN",
+      "desc": "Hantavirus latest updates: WHO says outbreak is stabilizing as the Netherlands reports new case and ship captain disembarks&nbsp;&nbsp;Yahoo"
+    },
+    {
+      "title": "Utahns concerned about hantavirus outbreak: Poll - Deseret News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYzZveEhtLWg2aHBPWVdUUUp6bld5dUgyajYwOWlzMWJrQThheThUa3RDM2YtODBob3BoRmFCazNTRnhhTHlOOXpsMTJzZ0otUzd1YzN3OFNVTVVYblpjSjZTOTZkV18wVzZZYUFnTllEbUlmaXVnUmV5cXhhbHFndGx2YXE1RHExX0gyQ3dJdE1wNVpscjM0Z2lzek5hYXpUUnE5dzNWcEFYcXdtT2JaS0ZIcUhXdHZjWjhPalRMWnNwQ3hWeGlGbw?oc=5",
+      "date": "2026-05-25",
+      "source": "Google News EN",
+      "desc": "Utahns concerned about hantavirus outbreak: Poll&nbsp;&nbsp;Deseret News"
+    },
+    {
+      "title": "WHO chief: Cruise ship hantavirus outbreak 'stable for now' - upi.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZllOaTJHYWNIZS1KeTE2ME1ncGljdUFMLXlLbDh5WURjVUVITGEydko1UUZ3ZVpQeTVHZ2dGa3ZQWUR3ckVlb29pQkhud2NNVmhpUm51SjJuTndUUmNZYnI1S1I5ZDlHQVlwYkg2YU1Sc095dGZ0NzU2bTJGMUxnOUFoX1VRUWdUaU1tRkRnQ0M4QThibmxDLTdHeFF6T2Rx0gGmAUFVX3lxTFA0X1llWFRUY3BPSTJDUUNEVVppbnlTRXZMZjF6a0duMml6YUFrbTVmRzVyUFBIMFozNjVHd0JGd3FGSTdMbF8wN1lwdGxEamxWR2RCRTRoWjc5dWdYSlphUVFZVTVpNXBUeENRMi1XbEIyOTJSei1iTW5IdDZMWDFkRDF1SFJUQUlTUjFvTFlzdEVaV2RGaV9meFlmN3p6R0tBWDM2b2c?oc=5",
+      "date": "2026-05-25",
+      "source": "Google News EN",
+      "desc": "WHO chief: Cruise ship hantavirus outbreak 'stable for now'&nbsp;&nbsp;upi.com"
+    },
+    {
+      "title": "Should You Be Worried About Hantavirus? - Manhattan Times News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wSjdIQ1c3WVJZNHU4aVpubDNEVWxWUDlFaFIyeTM5WER5LTJOVHBxRVBhN2FhS0dWdnJQYmJhZVg5R3dlNnExRU5DTW90NHVDS29kSzFVQVEwSk5FUzMyYUpDeGZnUW05WjlkMHNRQXRBN21WSVFIQUFxcFhScmM?oc=5",
+      "date": "2026-05-25",
+      "source": "Google News EN",
+      "desc": "Should You Be Worried About Hantavirus?&nbsp;&nbsp;Manhattan Times News"
+    },
+    {
       "title": "Third hantavirus case confirmed in Taiwan this year - Outbreak News Today",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWllpT2xVcDJ1LXBGY0F4eVZGb3haRTRiSFg1ckpocGZ5Zl9IN1g5dTNqekNNenRhUGJPbXllSWwtTHpTY3JGRjdqVVRmV0ZqcHNNWE9ZcXNGUldXTUFZcXlyTmlGRHRMd1hjcGpkOENhTXNndUtVaUtCVDRCVGNSZg?oc=5",
       "date": "2026-05-25",
@@ -1086,11 +1121,11 @@
       "desc": "Third hantavirus case confirmed in Taiwan this year&nbsp;&nbsp;Outbreak News Today"
     },
     {
-      "title": "El hantavirus y el ébola vuelven a poner en el foco el potencial pandémico de las zoonosis - El Correo",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVlF6c1JFcy1fMlVyc1VvQXJOdjFscEVScXdOVGdiQmJuX3NkMk1wYmdqRTZFaXVRSHVqUVBDRnpOc1pESHY4aHNtaVY3WGZBbHNkSE1fMlpmN0plbEdmdlFKaERPRGZOaHA1SFBTRFpGTUROLTNESmt5NklYb05rVkdLUlBTMkpWTm1XVW5yRm15N3JEWkNZMTUwdFpDV1NvNE1zLVRId05OTXVJbzktRVNTdzbSAboBQVVfeXFMT2ViSWY5OGZzN2x0UmVScVd3b05GM0hOQW9PdmRqeDN2a1I0QWxKdElDUnRvRjBrZm1lS2ZDakx6c09Idl9NNkdqQXVnRFNLTng1bGdQOV96OFdWdUtJYWdzREdRUy1SZFJqcW9zSDVPVWtyeXNrTExnUXpSajRfR2FkRWVtUEtiQjdwdmZLVWRTN21TVVd1aUt5MVljcWtadTZSclBmWktfQ1hrS1BvSjZva3psYnlBbVF3?oc=5",
+      "title": "El hantavirus y el ébola vuelven a poner en el foco el potencial pandémico de las zoonosis - El Diario Vasco",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWVRJSjFhNlFHQ1hoQ1dOMzJrWDkxNXpvWFJ4SHA0aUdwNURjaENXeU1QOUxlWXFVZzNVQXpfaGtsWFpjSG5KZklvUTBWV0ZvNTNMMmpXNm1pbVQyR1d2aGdlNGVDNXpWUHJtNE45NFl2NTRQNWE5M3FrYmdYd0pTSWpfRmpud0ROVnVoTUlPRmFPTVVWZGUzYXVLTkZyWFVMTHRINTJ0V2U1MWJ2b2w3RWtHVzNXSUVK0gG-AUFVX3lxTE1GRW9DaXktQVRvVHh5R2c0MkduLTE1S0l5RWYteDU4RGhSTmp5YXg2WlpLRzFMcFctcV9TZWtJZ3JVRVRwNmI0cWJPTUsyOGtRb25ka2JSdkVRVUU5bkhEb2N4M1l5eVdCQ3JpOVhBSXQzM05fU0hadWVXOGdwWkU0TUJFRXVXamwzMU5CZzc1UGw2ZzRPS0lmUkxnTmRuZU4wQzY0ZnVBbDZTbFBreno2blJmci1WbWE3YmVZY2c?oc=5",
       "date": "2026-05-24",
       "source": "Google News ES",
-      "desc": "El hantavirus y el ébola vuelven a poner en el foco el potencial pandémico de las zoonosis&nbsp;&nbsp;El Correo"
+      "desc": "El hantavirus y el ébola vuelven a poner en el foco el potencial pandémico de las zoonosis&nbsp;&nbsp;El Diario Vasco"
     },
     {
       "title": "La mujer aislada en el Clínic de Barcelona da negativo por hantavirus y seguirá la cuarentena en casa - Diario Médico",
@@ -1114,18 +1149,25 @@
       "desc": "Hantavirus and Ebola Highlight the Pandemic Potential of Zoonoses&nbsp;&nbsp;Todo Alicante"
     },
     {
-      "title": "La UHU participa en un proyecto internacional que usa IA para anticiparse a crisis como el hantavirus - Diario de Huelva",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQY0UtNjByTm9sbnFBMTAxdFBxTlFXZ0RlMGJaeEVaWU9LMTM0RlNyMFhOOEdLTWY0QTVmZTFzUktsS3BCSW9QOEtzXzMtaHpVYWdlZzVSNVp2Y3ZIY0pUeHJlTVg1clA5TmVTcEJ6eDhMS29mMl8wU2g5YkxDTFYyT2pOVkRSTlFyOHlRekpEdEVqQ2ZjWk52Z1dKa2dLbWFsT0k2LUJBcjRQdklYdWpUNVJTRy1ra1ViQnVxdXdZam9BTTd4a3huaVBYX05mSjNkU0FvTWlmazYtNjF5eFI4dnFpZko1YkFoQmphSmdvOFlia3BTcmhWbFZB0gH_AUFVX3lxTE5mWThjSWFpaUoyQ0VlcFhlWXQwMGFJODBBQ3BSMHJLMWV2dVV1cW1aX1lZcGR3dzkyZVJRV1FVWk5IYW1TSVd0UGhyNVFWa0tSc0FHZG9DTVRwNjN0aUNmbXptNWpfR0ZFQVpUVGRBWUtadVF5TVZadzNPaWE4WExiY09kMVNXdUJNTXl3YkZSZjR0bFgyU3NRRmRLSjJkZlB2SmM2R0hSdTltYnp0N1ltUGRtOHZXZGdDdXA2MmdKVi1nM0p5YlRmV3g0QVVwdmxWcGZ4eng1ZzZMU2pXQ3hUT01lOHB6eTZyc1c0RlhHTk94akw1VzNwNEU4RmVqdw?oc=5",
-      "date": "2026-05-24",
-      "source": "Google News ES",
-      "desc": "La UHU participa en un proyecto internacional que usa IA para anticiparse a crisis como el hantavirus&nbsp;&nbsp;Diario de Huelva"
-    },
-    {
       "title": "WHO chief says hantavirus ‘situation is stable for now’ - The Hill",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcjFxUWhneXRrVzg2b3U5RG00cHBRdm4yM2tVSzYzaWFNWjVZeEpKalZGT3dibGMxVHBaX3V6NmNqZExuUExzNDlycXVFSmtybFNaYzhfMDdWSE5TdmVUVjk5dDhIalhPXzEtWkdxWWNueGVNODU1QzVIQlVmZ215edIBhgFBVV95cUxOVEh5TnFwX0drOXUxVWVJRE14S0o5NEdUMU1PeS1TaG5uYUlCMUU1d1h6UloxdkJzNTZNSk8wZ2VSSXZXSmtpamExT0tKbnBEN2ZNeERnOEtnODBRN3lyanRhLVdPOXNaRVlqWlBOUkJUNTB5R05vdXNVbElEV3Z1OXhQOUxVdw?oc=5",
       "date": "2026-05-24",
       "source": "Google News EN",
       "desc": "WHO chief says hantavirus ‘situation is stable for now’&nbsp;&nbsp;The Hill"
+    },
+    {
+      "title": "Americans exposed to hantavirus on ship enjoy Nebraska hospitality while in quarantine - KSL.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaTN5QWVfRUdtYnRqMmRkeGZqenVWb3YtMUxmTEhQODg2TGYzeWVEUm10d0dOR2kzRVFNYlBPWC1DQ0gydHBYVG1QWktvR2NSOTNpQnpiMTVjS3h5WmlMN0w2enRYS1BTSVhTV29XM3dvNGNDRlFGN3M4b3E2dmdPM0JZX2ZLaDd6WVRMbFFuWFNfb21fSldDMXAtNTJZR0ZYMFlST0pGdXgxbWpKcFE5bEMxWWRWQTBBbHlER1JJTnU?oc=5",
+      "date": "2026-05-24",
+      "source": "Google News EN",
+      "desc": "Americans exposed to hantavirus on ship enjoy Nebraska hospitality while in quarantine&nbsp;&nbsp;KSL.com"
+    },
+    {
+      "title": "A shocking number of Pacific Northwest rodents may carry hantavirus, study finds - KTVZ",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDc2NGhDWWtsdnR4WVA0QVlkZXQ2elB5eFMwdXZodzJuRTg3eGlYQkdtSlhLUXgyMkhmNDUzVXBVTkViVVJ3Z2hTNTFiV1k0WmR0VTdWR3JEUTlXRUZDRVpTSjd3YVVjMTFuNWljLVRQUDJVRHBpS0s5YmtOY04zOTRnZFdfZ1VLN1prN2V6ekJUMlliclV6MnJhU0xERW5PMnBaUmpWN2hmanVITGdleWNwcmRob05td015ZDZtWGJabWc?oc=5",
+      "date": "2026-05-24",
+      "source": "Google News EN",
+      "desc": "A shocking number of Pacific Northwest rodents may carry hantavirus, study finds&nbsp;&nbsp;KTVZ"
     },
     {
       "title": "Hantavirus is gaining ground in the US, startling researchers: ‘Widespread and complex virus’ - New York Post",
@@ -1161,48 +1203,6 @@
       "date": "2026-05-23",
       "source": "La Vanguardia",
       "desc": "La prevención y la educación en salud pública pueden evitar que el hantavirus se convierta en epidemia&nbsp;&nbsp;La Vanguardia"
-    },
-    {
-      "title": "La mujer contacto de hantavirus en el Clínic de Barcelona seguirá la cuarentena en casa tras una tercera PCR negativa - ABC",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeUJqQlZleGxoUEZHVlVZX0NVQWstVGc0N1RDN3REakN0Wl9nbnBRZEhkUFVURFVFMVRWWFlRbXVwQTlsZDVsejM5V2tpODM0QVBMeG1GeHg4MkduVDhQSXhmTGw1RTVldDFHbEItQkZpVU0ybnZsWUE1VGVJRXJvdE14V1FLM2RKaHVRUU0zLTJ1QW9MZUF5UmN3cWg1d1hOM2taUHYyZkFVN2FoVWVxRGlNeW9sME0tbkNz?oc=5",
-      "date": "2026-05-23",
-      "source": "ABC",
-      "desc": "La mujer contacto de hantavirus en el Clínic de Barcelona seguirá la cuarentena en casa tras una tercera PCR negativa&nbsp;&nbsp;ABC"
-    },
-    {
-      "title": "Torres señala que la relación con Canarias sigue bien tras la gestión del hantavirus - ABC",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc1oxZ3RZQ1FxUm12LXF1WldFQzRjNDRVTkEyRlRESklnYmlwRXBNaEI0MkF0UFNhNlhnTzJtTF81cENyUXA4eUFyLW0wbWlfMzJPTXY2VV9IaE9NTENISktKV0JsbkI5QWxDN0RlMHRCQjRRZjFFN3FTb0pLQWdCV1lWR1phTENsMGJjTzk0RnlPYkNpaEtiU1ZCUG0?oc=5",
-      "date": "2026-05-23",
-      "source": "ABC",
-      "desc": "Torres señala que la relación con Canarias sigue bien tras la gestión del hantavirus&nbsp;&nbsp;ABC"
-    },
-    {
-      "title": "La OMS confirma un nuevo caso de hantavirus en un tripulante del MV Hondius que desembarcó en Tenerife - ABC",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV2duR19YVUk1Q3dPM1NXNTI5VldJb1V3MzJuOWdTdWpCVVlETjAxYWg3dzM1dDJSWDdnWHo1MEJfZGdGLUJSQTdnSnBrSi1udmtHMDFWWmFYTVJ2dkw4RlVSQktQdjJzb1F3QnpwTXZ6Rld4X0R4cVgyU0FGb195TXFDN3VxRnFUajNSSWVBMjZKZnhBbXhPWmlCdGE1WUZheXlBTElHTzQzUHhaMFVCXzFsVG3SAbQBQVVfeXFMTldnbkdfWFVJNUN3TzNTVzUyOVZXSW9VdzMybjlnU3VqQlVZRE4wMWFoN3czNXQyUlg3Z1h6NTBCX2RnRi1CUkE3Z0pwa0otbnZrRzAxVlphWE1SdnZMOEZVUkJLUHYyc29Rd0J6cE12ekZXeF9EeHFYMlNBRm9feU1xQzd1cUZxVGozUkllQTI2SmZ4QW14T1ppQnRhNVlGYXl5QUxJR080M1B4WjBVQl8xbFRt?oc=5",
-      "date": "2026-05-23",
-      "source": "ABC",
-      "desc": "La OMS confirma un nuevo caso de hantavirus en un tripulante del MV Hondius que desembarcó en Tenerife&nbsp;&nbsp;ABC"
-    },
-    {
-      "title": "El operativo en Ushuaia para capturar al roedor del hantavirus concluye sin rastro alguno del ratón colilargo - LaSexta",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZ244V2lpNnBIcHN1UDN1S2FrZDBKVTQ2aFlqN2RlVnh1bmIxUUlMS05Ld21MOU9xQ25CYk1sRmhVTVRqb2NKd3ZNVmJxMHZVd0dRbmttRUE0ODlUdVBObGVOaGt1MmV2OFVPcllEMEhUSVlVQzhFNHlCaDlxOU0tN1NKVEdua01UYTlpSW4wVzdnUkh2RHlHWTkzeEJ5bUZiNU9pT2dHbmpNN25QeGtVV3RyZW9uY2VDRUd3V0tMZFppbG01b3QxTHdRWlN2ZmQ1b2RJVk5CWk4yb3pHRUdlZ1diN3ZBdEZ6alBtdTYtNnFlMDNiTkh6UE9fZ2jSAfwBQVVfeXFMTm52dHB5aklBb2FBWlR0bi0yWWZvWHltQVFxN2MwUi1GeTR6T19KWHR1dHNJRE1kUlZYbkxmTWl5TDBFVGR1QmlMY3VZY29nak9ueGd4clZmd2NZaHRjamdaX01KYW9jYUpFXzYtdldDSWFjNjhkelRVZ3NnZmZMb0ZUTUFZa3hFdXlaZWtRR2NWdDVLdmYyRjZkUVVkam5ub05JUHF5TWRnTnFod1ctOVN6cjRoSjlEU2YyUVFheEVMUUgyVHVWdFpaSGVYd0dlc1V3Wi1HSjZudnpoWXYxU3FNR2ZFWnJQYkFabDA5M3p3aWcwOEZxTEk5UnNy?oc=5",
-      "date": "2026-05-23",
-      "source": "Google News ES",
-      "desc": "El operativo en Ushuaia para capturar al roedor del hantavirus concluye sin rastro alguno del ratón colilargo&nbsp;&nbsp;LaSexta"
-    },
-    {
-      "title": "Crónicas sanitarias sobre el Hantavirus: 15 interesantes artículos - El Independiente de Granada",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVXJGLWpIMWlfNTRPYjNqbzlhV09Cc0c4OUFMZFM1TDIzblkyb0UtTThNdTB2cUExNnJpeFlwclprV2dDczBPQ2NIaVBhNmdfY1Y1TkZQTEdXS0J3NjBCR1c4S0FZYnp1YWtHYUw1U3hZMEw3cDVMU3FYbXhEN1ItV0JGeHhjQnVXbTNSOGVJUXpTeVBYYkhMUy1KS1RvZlF0SDRzNzlDVWtnMDJmX0w3blF3?oc=5",
-      "date": "2026-05-23",
-      "source": "Google News ES",
-      "desc": "Crónicas sanitarias sobre el Hantavirus: 15 interesantes artículos&nbsp;&nbsp;El Independiente de Granada"
-    },
-    {
-      "title": "Why the quarantine for hantavirus is so long - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd19QN2JEZXBkWXZpcDhNS2ppb0lGLXFnejJNT3Qzc3EyMDB1QTNTYzBMWlFqcWp1SUpLZXltT1hNaEFMMnBGcW9JV08yWWlXYlAtR1lwUDJ4NThPRkJPUGlVaTIyVS1LdFdlbTRSeHlicmw0ZURsbldRRXZkMjJVb0swUDJZaFdBa3lZOEkyZXdBdw?oc=5",
-      "date": "2026-05-23",
-      "source": "Google News EN",
-      "desc": "Why the quarantine for hantavirus is so long&nbsp;&nbsp;The Washington Post"
     }
   ],
   "countries": [
