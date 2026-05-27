@@ -3,10 +3,10 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-05-27 04:56 UTC"
+    "updated": "2026-05-27 08:41 UTC"
   },
   "current": {
-    "cases": 12,
+    "cases": 13,
     "deaths": 3,
     "recovered": 0,
     "countries": 9
@@ -1075,9 +1075,96 @@
           "deaths": 0
         }
       }
+    },
+    {
+      "date": "2026-05-27",
+      "cases": 13,
+      "deaths": 3,
+      "recovered": 0,
+      "event": "Actualización: 13 casos · 3 fallecidos · 0 recuperados",
+      "snapshot": {
+        "AR": {
+          "cases": 2,
+          "deaths": 0
+        },
+        "NL": {
+          "cases": 2,
+          "deaths": 2
+        },
+        "DE": {
+          "cases": 1,
+          "deaths": 1
+        },
+        "ZA": {
+          "cases": 2,
+          "deaths": 0
+        },
+        "ES": {
+          "cases": 1,
+          "deaths": 0
+        },
+        "FR": {
+          "cases": 1,
+          "deaths": 0
+        },
+        "CV": {
+          "cases": 1,
+          "deaths": 0
+        },
+        "US": {
+          "cases": 1,
+          "deaths": 0
+        },
+        "CH": {
+          "cases": 1,
+          "deaths": 0
+        }
+      }
     }
   ],
   "news": [
+    {
+      "title": "Especial informativo: El barco del hantavirus - El Mundo",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYVByN0FtZVpIWEtSa21MN2NSWjB2eUpHQXFwcF9mSDZBQnhNMWx6aEFhR3l2STN4SnRBcEkzM0pYVXM3bUJIZ2ZnZ2NXZVphejBuY3k4LTRIZExZRTNXYnNJZWNLbXhyOU9vRjRUdWJOV0VOR2M0OXRKelNqZ29ZeGxSekJra0cxaXVIVTlSUDk1dFVmYTNMNlY4Ql8wZlI2TzRzaVEtUWRqczl3SWJzNHI5eFJ1Q2dTNXlrSER3?oc=5",
+      "date": "2026-05-27",
+      "source": "El Mundo",
+      "desc": "Especial informativo: El barco del hantavirus&nbsp;&nbsp;El Mundo"
+    },
+    {
+      "title": "Ni ébola ni hantavirus: un virus menos letal podría expandirse en Europa por el cambio climático - Infosalus",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTXM0Sk9Xd2VFQmxGTjY5QmFJWmVrYU5Hc0loTmlQQmRDZEZjV1FsaURqUFlJLUxWTGc3c0FuZTM1b2JXNTJJMURjYkZmMEVSX2w2VFlZUmc4WE5PYWlKazdielc0VkVET0pKc0FQbEJKOG9uX1JkaG5kb1Z5REtxZXdOZUp1RUZLWHRxYkhBNVA1Ny1HdjRNREFqNjRwX3hrWE5aVHZoVkdFQmxMODVrUnRxeXNuUWRCZ1U1NzlUYnRCWGItYl90OXg4b3BCOEtxS21uZXFnUEFJazNjSzNRVU9MODk?oc=5",
+      "date": "2026-05-27",
+      "source": "Google News ES",
+      "desc": "Ni ébola ni hantavirus: un virus menos letal podría expandirse en Europa por el cambio climático&nbsp;&nbsp;Infosalus"
+    },
+    {
+      "title": "Así reavivan los brotes de hantavirus y ébola las narrativas de desinformación asentadas durante la COVID-19 - Newtral",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44aVUwbVU2dVJ1RVJQS1FKZ0ZMYldJNWFGSmNaYXhMLWxxeUdtaVUyck5haVhnME53a0syUmpNSEVSMTRkUHZUMHU0NVhzbml5TE5PckVWTW5helRxOVdUMlF4dm9kLVI5Vzlyb2s5bTJQd9IBd0FVX3lxTFBrMmFlUVF5MTM5T2dXT3NaT1E0bnRvdmdSWlR5OHRKX3B5amRoN3h4NURrVkpsX05VUjZVdmVSNEZERHFOQkg5Z3Jhdkk2d3RCUFQtVmVqbHlNdFZ4U3Rvdm9lek53U25hRlNVOHNaaUdfVnlOZFdr?oc=5",
+      "date": "2026-05-27",
+      "source": "Google News ES",
+      "desc": "Así reavivan los brotes de hantavirus y ébola las narrativas de desinformación asentadas durante la COVID-19&nbsp;&nbsp;Newtral"
+    },
+    {
+      "title": "Los casos de hantavirus relacionados con el brote en un crucero ascienden a 13, según la OMS - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVTY5QnYxcndxV3NmWVNhRFA5TzJDMzNFSG5PZHBIeUVCc2s0NW1nSFlsZXhnWW5lUmhMTlktZ1NQLXpZTjZEYzRxbzBsTmhCdDM5WU5QN2NtT1hYQlIzdUo1N1V0Tm9KbFlIMG84eUhfeUp5eG5TMHZrUDNXUWlaVEFGLXBwU2hHTG92ak9Hc3ZxQUkxUEE?oc=5",
+      "date": "2026-05-27",
+      "source": "Google News ES",
+      "desc": "Los casos de hantavirus relacionados con el brote en un crucero ascienden a 13, según la OMS&nbsp;&nbsp;Yahoo"
+    },
+    {
+      "title": "China no ha declarado la “emergencia internacional” por hantavirus a 26 de mayo de 2026 - Newtral",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LZGh6MXFmOWVVc3kxTnlaT25kaWN2R0NLamlVXzZyVFN6Z0N0dWhxQTA5T0xYYS12UWZ3V0ltbFc5dG5IQ3d2dV91Q2R2eEliOE9HVkZxQnZLNk8wZzVMMUh0cGRLeWZRUDlUWW91MnhxdjTSAXhBVV95cUxPVDRHTEcyZllXLWQyNlFocGttbXpYeU84a0hSaWZZVjJKRml5ZjVBU2JpQXFaM3g2THQzMmhibFRLMUZDcDdGd3N4dHhodG10UVB0RkZnak9CWXVnV3NUck1BSVlnTUxRMjNTZXZoQWlNOWFxX0J4eWU?oc=5",
+      "date": "2026-05-27",
+      "source": "Google News ES",
+      "desc": "China no ha declarado la “emergencia internacional” por hantavirus a 26 de mayo de 2026&nbsp;&nbsp;Newtral"
+    },
+    {
+      "title": "El caso Zapatero y la comparecencia de la ministra de Sanidad por el hantavirus marcan la sesión de control - Newtral",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9IQlhEd1BleFNTQTlxd1puZTN1ZGpjUVNkaFhVT1ZBa0hTdll5NUZ2RDZBX3hja1ptRUFVY0lPalJmNERYMTQxLU9PLUR5eVM4alVoQjlvZXdHNE80UkdHMVVLWWlXSDZvdnNweVh2S2dOa1ZzYVBpY3NIUzd1UdIBgwFBVV95cUxONDNjR2piNFRoMDlTWWlicnBmSDhtUWVJUFRvOTYtbFhEUl96b3N5YnY3YThpdGVDVEZYc0wtN2EyNlRkeS0yck1CdjNDMzg5T0trVTdscjYzek5HcTZLNGJBX2FfcF9SWF96REszV0lOQXFSVTlheERMWGZMc2luX2VZMA?oc=5",
+      "date": "2026-05-27",
+      "source": "Google News ES",
+      "desc": "El caso Zapatero y la comparecencia de la ministra de Sanidad por el hantavirus marcan la sesión de control&nbsp;&nbsp;Newtral"
+    },
     {
       "title": "¿Es seguro viajar este verano a Argentina o Chile por los casos de hantavirus? Sanidad responde - El Debate",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUDlJRWFXbG9wVFJSQzhjdVVNdWgtaXd3YkZ2VjNONVRPNmdwdnJCZW9NSkJqUmJmLUREaFpwMWZMSUVjNG1OU0RTaGFqOEN1VnVGSl9MRTg4dk0xN3VpT1RBSWc5bnpIWmowcE9oNEN4cHl1WExUUkVOQkFaNkxoOTFTZi1GWFU2QnJ0TVpEVmM4NENXb2p4M1VtdmdkdmNSY3RUcWgycHlMMzhLcmE3YUZhbXJSdXRkeXZIcktHMUZaQi04ZFFqRElB0gHPAUFVX3lxTE9obWIwYXlkMmpJcGRqY21EMjQxX2NpRDJWNUl2ckNqM000aHp1eDItVmV5bHF3Mm16RUlvTzliaF9LSnZnYUdtb2IzU1ZLVXUtZU5GQUs0clpmTkMtam1VOUFrcjNfYkFYcjloZUVGTGFEU1VmbnRNQ1VkMVVFamtWel95YXRVRzZyQjR0RDdmeU5hTE9ndEt5Z1lQQ0RrdGVsaXo2N2FUbjRhNW5fbWNlSlJ2Sk10X0NNeTAyOVprdjk3SGVGX051Sms0YlBONA?oc=5",
@@ -1086,11 +1173,32 @@
       "desc": "¿Es seguro viajar este verano a Argentina o Chile por los casos de hantavirus? Sanidad responde&nbsp;&nbsp;El Debate"
     },
     {
-      "title": "Juan Jesús Gestal | “A Coruña podría haber sido el escenario del brote de hantavirus” - El Ideal Gallego",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQlJ1RUdaUURPblpoWmM2S0JoRlRCUFViZlF5T2MtNXlqRmRKV1lZOXBKdHpBLXpiY041NWxCWU1pOGMteEh3MUh2VElsZ2c3REF0UWg3dU1zZ1dIcUd5QW52Q3RfRkM0OEdOdHlmU0didmFWWGdYVGM4dWhOQVY2X0xJeU56ek9NeDQwaFJaZnQxMnVHX0poOWw1RWQydGZ0NzJnX3VqQlo2UG9jSjEwcDg4cEY2a1BHWVhRdXV3WF9RU1k?oc=5",
+      "title": "Protección Civil destaca el liderazgo internacional de España en la crisis del hantavirus - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSUl6bVI2VENNdTh6bnp0T25Pc1NQdXVNemduamxDVTlQbjI1b1dZWlU1S1FVeDlpSmlxSmU0SUFObk1iYUd0eUhlWjBUcW1ZOTk0cHRWZlBOMGl0NWV3M01rQXZmSldoa0UwT25XSGdUQlBxZkI5SmRlMjVfSDYtUEZvUW1scjh5eDVJVy0zbEktVS1ta2NOcmV5ZFNOMWpZNkVGeWR0Z0R0NTZZeVl3eEhrWkFJbzE3QUVFal9FSHNjMDRBMVRyUXFGVnF0blBKZ3Z5VXg4ZTHSAfMBQVVfeXFMT2VST25jcjdMN3VZb0hzcDlkTUJOWWtaTjY0Uk51cnFzUDJRdnBPMjA1emJuV1RCQ0JGTE9sSE84SE50WnlUdm9Vbkx1bmpFQnFaZllNc0xEWTZsZ2UzX2NjYW4tcXFQVmptS0JlR3JqUldtTkpmUF9ybHl3UG5ZSG9XTWMtLTh5U2FzY1hIbjJEMXNBQVUyV19ndk9Qc0JId0FwZWo2QUgwNFFyTWJ2RHk4amowSktEMjJGck5sdXo0M19nZ18tNjQ3d0JGYm9ibDBRYTBNdmxwQktkVnlXUUpnRFVmMEZLcW95dnlNNGtlSUtv?oc=5",
       "date": "2026-05-27",
       "source": "Google News ES",
-      "desc": "Juan Jesús Gestal | “A Coruña podría haber sido el escenario del brote de hantavirus”&nbsp;&nbsp;El Ideal Gallego"
+      "desc": "Protección Civil destaca el liderazgo internacional de España en la crisis del hantavirus&nbsp;&nbsp;Infobae"
+    },
+    {
+      "title": "Hantavirus cases from cruise outbreak rise to 13 following new case in Spain, WHO says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQamxkN3RlZzFPWTVabWpreHNDaGp2SnVOckZ3STNTWTBGdXZGUHFUaU9fNTNjeFFoWWFYM2k0NE85SXE1OF9wWms5QnZNVkZlX05WbkdheFJ5cDBJUTVqYldQbXdfVm1lTjZZTldUZjRzOWUtRjEzdzYwaVYxMVIyZEpxd0ZmU2NSS19CeTV1cVh5dmNWeUVBNG9KejhYYU5yS3ZDU20xQ191MXowRUpRU2N1OFhlRUt1MU5Taks0V1dOQkN3bTljYW1WZGw2SkFoRmVneUNvV2QyV1MwcE1v?oc=5",
+      "date": "2026-05-27",
+      "source": "Google News EN",
+      "desc": "Hantavirus cases from cruise outbreak rise to 13 following new case in Spain, WHO says&nbsp;&nbsp;Reuters"
+    },
+    {
+      "title": "Captain of Hantavirus cruise horror quarantined in Poland - TVP World",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeG1wWnVNTDZQTV96WDdrMHdEc2hXQjRzRTlDT0xZNEZ6TW9yX1NCVUpGQ2pmbmVxMXhjSU1xQlJLZEpsaU9BX0JCazdHYkZxVTd5RjQ0b3pTU2xydGE5LWgwS21fX1V2V1dabjM1c1NjT3ZfZzVfUGMtcXpDZGhST1Vva0ZHTkh1d2hjTVdYeEs2X0NWTnp6XzZuWlcxZzAtbWlB?oc=5",
+      "date": "2026-05-27",
+      "source": "Google News EN",
+      "desc": "Captain of Hantavirus cruise horror quarantined in Poland&nbsp;&nbsp;TVP World"
+    },
+    {
+      "title": "Public health hot topic: Hantavirus - Islands' Sounder",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZHJWX1dzZ0JuR0NjX3ZrMmFiRHowVWdDNGo4ejN2UXlva2tkVFlLMERRd3I1S2ZLUlpkX0tjc1ZveXVoanZwOHVaZG00VWNqS19tRHh4bGxzOXgwZnJVTnR0ZUp2Q2lIenB2MUs4Rkc0WjJqb0JVZVlNbUZIWUFIakV5VQ?oc=5",
+      "date": "2026-05-27",
+      "source": "Google News EN",
+      "desc": "Public health hot topic: Hantavirus&nbsp;&nbsp;Islands' Sounder"
     },
     {
       "title": "Imágenes del Gómez Ulla donde se encuentra ingresado el segundo español positivo de hantavirus - ABC",
@@ -1100,18 +1208,18 @@
       "desc": "Imágenes del Gómez Ulla donde se encuentra ingresado el segundo español positivo de hantavirus&nbsp;&nbsp;ABC"
     },
     {
-      "title": "Las dos personas aisladas en el Hospital Gómez Ulla con hantavirus se mantienen asintomáticas - 20Minutos",
+      "title": "Las dos personas aisladas en el Hospital Gómez Ulla con hantavirus se mantienen asintomáticas - 20minutos.es",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbERGQnRlUGd1anVGb1dzM0xIMGZfNnNlMGtCd0wya01KbG02U09tblk0R3VUSUF0eE45cXZiMXQ5SHRsREdzaVZrdU0zdDBlTzB5YUo2cEV4VmQtNUlzbFRzd3VfUmJaOHA1STJfSWxPdW53b1ZWN0trdmVSWmRYT2FSNWd1RkpROElHUHl3WGxtSGhuTk9BU0pVWWZYWGw4WE1FdWJFUTdfVWhoUFUyN2JHUlJXMzJYWE5VLUltaV9TR2cxVy1IbHdjaktsV0k?oc=5",
       "date": "2026-05-26",
       "source": "20 Minutos",
-      "desc": "Las dos personas aisladas en el Hospital Gómez Ulla con hantavirus se mantienen asintomáticas&nbsp;&nbsp;20Minutos"
+      "desc": "Las dos personas aisladas en el Hospital Gómez Ulla con hantavirus se mantienen asintomáticas&nbsp;&nbsp;20minutos.es"
     },
     {
-      "title": "¿Predijeron 'Los Simpson' el hantavirus? Estas son las claves de un episodio emitido hace 14 años - 20Minutos",
+      "title": "¿Predijeron 'Los Simpson' el hantavirus? Estas son las claves de un episodio emitido hace 14 años - 20minutos.es",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVS1fYndqd01XNXVuRU4yeTdnbjlucWlmNXdKVzA4NGh4U3Npd2F6dzFkWXRhNkdFdWtJMVF3MklZSFd6cG5KNlYzOTZBeFdGQm5wR2xMX2RSSV9PX1JxY2VtaUp4cmRiNi11b1dPM3YwUExyak5mUTNCUmJ1b210bFJFZmtEZHg2bXVHWWt5SjV1WXFiRFhrbl9lbnhWMmlM?oc=5",
       "date": "2026-05-26",
       "source": "20 Minutos",
-      "desc": "¿Predijeron 'Los Simpson' el hantavirus? Estas son las claves de un episodio emitido hace 14 años&nbsp;&nbsp;20Minutos"
+      "desc": "¿Predijeron 'Los Simpson' el hantavirus? Estas son las claves de un episodio emitido hace 14 años&nbsp;&nbsp;20minutos.es"
     },
     {
       "title": "Otro pasajero español del MV Hondius da positivo en hantavirus - Diario Médico",
@@ -1135,74 +1243,11 @@
       "desc": "Nuevo positivo por hantavirus en el Gómez Ulla, aunque sin síntomas&nbsp;&nbsp;Sinc"
     },
     {
-      "title": "¿Qué es el hantavirus y qué sabemos del brote en un crucero? - Connecticut Public",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ2lXaE1MUlFBekdpZ1JvbHF2M002WDk5NmNTcVdON0lpQTMzYS02d084UHZNQnZEV08za0hocnlmU3JWclJ0WndyZkNKUEs3MFBiUDRIYWtqQk5qSWd2ZWFzbndrZWFNNVFQLXlRdk4ybzNzdzgyT2pQTmdpX1pIMUZWNW9wWXhLMnU0dGY0Ump3d05TWmxmV0N3?oc=5",
-      "date": "2026-05-26",
-      "source": "Google News ES",
-      "desc": "¿Qué es el hantavirus y qué sabemos del brote en un crucero?&nbsp;&nbsp;Connecticut Public"
-    },
-    {
       "title": "Nuevo positivo por hantavirus en Madrid: hasta cuándo podría seguir apareciendo contagios - LaSexta",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNa2xSUExSX3REb0JiT0NGdlV0bzdGOVZkYktRSXZNWE4wUWNTaWZjWHhDbk93Y1M0VWVSMUNwZ1VINUNxb25MQUxMRkxWU3ZYLXB2SXlBc0Y1c1RIVUtleTNJX2dkcVQtNTBKWnlSSEJtQTJVYWEzQW9jV19VbEJwbGwtMnBMN3RxMWE1MjdzX1EyRFZvVU9PQTY2ZEtfbXYyU2dVZWRwZERrMUtONlVFbUpPRjVsRE5CdnNMeWdHS3pNSWFxQkhzdkVGTFlkREk2TTRfeHo5N3l5VENYU1p1QlFBR1lLRlVGU0diMVZac3FOWFQzWnZ1Q3ozVWvSAfwBQVVfeXFMTXl0QjVMTnJPbUVWWmM2bFVIWmFkUGF6XzMxUUw4OHZWeUF2QjIxUERTQjhGdWV5WUNmcTdqVXd4NkRCaC1RRzhXamV5Q3NnQWlvdEwycjFyNW5NNm90cUF3NnVMeDl6ODhfamdBVndIUUFaV2l5REEwMFkzUVl4c0JLazluNHdhX3EwcHdENGFYVkVjdlRMdHBfSXlFSXo2QWZmUUxSUTMxTVBSaXpwWW1Lc1AxZ0stSjdVaXREN0E4aHUyRFV5cW9naXMzMS1wOVZZY0M3ZnJEVlJubVVLMWpDMWRTRXh4UVNnRzFUTktyT0tVeXBtTXFOMGpa?oc=5",
       "date": "2026-05-26",
       "source": "Google News ES",
       "desc": "Nuevo positivo por hantavirus en Madrid: hasta cuándo podría seguir apareciendo contagios&nbsp;&nbsp;LaSexta"
-    },
-    {
-      "title": "Hantavirus: cuando el miedo vuelve antes que el virus - Seguritecnia",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbVJQblNHcnNVQlRzbUVFamU1aGdhOVpKVS13eWlIUy1fci1pa19nLXhaZzM0RmJKTnJVRTlRS29fYXVsbDdzY2R0NndTaXZFODRXdHVsOXBsY1dJbTR2MnpjQ1o5OHZxRmExYTJ1NXdJVTFKeXFJY0RkblBFLXR6Ny0xTWY1MmFTNEFLRzRQWm1PS3BnN2htNmpKZnhOVk1NM19PMXRpaUVFaDRSbDRIRGtTaHc3MkExTjktSUZEcFNfWWxLUFQ0bVc1YmJzcDdwdEYzYTV4YjMtQTNjelBIVFJoYw?oc=5",
-      "date": "2026-05-26",
-      "source": "Google News ES",
-      "desc": "Hantavirus: cuando el miedo vuelve antes que el virus&nbsp;&nbsp;Seguritecnia"
-    },
-    {
-      "title": "Los dos positivos en hantavirus del Gómez Ulla están asintomáticos: Sanidad evalúa cómo dar el alta a uno de ellos - El Confidencial",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSGthQjNrTGFKNmNRSlNNWjIxNjRkTV9LX3FuaDZVdkE0ZnRoS01CdmNjRG1iYTZlQ0pfYnFLWnhmanpFNlFPOWQ0X19JMjBvTENMVFlNekpIdkxTR2treU1GbWN2QWV4Uk1ITEhKTDZYdzZEZ0JxV3FDM0lCZHBKdEZDaGdYUG1ORVRwcmJKcFRlQnEtOGNjTWVVQ21rZw?oc=5",
-      "date": "2026-05-26",
-      "source": "Google News ES",
-      "desc": "Los dos positivos en hantavirus del Gómez Ulla están asintomáticos: Sanidad evalúa cómo dar el alta a uno de ellos&nbsp;&nbsp;El Confidencial"
-    },
-    {
-      "title": "Sanidad evalúa el criterio para dar el alta con garantías al primer positivo de hantavirus - noticiasdegipuzkoa.eus",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOam5OeHFlM3N5QjVqN0pucGlpNzFRZG1RUm5BalJJNkViT19NdnVRVlVKTmY5NVJnOXRrWTlWckNkOFNhNG00TW5CcHhOMUg3Ql92aFBWeFJvQnZnM1JKN3k2ck9sVWYxWWttdEUxQ2w0ZVhVeDAtbzd5RkMyUF9ieDlhQnVPVG1zemFCQ0dpNGdrNTEyOVpIUkhVMkhEVVVBOXFV0gGoAUFVX3lxTE5jbHAzcl9RRnRsZFVFbDhqZ2NadDdHel9Oc0FMUDN0cHY4MXZYcVBaRHVlWTZBMm05SlV4RVU3U1licWc5akxWMC1YRGR6ZmZ4VW1FdDZqLW5IbmtDX0lqOWFQV09TdkZvT1ZlMEpONW54ZlNjS1F2cmZlU3lJQzU1WFVfV1NqM2NaMUxrUU93QWdNTUhhS1lkdE40Y0xoaXRILXlOSWd3Qw?oc=5",
-      "date": "2026-05-26",
-      "source": "Google News ES",
-      "desc": "Sanidad evalúa el criterio para dar el alta con garantías al primer positivo de hantavirus&nbsp;&nbsp;noticiasdegipuzkoa.eus"
-    },
-    {
-      "title": "El nuevo positivo en hantavirus no afecta a la cuarentena del resto de pasajeros: \"Saldrán del hospital el 7 de junio\" - Telecinco",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSEpfX1JsWUZPVjFxbndRVktoSm5WUVJxejhuUFQweXlCOGQwVDZoejI3ZkJ1djlzbFYtcms2T1V0Z3ZuMVhFY1pUejBQVUdicGd4TE5fTEtuTU9XWTlDMzlNQTRyYjRma2ozWVhJVl9OYl9DVzRfYmM3MFQ1WGVwcUR3VHNrbGRoLThMNWpUd3M0MGRFbVFYS0NyQ1M1V1JKTDRQeVJHY0FscDFyRWk3ZDlhTVVQOFZzY0JwWDZKN2hlVEFNc3R3Ng?oc=5",
-      "date": "2026-05-26",
-      "source": "Google News ES",
-      "desc": "El nuevo positivo en hantavirus no afecta a la cuarentena del resto de pasajeros: \"Saldrán del hospital el 7 de junio\"&nbsp;&nbsp;Telecinco"
-    },
-    {
-      "title": "Kennedy offers legal shield to develop hantavirus treatment - Axios",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84UlhfZXBjN0hLOVE4SFlwbTBDQ19xbU9kUnRRRkF4M3pwVXJvRlF1NjFsTTJFTVczTUFMTnFfcnVGSXZzTVpXVnU4UEFMSzNpR280YVNDdWRJRnFISVd0TFZvODhMU282QkRUZnZfN015NzhGaG9oSw?oc=5",
-      "date": "2026-05-26",
-      "source": "Google News EN",
-      "desc": "Kennedy offers legal shield to develop hantavirus treatment&nbsp;&nbsp;Axios"
-    },
-    {
-      "title": "Kennedy faces anti-vaccine anger over hantavirus treatment legal protections - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdlQtTzc5WlN0OHNTSTJWTVl5UnUwTm5ralc5cm5Qdzl5SmxFb1ZhYzE4NjlLd1hYNVZ4RzdTdjVBS1hNSll5SlE5WnR1M1hhMnpVNHVsUEE3Q2VIdW9TdW5obzVGMEpQbUptUFpzNFBPYk96YkNEXzdYSUs0TldqZ3pXVzV3VllNS3lpLVNRMVJUREFMejM3NmZoSdIBoAFBVV95cUxOR3V2dURDN0lILUtCX3NiRHhqUlEzVlNFUmllZDRjX01jc0VvSUxlUmZPSEIzcFJVdUtJYVZDcFhyclNwU2phMXdBeEQwQ0NEbUVNMUd0aGxWLWFNYXhGN002clptVHdTM2R2Vkd3YzlkY1puXzU2UXJUcGxHdEU3enl2ZjZsWmV6VE50dF9vVGNZUVVvR0VROWpGY3BwQXJu?oc=5",
-      "date": "2026-05-26",
-      "source": "Google News EN",
-      "desc": "Kennedy faces anti-vaccine anger over hantavirus treatment legal protections&nbsp;&nbsp;The Hill"
-    },
-    {
-      "title": "RFK Jr. Pisses Off Anti-Vax Allies in Effort to Contain Hantavirus - The New Republic",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVDZ6X09PQU5HVFdNWUJETU5RWWZLZzh5Y2ROTHk4bUpyTnpodFV2MnpxUGhaUVFTc1ljdFk3dE9VMkRQbENScXdEeE9yRjliYkxGdGlUeENGdTZ1aWl4SUtST0RaNFRvbFo4LTJhMDhNZU9mRnB0S3NCVTQ2NWV4cmNXZV9sSjZ1dWc?oc=5",
-      "date": "2026-05-26",
-      "source": "Google News EN",
-      "desc": "RFK Jr. Pisses Off Anti-Vax Allies in Effort to Contain Hantavirus&nbsp;&nbsp;The New Republic"
-    },
-    {
-      "title": "Why is hantavirus so deadly? It’s not what you may think - Science News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YcU5LRG9pTzJuYVptVm40dlR0UDJ2ZFBtcHlZQkpMclpORF9fdEczOHF6LXZSdUF5cEM5X0ZIdTNVYXR2UkJJcVFiRkFTMDRlQjlWeHZpc1lydERXd21kVFNUU0x2WXozMkt0NmwxN19nNFJyMWtrRkpWSnRVUQ?oc=5",
-      "date": "2026-05-26",
-      "source": "Google News EN",
-      "desc": "Why is hantavirus so deadly? It’s not what you may think&nbsp;&nbsp;Science News"
     }
   ],
   "countries": [
