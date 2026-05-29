@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-05-29 04:47 UTC"
+    "updated": "2026-05-29 08:43 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,6 +1124,13 @@
   ],
   "news": [
     {
+      "title": "Mónica García garantiza que el seguimiento de los casos de hantavirus es \"exhaustivo\" - ABC",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUEVUTVp3NmV1aTNJeVdhMTg1X0pTa3lWMU95TW02SmtCQ3EtZVM2ZnIxUk52Wk9yT0MzNWtYdFBXZDJlaENoelRZU0N4bmVDclpNSzlFWTBDR3hrRDhDd2xMeXBoU195YWdMUXN0S2ZvY3ZGSV8tenpyekNtbl9GYVZuLVZlM2Mtbk1QVWluZWJFY3hIcGZlOGNzX3JYcEYwelBJWU9oOV9jbGhhSUZxc0pB?oc=5",
+      "date": "2026-05-29",
+      "source": "ABC",
+      "desc": "Mónica García garantiza que el seguimiento de los casos de hantavirus es \"exhaustivo\"&nbsp;&nbsp;ABC"
+    },
+    {
       "title": "Casi la mitad de los españoles aprueban la gestión del Gobierno en la crisis del hantavirus - 20Minutos",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVHZCa3FYY29ra2ZCM2JSamxwaFhYaXY0Mm1raXN3Ry1mQ2dpVWluRTByclhnb0cyTExGc09YenZJTUtmUUJ0V1BXdUxxNE55U24yWmFmQTh2UDBZOE9QcHdMYTR5ejFaRGhSaW1wY1paSmxNRGFYSUx6UjR4Umx2NVFJdTRfekJXeWFpdGxCZmVPd2hOd1BBLUpxY2ZDUFp2ZnNRVzQ1RHF4ZW9wdnNuNjFTZDd4NVdo0gG-AUFVX3lxTE04RmdWQ09vak1qb3Z3UHk2eERVcG9OYzNNUkRxM1pYQU5vWWhTNTUxNzNBM18wQTZfbmI0anUyYy1MUjRzd2o0MzF1dWdRWi02VVVWbnVSMXRRV0Q0SlVZTGVtUFNqeWVycGtOVjNaSmNYVWdHaTczYTZwc0Q3czRmS3lxbks5aFpvNHkxemdvTDNNWlRzMVZ4VzhNcFNjbUd3ZjNIUklTRWlWRm9wMVZjSE41T3htVjVDSmNSQkE?oc=5",
       "date": "2026-05-29",
@@ -1152,11 +1159,25 @@
       "desc": "Hantavirus-exposed cruise passengers may soon be allowed to return home but must remain under 24/7 watch&nbsp;&nbsp;CNN"
     },
     {
+      "title": "Hantavirus-exposed cruise passengers may soon be allowed to return home - WAPT",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNFFLQ29QUFo4NEk2V3dFU0RfR0EyTjYyOHNsT3ZaSXRTZlZnNEVjWUsyV0JJc3VQM2JzTVZEMElyU291cGUtTWJ3cFdrZ1VRYS1JY2I3YTE1VEQxS3pzTVdmeTNWZ094NlFaR3JlcUgxcXhVbWoxdXdwQjJRb05wcmRIY1Zady1oX0RMR3A5ZEY?oc=5",
+      "date": "2026-05-29",
+      "source": "Google News EN",
+      "desc": "Hantavirus-exposed cruise passengers may soon be allowed to return home&nbsp;&nbsp;WAPT"
+    },
+    {
       "title": "Hantavirus risk in Alabama is ‘low’: what you need to know - WSFA",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZXJPbzFvUlY0V3EwY2N6dnNEM09rcHZSRTgyb0VoVVV5RWNXN0pDTWF1OTFleEczSWI5b2cxOGpWa1lnMEtwb2ZnMDh1OEFlRGJUTlhKZnlTZzVrUWxDelNCV1FHU2RaVjFJNGo1aC1lSjYwMnUwNUhwVHRjeWRUQzVVSWw0cHlqVnfSAZ4BQVVfeXFMT2x6elZ1d0tkZ0F2STAwRlMzWm9DN3RXaWtwWmhfaUVuVmY0X1ZyM3A1Y2FxY2J2MXhOdmZDZlVzaG0xdzlmRmswbUVJdU1aWUgyb0pQR09IWG5HMkJYY3lVX2gyMDJBMjA2a2FmVkxHYjl5V0o2VFNPeXNkNVlxOENaM2dXUjhtQ25oa2JvcHVfT3VqMGdpYlhEamxDLUE?oc=5",
       "date": "2026-05-29",
       "source": "Google News EN",
       "desc": "Hantavirus risk in Alabama is ‘low’: what you need to know&nbsp;&nbsp;WSFA"
+    },
+    {
+      "title": "WSU study finds high prevalence of the hantavirus in parts o... - The Lewiston Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY08xVUdfWU9JWmw1aTNCZGtKbndvejdEQktDYWZHZ0pzVEZzV2duRVBwak5Lb2lVeXVJejZtZzc0a3p2eE5xQnlJRG5kQnAxSHJRc19PWHhKR3c4b3daM0Q4Z1NmVXdaU0prQkhGWWNqUVQ4UTlNVnhGUDJQMjBpUU80cTlYWnRHVHZwWndDazE3VXVQRlp3Sm5SUl8xcDNkMTQxWWtHOXNJWEdqYVUzeWhRWFhadFVMNGpQblhQc09NMTQ?oc=5",
+      "date": "2026-05-29",
+      "source": "Google News EN",
+      "desc": "WSU study finds high prevalence of the hantavirus in parts o...&nbsp;&nbsp;The Lewiston Tribune"
     },
     {
       "title": "España, Francia y Países Bajos reciben un antiviral experimental japonés contra el hantavirus - Antena 3",
@@ -1171,13 +1192,6 @@
       "date": "2026-05-28",
       "source": "RTVE",
       "desc": "VerificaRTVE desmonta los bulos sobre el hantavirus&nbsp;&nbsp;RTVE.es"
-    },
-    {
-      "title": "Mónica García garantiza que el seguimiento de los casos de hantavirus es \"exhaustivo\" - ABC",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZVl5Zlp3ZXVjLVN4UHBLNjVsS0c5aXZscVFwUDlCR3VQNkdmWmRtOERSb2tkX3Q3SFRqTFpwc0VvRVQ4NVU5ZXFnYUNzbkNEYWJwZUdQa1VvMFhPWHdGRWZsNTVoY1pUYzJWbHBXUXI2czJ1WUZoUjNrNm4yZm5LczVNQWlESHVfMXFrLXVMdlMyMEdCaDVfM00tMFc3UkRkMkZuN2k1Z3hoRmoyM29zWENB?oc=5",
-      "date": "2026-05-28",
-      "source": "ABC",
-      "desc": "Mónica García garantiza que el seguimiento de los casos de hantavirus es \"exhaustivo\"&nbsp;&nbsp;ABC"
     },
     {
       "title": "España adquiere un tratamiento experimental contra el hantavirus - La Voz de Galicia",
@@ -1208,13 +1222,6 @@
       "desc": "Por qué los brotes de ébola y hantavirus han confundido a los científicos&nbsp;&nbsp;The New York Times"
     },
     {
-      "title": "Podcast | Ébola vs hantavirus: infección de desigualdad en el mundo - El Salto",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdTlXdl8ydng4ZVFpWlF5ZDF2T2RhaE4tN1lNeHM1ZWRhenB0YmNJQXk4YTZSc25KcG93YTNkRUlEMHRMNXMyVlpxN1N4bkt6by1HRm10S1ctcGE4ZWxLTExSNzllUDJ2SF9YTkk3UmdSN0ZNMVA3U2FpSU83azEyZlRvWldYWmtZQzJRLXBaMVN0Qk9BZ3BWejhkUFg0aGU1UFNDdkZR?oc=5",
-      "date": "2026-05-28",
-      "source": "Google News ES",
-      "desc": "Podcast | Ébola vs hantavirus: infección de desigualdad en el mundo&nbsp;&nbsp;El Salto"
-    },
-    {
       "title": "El caso del buque con hantavirus pone el foco en una investigación gallega sobre futuras pandemias - La Razón",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV0h1NTJxUEE2UjZRUEZOTmd1Yk5keFNMa0xtVTF4UVJBZXdwWW1KTk1SaWROTXVmRDAxX2xpbDlrZDV0YmQ1cHZjYmllb1UzUmRPOElFN1U1bkxhc0NXYWlPSDE3UGxGcWNwQmRYNzJZYnRCaF9QRUJFR21EOEhzc3F6RDRQTk5zRV83Q0FiQWxPam5WSm16cXJhOXo5S2RlRkJ4WlNDenNua3dldld3U0FuNXgxQndYaDI1VXVTQjBObldIRVJGc3RfbVlqaXdNTF9YQy1tSdIB6wFBVV95cUxPS3d2eWlEd1Y0VGhHWU9ZVFFZRUNiUXVjcW5zLUNFbkVoSVhHbGktdEZyeEJtWEZZNVlvVGMySUFSYWo2dFJpMWg3TWZoTGhvcXUxQlZJU0J0YWxFRk1MLWFRdWUtb3paWGQydFBhckdjeWVGNnZOdGtTOVZjczI5YjFJdldtWmlxVU9HdXVBVVZMZy1pdFRwdEZWc3phWVpKRDFpSGRWT1RtVjBWV2NWSFhkVnNqTGY3U0pSRDc4bFlsV3ptemdhZ0hybVhrcHJjOGM3Qi1DUmdIUmVuRE5ncGdpZ0VnUDRuYndN?oc=5",
       "date": "2026-05-28",
@@ -1241,13 +1248,6 @@
       "date": "2026-05-28",
       "source": "Google News ES",
       "desc": "Salud y bienestar - Hantavirus: un virus poco común, sin cura y que suele propagarse entre roedores&nbsp;&nbsp;RFI"
-    },
-    {
-      "title": "Tres nuevos positivos de hantavirus elevan a 13 los casos vinculados al crucero - La Ciutat",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdGxRcTE3djAtV0plYkJ3T3BuZjhsNExfcmVhZGlUc0UwZXc2VzFpaFdtQ2ZXcmFoYVpQbTcxVWw3MlVYbHZyREtXQmFjSzFQWnpOa2UwV0RaM2l4MXpFRXJWa0pCZUlFNmlXRFVnMkxudEF1S0dLSEQxVnJMWVQxdzhBVXJLT0pBRDVGaThhV2VxYW5JcEQ5S0p3RlRwWnVxZ0ctTVR4WHRsNDBjd1VZaXNQbWfSAboBQVVfeXFMUGh0bTRsTlBzVVZwTGRPX25fSl9sNm9VX2ozS2pUTFBZOUEtZnBmUFk2VFJxalJ2UGFMTmlqYXhrOWgxUm1mbXNaUFA3YzRNbnh4ZE8wWlA1NV9jSjE2QUJpV0RkQmJEaFo5b3d4WVFzYUxVTUUzaWhDQUhjQmhGcTVnQkhnRXBZUDhhdUR6UVpRVWRmWk5hSWo3SGJGUkIyTVpSRW5oandmTTAzaWFjTzRwc1ZVTnRGR05B?oc=5",
-      "date": "2026-05-28",
-      "source": "Google News ES",
-      "desc": "Tres nuevos positivos de hantavirus elevan a 13 los casos vinculados al crucero&nbsp;&nbsp;La Ciutat"
     }
   ],
   "countries": [
