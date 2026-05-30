@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-05-30 04:10 UTC"
+    "updated": "2026-05-30 07:20 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,18 +1124,11 @@
   ],
   "news": [
     {
-      "title": "Surveillance Ordered for Hantavirus Ship Passengers Who Go Home - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vMG1zV3ZydnJsOGtFaWtfV3lJc0k3cXdjV1ZIb1N3bjN3QWo1RjFHNTBONXJLbDBnRVA4VDNXNW5WNmZPR2ozU3RCbFhUTVpiSDdfUDNQYzZMQjhrcXNkZENWWE9vcW1VcVEzRk9nT1IwR3A3YVpvbQ?oc=5",
+      "title": "2 quarantined cruise ship passengers exposed to hantavirus expected to return to New York next week - ABC7 Eyewitness News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN2UzMHktYU83bHF0anM2SEpic21UMU9mck41bUFnYnRPcDZwZXhvd2dlXzVWSEt0NjlvTzVBWVp3TGNPY1dNT1hTaElncnYtRXFmSTZpeWhjR3YzQThXc19WaVdzNUtLdEVuUDJtdUk4a29nNzhFaWNCMWM1VnQ5T0EyZERBaEFqY3NwdzZoREduQVJUQ2R4X2pIR1ZIb1hROFJ2cEVRMl9ITi00dHgxMFBJQjdVZFROUnln0gHAAUFVX3lxTFAxUm1RSzNJeFVDMmN5bGZFdDI5N2hwT0swcFJSMl91MlJrMzZlU3l0bmNkS01KcnB0dHRYU0czWDNfMlBiMC0xV1hWRnFFTjJOeEZkT0p4V2N6WVdSeFhMNXV5NlBEV2t0anRsV1kzLXBlM2kwRGUzOWcwYlB4Qm4xSDBYQlY2UDR3WEk3R19uZmRVcGtJWVVOUWgzOS0xVUxJczRCQlY3aGlqR0VPc0FPTGFaaXVabGs4dTlVWk9CLQ?oc=5",
       "date": "2026-05-30",
       "source": "Google News EN",
-      "desc": "Surveillance Ordered for Hantavirus Ship Passengers Who Go Home&nbsp;&nbsp;The New York Times"
-    },
-    {
-      "title": "Passengers From Hantavirus Ship Might Soon Be Allowed to Leave Nebraska Facility - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdU1jMFl3MXFtdU0wdmo5cGtFYkVkUzItWGpiN1VMQWFteFZxRWxFSk5tWlpuTUM0OTktRThWZjhJYXFJM1NlODJHZU9sNlUzSXFkeGNtUlZSYkc5U3VIRm91VGZ5TnRJLUo5dFdXVnNVQUYwbXhzSndxam9ZSzJuWEZIaEVlMkh1WElKOWxlYjN1SGxPVzhKcTJIaDQ1TmxPUl9QaXJ5bHVqWHZHelE0dFdGbEx2RVNIbi00czZzZHlkOEVFckE?oc=5",
-      "date": "2026-05-30",
-      "source": "Google News EN",
-      "desc": "Passengers From Hantavirus Ship Might Soon Be Allowed to Leave Nebraska Facility&nbsp;&nbsp;WSJ"
+      "desc": "2 quarantined cruise ship passengers exposed to hantavirus expected to return to New York next week&nbsp;&nbsp;ABC7 Eyewitness News"
     },
     {
       "title": "New York residents returning home from Hantavirus cruise ship - Yahoo",
@@ -1166,6 +1159,13 @@
       "desc": "Casi la mitad de los españoles aprueban la gestión del Gobierno en la crisis del hantavirus&nbsp;&nbsp;20Minutos"
     },
     {
+      "title": "Hantavirus - Cadena SER",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBzNXU2RFphckdDcnpEXzRNbkMyMXJWT01kakxyT3Q3NmhRYVUtYk5LeFJPNmZ5RGx5a05zeExqdFJHeEF0emoxUnJ6bkxIV2J3UG95QWlPQlNfcy0tOVFLclUwV19IbkpwV0hKZ3JzaW4zUy16OEow0gGLAUFVX3lxTE1sT0JWd3pDajFHSTJBUnRVTS1jNjc4eU1UemFFUHVTQXBXaFRpbHd2Z21rX2o5YnBhRUZBLURhLVJrbG1hYzZDbUlrbEUwRlMybjdmbUloWGhIT1hyLUNiY2V2bGVRYTlBS19rbFUzVkhsSEJkdFFwWWZHbE55dkpoUFFxZnhxLVhMRVE?oc=5",
+      "date": "2026-05-29",
+      "source": "Google News ES",
+      "desc": "Hantavirus&nbsp;&nbsp;Cadena SER"
+    },
+    {
       "title": "Barómetro CIS: crece la preocupación por la salud tras el hantavirus - Redacción Médica",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeTBNTm50cGtSd0pmNnFwZHdCTlpHdlN6dFFpYzlhTzZlcmFfMEhDVmlJYUxjNUpGLUNvYTRESTA3elJCS1FNb2JnTTN2eE9QT3U3NEZsNllHTUc0b0tSblRid2VHcndDSjZ3anFselh1TVJMYkZUTktEV1gzWFhVcnMzaGhQYllMTm5KdDR4c1owLUljZVZRV2ZuT0JDUDBfaHhFS29UOEFvN2s4MzQ4WHJ2ekg0V2FTcUFrZVRJNHNYa25SNXA3eW1EMVZoZ9IBzgFBVV95cUxPMU9CUk1LQXVtY2x5b2hhRHNZc0hHVDZOZVlLS2lKaVd6cWprbkJveEJjd3NNWThNYmVqUHVVb3hoWU44S2hyT0RmSEVzbFV6bm9PZXAyZHpmUEp4ek9md25xdGtzbnkyMXdtYmpyTk1RZ0dVYXVON3dFNUpENnlqRlQxOUdfOFNEZWYyZkdlMEU5WmNSRUVVNFg0X0o1Unc3aG1sRVVxY1NDdlcxbEx5V3RDVXdSSkEzNXJoZUdIbGJEbDdvc1Y2M0IwQXJOdw?oc=5",
       "date": "2026-05-29",
@@ -1187,13 +1187,6 @@
       "desc": "Casi la mitad de ciudadanos aprueban la gestión sobre el hantavirus&nbsp;&nbsp;heraldo.es"
     },
     {
-      "title": "Hantavirus - Cadena SER",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBzNXU2RFphckdDcnpEXzRNbkMyMXJWT01kakxyT3Q3NmhRYVUtYk5LeFJPNmZ5RGx5a05zeExqdFJHeEF0emoxUnJ6bkxIV2J3UG95QWlPQlNfcy0tOVFLclUwV19IbkpwV0hKZ3JzaW4zUy16OEow0gGLAUFVX3lxTE1sT0JWd3pDajFHSTJBUnRVTS1jNjc4eU1UemFFUHVTQXBXaFRpbHd2Z21rX2o5YnBhRUZBLURhLVJrbG1hYzZDbUlrbEUwRlMybjdmbUloWGhIT1hyLUNiY2V2bGVRYTlBS19rbFUzVkhsSEJkdFFwWWZHbE55dkpoUFFxZnhxLVhMRVE?oc=5",
-      "date": "2026-05-29",
-      "source": "Google News ES",
-      "desc": "Hantavirus&nbsp;&nbsp;Cadena SER"
-    },
-    {
       "title": "Los pasajeros de cruceros con hantavirus podrían regresar a casa pronto - Independent en Español",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMlVvbkNPMlV3NkhVU2VxM3JFQk1sSFA2S0lzMU5MTF9CRGxBdUk2ODJyNHZ2TUxab0hwYWpFR0NyMncyV3ROcDNtMXlZdDAwNktZcGNvdk1hR05OQUJJSFZjSjJscU0wNWZKOGJBemFsY0JaUzF0MmtJREVYakROeTBzRXU0MEw1bFo2OGZjWWhEbk9kUTlNNjdOc3F2U1dlYmc?oc=5",
       "date": "2026-05-29",
@@ -1208,32 +1201,11 @@
       "desc": "Un video de la evacuación del crucero afectado por hantavirus se atribuye falsamente a una puesta en escena&nbsp;&nbsp;Yahoo"
     },
     {
-      "title": "Un experto zoólogo advierte que en la Patagonia está cambiando y crece \"el riesgo de una epidemia por hantavirus\" - El HuffPost",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQb0FiT05UTGdNOGJlVTAtbjFCZVd2VFd1V21BYzBDbi1fTWNLUDlHXzBNWXVMLW9zT21RajJvQTRRMXNsNVNLWUFUT1NhZU9FQUQxUlp0S3FkZGx6R0p2MUhPei1FZnZkMlJrOHR2eUxSbXlTT1lDQmI5SWxERUlZQS1FR2ZOcWh4M2pQcV9uN290UGpFVmlUUk9Iak1aYTh0YlhkU1ZqSVNWNndCQzZLT01GYmpyeGxSclNPM2t4MVN4dHNnMHd6QkV6d1BnTmhiN1E3bWFrWdIB6wFBVV95cUxPNDRCVkp2MzU0XzJnby02c20td256T1pDV2UxQkRCZ0pZWGVqSDljUEJUU2VWb0xiTkx1RkpxQVdTVWwySGdwNThxdlBfa2xDRDlKVFJmbXc5N2xxODZxUVA2YTUteU9Ka1RQZnlTNnR0WUdJWHAwSkR6d1dUZFNHV0tpOHI4bkdzSTJJc2Y0QjFyYllDR1E0YmY3anpnbDJ2a3BEN080VHJuYUxlWjdVR2d3T29BVElmeEZIQXFmRzZzSlNjQmhpOURqVFcxdUVzUEFPeUdaTHpyQWpDbWNXX2ItNVY3bDM5OHhv?oc=5",
-      "date": "2026-05-29",
-      "source": "Google News ES",
-      "desc": "Un experto zoólogo advierte que en la Patagonia está cambiando y crece \"el riesgo de una epidemia por hantavirus\"&nbsp;&nbsp;El HuffPost"
-    },
-    {
-      "title": "Hantavirus: a 18 días del desembarco, los casos siguen subiendo entre las personas que viajaron en el crucero MV Hondius - La Nación",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTmc2RVJ1aVdVZVhTM1l3T2V6U1RUZGdDWWlMQmtMSUdYd1N0dzFjQWU5QVJpMTFibkNGQmVMaDNaMUJTNVVsUmg5VzAwQS1yVXp3M1RTVDh6R25WdFk1SzhTRUh0eHFfQXRQSTF4eThlYW15WVIxZU05U2lLdkNCWlBPR1c4NHN2cHYwNzlNUFVrWW9Vc2dmcVk4QjlMci1iVmh5TlpaY3ZORzVnUmJ1YVlLWXJkdllCV0ZzSmxwVkFEcDlkTHhMSXBESF9kS3JMWVNJLW5KWHpoeXNBWmF1ODlEZw?oc=5",
-      "date": "2026-05-29",
-      "source": "Google News ES",
-      "desc": "Hantavirus: a 18 días del desembarco, los casos siguen subiendo entre las personas que viajaron en el crucero MV Hondius&nbsp;&nbsp;La Nación"
-    },
-    {
       "title": "Hantavirus-exposed cruise passengers may soon be allowed to return home but must remain under 24/7 watch - CNN",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYl90YXNZNjV4WVRPbWppUUhDVVBZTGJ0M3dzYjJQR01DYkhnVVRPUUxXYy1WRy1LekY1Vjh1aTBrRWxfdGZITDRlOGNVSmVlRUw2VjhSMmxYUnh6bDM3RWRjWUJFaUFRcFZmYkNFY055OF9uYWhSdjdBdjB4RlNYLUpkTQ?oc=5",
       "date": "2026-05-29",
       "source": "Google News EN",
-      "desc": "Hantavirus-exposed cruise passengers may soon be allowed to return home but must remain under 24/7 watch&nbsp;&nbsp;CNN"
-    },
-    {
-      "title": "Experimental hantavirus drug ships to Europe as US passengers offered home quarantine - CIDRAP",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSldZWjRqbTlpNkdBcTJTekhPYjBqYm11Rm1LaVVLYXM2X2xWNVZrY1FtVFR2cXgzWV83NFFfTW0zVjBmb1NHRlNKa3ZRejFGMG9IVjR5MTZ5ek1WdHJCR1JJS2l6cFJ3and0WWdOTWJ5WVFnaHU1aTQ2MjdRbWZGbHVVSTBiUjNYV0Y2V2FfdXI3QTVtM0ZmNHpWQUU1WGhMN2tzVDlFMGp2SVoxN213MDJ6ZkU3dEJs?oc=5",
-      "date": "2026-05-29",
-      "source": "Google News EN",
-      "desc": "Experimental hantavirus drug ships to Europe as US passengers offered home quarantine&nbsp;&nbsp;CIDRAP"
+      "desc": "Hantavirus-exposed cruise passengers may soon be allowed to return home but must remain under 24/7 watch&nbsp;&nbsp;CNNPassengers From Hantavirus Ship Might Soon Be Allowed to Leave Nebraska Facility&nbsp;&nbsp;WSJSurveillance ordered for h"
     },
     {
       "title": "Ebola and hantavirus outbreaks raise questions about Trump's health agency cuts - CBS News",
@@ -1243,11 +1215,39 @@
       "desc": "Ebola and hantavirus outbreaks raise questions about Trump's health agency cuts&nbsp;&nbsp;CBS News"
     },
     {
-      "title": "Hantavirus risk in Alabama is ‘low’: What you need to know - WSFA",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZXJPbzFvUlY0V3EwY2N6dnNEM09rcHZSRTgyb0VoVVV5RWNXN0pDTWF1OTFleEczSWI5b2cxOGpWa1lnMEtwb2ZnMDh1OEFlRGJUTlhKZnlTZzVrUWxDelNCV1FHU2RaVjFJNGo1aC1lSjYwMnUwNUhwVHRjeWRUQzVVSWw0cHlqVnfSAZ4BQVVfeXFMT2x6elZ1d0tkZ0F2STAwRlMzWm9DN3RXaWtwWmhfaUVuVmY0X1ZyM3A1Y2FxY2J2MXhOdmZDZlVzaG0xdzlmRmswbUVJdU1aWUgyb0pQR09IWG5HMkJYY3lVX2gyMDJBMjA2a2FmVkxHYjl5V0o2VFNPeXNkNVlxOENaM2dXUjhtQ25oa2JvcHVfT3VqMGdpYlhEamxDLUE?oc=5",
+      "title": "Experimental hantavirus drug ships to Europe as US passengers offered home quarantine - CIDRAP",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSldZWjRqbTlpNkdBcTJTekhPYjBqYm11Rm1LaVVLYXM2X2xWNVZrY1FtVFR2cXgzWV83NFFfTW0zVjBmb1NHRlNKa3ZRejFGMG9IVjR5MTZ5ek1WdHJCR1JJS2l6cFJ3and0WWdOTWJ5WVFnaHU1aTQ2MjdRbWZGbHVVSTBiUjNYV0Y2V2FfdXI3QTVtM0ZmNHpWQUU1WGhMN2tzVDlFMGp2SVoxN213MDJ6ZkU3dEJs?oc=5",
       "date": "2026-05-29",
       "source": "Google News EN",
-      "desc": "Hantavirus risk in Alabama is ‘low’: What you need to know&nbsp;&nbsp;WSFA"
+      "desc": "Experimental hantavirus drug ships to Europe as US passengers offered home quarantine&nbsp;&nbsp;CIDRAP"
+    },
+    {
+      "title": "Hantavirus latest updates: New case in Spain takes total to 13 after cruise ship outbreak - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMkVUTTZsUkdYMHJoRW9obTlsZGRxQmVxT25UYWxOMGs3UTRFYlI5SFRRTW1uaU52VFduMHZsQV9tR1hMcnlMVDJMeUNHNkJQQ1ZaS3pjcXY0T0cxZlZXdThtWGZNVm5yOS1GTFlNa3A4RG9IS0xSdjZXVmNOS2tFekhWeUt6VGFiRWtxeUx5aGw2MUpud2ZNRXprUVpBR2xCTllaS3kyLVdqTDdMVG5QYWdhMk54RW9LbkdGeThfdUgxVlJCQWdfSmMzTXNuT3BWUTZVa19zMjc?oc=5",
+      "date": "2026-05-29",
+      "source": "Google News EN",
+      "desc": "Hantavirus latest updates: New case in Spain takes total to 13 after cruise ship outbreak&nbsp;&nbsp;Yahoo"
+    },
+    {
+      "title": "Hantavirus Outbreak, New Viking CEO and Biggest Cruise News Stories From May - TravelPulse",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN3g0akttUnpraUNGV19JcHFXOG1MN0kweURCbVktQTMxNGtoWEx3SHJXNzRKMFhoR3hqSDMxcXBaaENVLVdKRlEzeFJ6QTRZT2U5U251SWdQQjZrUUozRi1CeWhxUTM5NUZCUUdLM2dZVWVhWkU4eTdWTnp6eXZHRzB1bWtHdGhicFhHdUQzT1NmaC1pTk95OHg1TGkzWDVoZlRGMG9FN0k4d29Rd1ROZnh6QmtsVFlVYnc?oc=5",
+      "date": "2026-05-29",
+      "source": "Google News EN",
+      "desc": "Hantavirus Outbreak, New Viking CEO and Biggest Cruise News Stories From May&nbsp;&nbsp;TravelPulse"
+    },
+    {
+      "title": "What’s going around? Hantavirus outbreak update: what Virginians need to know this week - WSLS",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc0VNRnJmcC01U2JBVEptSWdVbFd2SExPTkVxTHdJbFlxMFZZaGw4Tk1rdTl0eUZ2OW9GU1BKNEt1OThHZTBvY2tqRnRNVG1jZ1pmeE1SSGpGMmpLenR4ZUNleWViUWlTTkxHU29XN0h4WXN1RkdoSmMxVlFvNEk5WlZJOW5lN2FHamV6cVZyVlR2VDdlZ3V0VGpST1ZyRHdwQmVWdjVtM1o3NnRockIycWRXQ2tNcTVWQWg2WGZtNXBlTUF5dk9z?oc=5",
+      "date": "2026-05-29",
+      "source": "Google News EN",
+      "desc": "What’s going around? Hantavirus outbreak update: what Virginians need to know this week&nbsp;&nbsp;WSLS"
+    },
+    {
+      "title": "Surveillance Ordered for Hantavirus Ship Passengers Who Go Home - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vMG1zV3ZydnJsOGtFaWtfV3lJc0k3cXdjV1ZIb1N3bjN3QWo1RjFHNTBONXJLbDBnRVA4VDNXNW5WNmZPR2ozU3RCbFhUTVpiSDdfUDNQYzZMQjhrcXNkZENWWE9vcW1VcVEzRk9nT1IwR3A3YVpvbQ?oc=5",
+      "date": "2026-05-29",
+      "source": "Google News EN",
+      "desc": "Surveillance Ordered for Hantavirus Ship Passengers Who Go Home&nbsp;&nbsp;The New York Times"
     }
   ],
   "countries": [
