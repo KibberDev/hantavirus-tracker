@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-05-30 17:49 UTC"
+    "updated": "2026-05-30 19:22 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,11 +1124,32 @@
   ],
   "news": [
     {
+      "title": "Autorizan al crucero Hondius a volver a navegar tras ser desinfectado de Hantavirus - El Mundo",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOVR0M1B6dk5sS0J1VmR0VG54VFhmUG8yUGdOYjhIcnJvWXlMZFpud2cwMEpMZFoxSzZzM043Vk5ScWh4TlhJSmpialhBT0ljc0xCZEE2NDdmSGV2dFJnMjRsOFM0ZVU1bVlFQVJCNjN4bUYxNjdWMzZlTkZvYld3dk9jd9IBgwFBVV95cUxNd01PdnJFS3VjN3BwYWZaTmcwZktVNWphQVRZR19PUDFqNHVtbVpyUmVUVE1jV25Gc3o5T0VYMFFBdmQ0bGlIVGU0UE0xa1pTNWw5MzlwY0dfcjQycUp1cEp6eVRtN2J1RDA1RmVMb0pSZmt3STdySHAyS044T21ROXZ0dw?oc=5",
+      "date": "2026-05-30",
+      "source": "El Mundo",
+      "desc": "Autorizan al crucero Hondius a volver a navegar tras ser desinfectado de Hantavirus&nbsp;&nbsp;El Mundo"
+    },
+    {
       "title": "El PSOE avala la gestión del Gobierno del hantavirus en el buque Hondius - Redacción Médica",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM2tlT1pobVUwaktQZUd3QjhmNnRfeGE2SkNQOHJka2c3M3dwQWc3VWNtU3kyTWkwX0g3bHI1VVZJVzl3WXpGTDdJUUVvSWxHWmpELUJobGVpc2twMnlDYkFqdTFZNUpKV2doZkstMlVpTi1rV0dnYVY4U05sdUhKTDh5bUpzcHJSZFcwNmtkVmYxNXJnUng0Nzd1akZYV3VfTTJWb25jY0lnc1NIenN4elZOaG7SAbQBQVVfeXFMTkhIX0JKZDZHY2ZPYlZYU1p1NnBtd0hBRVlwME1fZGdYb29pemV4T3VMU3FFVmdkUUlCczRZQ3lTdF9LemRYb0NrLXd6UUNtZWRveXIzQndMc3dodHdxWlR1cURlZVNNay1ncDdSaGU4UWg0Ry14bTBMbWVFVS1uNWdWazZVUE1HVUZUeHFscWlqemRqWE0xM0tFZW1hS2VDcHh1MU5YaTQ3bkhGMFVITU9oMHJL?oc=5",
       "date": "2026-05-30",
       "source": "Google News ES",
       "desc": "El PSOE avala la gestión del Gobierno del hantavirus en el buque Hondius&nbsp;&nbsp;Redacción Médica"
+    },
+    {
+      "title": "Debidamente desinfectado tras brote de hantavirus, el crucero Hondius puede reiniciar viajes - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUDdoNW5mczVWaWY0UThmUFg5dmZJUDRDWmFpTUliN0Y0LTdjNE5hS3ZhVzZqc3Y0RGdBMkdaTTRKWXFVNzIxU3g3SDlKQ0dwOXVoaGhBUWl5Ry1wQ3pXRnZjTmtXWnF1Q3hYQTZQRXlGU1ZMUEVHX1FmaENIV3NIMURvbDl1OERGdkhjLWNzdnZCOTh2UmFWQzZhUks3VG4wVzZPLTlJQ2gyYUktbGE3UTl6WWRCM1ktbjdGN0tscVlBcW1zeVprUC1uSFA?oc=5",
+      "date": "2026-05-30",
+      "source": "Google News ES",
+      "desc": "Debidamente desinfectado tras brote de hantavirus, el crucero Hondius puede reiniciar viajes&nbsp;&nbsp;SWI swissinfo.ch"
+    },
+    {
+      "title": "Surveillance Ordered for Hantavirus Ship Passengers Who Go Home - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vMG1zV3ZydnJsOGtFaWtfV3lJc0k3cXdjV1ZIb1N3bjN3QWo1RjFHNTBONXJLbDBnRVA4VDNXNW5WNmZPR2ozU3RCbFhUTVpiSDdfUDNQYzZMQjhrcXNkZENWWE9vcW1VcVEzRk9nT1IwR3A3YVpvbQ?oc=5",
+      "date": "2026-05-30",
+      "source": "Google News EN",
+      "desc": "Surveillance Ordered for Hantavirus Ship Passengers Who Go Home&nbsp;&nbsp;The New York Times"
     },
     {
       "title": "Dispute grows over home monitoring of hantavirus passengers - The Washington Post",
@@ -1138,11 +1159,11 @@
       "desc": "Dispute grows over home monitoring of hantavirus passengers&nbsp;&nbsp;The Washington Post"
     },
     {
-      "title": "Hantavirus case reported in Arapahoe County, Colorado - outbreaknewstoday.substack.com",
+      "title": "Hantavirus case reported in Arapahoe County, Colorado - Outbreak News Today",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOFh2XzZKTEprR3ZGRVN6dFdiTGs3ckkySmtrSXZncS04Yml0NktNaHNtTGFCcU9ob1VONFh1OG5KWTlnTHZ1c05oUklXSkpMRVBzbVpJM0NaLVhWZzFXY2MzZ0NWLVA3bnpCVWJmZHNCQTRwbFpId3dKNGFjNDNDNkFIVQ?oc=5",
       "date": "2026-05-30",
       "source": "Google News EN",
-      "desc": "Hantavirus case reported in Arapahoe County, Colorado&nbsp;&nbsp;outbreaknewstoday.substack.com"
+      "desc": "Hantavirus case reported in Arapahoe County, Colorado&nbsp;&nbsp;Outbreak News Today"
     },
     {
       "title": "2 quarantined cruise ship passengers exposed to hantavirus expected to return to New York next week - ABC7 Eyewitness News",
@@ -1194,20 +1215,6 @@
       "desc": "Barómetro CIS: crece la preocupación por la salud tras el hantavirus&nbsp;&nbsp;Redacción Médica"
     },
     {
-      "title": "Los pasajeros de cruceros con hantavirus podrían regresar a casa pronto - Independent en Español",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMlVvbkNPMlV3NkhVU2VxM3JFQk1sSFA2S0lzMU5MTF9CRGxBdUk2ODJyNHZ2TUxab0hwYWpFR0NyMncyV3ROcDNtMXlZdDAwNktZcGNvdk1hR05OQUJJSFZjSjJscU0wNWZKOGJBemFsY0JaUzF0MmtJREVYakROeTBzRXU0MEw1bFo2OGZjWWhEbk9kUTlNNjdOc3F2U1dlYmc?oc=5",
-      "date": "2026-05-29",
-      "source": "Google News ES",
-      "desc": "Los pasajeros de cruceros con hantavirus podrían regresar a casa pronto&nbsp;&nbsp;Independent en Español"
-    },
-    {
-      "title": "Surveillance Ordered for Hantavirus Ship Passengers Who Go Home - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vMG1zV3ZydnJsOGtFaWtfV3lJc0k3cXdjV1ZIb1N3bjN3QWo1RjFHNTBONXJLbDBnRVA4VDNXNW5WNmZPR2ozU3RCbFhUTVpiSDdfUDNQYzZMQjhrcXNkZENWWE9vcW1VcVEzRk9nT1IwR3A3YVpvbQ?oc=5",
-      "date": "2026-05-29",
-      "source": "Google News EN",
-      "desc": "Surveillance Ordered for Hantavirus Ship Passengers Who Go Home&nbsp;&nbsp;The New York Times"
-    },
-    {
       "title": "Hantavirus-exposed cruise passengers may soon be allowed to return home but must remain under 24/7 watch - CNN",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYl90YXNZNjV4WVRPbWppUUhDVVBZTGJ0M3dzYjJQR01DYkhnVVRPUUxXYy1WRy1LekY1Vjh1aTBrRWxfdGZITDRlOGNVSmVlRUw2VjhSMmxYUnh6bDM3RWRjWUJFaUFRcFZmYkNFY055OF9uYWhSdjdBdjB4RlNYLUpkTQ?oc=5",
       "date": "2026-05-29",
@@ -1222,6 +1229,13 @@
       "desc": "Ebola and hantavirus outbreaks raise questions about Trump's health agency cuts&nbsp;&nbsp;CBS News"
     },
     {
+      "title": "Experimental hantavirus drug ships to Europe as US passengers offered home quarantine - CIDRAP",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSldZWjRqbTlpNkdBcTJTekhPYjBqYm11Rm1LaVVLYXM2X2xWNVZrY1FtVFR2cXgzWV83NFFfTW0zVjBmb1NHRlNKa3ZRejFGMG9IVjR5MTZ5ek1WdHJCR1JJS2l6cFJ3and0WWdOTWJ5WVFnaHU1aTQ2MjdRbWZGbHVVSTBiUjNYV0Y2V2FfdXI3QTVtM0ZmNHpWQUU1WGhMN2tzVDlFMGp2SVoxN213MDJ6ZkU3dEJs?oc=5",
+      "date": "2026-05-29",
+      "source": "Google News EN",
+      "desc": "Experimental hantavirus drug ships to Europe as US passengers offered home quarantine&nbsp;&nbsp;CIDRAP"
+    },
+    {
       "title": "What’s going around? Hantavirus outbreak update: what Virginians need to know this week - WSLS",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc0VNRnJmcC01U2JBVEptSWdVbFd2SExPTkVxTHdJbFlxMFZZaGw4Tk1rdTl0eUZ2OW9GU1BKNEt1OThHZTBvY2tqRnRNVG1jZ1pmeE1SSGpGMmpLenR4ZUNleWViUWlTTkxHU29XN0h4WXN1RkdoSmMxVlFvNEk5WlZJOW5lN2FHamV6cVZyVlR2VDdlZ3V0VGpST1ZyRHdwQmVWdjVtM1o3NnRockIycWRXQ2tNcTVWQWg2WGZtNXBlTUF5dk9z?oc=5",
       "date": "2026-05-29",
@@ -1234,20 +1248,6 @@
       "date": "2026-05-29",
       "source": "Google News EN",
       "desc": "2 New Yorkers being monitored for hantavirus will finish quarantine in their homes&nbsp;&nbsp;FOX 5 New York"
-    },
-    {
-      "title": "Experimental hantavirus drug ships to Europe as US passengers offered home quarantine - CIDRAP",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSldZWjRqbTlpNkdBcTJTekhPYjBqYm11Rm1LaVVLYXM2X2xWNVZrY1FtVFR2cXgzWV83NFFfTW0zVjBmb1NHRlNKa3ZRejFGMG9IVjR5MTZ5ek1WdHJCR1JJS2l6cFJ3and0WWdOTWJ5WVFnaHU1aTQ2MjdRbWZGbHVVSTBiUjNYV0Y2V2FfdXI3QTVtM0ZmNHpWQUU1WGhMN2tzVDlFMGp2SVoxN213MDJ6ZkU3dEJs?oc=5",
-      "date": "2026-05-29",
-      "source": "Google News EN",
-      "desc": "Experimental hantavirus drug ships to Europe as US passengers offered home quarantine&nbsp;&nbsp;CIDRAP"
-    },
-    {
-      "title": "España, Francia y Países Bajos reciben un antiviral experimental japonés contra el hantavirus - Antena 3",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUXMyVzRHY3dpQWN5S0s5UE81d3JvWWtDclphcThQdm5UdEhsSExjY2JhbHhnWkpkTEdwWWc1ejdjV1JmSmtWODdxaDhKTm5DOWtZVFRFWDg1c1VhY0JIT3Q2dVl4dzAwSUFQTnZyclhLZDkxRGRXTkQ5NmF0dWJsN09jeDFueEo3S1pWRi1jd1VvUlRGWnc5RmNrZm5HUzVCTmllSXRtZklhNUZsbXRyaXlMZDR6SFNBdEJiSDNYMDFKOHZITy1QcHV2aGVaM3V4ZmJ2NWFKMGEyTlp4VnRRVjF2UEtDOHVldWfSAeoBQVVfeXFMTzFpcWE3TGo3bGJsMDdGM3Q0dWdUMnJiUUdkcVNoX1puRzcydEZhTVNsdVU2QU5HZWozQWNGZWZTT0dnZHNlZFF1ZWlyVDNhdGFQTWlJLWNwVmNsWmZGd1FERFRwZW1Sc3F1ZWxVd1VfQVpoMEtQZV90MXJSdjltZ3VuQUlVYkxLOEhqWjZBWkVpaDRFUThqakNNb3VmcGlGaEhrdFF1aHRZdm5Vamk5SDg4WTM2Z0s2RmVkOVFRYldBYWE1TjlPaksxaDVSbjlsWHdGeDdOWXJobkNpajRsdTc3R1BBbE13bG53?oc=5",
-      "date": "2026-05-28",
-      "source": "Antena 3",
-      "desc": "España, Francia y Países Bajos reciben un antiviral experimental japonés contra el hantavirus&nbsp;&nbsp;Antena 3"
     }
   ],
   "countries": [
