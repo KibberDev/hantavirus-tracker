@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-05-31 17:33 UTC"
+    "updated": "2026-05-31 18:52 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,13 +1124,6 @@
   ],
   "news": [
     {
-      "title": "Autorizan al crucero Hondius a navegar de nuevo tras ser desinfectado del hantavirus - La Voz de Galicia",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWGZuRmZ2cTJIR2FpTTJMaGhsRDVBRDltMFp3NXNvYTV4NTlNb1VPVXVUZ3lpMXBYUE1VQnUxTENEQ2hxLTZ4U0IzM0ppYnJUWk5DRExXRHZsVzJRVFBMbTE1bWl0RjJHLS1QVGVTVnh2LXJvWmFiZWdkOVVJY0hhNEZuRThfY1ZSdHZOaW16VVUxVkFqbF8tVWU4OGVfd3NmWFl0bjNxVFFQMFJRSFdYbWdZN3lNS29rOUtreERDbjFaUUt5aUxkM2hnZUYtNnZlN0hHZk5kUHpDMWJPUEloVWJSaURvb1JycEHSAYYCQVVfeXFMTjBqNzI3ZE9WSmU5dTN0c21QTHBpc3Fzek1HN0JabzNfQUFWV1BaQlM1bWE3RmFDNUpoV3B6RFBCNkFzZmhNTVVFNTNMeUNkb3dfZzFZWkxRYThtb2tkV3lSdGRQVFdFNGJvb3pZa1BJSk1Wc2NjUTdJX3pqbGg2WXE0TWlNVExoZWJFTzFaOVkyVUM5VWRVVUstemNnaVlZSjBrcWw1UkJUczBoc2hpUTBfdGVSYmphM3ZFMUYxNkpEUzdKVUJtZV85NGJtOW9rOHZsbDBtaThlQXNMcGRwZ0tGWjJxQU9GSkFyTC02SnprRVY3RU1jcmpZM0x1Zl9HLVdRRlZKUQ?oc=5",
-      "date": "2026-05-31",
-      "source": "Google News ES",
-      "desc": "Autorizan al crucero Hondius a navegar de nuevo tras ser desinfectado del hantavirus&nbsp;&nbsp;La Voz de Galicia"
-    },
-    {
       "title": "El Gómez Ulla revela cómo trató al primer paciente de hantavirus en España con un cóctel inédito de fármacos - El Confidencial",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdXNKUVFIQjBQNmV6R1Fqa01oUmtNb3IxYXZ3aG5MNXh4VGdxalRjUGxUYnFKYVZCa0pMcTJqWmdVUkZHOVR3ZUxQY2FNdXlleEo2TURwV2IzWkdvUmNPaEE2cm4tV3JnQ0NhMTRuZklCSjIyYVYtR0VFUUJOQVVTU1o5VzhoaHctM3NPcjJR?oc=5",
       "date": "2026-05-31",
@@ -1138,11 +1131,18 @@
       "desc": "El Gómez Ulla revela cómo trató al primer paciente de hantavirus en España con un cóctel inédito de fármacos&nbsp;&nbsp;El Confidencial"
     },
     {
-      "title": "Ebola, hantavirus and the warning America should not ignore | Opinion - The Portland Press Herald",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5SjJaV28yai1CQTRQM1MwU1lscGpmOWctWklHeVdGaHJjQU50ZE1sR1MwSExDQmxDb3NjLUVJT3hoMFpZeGZMU2NoYVBQMGM?oc=5",
+      "title": "Autorizan al crucero Hondius a navegar de nuevo tras ser desinfectado del hantavirus - La Voz de Galicia",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWGZuRmZ2cTJIR2FpTTJMaGhsRDVBRDltMFp3NXNvYTV4NTlNb1VPVXVUZ3lpMXBYUE1VQnUxTENEQ2hxLTZ4U0IzM0ppYnJUWk5DRExXRHZsVzJRVFBMbTE1bWl0RjJHLS1QVGVTVnh2LXJvWmFiZWdkOVVJY0hhNEZuRThfY1ZSdHZOaW16VVUxVkFqbF8tVWU4OGVfd3NmWFl0bjNxVFFQMFJRSFdYbWdZN3lNS29rOUtreERDbjFaUUt5aUxkM2hnZUYtNnZlN0hHZk5kUHpDMWJPUEloVWJSaURvb1JycEHSAYYCQVVfeXFMTjBqNzI3ZE9WSmU5dTN0c21QTHBpc3Fzek1HN0JabzNfQUFWV1BaQlM1bWE3RmFDNUpoV3B6RFBCNkFzZmhNTVVFNTNMeUNkb3dfZzFZWkxRYThtb2tkV3lSdGRQVFdFNGJvb3pZa1BJSk1Wc2NjUTdJX3pqbGg2WXE0TWlNVExoZWJFTzFaOVkyVUM5VWRVVUstemNnaVlZSjBrcWw1UkJUczBoc2hpUTBfdGVSYmphM3ZFMUYxNkpEUzdKVUJtZV85NGJtOW9rOHZsbDBtaThlQXNMcGRwZ0tGWjJxQU9GSkFyTC02SnprRVY3RU1jcmpZM0x1Zl9HLVdRRlZKUQ?oc=5",
       "date": "2026-05-31",
-      "source": "Google News EN",
-      "desc": "Ebola, hantavirus and the warning America should not ignore | Opinion&nbsp;&nbsp;The Portland Press Herald"
+      "source": "Google News ES",
+      "desc": "Autorizan al crucero Hondius a navegar de nuevo tras ser desinfectado del hantavirus&nbsp;&nbsp;La Voz de Galicia"
+    },
+    {
+      "title": "Ébola y hantavirus: doble moral - Noticias de Navarra",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUlJXay1teWI5NS1mb0ZaNkZUTzdBb3BZR2pYMmdWZS1aeC1rcUItQ1RmOVFqUkhHLVlzdFpiTC1JTWNzcENUSUF2dnZVbFViaERtU1NvdnZUUlEzeHc2c2NIdnkzM1BEYWl1QjFCZ2lFUS1NVU5ZRGRfS1BLZVJoQ0VMS2hvZFZGcGZUTUFacGU5RjJNb3h1cjB4ekt5U0hsaWpBci04Sk7SAa4BQVVfeXFMTzdPVHVsVkFIVUxKRkROM2I5bjF2Z0R2dHFNOXdrUnJwdW9kbHQydTQ2aWFWbkFPT3FGYkxyUkFaQThtd1M1aENUT2FxZGpvbW9DWWh0NjBTRVNZNkRVd3dneGlYUTljRjIzTkE4cXdJOEM2YU9kaUVWZEhXZVYyZ2lhelFkeUlLTVhxNFZNM3ZBbGZaVk1SZDE3TkpuOTJQYTVTRHplOVR1bEhHZjZ3?oc=5",
+      "date": "2026-05-31",
+      "source": "Google News ES",
+      "desc": "Ébola y hantavirus: doble moral&nbsp;&nbsp;Noticias de Navarra"
     },
     {
       "title": "What you should know about hantavirus regarding your pets - The Lewiston Tribune",
@@ -1236,18 +1236,18 @@
       "desc": "Casi la mitad de los españoles aprueban la gestión del Gobierno en la crisis del hantavirus&nbsp;&nbsp;20Minutos"
     },
     {
+      "title": "Ante el hantavirus: ciencia, serenidad y responsabilidad institucional - Médicos y Pacientes",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcW1ZUXB2RWNLWHNSajR6dnVRYXFyTEZIM29qN2tSM0NaNkhueU0tU2RlMWVKY1UwVHpJWjFORHBqSUFIVkVkMGl1X2Q1MHdqSWJ4XzM2eGlRUGdOVE9rb3EwbWFDdm9ZWmlJNW1RTGlESS05aG8yV3FKMm8yQlE5cmxJOFI0bDV4SF9XM29PWFZIc2pzTDQ3ck5FcG9HOWM1R0h2ZDVCNHhWWnd4dFBKVmpn?oc=5",
+      "date": "2026-05-29",
+      "source": "Google News ES",
+      "desc": "Ante el hantavirus: ciencia, serenidad y responsabilidad institucional&nbsp;&nbsp;Médicos y Pacientes"
+    },
+    {
       "title": "Hantavirus - Cadena SER",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBzNXU2RFphckdDcnpEXzRNbkMyMXJWT01kakxyT3Q3NmhRYVUtYk5LeFJPNmZ5RGx5a05zeExqdFJHeEF0emoxUnJ6bkxIV2J3UG95QWlPQlNfcy0tOVFLclUwV19IbkpwV0hKZ3JzaW4zUy16OEow0gGLAUFVX3lxTE1sT0JWd3pDajFHSTJBUnRVTS1jNjc4eU1UemFFUHVTQXBXaFRpbHd2Z21rX2o5YnBhRUZBLURhLVJrbG1hYzZDbUlrbEUwRlMybjdmbUloWGhIT1hyLUNiY2V2bGVRYTlBS19rbFUzVkhsSEJkdFFwWWZHbE55dkpoUFFxZnhxLVhMRVE?oc=5",
       "date": "2026-05-29",
       "source": "Google News ES",
       "desc": "Hantavirus&nbsp;&nbsp;Cadena SER"
-    },
-    {
-      "title": "Hantavirus-exposed cruise passengers may soon be allowed to return home but must remain under 24/7 watch - CNN",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYl90YXNZNjV4WVRPbWppUUhDVVBZTGJ0M3dzYjJQR01DYkhnVVRPUUxXYy1WRy1LekY1Vjh1aTBrRWxfdGZITDRlOGNVSmVlRUw2VjhSMmxYUnh6bDM3RWRjWUJFaUFRcFZmYkNFY055OF9uYWhSdjdBdjB4RlNYLUpkTQ?oc=5",
-      "date": "2026-05-29",
-      "source": "Google News EN",
-      "desc": "Hantavirus-exposed cruise passengers may soon be allowed to return home but must remain under 24/7 watch&nbsp;&nbsp;CNN"
     }
   ],
   "countries": [
