@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-05-31 11:21 UTC"
+    "updated": "2026-05-31 12:58 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,11 +1124,25 @@
   ],
   "news": [
     {
-      "title": "Ebola, hantavirus and the warning America should not ignore | Opinion - The Portland Press Herald",
+      "title": "El Gómez Ulla revela cómo trató al primer paciente de hantavirus en España con un cóctel inédito de fármacos - El Confidencial",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdXNKUVFIQjBQNmV6R1Fqa01oUmtNb3IxYXZ3aG5MNXh4VGdxalRjUGxUYnFKYVZCa0pMcTJqWmdVUkZHOVR3ZUxQY2FNdXlleEo2TURwV2IzWkdvUmNPaEE2cm4tV3JnQ0NhMTRuZklCSjIyYVYtR0VFUUJOQVVTU1o5VzhoaHctM3NPcjJR?oc=5",
+      "date": "2026-05-31",
+      "source": "Google News ES",
+      "desc": "El Gómez Ulla revela cómo trató al primer paciente de hantavirus en España con un cóctel inédito de fármacos&nbsp;&nbsp;El Confidencial"
+    },
+    {
+      "title": "Ebola, hantavirus and the warning America should not ignore | Opinion - Portland Press Herald - Maine Sunday Telegram",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5SjJaV28yai1CQTRQM1MwU1lscGpmOWctWklHeVdGaHJjQU50ZE1sR1MwSExDQmxDb3NjLUVJT3hoMFpZeGZMU2NoYVBQMGM?oc=5",
       "date": "2026-05-31",
       "source": "Google News EN",
-      "desc": "Ebola, hantavirus and the warning America should not ignore | Opinion&nbsp;&nbsp;The Portland Press Herald"
+      "desc": "Ebola, hantavirus and the warning America should not ignore | Opinion&nbsp;&nbsp;Portland Press Herald - Maine Sunday Telegram"
+    },
+    {
+      "title": "Hantavirus, ebola and other pandemics yet to come | Pius Kamau - Denver Gazette",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWnFvR2doRUduSk1QWEItZE8zMEZjWnlMcnhLQi1kRTgtcVUwRm5NV3E3ei1pSHQ2T3MtcDIzN0JBd0dCN09xUUthZ0RoUGplQ3NQUllBa2J0UnJ0d1V4VGYyU3FranVHdngzT3M3ODd5dE5WNzZDWEg5Rm5pRlV0aC1YdElpSDNoc0pHMHNkMDZHUzY1OFBNd1g5clRDa3F4QlRB?oc=5",
+      "date": "2026-05-31",
+      "source": "Google News EN",
+      "desc": "Hantavirus, ebola and other pandemics yet to come | Pius Kamau&nbsp;&nbsp;Denver Gazette"
     },
     {
       "title": "What you should know about hantavirus regarding your pets - The Lewiston Tribune",
@@ -1180,13 +1194,6 @@
       "desc": "Hantavirus Quarantine to End for Some US Cruise Passengers&nbsp;&nbsp;Bloomberg.com"
     },
     {
-      "title": "2 quarantined cruise ship passengers exposed to hantavirus expected to return to New York next week - ABC7 Eyewitness News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN2UzMHktYU83bHF0anM2SEpic21UMU9mck41bUFnYnRPcDZwZXhvd2dlXzVWSEt0NjlvTzVBWVp3TGNPY1dNT1hTaElncnYtRXFmSTZpeWhjR3YzQThXc19WaVdzNUtLdEVuUDJtdUk4a29nNzhFaWNCMWM1VnQ5T0EyZERBaEFqY3NwdzZoREduQVJUQ2R4X2pIR1ZIb1hROFJ2cEVRMl9ITi00dHgxMFBJQjdVZFROUnln0gHAAUFVX3lxTFAxUm1RSzNJeFVDMmN5bGZFdDI5N2hwT0swcFJSMl91MlJrMzZlU3l0bmNkS01KcnB0dHRYU0czWDNfMlBiMC0xV1hWRnFFTjJOeEZkT0p4V2N6WVdSeFhMNXV5NlBEV2t0anRsV1kzLXBlM2kwRGUzOWcwYlB4Qm4xSDBYQlY2UDR3WEk3R19uZmRVcGtJWVVOUWgzOS0xVUxJczRCQlY3aGlqR0VPc0FPTGFaaXVabGs4dTlVWk9CLQ?oc=5",
-      "date": "2026-05-30",
-      "source": "Google News EN",
-      "desc": "2 quarantined cruise ship passengers exposed to hantavirus expected to return to New York next week&nbsp;&nbsp;ABC7 Eyewitness News"
-    },
-    {
       "title": "Especial informativo: El barco del hantavirus - El Mundo",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYVByN0FtZVpIWEtSa21MN2NSWjB2eUpHQXFwcF9mSDZBQnhNMWx6aEFhR3l2STN4SnRBcEkzM0pYVXM3bUJIZ2ZnZ2NXZVphejBuY3k4LTRIZExZRTNXYnNJZWNLbXhyOU9vRjRUdWJOV0VOR2M0OXRKelNqZ29ZeGxSekJra0cxaXVIVTlSUDk1dFVmYTNMNlY4Ql8wZlI2TzRzaVEtUWRqczl3SWJzNHI5eFJ1Q2dTNXlrSER3?oc=5",
       "date": "2026-05-29",
@@ -1222,13 +1229,6 @@
       "desc": "Hantavirus&nbsp;&nbsp;Cadena SER"
     },
     {
-      "title": "Surveillance Ordered for Hantavirus Ship Passengers Who Go Home - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vMG1zV3ZydnJsOGtFaWtfV3lJc0k3cXdjV1ZIb1N3bjN3QWo1RjFHNTBONXJLbDBnRVA4VDNXNW5WNmZPR2ozU3RCbFhUTVpiSDdfUDNQYzZMQjhrcXNkZENWWE9vcW1VcVEzRk9nT1IwR3A3YVpvbQ?oc=5",
-      "date": "2026-05-29",
-      "source": "Google News EN",
-      "desc": "Surveillance Ordered for Hantavirus Ship Passengers Who Go Home&nbsp;&nbsp;The New York Times"
-    },
-    {
       "title": "Hantavirus-exposed cruise passengers may soon be allowed to return home but must remain under 24/7 watch - CNN",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYl90YXNZNjV4WVRPbWppUUhDVVBZTGJ0M3dzYjJQR01DYkhnVVRPUUxXYy1WRy1LekY1Vjh1aTBrRWxfdGZITDRlOGNVSmVlRUw2VjhSMmxYUnh6bDM3RWRjWUJFaUFRcFZmYkNFY055OF9uYWhSdjdBdjB4RlNYLUpkTQ?oc=5",
       "date": "2026-05-29",
@@ -1236,18 +1236,18 @@
       "desc": "Hantavirus-exposed cruise passengers may soon be allowed to return home but must remain under 24/7 watch&nbsp;&nbsp;CNN"
     },
     {
+      "title": "Surveillance Ordered for Hantavirus Ship Passengers Who Go Home - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vMG1zV3ZydnJsOGtFaWtfV3lJc0k3cXdjV1ZIb1N3bjN3QWo1RjFHNTBONXJLbDBnRVA4VDNXNW5WNmZPR2ozU3RCbFhUTVpiSDdfUDNQYzZMQjhrcXNkZENWWE9vcW1VcVEzRk9nT1IwR3A3YVpvbQ?oc=5",
+      "date": "2026-05-29",
+      "source": "Google News EN",
+      "desc": "Surveillance Ordered for Hantavirus Ship Passengers Who Go Home&nbsp;&nbsp;The New York Times"
+    },
+    {
       "title": "Ebola and hantavirus outbreaks raise questions about Trump's health agency cuts - CBS News",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRzgwS0N6LVN5VlhVb1hManFjZFdaU1dianMxY05nR0tjNTZBeUZad0J0N2o1cVN0T0hvdVhXREp6OHFOMnBiVG1FUktYODFEZVFubV9lWVZBUGRlaVdqeEtnZWRUZzBSeUJQQnZrSlVROC1LVm1OQllvLWdMd0VkUEVyMDliNlk?oc=5",
       "date": "2026-05-29",
       "source": "Google News EN",
       "desc": "Ebola and hantavirus outbreaks raise questions about Trump's health agency cuts&nbsp;&nbsp;CBS News"
-    },
-    {
-      "title": "Experimental hantavirus drug ships to Europe as US passengers offered home quarantine - CIDRAP",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSldZWjRqbTlpNkdBcTJTekhPYjBqYm11Rm1LaVVLYXM2X2xWNVZrY1FtVFR2cXgzWV83NFFfTW0zVjBmb1NHRlNKa3ZRejFGMG9IVjR5MTZ5ek1WdHJCR1JJS2l6cFJ3and0WWdOTWJ5WVFnaHU1aTQ2MjdRbWZGbHVVSTBiUjNYV0Y2V2FfdXI3QTVtM0ZmNHpWQUU1WGhMN2tzVDlFMGp2SVoxN213MDJ6ZkU3dEJs?oc=5",
-      "date": "2026-05-29",
-      "source": "Google News EN",
-      "desc": "Experimental hantavirus drug ships to Europe as US passengers offered home quarantine&nbsp;&nbsp;CIDRAP"
     }
   ],
   "countries": [
