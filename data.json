@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-06-01 23:59 UTC"
+    "updated": "2026-06-02 04:55 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,25 +1124,88 @@
   ],
   "news": [
     {
+      "title": "Algunos pasajeros del crucero expuesto a hantavirus regresan a casa para terminar la cuarentena - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbTdjOTBneHNkUi1IeUJtX1YtRDZIcENyQklTMjBUU3NCeEJXRkJ2eThBamthZk1RbDh5XzVoTWxsOF9UZ1VlcGxneTVBVEhEU3ZwanZVRE43bDZWT2F3NVQ3OWh0M0s3UmhtWTNrZE83WDB2bmx0T29BbER6N3o4eFJQaUQySEYwLTFNdlB5Nm5oUE9fWjVDVg?oc=5",
+      "date": "2026-06-02",
+      "source": "Google News ES",
+      "desc": "Algunos pasajeros del crucero expuesto a hantavirus regresan a casa para terminar la cuarentena&nbsp;&nbsp;CNN en Español"
+    },
+    {
+      "title": "La OMS ve \"estable\" la situación del brote de hantavirus y mantiene como \"bajo\" el riesgo para la población - Europa Press",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUmxSVGJQbFpJNDBDMkpGdmhKVmpNSDh3UVl6cnJYTm5CSWw1dVR1U2RDNHdfWG5GQXFwaWp3M3BkLVJkUTE1dExVWUdNczBLQ1M1cDd5NDlqNlR1cVlqQnhjTU1HdGlmakFUemo5dFRMMXNETG5qTmRGMU4xOGUwN0gxT2s2TUJpQ1M5eGc1ekhDVVlrVkowMEdxVHlRUjNYR08yMjRrcHViaWd4N1RXNE1YRGpDYkRPWDZYWDcxUWV1Q054SWYzcG1xeFNQLV80dmc?oc=5",
+      "date": "2026-06-02",
+      "source": "Google News ES",
+      "desc": "La OMS ve \"estable\" la situación del brote de hantavirus y mantiene como \"bajo\" el riesgo para la población&nbsp;&nbsp;Europa Press"
+    },
+    {
+      "title": "La OMS mantiene estable el brote de hantavirus y confirma un riesgo bajo para la población mundial - Demócrata",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMkRxOFJTVFB2aGpZLWVYNmp5Z3p0ZzFJaEpRdVNJRWpUVlRzTHdEeEVmVDdmd3dRZDFyQnI4NTNwRTdsTGVmWnI5aUY5eU45OVZwbUZFMUFlMVMzZUpaSm1GT0tmSElPeTRfNlA4WFQyX3NsWmpTVkphV1lXX01namt5REFzYk5JQ1RJalMzaTFtZXlGaFIyWXQ5MklUMkNFOE5hVXJ5REdtV3drTlhTUmZqRUpPdFhfVWYza2JVSFIyNUZ1YmR0RzMwdTYtYTJablI5ONIB2gFBVV95cUxNbHRWbmNzWXVoM1ZDbVdFX1lSZ3M3MXhkNE85ZC00cmpnTThnaFVnTkViS2g4WGV2UEFGLVFuYnhHeVQ1WXNEUVFrN1YzRUtwYXE5Wlo5dVd6TXBwLUdGUlRKZFhOaGVaQ1cxcUUyeG1lWGk1eXRkNkQyQTFDSHp2RVBkUzJBMnlVbDlfekpaU05SdTVndWNkVmpmcHNMazYzcGs3SFZFSzQxSFFYRTJha005LVFsZ3FWY0JySFBiZzFLeExFd296Ui1CVmxnbFZEc0RpY2V4aXBSQQ?oc=5",
+      "date": "2026-06-02",
+      "source": "Google News ES",
+      "desc": "La OMS mantiene estable el brote de hantavirus y confirma un riesgo bajo para la población mundial&nbsp;&nbsp;Demócrata"
+    },
+    {
+      "title": "Crucero MV Hondius reanudará operaciones tras brote de hantavirus - sdpnoticias",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNUVVOTBUWDVHcXJ5elJkZkl2ZlZ3dFp6MXlCUkR3WjJmamhyd0l4VVFZc0htV0lUMy1PcHVoZHVvdW1lVU03ZkY0RXotSWZPSGx3NzZEQmd3YnU3VmlIWno2ck9rVkNyT1B2TDJKVE5nRjU2bVVhdkpwMUhKOGN4SEVwV2lxNGRTb3NjQ1dYMkpsWng2am5YMlFkMnZ5QWVfR244RUNuYU9ReUpp?oc=5",
+      "date": "2026-06-02",
+      "source": "Google News ES",
+      "desc": "Crucero MV Hondius reanudará operaciones tras brote de hantavirus&nbsp;&nbsp;sdpnoticias"
+    },
+    {
+      "title": "Some hantavirus-exposed cruise ship passengers return home to finish quarantine - CNN",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYVg4TUFTUVl2RmhZQWp5ck44dzVLY044RVg1bkpXa0NhOVhIS3dDczRkNU52UG9sdERXX3liTWxiam1aOGZzWmVLUXZVNHN5MXB2VWZRVjFCV0lTeWk2Q3E4UTdKNnhTWTlRemRIbE1DQXMyV3FSdWNERlhqTl9ycQ?oc=5",
+      "date": "2026-06-02",
+      "source": "Google News EN",
+      "desc": "Some hantavirus-exposed cruise ship passengers return home to finish quarantine&nbsp;&nbsp;CNNUS cruise passenger quarantining for hantavirus says he will remain in Nebraska for full 42 days&nbsp;&nbsp;ABC News - Breaking News, Latest News "
+    },
+    {
+      "title": "Hantavirus ‘Sin Nombre’ death confirmed in northwest Arizona - KLAS 8 News Now",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRjJvdWdJak96Wll0U21SbG5EUGpfcHRBaTdiekdUTWtEQ1lhZmhMbjhNZGl3c0hySjNZNzBoQ1VfSFJCNVBsV01VRjg2dDFTSmlJQUowT2RRekM3ZDNxR2lPdklHM1ptUW83VUhDWjFmY2NYejFjekp1QUxrdno2cy1zNGJPMXlCajRJYWx0UnBEQlZ0WVN4QkxtWlNhQXhQUWfSAacBQVVfeXFMTUxQaVhUd013dXJReDM4OFN2ZjRJdjlLWi00SzZtcnhnMlB4ZXdVcVJTYlVwdS11Q1NVM09SSDdHTDJQUFBVU0FFNEVyTkNuWUhTZ0FiV2h2NDBsX0hYTThIYk9YbjN1SlBPaGNUbWdrZ09xcWgybkotemJwM3R2LXRBZFJCSEd5SzB1WU1abWtBZ2hmSE5ScklrMWgzenFPdUg1TE1LZlU?oc=5",
+      "date": "2026-06-02",
+      "source": "Google News EN",
+      "desc": "Hantavirus ‘Sin Nombre’ death confirmed in northwest Arizona&nbsp;&nbsp;KLAS 8 News Now"
+    },
+    {
+      "title": "Deadly hantavirus case in Arizona; plans for new homes at golf course site withdrawn | Nightly Roundup - FOX 10 Phoenix",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSzlHeTh0TmFQWUNGN0pTR1RMczNWMzJiV3hHejJKTE5UNGJsLWVqZmFfUG9jZldzd1JJaGM3Ni1GMU1WRmNLUG9CVWIxN1lyQ2dWZ212ZEhraGxvRWYxbWFrOGk1QUpNeFVjLTFiQlhaaW9YZUpUVWIzNEJ6QVRBMmZyc3h6c1JneGtFVUpzWVNyMTdoM1Z5Qk56NjVad3M4bzVhb25BVDNUcDlSdkxUWVVhbmE1cGxGZjFoWjBUWUPSAcYBQVVfeXFMT0lpYkpvb3Rpbl9TQlc3a1l0Rk53U2ZEQ25pY3ZjZldKcVB0ZkdFRlNZb2hLQ20zSXdRbkpRYkVtd3QxVTk0UDhpeGhtRkpXY29ZeEZPa1BMbzIxVGNqei1udDVuX056WHBvMVBlZWRiWnpqajgyNU1seWd6Qm1GS1pSeUtLVFFuLXdnM2YwVVNMdFppY1ZRZUhyMVpYRGlOdzgyT2RUMEc3OXV3UFRnQ0xaQ011WGduTXUwdmZDWTEyS1I5TnJn?oc=5",
+      "date": "2026-06-02",
+      "source": "Google News EN",
+      "desc": "Deadly hantavirus case in Arizona; plans for new homes at golf course site withdrawn | Nightly Roundup&nbsp;&nbsp;FOX 10 Phoenix"
+    },
+    {
+      "title": "Hantavirus kills Mohave County resident - FOX 10 Phoenix",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRnhVZWlkUUg4Slo0RzV1OUE1eUt1YkVhOHNYSGdkeWhPZmJMWmpXVDVuMGRpWk5VSDBSdVkybDJGdXBXNjEzNEJmNVhlRDBKU0VOVWZKUklTYmtQRFZzNHl3S1ptNkc1MlZEbG1sV21wUUtWaS1RNzl4R0ZjNUE1WlQ3aHBXZWNobjYtU1hSeDVrMWtZQks5VDNNV2M4bmvSAaQBQVVfeXFMTlB5d050U2pBd0NKN1BubV9FQWc3Yl9ONGk3ZUt5SGNYc08xdGtFRmp5Q2lfa040dUVVNm16NndJMmFleEpLZFZCNzdmajFreWhORXZjYWFpSGU0ZmxGTVNuSGNad3JtRk9GZ1RhUW1zcVo3ZG9NT2VaTVlXVVc2MU5QaGZqMUJWbFhaSWNyTDlidjJRTVEzS0RHTlBLVzBuN09nOUw?oc=5",
+      "date": "2026-06-02",
+      "source": "Google News EN",
+      "desc": "Hantavirus kills Mohave County resident&nbsp;&nbsp;FOX 10 Phoenix"
+    },
+    {
+      "title": "Western Arizona resident dies from Hantavirus - KSNV",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSkxTWWVXbjljTWJUTUQzc2l5cGhzMDhlVmxRVVBaaElMdE1IdjJLMnBxOUhKRXAtcmxmS0NBOHNuUDAweEZnTkM3VGtnalpBRm95ZnRGaFd2RV9mczBwbG9jb2pyTnVfRUpSRXRhdElmWExHUS1vNzNueFBOd2dNdE5EQmtyby1YMHhyMUJPYW9NbDJYT1FNeGpFRmNCTkxyeEVaS1Z1b3Eya08wUDFKMlB0NW8wenJXOVE0ZlNUeFp1RkRjWjNXQw?oc=5",
+      "date": "2026-06-02",
+      "source": "Google News EN",
+      "desc": "Western Arizona resident dies from Hantavirus&nbsp;&nbsp;KSNV"
+    },
+    {
+      "title": "One person has died in Arizona following hantavirus infection - 12News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNalVzY2JRa3ZnRmtENDhRQ216eDkyU19DcDVZTmIzSkV1SmNxYVpoYW1EaFhwVE0tX01vcnVwRjZpb2Jya05ZQ1dQYkRsWE40M1BuY0swVF9abkhJMmpDR3piUnJSN0ZYUXQyVldDZFFpeUNMb2V1VnV5WWxyTFZRbVRublhTbHNuck9JZmEzd0lmWFZBQlNIaXlFazVYTEZkQkFwcU9aQUxSSG8zSGVBal9GdVhZY0ZoeFBFX0ROM0tnejE4LWY4dg?oc=5",
+      "date": "2026-06-02",
+      "source": "Google News EN",
+      "desc": "One person has died in Arizona following hantavirus infection&nbsp;&nbsp;12News"
+    },
+    {
+      "title": "Arizona hantavirus death: Sin Nombre strain kills Mohave County resident - FOX 10 Phoenix",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0NG8taXA5TW9ZUUExVElTTTVjRnRNcm9JS1ZKNUNQX044b3pXcVhXZnFCS243RTFINklGX2J0STJHWFd4RVp2N3ZETVp6eWprRHlFTDk1SEtRQ1AyaVRJcmY1SjF5QdIBa0FVX3lxTFA2YmZwRVBzazJhZ1dRN01xd3pHY0JZaW45X0NvR2FNSmktd0Z5SW1TZDlfMllaazBweXF4N1JacmllanR1UzhwcF9RVTlkWlM3Q01HVFNWc3pDSVVlbmZyc2pFYUhvQ3pnOWZB?oc=5",
+      "date": "2026-06-02",
+      "source": "Google News EN",
+      "desc": "Arizona hantavirus death: Sin Nombre strain kills Mohave County resident&nbsp;&nbsp;FOX 10 Phoenix"
+    },
+    {
       "title": "Así se trató el primer caso de hantavirus en España: cóctel experimental de antivirales para frenar la infección - El Mundo",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU3UtV1FxZlVIQk12RkYwU2RMVkpESjhQMTAtSXZzeWxvSjJMOEx6M0VNa2tCYTRKZTFOeHV5U2RxV2ZXTTlTcThGRUhhWGQ5bmRsTDRHMG12empWOHBMUG44WW5ZcUpOVVdLSWlCUTE4WWFmZWxHSHlhaVJuYlY5RnZXeUd2YnZLSVlVeFdR0gGOAUFVX3lxTFB1UUt6c1prV1BZcFJMbnZuamdlQlJPak56WkpYSUJfNHdNRXZMWUg4d2dOYlNLSXg4Q1JFZGxkbEFLVWk2MEZIVThoRUlXMnFGMlFSVTZlckhFTnY4RlY1MTBjazJkNDZmbGhmakY0N3VMNHJ5dmYtU1BGQm9WYVhLRVRWR0dldlZlNDhMTnc?oc=5",
       "date": "2026-06-01",
       "source": "El Mundo",
       "desc": "Así se trató el primer caso de hantavirus en España: cóctel experimental de antivirales para frenar la infección&nbsp;&nbsp;El Mundo"
-    },
-    {
-      "title": "Así ha sido la desinfección del Hondius tras el brote de hantavirus: volverá a navegar el 13 de junio - La Voz de Galicia",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONXhQelYzS1ZTNHJrZFVHMXVEdGd5UGRpanJWc3BlM3Q5MVlrbm10Z0E0djZXbV9zQTR6a1BGR0V3YmFCRGVvLVQtYnQybUROMGZvWWxUVC1nZzU4dnJqRXR0QWc4aU1TMEFZb2NoT1lqMmZjQlBHcEhCeHl1ajVMd2hULUN4ZFR1SFROMFZqb3N0OUNndXZLbFUxVHNjazhMUHdObGlhWnBkcDVkY3l0ZWhHRjQxNXptc0MyYk53eUxBU0FUWHNwSVNUMjRqNFZvejBHd0R4ZjVvTEN3YVNwcjNqY2xxa05aTFlnd9IBiAJBVV95cUxQTkhYdEVENkFrT1hBcURiaElIVmVxWEEtNlBFVXpyMnJrUXVaNzBWb3ZFSVlETE9UVGZ6YTNhWTBrODBLZUtuXy1vRmVuU2RTVE0yQVZoQ2NJazRWOFozTnpHdjNQOUpmR3dsMUZrbFVkdzVjZmVfaEt5cXBYWmo3ejlRZld5UEJOcVdGZ2lwbmd6a1EzVTFCaGlGeVp4M2c0b0drdlhVbkNRdG53SldaZGZfQXNlb1FjODlpejBEZVhicDZsQzZHRzl6elhlUlhWWWlldWRlcVZWRlA4X2lMaHAxTVhXZ0lrYnkwQzhNWFlzNUYwLW5GS3BVQVVqcjZ0VS1QcGdrS2k?oc=5",
-      "date": "2026-06-01",
-      "source": "Google News ES",
-      "desc": "Así ha sido la desinfección del Hondius tras el brote de hantavirus: volverá a navegar el 13 de junio&nbsp;&nbsp;La Voz de Galicia"
-    },
-    {
-      "title": "Debidamente desinfectado tras el brote de hantavirus, el crucero Hondius puede reiniciar sus viajes - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMXRJMWF4R0dUdW1aTHJwaUd2QnhyNkk3MDByOUVRZjF0cjlKc0RiTlYzWm9lRzdsQmhCalRjZXVJb2FvQTBRUG42aUloX0VOTVVQYVFMQ0dWbmYyNkJnOGR0Ym5YLXZJUS1ZRk1fYUtEczJmSGtWOTA3OGhCczFYM1dyNG1rM0o3bmRtUnhBbWtvZnRwQ3ZaZTNYdjhRQXFJUW02allLMXZURU1YQUcxelhfdTlJdzJwZElUb0tqeEw4RkoyLUVPMkJSV0I3SndmRUgzeUZ3?oc=5",
-      "date": "2026-06-01",
-      "source": "Google News ES",
-      "desc": "Debidamente desinfectado tras el brote de hantavirus, el crucero Hondius puede reiniciar sus viajes&nbsp;&nbsp;SWI swissinfo.ch"
     },
     {
       "title": "Madrid trabaja en un procedimiento de detección precoz del hantavirus - Redacción Médica",
@@ -1152,11 +1215,25 @@
       "desc": "Madrid trabaja en un procedimiento de detección precoz del hantavirus&nbsp;&nbsp;Redacción Médica"
     },
     {
-      "title": "Las PCR a los 12 aislados por hantavirus en el hospital en Madrid vuelven a ser negativas - elperiodico.com",
+      "title": "Así ha sido la desinfección del Hondius tras el brote de hantavirus: volverá a navegar el 13 de junio - La Voz de Galicia",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONXhQelYzS1ZTNHJrZFVHMXVEdGd5UGRpanJWc3BlM3Q5MVlrbm10Z0E0djZXbV9zQTR6a1BGR0V3YmFCRGVvLVQtYnQybUROMGZvWWxUVC1nZzU4dnJqRXR0QWc4aU1TMEFZb2NoT1lqMmZjQlBHcEhCeHl1ajVMd2hULUN4ZFR1SFROMFZqb3N0OUNndXZLbFUxVHNjazhMUHdObGlhWnBkcDVkY3l0ZWhHRjQxNXptc0MyYk53eUxBU0FUWHNwSVNUMjRqNFZvejBHd0R4ZjVvTEN3YVNwcjNqY2xxa05aTFlnd9IBiAJBVV95cUxQTkhYdEVENkFrT1hBcURiaElIVmVxWEEtNlBFVXpyMnJrUXVaNzBWb3ZFSVlETE9UVGZ6YTNhWTBrODBLZUtuXy1vRmVuU2RTVE0yQVZoQ2NJazRWOFozTnpHdjNQOUpmR3dsMUZrbFVkdzVjZmVfaEt5cXBYWmo3ejlRZld5UEJOcVdGZ2lwbmd6a1EzVTFCaGlGeVp4M2c0b0drdlhVbkNRdG53SldaZGZfQXNlb1FjODlpejBEZVhicDZsQzZHRzl6elhlUlhWWWlldWRlcVZWRlA4X2lMaHAxTVhXZ0lrYnkwQzhNWFlzNUYwLW5GS3BVQVVqcjZ0VS1QcGdrS2k?oc=5",
+      "date": "2026-06-01",
+      "source": "Google News ES",
+      "desc": "Así ha sido la desinfección del Hondius tras el brote de hantavirus: volverá a navegar el 13 de junio&nbsp;&nbsp;La Voz de Galicia"
+    },
+    {
+      "title": "El crucero donde surgió el brote de hantavirus está desinfectado - Diario Sur",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcUQ0RklHTWhNa3hoNmNlNm40ZjZiZTg4TkhfRFVvSVRNNG5HNmdSMThHRldFWkNUYUxoTko4Qjg4Nng4X3pXbDBaaFFURUJ2Z1ZzMklsT2FpaFpnWjh6dTVteHJfRE9XYkVDRkZUMFBMVVE4RTlreTdUYmNKM01FOTVlbTFubW85V3J5RENiNmJ0UTZpNXZHeWxyTnJzT18wZzNYdGpn0gGrAUFVX3lxTE1jYkNBX2hzTEtocVNqN0pWd1phUHZOMWlPUnBYZzBJZHF6X0Q5QTFOMjhycVJnNmpBSWNEMjBsVnNlR3ptMmswM1laWHpRRUpFbGZCb2dQZzM5WjVKUnVWWkQ3NUR0V0VLRGZvQzlIQzFmLWpuVTByeTBHRnFrZnFDWGJLLVBvYWRiaEVaWEd3MUhoUW9WeFdVMW1JbHpwaW5Wb0ZwLUM1eDZOWQ?oc=5",
+      "date": "2026-06-01",
+      "source": "Google News ES",
+      "desc": "El crucero donde surgió el brote de hantavirus está desinfectado&nbsp;&nbsp;Diario Sur"
+    },
+    {
+      "title": "Las PCR a los 12 aislados por hantavirus en el hospital en Madrid vuelven a ser negativas - El Periódico",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVTBlb21kTHlpTjdqWDBiMVJiY25UYUxWYVJyMGNoNER4WDU0VVBqLXBBZlRnX2F6S0lmNVF4SFk0WGp0allfVDV4SURuODJSY0pOZDFWUFowZ3diNndaMWlId3ViM0hkeWwyLUtjRHdtUzNpNW9nWHI2Vms4YUcwVTQzd0h2WWliRUlyaXVrenVFeWZWWHF4d1ZB0gGaAUFVX3lxTFAzaGVvMkM1N2tUazFfYWJ3MDVfWDlnSEtfU2JTd3JRWDVqTllaNlRWSUVtWFVodlRTR3NOaGtvRDNpNnNrZlB2dUJZUXQ5eHk2Y25yaV8tT0ZEZm1Ta2xWZmNvY0tVRENOSS1uQ2IxQUN2LVJKdUY4X2djR2dXWHhtTWM0ejFzdEwyd01ZY3N5UEpzNjIxb3IyS0E?oc=5",
       "date": "2026-06-01",
       "source": "Google News ES",
-      "desc": "Las PCR a los 12 aislados por hantavirus en el hospital en Madrid vuelven a ser negativas&nbsp;&nbsp;elperiodico.comEl Gómez Ulla revela cómo trató al primer paciente de hantavirus en España con un cóctel inédito de fármacos&nbsp;&nbsp;El C"
+      "desc": "Las PCR a los 12 aislados por hantavirus en el hospital en Madrid vuelven a ser negativas&nbsp;&nbsp;El PeriódicoEl Gómez Ulla revela cómo trató al primer paciente de hantavirus en España con un cóctel inédito de fármacos&nbsp;&nbsp;El Conf"
     },
     {
       "title": "Clavijo lleva el hantavirus al Congreso: exige la \"petición formal\" de la OMS y el informe que \"desaconsejó\" las PCR - El Español",
@@ -1166,88 +1243,11 @@
       "desc": "Clavijo lleva el hantavirus al Congreso: exige la \"petición formal\" de la OMS y el informe que \"desaconsejó\" las PCR&nbsp;&nbsp;El Español"
     },
     {
-      "title": "Asturias diseña el protocolo domiciliario para los tres afectados por hantavirus ingresados en Madrid - El Comercio",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdmZSeHMzZnZ1MVJXbWJDVVpkMTVPNExpcmo4bUY3VlN5NUp6c01TWWZwU1BmZWZhbFB6OGtHYXFlbUxjWGdjdFlhVGZfeHptNGNQRGVhaXVrMDk1WWw0aDBETFkzZWZhRjdSRTA5eWNBWV9pdDM3LWFZSnJ6akhtWFpXRDZLSDlJdVdmNENCdG9PMURNeUVpZWpTaEVYMU5uaW5QbEZZdGxNZGU0YzVWak0zcHlpVFpJUGF3MFNR0gHDAUFVX3lxTE9WSkpxWWNxbkszZHIybHc1VENKZTJZa3NaQWp2ZW9CU2hxdzdwOFR3UVhtS0xsdXVqbWtOQlVXUVU1ZjlUN3RGOFdQdEVZT3hoMjlJQ2xlREtEeVltSVRpUFE0dVNKNEo1bWQyaF9RUXRRc2lQVGNfM09laWZMNHNRaEpmXzFzUGlXQldfS1NaT3RIb2IzSnNzNXdXdENYRUVjQVcydnhLLVlfOVlJVFdoeTJjLTdtZGxnamJ5dEtJUXQxOA?oc=5",
+      "title": "Así ha sido el tratamiento del primer paciente español con hantavirus Andes - Diario Médico",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSl9WVlR6TDRweXBVOW9lUEtjTUJhMG1sMWwzZjJDTEhSdDBFSVRLbDF3UVoxZUxlRml1aTRzNG1ITllPOWlrRzNHQjJ3OU5tdHBjVFRnejlSSnNwMldWbEJteFZVUjN4Zmw1R0hSR25FNXZJX0UzR0RmMXNnTElqYnB0b0RHTDJTU285RmFSb3JYWE9ZRU1qVFdxMzdmWFROd0NCRU82VWxEOUNpRnBTUjBUMmNYZzg3WG1MaFJLNmRqX2s2OE0tSQ?oc=5",
       "date": "2026-06-01",
       "source": "Google News ES",
-      "desc": "Asturias diseña el protocolo domiciliario para los tres afectados por hantavirus ingresados en Madrid&nbsp;&nbsp;El Comercio"
-    },
-    {
-      "title": "El crucero donde surgió el brote de hantavirus está desinfectado - Hoy",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMmVld2t4bTRHcmRYSmVCcVBzcXI0NU9rS2h5RHBGc1FPV2pCdGNva2RyeWRtRzVfR1IwcXZiUkpvaUJTYndnMVdhQk9pdWtsbmFYSjlvNncxUFdRbHdDTmgwS3ZLYWZhVGR3TnhkSkZ2ZEc3Q3NRQVBtenJ4WlFfTDcxb2FfY0EyX1ZvMFg4NzhlSzJEb0ZwQlNXaEJlUdIBowFBVV95cUxPOUNLV0NNN3BsaWotd2U0eTRfSmtCckRBaTNfRVpaSWZ4ZDdmWG85NzBMOTZhTDI1dms1cEFOOVN2V0JCaGt2Nko0VkE0MGxEamEwTGdYbDl1SmpJXzZFUnhWUEJ0SlIyNmhjN3J6Q0JIMWdBN0hHQzdnUWZrUlR5NGZPVGVxR3YtQWhURVlRa1BJTDF1MzlxeDlBNHZUb2FtZEQw?oc=5",
-      "date": "2026-06-01",
-      "source": "Google News ES",
-      "desc": "El crucero donde surgió el brote de hantavirus está desinfectado&nbsp;&nbsp;Hoy"
-    },
-    {
-      "title": "Las PCR a los doce aislados por hantavirus en el Gómez Ulla vuelven a ser negativas - The Objective",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZmFkcEtnLTVmd00yVlBFWm1HOHl5UGI1TEYwWEN3QzY2OUI5dlVUTFlVVlhJR1hTVnJxb2lST1pvbzJ5YmJ0VmZxUDdsSTRkbXNNdzAtYUthVGF1LS1xR29xSjVaQktGbmdwV2lzYWVNWS1ZYUlzSkhzRU41ZG0xdlVXYWhRazVDY1otZ2pXdWs0Y1Vzb3RMNGlB0gGfAUFVX3lxTE1rdnVKVHp2T1VPcDhjcFpLamphbHVfeUI1blUxRHdBakQtN1ZxeGt0dlpuclR5RDFXMU9QT01mSHY0eHFDdEZSRlhWTU5HSkNvVERVejhhaVB4dmdQczQ2Q0dRaS1OREJFakVKZTFKUjI3TlhEdHV3YXN5QnpKYUFJT0VRTEVudjQ0LVlwN2d0cUNZY19iaG5QWHRTd0puQQ?oc=5",
-      "date": "2026-06-01",
-      "source": "Google News ES",
-      "desc": "Las PCR a los doce aislados por hantavirus en el Gómez Ulla vuelven a ser negativas&nbsp;&nbsp;The Objective"
-    },
-    {
-      "title": "Las PCR a 12 aislados por hantavirus en el Gómez Ulla vuelven a ser negativas - Telecinco",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcXpJSjdKVzF3eEh1T2JwbnNkbWVLc3FGUmx4dTUwOENtM296NGFNX0FhYUg4MzlBRU5JXzlGY0V1S1JlbWdpNzFQd1FEX291Q0dscGZ4YWFxNkhlM05uOXRUVlMyX1BOLTVLT3F2UUl1TFhlSm5tNlVOVlNFeWQtZE4tY2dSYlFpTC14aW1jQUlWM1hKMG04aW9yTzlfbGNSY2E4c3doRHlKRHNGNDVCSg?oc=5",
-      "date": "2026-06-01",
-      "source": "Google News ES",
-      "desc": "Las PCR a 12 aislados por hantavirus en el Gómez Ulla vuelven a ser negativas&nbsp;&nbsp;Telecinco"
-    },
-    {
-      "title": "En Primera Plana - Hantavirus, ébola y covid: ¿por qué aumentan los virus que saltan de animales a humanos? - France 24",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPY2NKV0lNaEcyRk9obTVpV2Y1b0pOTmd0UVFxWDBEMHE0Y3c2aEdXOFZ3VGVMZldSR25sUmtIWjRNei1wZk0tUkdkbWlwcF9oNmEyQWRpdUpkaWFPRWxfZ1NuZVR3Y3F3M3FPQm5VcXNNTXUtMEpCd3g0ZXBtODNQVlZTRFV5V1FjOHN0S2ZMOHpuaTBuN3IzVlphZWxabF9hekxqRWtVNkt6OEVEb2xXbG5Hek92d1NtaTN6RXE1TFhudm01RV9sQ0FyblM0TVVPUy1jQkV1THZhSHZ2RnZjX2tfYllsSXdHOTY2ZWNhQQ?oc=5",
-      "date": "2026-06-01",
-      "source": "Google News ES",
-      "desc": "En Primera Plana - Hantavirus, ébola y covid: ¿por qué aumentan los virus que saltan de animales a humanos?&nbsp;&nbsp;France 24"
-    },
-    {
-      "title": "Más allá del Cono Sur de Sudamérica: científicos alertan sobre la silenciosa expansión de este hantavirus mortal - Gaceta de salud",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQZHRXRmFCOThUYmtPWGZnQTgwTHhhVGJYVjhxdHBFLXNxYXU5dFNzTDlpTHpSNXJDS3UxbkZTVzlnaWpVUXVOZ3JkTlFGc2w4djZkcEVrQy1wQzFWb0xvODlQWlpJMUNzamMwNW1iM1FjRzhYbUVRZVFEcld6dzJrRnEwOFowWW93LUJudUhESVdBWlhXeUNITEtYTlBfN2oyQXpNSHkwWHNDQXpZd0dZal9Sa1A5RlNhUXJ4eEtRWVZScmR0SVdjeldUSGsydER3N2pKSjBMUUJqZnllQndNeTktYmlVYm40ZGJPc2JrRWx5WThUV1hJUFZaMGVOZGh4bGU3cUgtNWN1TWU4QVhSdlZ3?oc=5",
-      "date": "2026-06-01",
-      "source": "Google News ES",
-      "desc": "Más allá del Cono Sur de Sudamérica: científicos alertan sobre la silenciosa expansión de este hantavirus mortal&nbsp;&nbsp;Gaceta de salud"
-    },
-    {
-      "title": "España en el radar: hantavirus, cribado de cáncer de mama y aumento de gonorrea y sífilis - Medscape",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSDJhVERoWHhza3ZJZ2V0LXhraU43dXBOQndnTGZPaGFjQkUzcklZYUt6S2V5aEdadEtOTnZLZklxVGNXcDVUTGJDZGdsOUFMaWM2aEhsYUIyb0dZYzAzN0RZRERUTmVmTU16cDdxdjhscXJoM0kzd2tfYkU0NGRzQ1htSkVWVXZOMmRya2lrN3ZzMWpqbGFJZThNSU1oTGdzZk1WenVGbXV1OUctUDFpaVNaUQ?oc=5",
-      "date": "2026-06-01",
-      "source": "Google News ES",
-      "desc": "España en el radar: hantavirus, cribado de cáncer de mama y aumento de gonorrea y sífilis&nbsp;&nbsp;Medscape"
-    },
-    {
-      "title": "Los pasajeros españoles del crucero del hantavirus repiten la PCR negativa en su cuarta semana de aislamiento - elDiario.es",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRlZvZDZtaFdZbXV4YzhYOVRrOUFPNUI3a2xFZWhzRDBFalh2RldDWEF4M2Vlb0RTdVpiMmgtNFVLeDRCcjNBaUhod2Vsc0l5RHNzYldjMHctTWYzaWVjaExta2lERjlpbWRpZ0VIRWdQUXllYWpqNGZON0JtSHdfRjlwb01OMmlRRjBCWThMOVVua29NZER5Q2RENkzSAaIBQVVfeXFMUHM3SEFFXzE5bnR3ZDNleXpVRGtaVTdROURvakNMcGc4ZzdnN0UxcWxaWXV4UEVOajVwcFVlaVBqQjVyNGxqRU83S0x2aUhNVHRZaWhSTlhFdDR5N1ZIUGtZNmdoSzhYNmJvX0ltT3hWVWFsUjVOUC11UDJtQmFWZDgtek5icXU2UC0yTGRuMmdGYWNMcmx0bm9ubnZwc3RCMmxB?oc=5",
-      "date": "2026-06-01",
-      "source": "Google News ES",
-      "desc": "Los pasajeros españoles del crucero del hantavirus repiten la PCR negativa en su cuarta semana de aislamiento&nbsp;&nbsp;elDiario.es"
-    },
-    {
-      "title": "Las PCR de doce aislados por el brote de hantavirus del MV Hondius vuelven a dar negativo - Diario de Santiago",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYTNEME1Cdk9KVlF4ZDdNaGEzdGEyWjhucVkxQzBhOWtBaEloeEZXZk1Oa2JMcUNBLWlPODlqUldzU3dGS19ta2RfbE5GWlJrcmRfUmZySHAxRlNibXdqOUt3ZjdjbXhKcDd1MjJubkFrRVFSdzhpLVJ4T01hR1JBNDEtUHFQYlBFU0lvbDBzMGVjbDE4RkVVaUFqYzUxUmQ1Vjl3TDRaYVR6YndJNktpVVpEZ3RDNW43RVNkX0NsanpkWGZhOWFGbg?oc=5",
-      "date": "2026-06-01",
-      "source": "Google News ES",
-      "desc": "Las PCR de doce aislados por el brote de hantavirus del MV Hondius vuelven a dar negativo&nbsp;&nbsp;Diario de Santiago"
-    },
-    {
-      "title": "Asturias prepara un protocolo \"domiciliario\" para los tres viajeros del crucero con hantavirus - LNE",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeVI2ZVh0d0pOMEFadTV3Ym9oMjhuVEdvYTJ6UmVSLW11bEpKYkU3czBackxOMlIwNURKTU1NZ1M2bHpNQW1qbDNLUjlIMmdMcVJHU3pZSUI4T2oyRTA1Y01DNk9VdzE1VVhIRVl1N1ZfRmJzY1dGUWg1NmpDQlQ0OVdqUzNRdWo2cXZmUnhZS2hHMmt3ZGhiU0MyMGVtN1nSAaQBQVVfeXFMTXIxcU1Za2xDOGo2NllJZFpHTnplSmtWbEZPbzB3Qm1qZ1FuYXlDb1lTNm9PcmdWdXAzdHo2RlVZY0VyQjhhUlN0QXRJc2xNRERpSHdrQmw2Vy1wQnFacmRDT2IxNUlqVnJaTXVIMjhhYzQ3cHcxS1RUdnRvMjgzM3RhTmFXOEpZb1NqLWs3VG1KV0RDTUowNnJSNmlfbUdILUFOTW4?oc=5",
-      "date": "2026-06-01",
-      "source": "Google News ES",
-      "desc": "Asturias prepara un protocolo \"domiciliario\" para los tres viajeros del crucero con hantavirus&nbsp;&nbsp;LNE"
-    },
-    {
-      "title": "El MV Hondius, crucero del brote de hantavirus, obtiene el permiso para volver a navegar - Tourinews",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOd25fX0htS0NxZ3Z1dzAtYXlMM25MUlFjRkJZMnBnZjYxaE1nOXdUWDVlSXdqM3luTjdjb2d3TElIZDBmLXRmNW45T1ZjazFWeHlMeFBBeUVrdmQzdk10TDllMlZkbDM3S3J6d0QxX3ltNDl5UlhNdVF3UGNPM0ZKM2NXOUUteEVhSVBZajc2RXp3MkxZd1RXNHg5ajFBNS11Q3FyQ0ZWMGViWi1FTFpJczR6UFlVUE9PQnQtVTllOVJXLVYtZS1JcnYySkxraWRNaThxZ2h2UE9HNW5PaFJrS19DV19MbEZQQ0xja2N2QdIB9AFBVV95cUxQTTN6SFQtQ2VULXl5eTBPb2FxTlNwaEh0VGZaOUt3THhBYXp5MFR5cHVfX1VQQUFtdGhpdFVJaFJYRVYyTzRCemw1NjdDOEJRNzdFbGhvNWhYTnA3d1BxYTRxQ2YyRDNXV3RZMGhSQmtlNHpOQnNETFBhVy1TMFB6RDh1Wjh2a1lTY1NDNVl6V0ZSY0IxTHhjZE4zLTJ1QlRsdU03ZVFIOG9BS3prS1Y5OXNFZlBuR1RnaHR3Tm1fdFdsSEZGdF9RWWY0Ukxsd05WQTFVZzd6eW1jdl90MzZJS1U1WFVKVzJuVHZJNmNocGVJUV94?oc=5",
-      "date": "2026-06-01",
-      "source": "Google News ES",
-      "desc": "El MV Hondius, crucero del brote de hantavirus, obtiene el permiso para volver a navegar&nbsp;&nbsp;Tourinews"
-    },
-    {
-      "title": "5 hantavirus cruise ship passengers leave quarantine facility as transparency concerns grow - Healthbeat",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTFRqU3RicXMyZ19nSG9KdGQ1Vk0xa0l6NkVXUHhIaHNoU0d5V0YzZlhncGFObGRvdS1TSlVzYWFWYWZVTjN3UWVPOUI0Q0ktMG9kSmJIc0J1SlZnMWRPdDFZMktta1g1QW5GMWplODhxeTF1Yy1ncW5hZFBTR3FLbXJ0aVZPOWY1RVZ3UUN3Vnh2aXdCRURsNGJfRVk1Zm5hdGc?oc=5",
-      "date": "2026-06-01",
-      "source": "Google News EN",
-      "desc": "5 hantavirus cruise ship passengers leave quarantine facility as transparency concerns grow&nbsp;&nbsp;Healthbeat"
+      "desc": "Así ha sido el tratamiento del primer paciente español con hantavirus Andes&nbsp;&nbsp;Diario Médico"
     }
   ],
   "countries": [
