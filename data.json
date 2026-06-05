@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-06-05 01:54 UTC"
+    "updated": "2026-06-05 06:27 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,6 +1124,20 @@
   ],
   "news": [
     {
+      "title": "Robles ensalza el Centro Militar de Farmacia, clave en emergencias como el hantavirus - ABC",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdDl6cTNPV3h1ckZYMTlfcWtDT28yVGw2YWVGOHIzTF83RlBERlVaVTdoR2psT1Z1ZlhuUk1Lc0xFZHFfUU5HbXdpelc2MlB0dERzckZLajE0Rlk1VWR3bGJQTmROMnctSlBYaW1MRWZGLVNFazAyVlREbGYzenY1R1h4cFJMMUFqV2dRbjZWYVpOT1lpcWdTMV9NdXVXTkNBY05RRVpmc2g?oc=5",
+      "date": "2026-06-05",
+      "source": "ABC",
+      "desc": "Robles ensalza el Centro Militar de Farmacia, clave en emergencias como el hantavirus&nbsp;&nbsp;ABC"
+    },
+    {
+      "title": "OR: DOC BACK HOME AFTER HANTAVIRUS OUTBREAK ON SHIP - Local 3 News",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRXRadjE4MGt6TlZveWh5LW9XOHdWTDJSNFRVbjY3M2YzSFQtV1p4Q1l2YXZ5VHlTam04dzdKUmdOWGRYaXhSMXlHYnU2aWpsVDJ0SHBidC1oTzVKQkdEanU1ZDEyT1VFQzlHZmlSVWdra0hPTUpXMDBySVpiREU2NVJtbjlTQjQ1UWMxb3dEUEVqdDJmM3l3M0pUQUllUUVGZm9qbjJyeUJTdC1GZ1hpeG4tOGJZbU5ZcFpOd1hyVXhfX0hHZlJTM2dLZG9MRDF2RFNfQmdPaWZRMjA?oc=5",
+      "date": "2026-06-05",
+      "source": "Google News EN",
+      "desc": "OR: DOC BACK HOME AFTER HANTAVIRUS OUTBREAK ON SHIP&nbsp;&nbsp;Local 3 News"
+    },
+    {
       "title": "El primer español contagiado de hantavirus recibe el alta tras superar la enfermedad - Antena 3",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQazBOQmowVTZPY1VHbmdUSDFMT05vdk9hZWNlXzhIZl9fM1hVc0UyRVNrVzl3M05MRDFxZVo3WVlfS3BhSXJFdVFYTlg2MnpPYkJ6dEpPX1N5TUNhUDJOcDVJVjFjS1JtTk52UDlST0htMVpQaXY5SVpXZVBEZzRwRFBVOWF2VVRINXRKcWdhYVM4OU5pQkh5d3hGNnk5c1Q4Nl9pQ0RhX3hJdmRhdjl0T1VjcDF6VElQRER1ZkwwTlliRE5JUDhBUXRCWEE0YnptQUZuSjh4b2JSZmQ30gHcAUFVX3lxTE5HTWZTQXNNWFNmSjZzeHBzUjJ4OUIwbHF6Wm9UMDZ1VUhFamdYbTEzZFVpSEZBNDU5elNaeUc1cXpYVWZaY0FaYWNYYVA3MDhreTliUEFnbXBZVGtTVzNiOWpRR0lSWTlEU1RQendNYTQzV09pS0ZXRWZkR3U5cjAxYzM5bllpS0thNFpLWGc3RERHR1RoNmhoaXhJWkhScXNyUXV4RkFoblhrME40b05pa1JldjVhTk1CU2FsNVN0NGVlUUQ2QkFXYlpXSTdUaTlrWk1qYm5SZWo2UHE?oc=5",
       "date": "2026-06-04",
@@ -1187,18 +1201,11 @@
       "desc": "El Hondius vuelve a navegar: luz verde definitiva tras superar la crisis del hantavirus&nbsp;&nbsp;Hosteltur"
     },
     {
-      "title": "Sanidad establece los criterios de alta hospitalaria y seguimiento para los casos confirmados de hantavirus - La Moncloa. Gobierno de España",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS21uLTJnZVh2Skw4ZU5EZzlRZjJSR0hrTmFXeVRXT2JTZ2k4R3B0MzRFeWhOZG9pb1lRYkFZSjRjSlJweVZlbEk1SVNWRjZaVm5xMXZaaVlIbWZ2WUxDYVdUbXV0eE8zWThvd0JuemVkUWFhbDJoY1NRWHBSZkk3U2hGMHhia0ZmMnFGMnVOVjhuWGpzT0xKNkJtZmVKVXcwZkVlcWM4ZmxraUdsNUZfdFNTRzFfc3I2cDhiT3BMVQ?oc=5",
+      "title": "El primer español positivo por hantavirus recibe el alta hospitalaria - Valencia Plaza",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYzI2anh0UEd2NXFLak0zRkpyV0VYSW1WaHQxTU1uanpRMTNVdDg0VnY4UnprbGN4Ml82LThYaThEWF9ielNKLTBZVlJnd1JUdllhODVrWlVSWG5FZjdTNE05YnZRclBvR3MxVHQ2Z3h3bmJhYWYySlByemxYaGFfWGVyZzZSVWRoWE1vYkFsVTVBWGVjcy12eUNER3RLT1BtTTBHZG5RaWc3TTNsMm5aaUhvRXllb1Rxa1E?oc=5",
       "date": "2026-06-04",
       "source": "Google News ES",
-      "desc": "Sanidad establece los criterios de alta hospitalaria y seguimiento para los casos confirmados de hantavirus&nbsp;&nbsp;La Moncloa. Gobierno de España"
-    },
-    {
-      "title": "El primer español diagnosticado con hantavirus recibe el alta hospitalaria - Noticias de Gipuzkoa",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVW1SWk1MNlg2YU5HM0xpdHRuUWZPemRiOXF0NWpLbEVBZW9jdi1GenZDX2JDdnhfQWx1X2h0VV9iX1pnLUhrQlU4c2F1UXhDVksyX2phRmszVU9uNExheENTLXl6d1ZKUDEzQjdTNFNXcTNIUXBHTEZBSDd4SDB1NENUTzRuT3lLYUx4dmk4YTBzSTVGMjJlMy1qMFd1ckxjdDJabXg2OEFPQ3hNYTB1MWszVVJqMGV0UGpYStIBwgFBVV95cUxQclNlMVV1bldUTUdPQlNNQmRLdmM5RXJybGdIMWlqVXMtRHZFUlFObVB3bWNxOTl5ZUhma1MwSWRtVHQ1TDAwRGNzSEZQM2JqOTdjSk5WN2FWY2thNE5IeHNBWExrZ3J1TEhybDFQLXI0OFpxd2VMVWFLeVRhSk1oUHBDUGZ5Zmd1VkZzZngzeFNud0kzTkdNSmZGdkNWaHROTGt1d3diVmEyTzBDMG9ia3pNZFJTOEd4bEMxVUEzcklJdw?oc=5",
-      "date": "2026-06-04",
-      "source": "Google News ES",
-      "desc": "El primer español diagnosticado con hantavirus recibe el alta hospitalaria&nbsp;&nbsp;Noticias de Gipuzkoa"
+      "desc": "El primer español positivo por hantavirus recibe el alta hospitalaria&nbsp;&nbsp;Valencia Plaza"
     },
     {
       "title": "El primer positivo en hantavirus ya está de alta en su casa, tras dos PCR negativas y al menos tres días sin síntomas - iSanidad",
@@ -1206,6 +1213,13 @@
       "date": "2026-06-04",
       "source": "Google News ES",
       "desc": "El primer positivo en hantavirus ya está de alta en su casa, tras dos PCR negativas y al menos tres días sin síntomas&nbsp;&nbsp;iSanidad"
+    },
+    {
+      "title": "Sanidad establece los criterios de alta hospitalaria y seguimiento para los casos confirmados de hantavirus - La Moncloa. Gobierno de España",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS21uLTJnZVh2Skw4ZU5EZzlRZjJSR0hrTmFXeVRXT2JTZ2k4R3B0MzRFeWhOZG9pb1lRYkFZSjRjSlJweVZlbEk1SVNWRjZaVm5xMXZaaVlIbWZ2WUxDYVdUbXV0eE8zWThvd0JuemVkUWFhbDJoY1NRWHBSZkk3U2hGMHhia0ZmMnFGMnVOVjhuWGpzT0xKNkJtZmVKVXcwZkVlcWM4ZmxraUdsNUZfdFNTRzFfc3I2cDhiT3BMVQ?oc=5",
+      "date": "2026-06-04",
+      "source": "Google News ES",
+      "desc": "Sanidad establece los criterios de alta hospitalaria y seguimiento para los casos confirmados de hantavirus&nbsp;&nbsp;La Moncloa. Gobierno de España"
     },
     {
       "title": "El primer paciente con hantavirus en España supera la enfermedad y ya ha recibido el alta - elDiario.es",
@@ -1229,25 +1243,11 @@
       "desc": "El primer positivo de hantavirus en España se encuentra en su casa después de haber recibido el alta&nbsp;&nbsp;El HuffPost"
     },
     {
-      "title": "El caso de hantavirus de un ingresado en el Gómez Ulla presenta febrícula en las últimas horas - Noticias de Navarra",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQzBHV05NSGV5WUlNZEg4MFJ6S0RiNEpSRHVsVklEUzVkRUZlOVpDd0FDRC1PRlBxYlRxRDRPQ1hDTjhnTDIwQTlaYjBPYkZNYTBEbnV3YTNsUVNDWTBDZkRTT1hmYVNtcWgxT0VLS2NvMTJPSU9qLTVRN2xzaWg0TzRGMXlXd2wyc3BHUVRyOVNSOHZsMVN3TW9IMTJjYXZSSk9EZFJvSdIBrAFBVV95cUxOeVlqRkJhOWRGeUt1V1FLR2R2bVpKcnluazFsOFZDVVdidTdRYkpHTjc3bmJ6OVVmMTk1SEthRjlGZEFhVTM0Um5obDlWZ0FodmhNQWJQY0JnSzZDSVlHby1oNV83aG1reHZmbTBxWkQyX2U1ZHNsRHhQU3NsZGl1WDdxaWt6TTJiSDJYbVFoR1BVUDdHYnBnZFFtVmkzZlAxam92YUFHakZyeEFw?oc=5",
+      "title": "El primer español positivo por hantavirus recibe el alta hospitalaria - Diario de Sevilla",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM0haZEFWN3U5RXdHTGU0dXRhZFBrNjA3ZHZBM2ZlSEFWVlNzMjh4X1BIOFBHZERsbm1IYkpvWFFWYi1IUE5rZzBEazFJWm9KdEt3UXNiUm4zbHJ1M1A0ZDVJRFozYWJGU0VFa21XaUR2cVp3R0VFS1A2ejR1VThmN08yUmI2OUJoREJOZWtfU1B1TERCUWprZlJkdm1aeEM10gGmAUFVX3lxTE9pUjNKdlZvdVkyOVRVOUx5ajhOcmxYWC1jOVZTN2V6S25Sc3psaHFnQk9vaWZoTDhwRGxEQVRNSjU3QjdtMzd0YnVINV9IanUwSXBuX29xTWkybm9jczVNdTZ0ZDFxZTU0eTZ1UlJPdUJRN2kzVEpOcGNIQVJzUHp5bnRsdDJmN3NfNjI0T1o2bGpOSFBkT3ZYclhTX1c5Mko5T1pPeGc?oc=5",
       "date": "2026-06-04",
       "source": "Google News ES",
-      "desc": "El caso de hantavirus de un ingresado en el Gómez Ulla presenta febrícula en las últimas horas&nbsp;&nbsp;Noticias de Navarra"
-    },
-    {
-      "title": "El primer español que dio positivo en hantavirus recibe el alta médica tras casi un mes ingresado en Madrid - 101tv",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZG9kRnZRTGpBVF85cjVvZktYTEloSHFSbnBkZG1XQWRPOTdzdnA1LW5HZjdtRjZsS3NOdktwMnBDbGpCMENPTjV1aW8tX0NGRHQxVGJaUk4ydXlpa2Q4cjRIUkJiVU44ZXBqUDdnV0VHY3MzckxkLTJGTVU0alAxenVoeEhFcmxfM0ppeUJ2V3lJa2JJZkotdUxiX290aXdsamFLdmVkZ2Jzbk9PRG5ra2VtbXA5ckFSRGdLY2NwVFI2VVYxdUdUbEhlOFhoNEF3aWc?oc=5",
-      "date": "2026-06-04",
-      "source": "Google News ES",
-      "desc": "El primer español que dio positivo en hantavirus recibe el alta médica tras casi un mes ingresado en Madrid&nbsp;&nbsp;101tv"
-    },
-    {
-      "title": "Los positivos de hantavirus podrán recibir el alta cuando lleven al menos tres días sin síntomas y tengan dos pruebas PCR negativas en 48 horas - El Periódico",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRnVScHdjSExDb0ViMlJrWDBHM2Y1Z1VRT1J1a3FRVzhnZElDaUdrM1lvMnk4bTRwMURWU0RmYUZGeFpHanViVUZSdDVvWG1hNS1EZEppMkRITFJ1aWctMWxhNG1RclJUeGs4eUozLWVQMl9haFBOWDlvQ2VHQXVsM1hkeXRXWlRsZ0xQaFFkRUNOcGkyT0NUUUV1a3dINkQ4bkxTYlpKTDZ4aV9uWk5TaXhVdzhDdkxRSFJxdFVuMUxwVk16dXA2NE5B0gHKAUFVX3lxTE9UUVF5c0FiWi1OQnBQNWs4cTdxOG9LNWp1RHFsLWljRjdtdkw0eGF2U2k0RWRfZllKS3ZhWkJieGtwOXh6ZTh6X3ZqZ0NyaHhGRjFBS09TYlVhZGpfY0dsTHprbnJZODBMVWk0MW82VE1URDdLMzBzTTRTZWg0aUdkOEpZcDVjSGJSbk5YYzhESDBud0tNeGZpQnMwSnhvRzkyUjhBaWZNa3ludnF2Y0RpOTJJODVrUUFjbUl5aVc2VlZVVWx1YlN2enc?oc=5",
-      "date": "2026-06-04",
-      "source": "Google News ES",
-      "desc": "Los positivos de hantavirus podrán recibir el alta cuando lleven al menos tres días sin síntomas y tengan dos pruebas PCR negativas en 48 horas&nbsp;&nbsp;El Periódico"
+      "desc": "El primer español positivo por hantavirus recibe el alta hospitalaria&nbsp;&nbsp;Diario de Sevilla"
     }
   ],
   "countries": [
