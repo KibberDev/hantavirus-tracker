@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-06-06 17:50 UTC"
+    "updated": "2026-06-06 19:37 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,11 +1124,18 @@
   ],
   "news": [
     {
-      "title": "Hantavirus: Argentina expands probe to trace outbreak source - dw.com",
+      "title": "Margarita del Val, viróloga: \"Hasta que no acabe la cuarentena no se sabrá qué ha ocurrido con el hantavirus\" - elDiario.es",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcy1hVU5UR3RtcVZCVXF0YnU1d0F0NVpQbGczMXRBMDQtdXREdVJoQnR3NUhTTHk5cUlSdnRJdUtsRmFrUjJxVjlJMUFMR0pEQ2dwbE1ISlpVLXhxZmlwaUQtazdlZFQ0TTB3blk1QWZDZEpiS3ZmbjVhWDNOWWxWSXExSGtWVzVaay0wdzNWa1prc01UcWcxU3dJUm84S3FjdXZJTEQ4SUg0Si12bDdTRlU1SWF0UDNsRG9yX2tR0gHDAUFVX3lxTE91bmY5MmVKTWxONXloSTVxUkgwa204N2tydktXMXBaUkN3Mnh5OU1Hd1o4cnNiclRxRGx4ZG1mLWR1blJqdG4tMWd1SFFYT3AyMTBvd3loWE1mOWo0bHFrY3BlU285TzRJZDZBOEtmbzNtREdXd2RFZkJFNmhkRTJwSlJ0eVNmQnlncXl3MjhLeXNQTm5QeWUzYTNmZFJkWTE2RlR3bHpMX1N2aEtCOHJZOTNuMG42dlh6UXcxbFFwaEdsZw?oc=5",
+      "date": "2026-06-06",
+      "source": "Google News ES",
+      "desc": "Margarita del Val, viróloga: \"Hasta que no acabe la cuarentena no se sabrá qué ha ocurrido con el hantavirus\"&nbsp;&nbsp;elDiario.es"
+    },
+    {
+      "title": "Hantavirus: Argentina expands probe to trace outbreak source - DW.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTDBwWmxyRnpKMzB1anREQUtvOWEwR0VJcnR4YWhHVWVNakVxZVNUQ3JMM3FyRG1HRUV3S01DSFZQX3VFSkxTS090THRTMmY2MV9GVzZrU1BGNXBPNkZhU3hjZ1FlVHZoMWdCZnNMQ1RMOGtjb1U0WExFakI1ZFpRbGc1dzc4TERMVWttRnFqZS1BZ1ZqQk11Z1VsNERfZkdRa2NjcDI1SE3SAagBQVVfeXFMTjN3cnRzSlpCbmRzbzQ3SHVtS3R4R1N2b1NFdmlzYjlodzlaVEJLZ0hMVjc5eVdvUElpX3J2UXhFXzJLc3VFUkVsYUFqcW5oUGlxeFZMSHctQjJ5bXlvUGdzU0R6S3AxcXFxaHZORWFQVWlzcVRvaGpVTkZPM2NQZ2JXY1lzeDZCRV93bldlQUVFWnJRWWFmb3MxQV9aQlNjd2NpdE9kVlpw?oc=5",
       "date": "2026-06-06",
       "source": "Google News EN",
-      "desc": "Hantavirus: Argentina expands probe to trace outbreak source&nbsp;&nbsp;dw.com"
+      "desc": "Hantavirus: Argentina expands probe to trace outbreak source&nbsp;&nbsp;DW.com"
     },
     {
       "title": "Hantavirus cases remain at 13, no new deaths reported in over month: WHO chief - Anadolu Ajansı",
@@ -1136,6 +1143,13 @@
       "date": "2026-06-06",
       "source": "Google News EN",
       "desc": "Hantavirus cases remain at 13, no new deaths reported in over month: WHO chief&nbsp;&nbsp;Anadolu Ajansı"
+    },
+    {
+      "title": "Spectrum of Gastrointestinal, Hepatobiliary, and Pancreatic Involvement in Hantavirus Infection: A Narrative Review - Cureus",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZWNEcnhFQUM2OXpvSU1MWG1nNVd1eUNiRGRhYUNxVXcydnFUOFNvMVZEZ1o3WlY3aXJsd0dyX1kxWnVGN0dNaWI1WDZ2N0x2S1R4OEpxSTlUbGVER1pDbEFzMjQydXY3MzlubE5uSEEydzFfS3FMbkd5TVNFSEY3djJ5Vjdka05UNjFsTHZOTVp2aG14TzFoRG5SYldGMGNROHNEaVBjbHJ0cm1rQjN1SDBfUGFXWnlOMHp0T1JnUVUwZWZXOVV5NFRaYVhEbGZQV0dLZzM0NnFXNjVlWHRiVE0yRi1Xdw?oc=5",
+      "date": "2026-06-06",
+      "source": "Google News EN",
+      "desc": "Spectrum of Gastrointestinal, Hepatobiliary, and Pancreatic Involvement in Hantavirus Infection: A Narrative Review&nbsp;&nbsp;Cureus"
     },
     {
       "title": "Hantavirus case was diagnosed in the 1980s in a Lufkin hospital - The Lufkin Daily News",
@@ -1208,18 +1222,18 @@
       "desc": "New Tool Quickly Sequences Hantavirus Genome&nbsp;&nbsp;American Society for Microbiology"
     },
     {
-      "title": "Hantavirus and the value of public trust - New University",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVThRREdnMUN5OU9FWnZHdHBYY0dWMGpMNDhaaTRwb0szUlRrN1czY044Q0ViRjBSRVZPUmpjV3RYSFNFN194M3BTM3VIZlhfTWNlRUZpUksyQVRsZmdmSU13OWt1blVINmVYdW1WN0lJeDhlM1hSdDBpUVM4QWp2akxRUFI?oc=5",
-      "date": "2026-06-05",
-      "source": "Google News EN",
-      "desc": "Hantavirus and the value of public trust&nbsp;&nbsp;New University"
-    },
-    {
       "title": "Doctor who said he treated patients with Hantavirus on cruise ship returns home - KTVB",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcl9rbU1OTUNjVUhQSmFrUmszckNOU3cyR1g0YlpacXQ4b01jU2tqVjkxZjN2ZkNfeW4zbEZBVFhqTGxKTk93cjZJaDBBUHlDWTU4NjRPZ0lMUHlhSUwwUVROMXBrSG1JQy1TNE1GWl9aYmNsbWNKenBRbUMwSDh1NlRBdU5PVTFoSFFGekstZWpuZHl6Z2M3eHFaVlcxMTRRdnJSQ2pzM19VckFITElsM3RUTlV6UnJaNU1DOWJQUUcyc1JoM3BHR2tHNEpfX0RBMWMtQ3dyVUJtbVhad0FnYUN1aEhmSnVmM2FhcDZYRQ?oc=5",
       "date": "2026-06-05",
       "source": "Google News EN",
       "desc": "Doctor who said he treated patients with Hantavirus on cruise ship returns home&nbsp;&nbsp;KTVB"
+    },
+    {
+      "title": "Hantavirus and the value of public trust - New University",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVThRREdnMUN5OU9FWnZHdHBYY0dWMGpMNDhaaTRwb0szUlRrN1czY044Q0ViRjBSRVZPUmpjV3RYSFNFN194M3BTM3VIZlhfTWNlRUZpUksyQVRsZmdmSU13OWt1blVINmVYdW1WN0lJeDhlM1hSdDBpUVM4QWp2akxRUFI?oc=5",
+      "date": "2026-06-05",
+      "source": "Google News EN",
+      "desc": "Hantavirus and the value of public trust&nbsp;&nbsp;New University"
     },
     {
       "title": "El primer español contagiado de hantavirus recibe el alta tras superar la enfermedad - Antena 3",
@@ -1234,20 +1248,6 @@
       "date": "2026-06-04",
       "source": "RTVE",
       "desc": "El primer positivo de hantavirus vuelve a su casa tras recibir el alta y no deberá guardar cuarentena&nbsp;&nbsp;RTVE.es"
-    },
-    {
-      "title": "El primer positivo español por hantavirus supera la enfermedad y es dado de alta - EL PAÍS",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM3VRT0d5UkxOZ3lxV0g1cXNLb05TejRMS2JxZ1pUMk5lNlBaZjI1Q21CdjdhUTdCODNaU0xWeDIxOUllUnIyTkRpemNGbVFuYU1jWk5HWjJXY3JxWGZIbTFDbGFrVFQ5VnRpN0JLcXlKcDY5MS1TRWNoYmUtSmJWcjRtcXQ2ZC1YUjlmeE55WXo1bE00MWg1YnduYXA1ZEh2MU82WWxId1JWamxacXFwLXdWQjNEV0tfbHBJcGI4WTRqQdIB1gFBVV95cUxPZ3JPa1BlNjY1ekhudWtjT0c0bmQtOE1JWWxFZTNyUW5PRF8zUktKcHhld04xMnN2Q1RzcURQazlEQmI4Z0dYUFJ5NXZaUHhnckdQTUtGdGxJdWRRYkFTLV8xWFk4RnREcng3M0kxaGhIS2JMTHJXc3VfWVRDZXRjTGJVckxoVFhYQm1yY0RKTjVnQUZmN25iMFJzN0ZDRnphT1JYempiZVI1dnZJY09rMVZJc09OTXBfZnNhb3hkVU1iZDloeXBNZkdXMDR2UWJhYW5jOTBR?oc=5",
-      "date": "2026-06-04",
-      "source": "El País",
-      "desc": "El primer positivo español por hantavirus supera la enfermedad y es dado de alta&nbsp;&nbsp;EL PAÍS"
-    },
-    {
-      "title": "El primer positivo por hantavirus abandona el Gómez Ulla y el segundo presenta febrícula en las últimas horas - El Mundo",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYkttY3JxUGVxTDZDQ25jVENOdWhRR0w0cTlLN2wtUHpxTEpMc1k4aVh6SG1INks1OFNLNzVweV9pajZEdjhSRnNPdTJ3SFVqTnFZUkpNYW5hb2dxdGg3V0NhMm5NZ2JIY2d2Z0U1a2ExT2JJaUhRaVZ1ang4bHF4Vi1HeVJBWEU4TjFtdUd30gGOAUFVX3lxTE41clNYUXlVQUNXNEJaUFNrbUtkUGhBZzE1T2JLWEt2RVlkQ3lIWEJjREFWM1N0TFVvOVRMUUIwRWZHc2ZEOGl1X1pmcTF6TkdST2R6Sk5hZ3BIWGxxVjhwdFZTMEhRWDdhSklrZC1XbmpFWkRDTUF1ZmVEVExnZWk5Tm1heURSb2xldkM3Y0E?oc=5",
-      "date": "2026-06-04",
-      "source": "El Mundo",
-      "desc": "El primer positivo por hantavirus abandona el Gómez Ulla y el segundo presenta febrícula en las últimas horas&nbsp;&nbsp;El Mundo"
     }
   ],
   "countries": [
