@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-06-07 09:39 UTC"
+    "updated": "2026-06-07 11:27 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,11 +1124,39 @@
   ],
   "news": [
     {
+      "title": "Todas las personas que permanecían en el Hospital Gómez UIla como contactos de hantavirus se marchan a sus casas - RTVE.es",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZmU1aHdkVllmd1gxTWdOc1MwNFQyd18xZ212SGFocEtUQ0xyeHJVUWVqNXJZVUcxbXVmb3NqOHE3bGNEVVdTdzFMekoxMG9VREtQNG5NY3Q5MnpoaTlrTTk4SHFNbldhNjJsVTYtUkZKUHJ6bHR2WEwwTmM3S3BEQ3kxalBKOHZJdXNhbGpoT09HVjRvZGQ4a1hRWEdvMW1rREFhb1R4cHd3djNlaERYVWNPYTV3TjFaa1dyR1d3Z3BXd1A3UWZTeEpIdGV3U21BMnhB0gHTAUFVX3lxTE1CR3ZMdVhfTi1ScHdraTMyS0xoazhxeHFaTjgtX0syVW1DdnhpRi1mTS1JZG1keXcwX3NXeXgwWFF0OVBDcTRORl9ZVTdmLVFvdlZZZ3lvSlU4LUxLdW1XMVFlOWRLOUo1Yk95d0tucFlOMlRTczQtZ3pmeVBtV0k1ZnFPZ0dyeTZacUtPcXVXLVZpX1Y2UFF0LVVPeW1hd04yN3U3bThuTE5odXNQQUdLdGNMOVdMQUFBUmpjYmlvbnZGX3dNRE01bjFrSHpMQ1k0V00?oc=5",
+      "date": "2026-06-07",
+      "source": "RTVE",
+      "desc": "Todas las personas que permanecían en el Hospital Gómez UIla como contactos de hantavirus se marchan a sus casas&nbsp;&nbsp;RTVE.es"
+    },
+    {
+      "title": "Todas las personas aisladas como contactos por hantavirus vuelven a sus casas para completar la cuarentena - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNX1ZUY3d1bXpRX3JEVVFxTDltOUxweG5tSW1WUW51bXlLbkhjcVloVC00eHlOOFhHbklfeDBIWUE2SnB3N3FuU1FzazF3UHpTTE1tVzdwdG90akdFWVVWYUJMbGwtNl9BQ1ZCNWUwZmVReG5rYXdUdjdVcE0xd2RqWFltUWZpOTJmVzFDMjRYTWotMHN4MzVQU0Z6Y05FUXlNM2JaTGhSMXBZM19GNHFHTVpjSy15STM1V0Y4WklaaUlRRHd5akM2eXhnbnFZam96OFZrWjBLUVVKLXhlUDR5MnlTbWTSAfgBQVVfeXFMUGhMX2JkaGoyaXpxemdITGNPS3VwYUVaSU9RdjlUVll2MEJ1eUFSNjBwaTcyMGxjM05EYWhWRm1nY0ZLeDZuYnZtTHU0SUJrU1UwdGcxdHQxNUY5WFA1X2p0NjJCR0hUam50eWdIdGhWbDdFOHRhM3dRNk42eHJBWHZOeEhuZzRiMlZIT2FuVm8yUkl4NVRpdHloa21fczk1a2Q1SkpBOG03aW9wMlk0UDNXNHppN1RSUUZhU1hwdW1vU2Nva0loVlBmN2I3NThZRlJzQlB2b3lIZ1J6Y29GUXNsRlc3NnRzaEZsdDJjUl9Ud1VRLVl2OW4?oc=5",
+      "date": "2026-06-07",
+      "source": "El País",
+      "desc": "Todas las personas aisladas como contactos por hantavirus vuelven a sus casas para completar la cuarentena&nbsp;&nbsp;EL PAÍS"
+    },
+    {
       "title": "Los catalanes que viajaban en el Hondius dan negativo en hantavirus y se confinarán en sus casas - EL PAÍS",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNczBadWRrV08tRlI3eEcza21paVg1UHZ2c3dHdGY2aGVoSjI4RUFwSks3bmJpQ1I2TC1KNkVlRnBmVGl6NnRfdGJwVHIwaTRUV08zUDIyOHY3SXBjZ0xvdjZtVm4wbzBTYWNabHFLQnczTTltTWpEYndRbHMyLXFDOFpLcm91X2VOUm92QUNoZllBMmF4bUZlSUNLbU5hRjFyVTBZZkNNMXRSMDZIMlUxUkxnd1ZVWWRpbm9qWk5sTTFsZ2ppYWlQMGhCSDVTX3FEc1BXeEEwcTZsc3NHU1Y0X1Z30gH2AUFVX3lxTE1NMWNSVWNxZXdyRTQ5SUtOVTB5TjFhaGJIYVN1ZnRMaVlLWDR0ejhqQ1dHT3VVSE9mOFhVN2plcXFkRHdqNmhIeU1ocHA3ZmN5cWVsVzVfRF9XWkxCWnhycWdwNE4tY2tKVXNlWFVvRmNvbUI1N3JPUFJYODhEblExVWJmbnpCZ3J1cUR1Y1hGMGV5Vnp1LTlXdldYYlR6RnV2SWxVRzNuRXBoYXpUUWNFbzZ5Qzh6TkpQZjNtQ1FxVzBuQlE5SVBuOFNVeXlsVGJRbTlHeVNhbkpFR09ERm1tMkctME1ncEEtRjNfUTVESlJhWmJwUQ?oc=5",
       "date": "2026-06-07",
       "source": "El País",
       "desc": "Los catalanes que viajaban en el Hondius dan negativo en hantavirus y se confinarán en sus casas&nbsp;&nbsp;EL PAÍS"
+    },
+    {
+      "title": "Abandonan el Gómez de Ulla los 12 españoles del brote de hantavirus y queda ingresado en la UATAN el último positivo - El Mundo",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYXZhNFRncU9CTXE5U3BWRWUybWRqM2cwREhRSUFoWmlhanRta3lnZ1RmZ2JmMVlqZE1rQXNXTF93MlhWcmFYUkdqMk9YQktxMHFTWm9IZEZVRkFERGhWNS1IWWNCSld3bjdrbGZOeXp2TlYxa3VMR1ZKeVQwX09XXzdmY3lqM0s5b0VPUUdR0gGOAUFVX3lxTE85UFA3ZHd2aDF3cDJjdE01Z1NpVHMtN2hIZGx5STJHN1QtYi1aQjFUMnlDQ1gybEdqamlqRW5nMzhYdEpvanhSNGU3YlpOV0QtQk9pd1NUQzhpaVJMNDVXWUFvZkpfbF9tZmNoeDdjbDhidkl2SWwxTHdZal81Wk5KQVVYSmJSQUpRU0lyNFE?oc=5",
+      "date": "2026-06-07",
+      "source": "El Mundo",
+      "desc": "Abandonan el Gómez de Ulla los 12 españoles del brote de hantavirus y queda ingresado en la UATAN el último positivo&nbsp;&nbsp;El Mundo"
+    },
+    {
+      "title": "Todos los pacientes en cuarentena por hantavirus en el Gómez Hulla reciben el alta - La Vanguardia",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ3lDZW5KZy1vakZXMDdGeGRiSGZ5emZKSW5kdEUzdThDOTV3dk8xRkVOSENJTkp0V29CRk5lcEFnVlB3Nlg4WUJvczVBTk1MTVI3VF9fLWtNSS1WcWYzMmZENVRfTTQ1ZzlzTmYtMEpxbDZER1FWNDhTZGNLSGxFdWJXdWl6TGtCYkNTX1ZBNWt0MTIwM1JFbFJ3UTRMNFIzSFFUYXMxM2R2UzVvS203UWwySEpOYV9hZ2FN0gHAAUFVX3lxTE02Y19kTEhFUnJTQkZ1MkJ1SG4yLWMtT0V0ZkM5TlplT1BVNUk3emZfcGhINlAweU1RajJvU3FkOTFfYnR2XzByck5aWnBHcXJTQUZHMHVZQmx5dWptRVdZalpISUhmZDE4ekZZX2ZjM0FxY2NVWnJUM1hwVGRzUUR0b1RUSU02dUFUTlZwOW1zeVhyT3pxQnJiMFBGTUhETS0wUkxVRkdJSkVYV3JyMjk1Y3lMZFBJRmpfbHh6YTVxdQ?oc=5",
+      "date": "2026-06-07",
+      "source": "La Vanguardia",
+      "desc": "Todos los pacientes en cuarentena por hantavirus en el Gómez Hulla reciben el alta&nbsp;&nbsp;La Vanguardia"
     },
     {
       "title": "Los cinco pasajeros catalanes del Hondius dan negativo de hantavirus y ya están en su casa - La Vanguardia",
@@ -1145,11 +1173,11 @@
       "desc": "Regresan a casa los residentes en Cataluña del MV Hondius tras dar negativo en una última PCR&nbsp;&nbsp;20Minutos"
     },
     {
-      "title": "La científica valenciana confinada por el brote de hantavirus deja el hospital - Las Provincias",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSnFsVE5MTmx4X1hTMUsyQkhDTUtKWlBjM3NGWFNpUFlQVGxQa1dGM29rejN0T2dRNEo0SWt6UU5JX2tPQThESXRQRk5ydTJIOGRhRkQ1WENra3NVWlZfVkF2Q3JESzdDdVV2aTlfeU16NFZzcTVNUFVCcHgtbXdvSm5EYjFZSW9HYlZpVFlRSDE2Y1pXNm01aGFEd2NjRFlLdVJwN29JX29NYlg2UnR5MVh1VdIBuAFBVV95cUxOYThpZEhmZENfTVFnUVUxb2piUWZkNDVjaWtldUVXOUtqSGgycGQtd3FDODBuZm9JeXRvTWtmUFRYN2pXdlVGSVF1aFBnTC1oMWxELVhjQlFiRTU4UWFWbERXay1zQTNUR0RIMTlqU2dvVFhnbVpoZy1BV2VaM0s4cXFGeE5mZHl1c1VIV3dvQmFCLS1RSW40b2FNQ3hhUjAxZTlxb1BJaGxiYVJ4eXFWWkExOGFXd3kz?oc=5",
+      "title": "Las doce personas aisladas como contactos por hantavirus vuelven a sus domicilios para completar la cuarentena - elDiario.es",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQak9waXJscHFCTkFQZGNjMXFxSUNuY3Zielh1S2ppdUYxeG9zazhLZ2EwWEV6U25fNk1OaTVmRVNrc3NPTHMzZUhqSFVnQ3gwZW9VdEdjanlTWlNfZ3NPX2NzTEZQd2dLSGUyQ0NCODhHbjJ5NUJBVUdWbk91Q2ZSSDBlM0Z6engtZmtpNC1WeExBeVVuVm5vUVZSbEREb0ZMbENXVjhTMG9TckE2Vm1yNDdxS09vNFNEQXZ0UXZyRGNmMFd2NGR6R2hnZkduQ0ItVGRUT9IB2gFBVV95cUxOaHlSQ3NhLWJfdF83dmFGNTV2VlJfc1BFc29DWjJ2WEF1T2ZRTFhQejQ3c2N4eHJQdktZdzNnSDZuVTNEWHRVY0hLeWEtUlNETEZhdU9IeWlhYXVNWUd2Qm9acGZsN0ZILXNhY21zYjJpSkdDS01IU25DNGFNc3NpVk9hcVdtREIxS1NOUTlnQ0NPcjk2bWdxWUtpUWJmRU5lNVNuSFlPNHNnUDd5WUZqZ2tXZW5VNjNoQW9raDBXWkNxTk51d0VHUTFKNURNbGo2Y1plTnEyS1l0UQ?oc=5",
       "date": "2026-06-07",
       "source": "Google News ES",
-      "desc": "La científica valenciana confinada por el brote de hantavirus deja el hospital&nbsp;&nbsp;Las Provincias"
+      "desc": "Las doce personas aisladas como contactos por hantavirus vuelven a sus domicilios para completar la cuarentena&nbsp;&nbsp;elDiario.esLos catalanes que viajaban en el Hondius dan negativo en hantavirus y se confinarán en sus casas&nbsp;&nbsp"
     },
     {
       "title": "Dos asturianos del barco con hantavirus vuelven hoy a casa en medio de estrictas medidas de seguridad: \"Con mascarillas FFP2 y sin paradas\" - LNE",
@@ -1159,6 +1187,34 @@
       "desc": "Dos asturianos del barco con hantavirus vuelven hoy a casa en medio de estrictas medidas de seguridad: \"Con mascarillas FFP2 y sin paradas\"&nbsp;&nbsp;LNE"
     },
     {
+      "title": "Dados de alta los 12 españoles del brote de hantavirus - Diario Médico",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVGtvbkRobFFCa01qUjQta25wNjdLVDV4eHRONWNQdDJ0VU91c0VxNFVFenljRmNzdFU1a3ZwZE80MXIwMXdxYk8xcVI2N2prOURqOVFFeE5NaWpFYnVBNUtQVG01R1RwVDZsemhVUW5zbjFrc2Nua2lWdmdrTkJCUFhoUmloZlE4OGpqWkFaTXhzWGo3ZDduX0tqQ0QzeUpRcXVkaDRoZ2xMd3Nx?oc=5",
+      "date": "2026-06-07",
+      "source": "Google News ES",
+      "desc": "Dados de alta los 12 españoles del brote de hantavirus&nbsp;&nbsp;Diario Médico"
+    },
+    {
+      "title": "La científica valenciana confinada por el brote de hantavirus deja el hospital - Las Provincias",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSnFsVE5MTmx4X1hTMUsyQkhDTUtKWlBjM3NGWFNpUFlQVGxQa1dGM29rejN0T2dRNEo0SWt6UU5JX2tPQThESXRQRk5ydTJIOGRhRkQ1WENra3NVWlZfVkF2Q3JESzdDdVV2aTlfeU16NFZzcTVNUFVCcHgtbXdvSm5EYjFZSW9HYlZpVFlRSDE2Y1pXNm01aGFEd2NjRFlLdVJwN29JX29NYlg2UnR5MVh1VdIBuAFBVV95cUxOYThpZEhmZENfTVFnUVUxb2piUWZkNDVjaWtldUVXOUtqSGgycGQtd3FDODBuZm9JeXRvTWtmUFRYN2pXdlVGSVF1aFBnTC1oMWxELVhjQlFiRTU4UWFWbERXay1zQTNUR0RIMTlqU2dvVFhnbVpoZy1BV2VaM0s4cXFGeE5mZHl1c1VIV3dvQmFCLS1RSW40b2FNQ3hhUjAxZTlxb1BJaGxiYVJ4eXFWWkExOGFXd3kz?oc=5",
+      "date": "2026-06-07",
+      "source": "Google News ES",
+      "desc": "La científica valenciana confinada por el brote de hantavirus deja el hospital&nbsp;&nbsp;Las Provincias"
+    },
+    {
+      "title": "Los contactos en cuarentena por el brote de hantavirus abandonan el Gómez Ulla y continuarán el aislamiento en sus domicilios - Cadena SER",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQeWxsY3RTQlhjNUdVaWVjN3pDcGVfVy0teS1DbkxKQVR2U2NCQnA0U3NWUm95amtBY1ZQX1BubzhtcHVuRXNYdTVObUZuLWF0YzBiS0Joall3Yk5wS3dlMUpYQXpjTGRBUlY0MHB3TlJ2MUZIQ2xlRzdrZW9YUnpqY0JOZHRzeHduME5NSU1aSHdET2xDa0RESmJ4VXRuTklCLUxUU2dKRFVUNEV3S1NCOW9fSUVOTG9OdENWZzd1c3BKVzhic1hrMS1KWVg3QTkzOEUzMVZjaEJyX2lsZWNWQ1lBMnU4SlIyYWxsckZ6NEVMTVEycTdiZ1ZkQktqQ2tKeU95ZkZ4RDM2WEHSAZ8CQVVfeXFMTy1QMmNxOGlrMmFsYkUzZ2hEajU3eU1yMVdjSkdNMWhkTVhkdlB3cXF4UzUzS3h3VjRKemVkOU9rUGp2aDlwZkZVSnJLV29oYjhaV0RiSDBPQlZGSDJUSFpGTlhXREU3MUowZ1VYdVc2ek9TdEdSeXdXdjNnYjJvUnR4ajNkZGNaWkZqbDFjUjAxMUpnUnZCX05yRzFzQ1NvYmprcVVBcFFDMU5BWGZmbDc3MmNrX1pGaDBwSE1wcE5PV3BpYzh6TnE3d1hZdjhnUXU3dlR0ZllUaU43Y0dmWFQ1Y2VRNlA4UnFlZEFoMkhBZHRjRG1hTlNtMTQtU1Y5WG1RNkVWaF91RmhrMGNuTGNmalpockdpeVhZS1laS1E?oc=5",
+      "date": "2026-06-07",
+      "source": "Google News ES",
+      "desc": "Los contactos en cuarentena por el brote de hantavirus abandonan el Gómez Ulla y continuarán el aislamiento en sus domicilios&nbsp;&nbsp;Cadena SER"
+    },
+    {
+      "title": "Los cinco catalanes aislados por el brote de hantavirus vuelven a casa para completar la cuarentena - El Periódico",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVVF0QmQ0WkNHWnFQV00wYi1STWI1SFBwaGg0U2c5WGY1dXlrb3VGV0k2MmdwcGgtamVzQlpVRnNfUVZIMFo2b3BNQUUzUzFVbHdEcVJRcElkQTJ5ajJtSFpxcmM3NDJaZ3ZzSW9XSmJaM0NIWXl3M3pibjRCNTVWZVJ6TkduYU9rSmV3NzE2X185bnNaY0h3bGtmbFNxZ3IycW9uZ1lnN2s3cW5NbFlwUzBmN2ZVMmdrNVliNlBZNNIBvwFBVV95cUxPeGo3WS1CU0hBMzViN2xCQUdwaGJrTXczTk5VRU9hS3c4Y0dZUDBzU2tvaHFiRXNWQ2dlbDUyVFVaT0hGOFZaMy1oZGlGWGlOaTdlcEdmMmI3X0JoQmFsM1VEaVVNMjZRaW5RXzVHV3JIN000Qk9RU3Q1QVk0QnZwTUN4Zlo2QXREU3ZkV1JEdk9lY2FoMW1JSVpGME1xWk51a0M4WjlkcTlzUEhsZVh4aWdKbVpORGl4V0R6RHZqWQ?oc=5",
+      "date": "2026-06-07",
+      "source": "Google News ES",
+      "desc": "Los cinco catalanes aislados por el brote de hantavirus vuelven a casa para completar la cuarentena&nbsp;&nbsp;El Periódico"
+    },
+    {
       "title": "Los cinco catalanes del Hondius dan negativo en hantavirus y ya están en sus casas - diaridetarragona.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdlZDYkJISV9ucFdPOEdudzRlMF9QZGRKUE5IeWdiTF90bGR5TVZFek9HZXE0eG83cnYtQWp0LTZ1aUtWMUFHM1g5NFBpelluUi1rY0ZBaHJ5cE1KTEVCQnBUS09iLXJmemlHLUhoODVoRFRCU05RQm5aQ2hIeHd0Wk1ETmdJTWdJNXd6NTZILVl1SlVDSERHa0FaOUFkS2pOci1MQXdhcTVQbE5uQzBBUWNCRnnSAboBQVVfeXFMT2E0U1BVQVIwZWxOcWdvOUZsTHpEY2FLN3c5YkFpQ3pWNzlJQmFnbHRxWThqWmVvM2pySHVFaHNlUUFRMGkxRWFSNzZaNUNRRXZvYml4VUx0aXlfM3NqTXFoajROOWdyQjF6NlBzZ0dhVnZfQ1dDczRXLTBlNGs2UENoQ0FyaGZ0UDFHcllrZE1Wd0xDNUdXekNEdlg2NEM0WWdLMUZpSVQ2S0ZrMHR6NGYzb29TWkFvUmpR?oc=5",
       "date": "2026-06-07",
@@ -1166,11 +1222,18 @@
       "desc": "Los cinco catalanes del Hondius dan negativo en hantavirus y ya están en sus casas&nbsp;&nbsp;diaridetarragona.com"
     },
     {
-      "title": "Los cinco catalanes que viajaban en el Hondius dan negativo en hantavirus y se confinarán en sus casas - Crónica Global",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOV2xPcDBGaTU5VkdsS1VoSTYtVDZhNUNnV245Xy16OHpVa0xVMjN6TXpqdTRybUJiSE1jUjEyMGZkeWZBVTN1VWxLRVh3M3JxOGUyV0NWd0M5MkY5Tmk2bTJBRlBFTXVnbU05RkRvajlkcjJnUTNJTmt5enNzbFFDWFRZcE5vY1VFaXNITEM4WFZkZzBaWUI3cWNTaGd0THJVTzBDNW5ocXVwVkVEQjJMMnhpMlYwazdRU1ZXdkVwdU1NdTFYRGY0QkM2RDJSTlnSAdQBQVVfeXFMTmF5Q2liSmR1M2loNy1iU1Q4VTJHbmtOX01McG1PaWlpSXRveW5ZV3VRejF3Q1RydEdaMUp4NGh3dGdiQlZrenlqQVljM0tJZENWWmxSSlpWdzNHdHh4WlA2c2JJakpYMldmNFJOTkRTV0lsWDdHR3N5ZkZHdVh2OXZlWEowcDY3czMtcURlWWpYS3RRQ0wwUkJwWGpBR0xUZHRFdVFkS1N2TTRTY1pjZ1FQaXo2UExncjFBbEVXcGxhb1lXaE4zSTZNVmI0T1JEWHRFTUw?oc=5",
+      "title": "Los cinco catalanes que viajaban en el Hondius dan negativo en hantavirus y se confinarán en sus casas - La Razón",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQV0Y2MWpfVVVDWEtneWp6UWRsOHlENmt6Y2NsaWd5TkFKM1Z2Tk1zMWg5WUNkckZnb1RxNHo5YnpWczNERmlsYmZVOC1HejhtNWZocWppSEVNT0hMLTRxY3dVbl9WV2N1ZFg1ZDc1cV95clQ2YU5wcGY0d1dYWGYzSnFPVUZlUV82SUFmWjUxZWotVFVfVUJGN2xzOG4tS2hUV3A4VW9sRHdwVzhPcDNkMG9INjY1cFpvSGRnMXBpNWttUlNSbGVlc3IxTDYzMTJNQUc2ZldDaXBaN1NHbURXQmtNTdIB9wFBVV95cUxQb256WlNfWWhZeUNMZ2haUWJkaDVoUmJCUG50MkhGLU9MbFJGd1pnVjRCYW5wQU9pSDZ2bkFZeTF5SWNSRnVhNzhvZmpsRUhhVDNVRG9WYVhwaVc0c1dKd2lEYlBsLUZZWk9mQXdhWVV4a29VNlliZVBfQlRXMkRTVldZck1hSkI0bHlMZTZ2cm1Wdm5reFJmX3lDbEVRRjJTaU1XYmxoYzZicGkyTFFidHlSZlk5WERVYXI3RUREYUNudGZzdFZmclRIZmplUnZySlhxTUdYY0RpNnZEOEpxaFFacEZKcE5pNzFSWFMtZDBaOVRWNUVZ?oc=5",
       "date": "2026-06-07",
       "source": "Google News ES",
-      "desc": "Los cinco catalanes que viajaban en el Hondius dan negativo en hantavirus y se confinarán en sus casas&nbsp;&nbsp;Crónica Global"
+      "desc": "Los cinco catalanes que viajaban en el Hondius dan negativo en hantavirus y se confinarán en sus casas&nbsp;&nbsp;La Razón"
+    },
+    {
+      "title": "Dados de alta los contactos por hantavirus y sigue ingresado el caso confirmado - COPE",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTlNzY1BpVlIyLWNZTHk2Tzl1ZElnMnoyQ2E1b0sxZmhDM01LUDBPRHllLWppc0c0VVdQb0RIcGk1dUlVcnBwSDRncmxGSGdWdDFkQ2JIQmIwMk9ENkdHeTlUWTBYNUlROHdNWkh6SHVUUW5TeDJwaDFXc1laTjNpLW1kVWRhSUpyYnZ1QW5uOV9MUmpoVkI4MXdKaDZ3eGNGMlNXV2NYbnFoeTJOYWxGQUFVRGVUM096VnhMX1lxZGU5SGc0elB1NjIyLTLSAdIBQVVfeXFMUEJuQlZmVU1NX1h2eG40OXR3dGdQRXZ3dDBEYVJucVVjTlVuYTdxU0ZybTFtUjJIbkkxc29sUXltR2xiMUZNVEJmOXBMRnN0V3JzWkFHUEwwUzZrMm9aZGhZSkVMdERROFJ6ZWRtUzI1ZVc2UjAyTUJZNDBlWlNGeGNuaDdpYUpVNDUtXy1BMW1fVWd6ekZpdmFYTV9xM0J2cENndkVIQUlCTlF5bDhXN0hqS2tleVl5MXFxbW9aa1BmLTN5NEU5ZUs4a010QVhxNy1R?oc=5",
+      "date": "2026-06-07",
+      "source": "Google News ES",
+      "desc": "Dados de alta los contactos por hantavirus y sigue ingresado el caso confirmado&nbsp;&nbsp;COPE"
     },
     {
       "title": "Los cinco catalanes del Hondius dan negativo en hantavirus y continuarán aislados en sus domicilios - Demócrata",
@@ -1180,74 +1243,11 @@
       "desc": "Los cinco catalanes del Hondius dan negativo en hantavirus y continuarán aislados en sus domicilios&nbsp;&nbsp;Demócrata"
     },
     {
-      "title": "Los cinco catalanes del barco con riesgo de hantavirus reciben el alta y continúan el aislamiento en casa - La Ciutat",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSmltdDIyUGhha2lVU2FvQ0E2U1lncUlyU2dKdEVKMUo5emwwcWZRQk13V0c0RXVtbGFhT2FPdTRaMEpUUWlyNVlidHptMzZ3Mm1ubG9TOHhZMU9xOEVmS1U4NFQ3YVR5Z3FPdkNEMl80YThMbXJCX3NmbUI3YjBKYXUxSnlab29Zanp3bGlQUVU5Qjd5cExBMnJ1TWNNRUxGZE1Rem0xTUZkQ2NINC1YRlRSYXl2TXVOV05YZXFseXpRVUl5YTlmajF1NVVGcFY20gHWAUFVX3lxTE15YUc0TXhoWlVnejZpWmtrUjZpcWdSNHFjaEpYa3JNYTlOQjhuc1dybGY1aHhJNHd4Ylh5R2sxQUcwakxBYW5xYU9jbk11VFl3bTFLSlk4ZmxVZWFpeW95UDhPT3l6S0FJdEFZTm9lOXNkVjVuemk2NWFLSXNwLWZjcC03dG5YN1RtWHdSWUFpRUp0VW84dVY0VVZkTDhrYU83QXdVVmwybkJuNEJWS19MTnB3YXh0cnRwUW5xc1dMa3NCeUxCQldQWU9lX1ZtX0UzQ0E0Q3c?oc=5",
+      "title": "Los contactos del brote de hantavirus del MV Hondius abandonan el Gómez Ulla tras dar negativo - Demócrata",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUk1RYVdsV2E2WHl1cmQ1TGh5LUNHUXVLUGNCNnNEM3A1d0xYTURpT1RoM3dzdU01bTIyY1FMYnVkMXBCYm56NHlfREdBSWpfTVZBSWQ3WGpuNkhBZzZyeTVCWEFzeDI1eU14a2FMYm9OczBPd3YwOExyME1VTFlweUFwVFhmbm1zS0trMzFJOXVyZkRNaVdrNExCd9IBoAFBVV95cUxOM19JSFY5djJIaFRYY0ZKSTUyM2wzVVY2eVloVHUxVjV2Y19wdjR6a2VaMnpoMm5zMWlESmZaX3RXOFdxS0V5VzF5c0E4YmJrWnVQNFZWMVFRNERnS3lkV2RwX2x1Tm5hQ0NiX1I1cU5QSFZSM2t1YTRDYjJfZWltdHFOZkViZGtGMlVRZUZ2MHc5YTZXSmJIWm85amtpejhC?oc=5",
       "date": "2026-06-07",
       "source": "Google News ES",
-      "desc": "Los cinco catalanes del barco con riesgo de hantavirus reciben el alta y continúan el aislamiento en casa&nbsp;&nbsp;La Ciutat"
-    },
-    {
-      "title": "Los cinco viajeros catalanes del Hondius superan la prueba de hantavirus y regresan a aislamiento domiciliario - CatalunyaPress",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeU9iU1BQakVTSlk1UU5vWFBHUWk5dXIyUGVsbEs1ZkF5UnBWWXlrVFFQdGxXUHc1ZWNsUzNsUVJBSFYzclp3Q2JOUXdSbzczOWxrR2Ntc0RMckFHY0pQblBBc25UYXk3LS1yVXZiQVdvWk9JSFdMNFBDcllKRTliRzYtUVJaOTZqTkR4enhJcHlMbW1iT1FqRmxLR0pYNU1TTGVpVzdJRVJQcXFqM21KQjlSa0dVUWRwVnRBS2xvdWY5VG01VTNDaW1SS2R1Ymw4LU41RkF0NnNBUVBFNGdqVi1MLUY4Tm9hVTVic0FmYXM?oc=5",
-      "date": "2026-06-07",
-      "source": "Google News ES",
-      "desc": "Los cinco viajeros catalanes del Hondius superan la prueba de hantavirus y regresan a aislamiento domiciliario&nbsp;&nbsp;CatalunyaPress"
-    },
-    {
-      "title": "Los catalanes del MV Hondius vuelven a casa tras dar negativo en última PCR - Mundo Deportivo",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX3ZvblNYNHpHTVhIXzJUMTU3VlN3OWtKcEtJR2tDbGRWMzExNGdEYk1CVldWdlN4NldiTjJRZGlia0t4VGZFMHA4YTQ4RVVUSEwtTXZxRHhocjBYQk1GclAxcm4xUkJRQW9jODRRRkJxOFViMHRhOVlNZi10R0hnTDh4bUJCVzVoZjJ4SDVNcGt1QjRNanNSSzMybnVfWk1feFI4Wm1ySFZFRExLcFdMUGx4U3RiR29Lc1JmOElQMzjSAc4BQVVfeXFMTUlZMlNBUXRLTVNQWjd2S09DMTVjLXBLS0dxQW9LeW5CSUEtOFNhc3l6UUNiOUpQNy1BTjNlMGJIcVNDSEU3dFE5Vk5kOVllQzJua3NOV19qaFJFSmNUdEFycktJNFc2a3plaGhLNUhjRERsSGlYMzBWejd0WGZXWFdQaVJiampIckRlWm9sdzF3dVpoX2xuRHlEelRRRmpFQ3Y1QTI1VG1sc3ZSTzhkNTFpNDdOVDJQMUs5SXlsLTNDb3RJeEotUnlHSEZzcmc?oc=5",
-      "date": "2026-06-07",
-      "source": "Google News ES",
-      "desc": "Los catalanes del MV Hondius vuelven a casa tras dar negativo en última PCR&nbsp;&nbsp;Mundo Deportivo"
-    },
-    {
-      "title": "Texans clear hantavirus quarantine following cruise outbreak - Click2Houston",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOei1kMi00VkhEeWdaZGlncGpKLXF5T1d5RE1YOXBWaUVydnF6aXhzejZXdk5rTmVrZFJaV1ZnOWNzWFRXRzlTS0o1cmxKOEpJcUh0WXhLUkhwYkZrUHJuYTdpUDhXc3J1cExMSDRxaUpvV2VvM1pYWW1UVWUxSUVsbzNzSzlHXzIyOU5DTl82RUZrUVN3UXcxNTgxcDhFUW42VGtMQjJFTUxUcFNvTEJ3Z01FUQ?oc=5",
-      "date": "2026-06-07",
-      "source": "Google News EN",
-      "desc": "Texans clear hantavirus quarantine following cruise outbreak&nbsp;&nbsp;Click2Houston"
-    },
-    {
-      "title": "Tools to fight hantavirus show promise despite limited funding. Now researchers hope to continue - WBAL-TV",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Xdk8wWGtBNHBwaUVVTXpwRUFIRXhYZVowTHBHSmJBM0MzbjREVTV6aERsdlhNUUNLS2l3RkM1NWRyaW0xRHFJSFVaRFc4OFhwV2tLMVZ6eEZ3WDgyUVFvZ184eEZVMHJmUzg5Z3R1UVMxSE0?oc=5",
-      "date": "2026-06-07",
-      "source": "Google News EN",
-      "desc": "Tools to fight hantavirus show promise despite limited funding. Now researchers hope to continue&nbsp;&nbsp;WBAL-TV"
-    },
-    {
-      "title": "Hantavirus Search Expands To Second Province In Argentina - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUFMtclkwOHp4T0lZeFNTd0VaR1pFWTVrdmNYRDh1V2NublYwcVd2UWtsU216NmZ5aUJldEYtSm9TMnhrVUcwZkdWbFhEZi1RTEI5TkkwUG1MMUx2SS1saFJSNnJYSmx0UzRtaXptZ08teWZ4TE5aeWRoZEFVcFViTDZmaloyanNxbFZwMVFqQkJ2MHNyTVRBcTc1QdIBogFBVV95cUxQRFk2OTM1YXpwWlBzeWZlZThXdUhTS2FKQ2FNdWNmR1pCd0FxOTh0NXJFYk1YVWNTVnlsVmFwOFNoNHROTGIyOFlqQk9IRG1QWElYbGJtS2FlS2M0cnVVNmdfRkRzczZtc01YWDhFc2h3NDltUWdRTklhcjA1Wl91NVJ4WW5iZklyeDV6MDZwMlFybEx1RER2dDNSY2FzbzctSmc?oc=5",
-      "date": "2026-06-07",
-      "source": "Google News EN",
-      "desc": "Hantavirus Search Expands To Second Province In Argentina&nbsp;&nbsp;NDTV"
-    },
-    {
-      "title": "Texas cruise passengers complete hantavirus monitoring with no infections, state says - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObG5lVXlCUTdtV3RGMWQ3T0ZXQnRNMVdWZjVxZ29zNVBkNG5aOXhBcVdZdzYtTWs5ZHFtWjlWZ0dpejVxcmR3cVBVaVpmVzMwUWljNjRIU3N4bVZDdVplUU1ON2o1VEVxODVsODJ3alZPandyQUZHUHZkdjNWMFdHTkVEaGhWd2FMZDFqdEJweGpVc2FLd2R2bFNzVWpEZUE0RTdKag?oc=5",
-      "date": "2026-06-07",
-      "source": "Google News EN",
-      "desc": "Texas cruise passengers complete hantavirus monitoring with no infections, state says&nbsp;&nbsp;Yahoo"
-    },
-    {
-      "title": "Margarita del Val, viróloga: \"Hasta que no acabe la cuarentena no se sabrá qué ha ocurrido con el hantavirus\" - elDiario.es",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcy1hVU5UR3RtcVZCVXF0YnU1d0F0NVpQbGczMXRBMDQtdXREdVJoQnR3NUhTTHk5cUlSdnRJdUtsRmFrUjJxVjlJMUFMR0pEQ2dwbE1ISlpVLXhxZmlwaUQtazdlZFQ0TTB3blk1QWZDZEpiS3ZmbjVhWDNOWWxWSXExSGtWVzVaay0wdzNWa1prc01UcWcxU3dJUm84S3FjdXZJTEQ4SUg0Si12bDdTRlU1SWF0UDNsRG9yX2tR0gHDAUFVX3lxTE91bmY5MmVKTWxONXloSTVxUkgwa204N2tydktXMXBaUkN3Mnh5OU1Hd1o4cnNiclRxRGx4ZG1mLWR1blJqdG4tMWd1SFFYT3AyMTBvd3loWE1mOWo0bHFrY3BlU285TzRJZDZBOEtmbzNtREdXd2RFZkJFNmhkRTJwSlJ0eVNmQnlncXl3MjhLeXNQTm5QeWUzYTNmZFJkWTE2RlR3bHpMX1N2aEtCOHJZOTNuMG42dlh6UXcxbFFwaEdsZw?oc=5",
-      "date": "2026-06-06",
-      "source": "Google News ES",
-      "desc": "Margarita del Val, viróloga: \"Hasta que no acabe la cuarentena no se sabrá qué ha ocurrido con el hantavirus\"&nbsp;&nbsp;elDiario.es"
-    },
-    {
-      "title": "Hantavirus: Argentina expands probe to trace outbreak source - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTDBwWmxyRnpKMzB1anREQUtvOWEwR0VJcnR4YWhHVWVNakVxZVNUQ3JMM3FyRG1HRUV3S01DSFZQX3VFSkxTS090THRTMmY2MV9GVzZrU1BGNXBPNkZhU3hjZ1FlVHZoMWdCZnNMQ1RMOGtjb1U0WExFakI1ZFpRbGc1dzc4TERMVWttRnFqZS1BZ1ZqQk11Z1VsNERfZkdRa2NjcDI1SE3SAagBQVVfeXFMTjN3cnRzSlpCbmRzbzQ3SHVtS3R4R1N2b1NFdmlzYjlodzlaVEJLZ0hMVjc5eVdvUElpX3J2UXhFXzJLc3VFUkVsYUFqcW5oUGlxeFZMSHctQjJ5bXlvUGdzU0R6S3AxcXFxaHZORWFQVWlzcVRvaGpVTkZPM2NQZ2JXY1lzeDZCRV93bldlQUVFWnJRWWFmb3MxQV9aQlNjd2NpdE9kVlpw?oc=5",
-      "date": "2026-06-06",
-      "source": "Google News EN",
-      "desc": "Hantavirus: Argentina expands probe to trace outbreak source&nbsp;&nbsp;DW.com"
-    },
-    {
-      "title": "Local Health Officials Warn Of Hantavirus Dangers - myMotherLode.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc2t5NEc4Y256Z0FoM0ZoMGU1ZXMyWmpYSkFZUjNWWnkxNzB6dzQ5V2t0NExTa0xuMUliSklTUHdwaUQyRXlEVDh2Y3IwdnpKcHZMc1UwMWxBUHRYbXZrU0c5eGdhSzV2LTFsTUZIR0RDSldHVEVCZkhqT1ZPMU9TY0RaXzhYbDNEYWFUN2RDbzVLU0QyM1JUOXpxTVpFaHUt0gGmAUFVX3lxTE5hM0JQS3VHeTRpdTFKNTJkN0kyZnQtZnlSeU9LaVFOOWQ5RnEzbE0wLUNVQWJFODM1ODN6VGFGN216blpLcWNWNFVpVE9ubnlvb25aNzRQek1pQTBLaDhCTTZBNGxqM0FHeENMdmpoQU8xUk55TExtUlNIVWZXY0pfY3RGd2J3YUxfSGpKUXRJa1ZadjhEWVU5RWVoZHIzb3VCdEhvZ0E?oc=5",
-      "date": "2026-06-06",
-      "source": "Google News EN",
-      "desc": "Local Health Officials Warn Of Hantavirus Dangers&nbsp;&nbsp;myMotherLode.com"
+      "desc": "Los contactos del brote de hantavirus del MV Hondius abandonan el Gómez Ulla tras dar negativo&nbsp;&nbsp;Demócrata"
     }
   ],
   "countries": [
