@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-06-08 22:16 UTC"
+    "updated": "2026-06-08 23:47 UTC"
   },
   "current": {
     "cases": 13,
@@ -1194,6 +1194,13 @@
       "desc": "España y Países Bajos ensalzan \"el éxito\" de la gestión del MV Hondius con hantavirus&nbsp;&nbsp;Infobae"
     },
     {
+      "title": "Doctor quarantining at home after being monitored for hantavirus in Omaha - KETV",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMnhSTWd0em1nT1VvU3VxTUc3UV9acnJ3TlJzWTRvVmw0T2QzM09UMkJNR0p2d1Vqc3BiZmFpSUlmaElSeW52amFNTWdkVlh1ZG9pZWJfcW9ielVLZldlUVVabXFIYS0xdnBjTVF2STB4WlVFZmJPSTc1YlE3MHN6RFFmVXA0Yk9VYjdsdk1WTDYtZw?oc=5",
+      "date": "2026-06-08",
+      "source": "Google News EN",
+      "desc": "Doctor quarantining at home after being monitored for hantavirus in Omaha&nbsp;&nbsp;KETV"
+    },
+    {
       "title": "Hantavirus monitoring ends for 2 Texas passengers aboard MV Hondius - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSW10Q3gxNW9xeUVaME5oYld4RnFlYm15d0QtUXdxdktGT2p2T3FZMkduMktKYWRsZVZ4TWhLVHNKb1BKZ3JkLXFoQ2hBNEg0T05kZ19CazhLWWtLOGxFZmVvWnJOQnBFR3VReVUxUkl2R3hNbHhLb3ZzUVd1MmtUT0lXemlWMnhiWVI4?oc=5",
       "date": "2026-06-08",
@@ -1208,18 +1215,11 @@
       "desc": "Hantavirus monitoring ends for 2 Texas passengers aboard MV Hondius&nbsp;&nbsp;KVUE"
     },
     {
-      "title": "Texans aboard hantavirus cruise ship complete monitoring - Spectrum News",
+      "title": "Texans aboard hantavirus cruise ship complete monitoring - spectrumlocalnews.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdkpRaFlPNE93MFBia1ZxYkEtZHhvdWdGMkdlNmtVZGVIRjNnRWVjenVHZWRldXlVajB2aDZUUmRrTW5WVU5iejJwYWEwcDgzQnpvUmJpckt2cG5nUnVwemV1bDFqYm9RRHJweTNFY2pvQk9oaVJaUTFEUHVqS21qZ2tBWldYbVphTGNfck1WNk50SmJLd25tZzdyR0g0bXYzTU9hVzhjQVkyYTM4T01ITnlNeURlcEJPTndmMEJmVU5aNmc?oc=5",
       "date": "2026-06-08",
       "source": "Google News EN",
-      "desc": "Texans aboard hantavirus cruise ship complete monitoring&nbsp;&nbsp;Spectrum News"
-    },
-    {
-      "title": "Two Texans cleared of hantavirus risk after period of isolation - KERA News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVnRFdzY2REJBemFVcGlhVTlFRExNNlYtZzNITTZqcktRelZpUXpTX3l2bEJRYkdPN0NPNkJ3SkUxeF90QUh1anI4dVdCTTR3OWstMlVXclJQbmxWNER2RlBuWVZTR2lvZlJxejY5alEzN3Q0MUNZc01CckJJTkJyblA5Mk92SE5kZ1NqLU54djhWNkJuZVlhb1NmTWNYSlRaZzJmc2xB?oc=5",
-      "date": "2026-06-08",
-      "source": "Google News EN",
-      "desc": "Two Texans cleared of hantavirus risk after period of isolation&nbsp;&nbsp;KERA News"
+      "desc": "Texans aboard hantavirus cruise ship complete monitoring&nbsp;&nbsp;spectrumlocalnews.com"
     },
     {
       "title": "Two Texans finish 42-day hantavirus quarantine without infection - Austin American-Statesman",
@@ -1227,6 +1227,13 @@
       "date": "2026-06-08",
       "source": "Google News EN",
       "desc": "Two Texans finish 42-day hantavirus quarantine without infection&nbsp;&nbsp;Austin American-Statesman"
+    },
+    {
+      "title": "Two Texans cleared of hantavirus risk after period of isolation - KERA News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVnRFdzY2REJBemFVcGlhVTlFRExNNlYtZzNITTZqcktRelZpUXpTX3l2bEJRYkdPN0NPNkJ3SkUxeF90QUh1anI4dVdCTTR3OWstMlVXclJQbmxWNER2RlBuWVZTR2lvZlJxejY5alEzN3Q0MUNZc01CckJJTkJyblA5Mk92SE5kZ1NqLU54djhWNkJuZVlhb1NmTWNYSlRaZzJmc2xB?oc=5",
+      "date": "2026-06-08",
+      "source": "Google News EN",
+      "desc": "Two Texans cleared of hantavirus risk after period of isolation&nbsp;&nbsp;KERA News"
     },
     {
       "title": "Texans Cleared of Hantavirus After Monitoring - Audacy",
@@ -1241,13 +1248,6 @@
       "date": "2026-06-07",
       "source": "Antena 3",
       "desc": "Los españoles en cuarentena por hantavirus reciben el alta y abandonan el Gómez Ulla: el contagiado sigue&nbsp;&nbsp;Antena 3"
-    },
-    {
-      "title": "Todas las personas que permanecían en el Hospital Gómez UIla como contactos de hantavirus se marchan a sus casas - RTVE.es",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQkd2THVYX04tUnB3a2kzMktMaGs4cXhxWk44LV9LMlVtQ3Z4aUYtZk0tSWRtZHl3MF9zV3l4MFhRdDlQQ3E0TkZfWVU3Zi1Rb3ZWWWd5b0pVOC1MS3VtVzFRZTlkSzlKNWJPeXdLbnBZTjJUU3M0LWd6ZnlQbVdJNWZxT2dHcnk2WnFLT3F1Vy1WaV9WNlBRdC1VT3ltYXdOMjd1N204bkxOaHVzUEFHS3RjTDlXTEFBQVJqY2Jpb252Rl93TURNNW4xa0h6TENZNFdN0gHTAUFVX3lxTE1CR3ZMdVhfTi1ScHdraTMyS0xoazhxeHFaTjgtX0syVW1DdnhpRi1mTS1JZG1keXcwX3NXeXgwWFF0OVBDcTRORl9ZVTdmLVFvdlZZZ3lvSlU4LUxLdW1XMVFlOWRLOUo1Yk95d0tucFlOMlRTczQtZ3pmeVBtV0k1ZnFPZ0dyeTZacUtPcXVXLVZpX1Y2UFF0LVVPeW1hd04yN3U3bThuTE5odXNQQUdLdGNMOVdMQUFBUmpjYmlvbnZGX3dNRE01bjFrSHpMQ1k0V00?oc=5",
-      "date": "2026-06-07",
-      "source": "RTVE",
-      "desc": "Todas las personas que permanecían en el Hospital Gómez UIla como contactos de hantavirus se marchan a sus casas&nbsp;&nbsp;RTVE.es"
     }
   ],
   "countries": [
