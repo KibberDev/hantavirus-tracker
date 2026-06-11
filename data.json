@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-06-11 14:57 UTC"
+    "updated": "2026-06-11 18:25 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,6 +1124,13 @@
   ],
   "news": [
     {
+      "title": "White House response to hantavirus and Ebola contrasts with COVID criticisms",
+      "url": "https://www.npr.org/2026/06/11/nx-s1-5854492/hantavirus-ebola-health-freedom",
+      "date": "2026-06-11",
+      "source": "NPR Topics: Health",
+      "desc": "The administration imposed mandatory quarantine orders on two passengers from the cruise ship hit by hantavirus and is blocking Americans who catch Ebola from returning home for treatment."
+    },
+    {
       "title": "White House's response to hantavirus and Ebola is at odds with COVID criticisms",
       "url": "https://www.npr.org/2026/06/11/nx-s1-5839155/white-houses-response-to-hantavirus-and-ebola-is-at-odds-with-covid-criticisms",
       "date": "2026-06-11",
@@ -1138,25 +1145,25 @@
       "desc": "La preocupación por la sanidad cae en junio tras la crisis del hantavirus&nbsp;&nbsp;Redacción Médica"
     },
     {
-      "title": "Actualización sobre el brote de hantavirus vinculado a un crucero internacional. - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPODBKX3RNcnZzZ3V2eVBHT1VIUW52YmU1SlY5NTNfWXN4VVVWOTJTdjV6YzdMY2VYTE1zWEpnYmJ1MllEakhDYVZ0TVlwbTdhQWJTdjRPTXpYcS16SHVicjZTTWxTWTBjbUw0ZnZrc3pZazBtd19fNVl6ckh4TGVLdS1tdk1adUdvb2hvUVBWS0VVdGZnTjBvYmxOZXI?oc=5",
-      "date": "2026-06-11",
-      "source": "Google News ES",
-      "desc": "Actualización sobre el brote de hantavirus vinculado a un crucero internacional.&nbsp;&nbsp;Vietnam.vn"
-    },
-    {
-      "title": "Hantavirus Cruise Passenger Says She's Being Held Against Will - TODAY.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSVRhaWt5SDFCbjV2ejhNVVJwdXEzeDJ4TDhRMHVUYnZwYVJlSUs5RWNLenMyY1F1dDk5RW9LcGJNcWUwRElNQkdjOHc3OWpGNGlBTXpXaFc3UW9Na0huM0tZekh0UEtiT3VhTWtTakVMaElmbnlLd0JMN05QeF9BTUtXYnNERElkb0h6SVdtUkdoU05Bc3lkNE1wY21HUFpGTFctMl9Xcw?oc=5",
+      "title": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - San Francisco Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbkdGTGpNZVA1SFVycXFZQVNPMjdzdnFfU254TVROTFRrQk4yQk5jRDVuTllWMjk2R3E1VURKVXFPUllieksydFlDVlVNMFVyaGREUWZLb2lkVHEtYm5ZTm1BSl9kTnNtb01PWk95WlpXYzNIMmtVVWNDNmZ1aU5rQ3p3OUZtemZHaDF0Vk5fQmIycnV2cE9Ja3VfdXVZb3VhbXhB?oc=5",
       "date": "2026-06-11",
       "source": "Google News EN",
-      "desc": "Hantavirus Cruise Passenger Says She's Being Held Against Will&nbsp;&nbsp;TODAY.com"
+      "desc": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island&nbsp;&nbsp;San Francisco Chronicle"
     },
     {
-      "title": "Possible hantavirus case at San Quentin prompts testing, decontamination - San Francisco Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVHRkYUNVR2hQNXhZU3hYMlNOYUxoX05OSXpxdTZlRUtCRG8tYU5pejNReFp1M1JMNXNXa0tMb0otcms3UGtWN1pweE5yVVhhZExLN3FoMk1KRF9YcFdOc2ZJR2pEbjFGM2d3ZTB4N3c0T1VaSjRwXzhobGRQekwxRkxWMHl3UjhiNWhIUjVWYw?oc=5",
+      "title": "White House response to hantavirus and Ebola contrasts with COVID criticisms - NPR",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdm5Xbm04UmpZRElqUGZMcGtCN1JXeS10QklkX1haMGVTQ1U2SXhsTFFCTGsya2xVdkVycFNpV1NEMFh4ZlVGdjliOG0xYlZvQVNtdS0yYWRRcFBvMFdySnZRbDhETXgwU1RKUndXUHppRUdtOWtZSWp5SjUzbUVqQlJn?oc=5",
       "date": "2026-06-11",
       "source": "Google News EN",
-      "desc": "Possible hantavirus case at San Quentin prompts testing, decontamination&nbsp;&nbsp;San Francisco Chronicle"
+      "desc": "White House response to hantavirus and Ebola contrasts with COVID criticisms&nbsp;&nbsp;NPR"
+    },
+    {
+      "title": "Hantavirus Cruise Passenger Says She’s ‘Being Held Hostage’ Due to Public Health Dispute Between CDC, Florida - TODAY.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSmF2bEUtR1BjQ2NpU3NXM2NvUFFwSnJnaFJFQ2NaOEo2LXVDRnVUbjhqUkk4STFDOHdYNHFqUlktZWswUDA2OXFNZEJPQlFqUFJRU2dXaUNYTTBBQmJPWTlZN3dXeVRudXd2UGloWENscTlHZE9UTGpRRmxLRGlmUHhYaTNUQ3ltMkkxc1VUVjRoQ3hjcEFBYWZsMWc0bnpYakRNRw?oc=5",
+      "date": "2026-06-11",
+      "source": "Google News EN",
+      "desc": "Hantavirus Cruise Passenger Says She’s ‘Being Held Hostage’ Due to Public Health Dispute Between CDC, Florida&nbsp;&nbsp;TODAY.com"
     },
     {
       "title": "Table for one: Exposed to deadly hantavirus, man is eating his way through quarantine - Flatwater Free Press",
@@ -1166,11 +1173,32 @@
       "desc": "Table for one: Exposed to deadly hantavirus, man is eating his way through quarantine&nbsp;&nbsp;Flatwater Free Press"
     },
     {
-      "title": "White House's response to hantavirus and Ebola is at odds with COVID criticisms - KNAU",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdU1qeklnRUdKY1F0b2FyR3NDRDRJLTNVOXI1M3JHc2hEczdXdERaSGFMelRDa3lRMVNLNzFIQlZCekNjY0dMOUZ3dFh5eGo5NVNfUXhuVHdOSHk4TTlmalF2Q1N0RU4temwwX3VPSVVXclZKMGRzOXItVTZDejJsT205Q0ZIZ19lckNRX0luNWVIT1FaQ00yeXRSTUtTV1JUOWtqWjlDNlpOQzV1ZlpR?oc=5",
+      "title": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUThMc0pIYUVmdmh0VDhLd1J6Njk3T0Mzenppak14OWE4eWhrYjA5MEZGdDN6dnN3UzQ3aFVlNWNyeTJmQ18wU05XN2tQZjlQT09wdFRZc3VDTG4xamx2YWgyODVQaWVTUmw4?oc=5",
       "date": "2026-06-11",
       "source": "Google News EN",
-      "desc": "White House's response to hantavirus and Ebola is at odds with COVID criticisms&nbsp;&nbsp;KNAU"
+      "desc": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)"
+    },
+    {
+      "title": "Possible hantavirus case at San Quentin prompts testing, decontamination - San Francisco Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVHRkYUNVR2hQNXhZU3hYMlNOYUxoX05OSXpxdTZlRUtCRG8tYU5pejNReFp1M1JMNXNXa0tMb0otcms3UGtWN1pweE5yVVhhZExLN3FoMk1KRF9YcFdOc2ZJR2pEbjFGM2d3ZTB4N3c0T1VaSjRwXzhobGRQekwxRkxWMHl3UjhiNWhIUjVWYw?oc=5",
+      "date": "2026-06-11",
+      "source": "Google News EN",
+      "desc": "Possible hantavirus case at San Quentin prompts testing, decontamination&nbsp;&nbsp;San Francisco Chronicle"
+    },
+    {
+      "title": "Hantavirus update: 2 more cruise ship passengers leave National Quarantine Unit in Omaha - WOWT",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVHFxV045UFpCLURiUDd1QVYwc0FFUExvQ0sydVR3aGZXMUlTQm5XV0l4b1JhaDhmZHFUY1JNSjJfOUpvUHdMT1ZhQThvOFNGRkFwanc1OFlSQ0RTWTlhMkJPM0VQM2NWWGFBdG04VWF2emh6VVpXbzhIdEt0cEpoSHF5Q2lwVklwQjJtd3ZsWkFkT2JmTkdObHhlenRwWFVHWTJ5ZW5PU2xJR3doTFVqMHVWRkFvWE9F?oc=5",
+      "date": "2026-06-11",
+      "source": "Google News EN",
+      "desc": "Hantavirus update: 2 more cruise ship passengers leave National Quarantine Unit in Omaha&nbsp;&nbsp;WOWT"
+    },
+    {
+      "title": "﻿﻿US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYnBrYUI4NHVtUHN6MWJ4QVdWM1NtY28wQnRsYVIxWG9FZ3RNVk5fTWNxcnVXLUg1SnotLTVrRHM1ZmM0NENzZmptcnpkczY2dWVqbU96MEJFQnE0Rk1ydjdwcS1OUW5RNTNsSGt2X0xxRXIzT1VteldkNG1BTHZZOVlYckNzMnYzRTNYTDJIUkpqZXFiZGdXR1BHdXBYM3BoWXgw?oc=5",
+      "date": "2026-06-11",
+      "source": "Google News EN",
+      "desc": "﻿﻿US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island&nbsp;&nbsp;AP News"
     },
     {
       "title": "Hantavirus: Is it a New Coronavirus? - The Media Line",
@@ -1180,11 +1208,18 @@
       "desc": "Hantavirus: Is it a New Coronavirus?&nbsp;&nbsp;The Media Line"
     },
     {
-      "title": "Hantavirus Cruise Passenger Says She's Being Held Against Will - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRjJaSUE4QmZqTmRmSWp5Q05sbzhDWVFIcVl3YTZ3Q1NiV3NmNlhsRi11R0tSRHFUTWp4SFdkemV1cjFMdTZ1RV9XdUppTGs0SU1tS2pRSlhCTEh6Sk9XOTlfN3FjZ2RvcGR0Z2RqMVdpSnJ2Wl9wTjBPRjlkb3Ayc1AtXzZJN0FLX21VNkpXNA?oc=5",
+      "title": "Hantavirus and the EPA- A Collaborative Defense Against Viral Threats — A Conversation with Dana S. Lateulere and James V. Aidala [Podcast] - The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNenlkaEdXLWNWc3hja2dRWE8zdm8yQ2RBVGZTcW5JaHhIWnNIYkpKd0J3eHNvWHlOUUtYeU9JLTItck5nYTB2bktuYmZxTDUwbW9OYlBtRTB2UW1ENk5pcW1NbHFYMTg2dXFzTWZyZmp6aDFxblZuZHN3NU5wQ1J5bmhNZWZzajE0YWtLZkdTT09XZGIyZk94WmZNZ3BwMGowR011Vklmd0JaODJMUzVtQlZBX3pzZ9IBuwFBVV95cUxNbU1WU3lmMjdtMlQwVzdEX2NCSk02R3lrMnFzR2xjZlplbFJPT2JLVkdGSUR4VWdGeDB0cUNlSGI1ci12NjR6RFdSd2xRR2Z1TGRUYTh0SlgzS3Bhczd6Yng0UnFzZTJPcklnZy1fWWxFMDR3UnBWQUU5ZXFDQ1dSX3ZqaUhpc3dqaVdYYlNWazkxOGZpRW95OG9LQ0U4OXg5RzdWRU95Q21ZTWFwVTNSVnBHcEJOZTQ3RDdN?oc=5",
       "date": "2026-06-11",
       "source": "Google News EN",
-      "desc": "Hantavirus Cruise Passenger Says She's Being Held Against Will&nbsp;&nbsp;Yahoo"
+      "desc": "Hantavirus and the EPA- A Collaborative Defense Against Viral Threats — A Conversation with Dana S. Lateulere and James V. Aidala [Podcast]&nbsp;&nbsp;The National Law Review"
+    },
+    {
+      "title": "Hantavirus Cruise Passenger Says She's Being Held Against Will - TODAY.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSVRhaWt5SDFCbjV2ejhNVVJwdXEzeDJ4TDhRMHVUYnZwYVJlSUs5RWNLenMyY1F1dDk5RW9LcGJNcWUwRElNQkdjOHc3OWpGNGlBTXpXaFc3UW9Na0huM0tZekh0UEtiT3VhTWtTakVMaElmbnlLd0JMN05QeF9BTUtXYnNERElkb0h6SVdtUkdoU05Bc3lkNE1wY21HUFpGTFctMl9Xcw?oc=5",
+      "date": "2026-06-11",
+      "source": "Google News EN",
+      "desc": "Hantavirus Cruise Passenger Says She's Being Held Against Will&nbsp;&nbsp;TODAY.com"
     },
     {
       "title": "La OMS confirma que las trampas para ratones que arrojó al mar el presidente de Canarias evitaron la pandemia de hantavirus - El Mundo Today",
@@ -1213,41 +1248,6 @@
       "date": "2026-06-10",
       "source": "Google News ES",
       "desc": "Crean una herramienta para acelerar la secuenciación del genoma del\nhantavirus&nbsp;&nbsp;IM Médico"
-    },
-    {
-      "title": "Reino Unido confirma un caso positivo de hantavirus - Noticias de Gipuzkoa",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN3VwY0dUdFNOQlRmTWQ3a2NIcHJlTWMwWmlscEthNl83cWVVLVpvNG44djR1bW1jTGZhRnFXT1VPZDFtYXY1NlNZLS02UC0zdnJZRlpWUzU3TlJyblZKcVdlNFA3cDN2S1hyS2RNYVhlYld3VGVlZzQ5UzR0Nm5rVktNZlpFRTdqN0lWSW14emxIUDdBYWE2ZnBwbzJYVDYtZkHSAacBQVVfeXFMT0JaTUlZbUxzZ2w1RGZtbWViSktGTFRhX1hyRGdWamJnemZvbzhfazlURkJfeVlJaXRiNEJ0VGZwRnV6dVhLdWtOUk1Rd1JZeGpOYXp2UlFYMnVNRU9rcGprdGFjUDdLcHZ3V295NTY2RVhETEROVkVnYUdVbGtCY2REV2I0b0xJTkZ5ZzZvMnpQNW5BZTVNYUlxVU5rX3B5dTh1U202WG8?oc=5",
-      "date": "2026-06-10",
-      "source": "Google News ES",
-      "desc": "Reino Unido confirma un caso positivo de hantavirus&nbsp;&nbsp;Noticias de Gipuzkoa"
-    },
-    {
-      "title": "San Quentin Rehabilitation Center confirms 38-year-old male inmate contracted possible case of hantavirus - ABC7 Bay Area",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSVlIWnRsUU1WUzR3dEY4VENxVXBqQzh1djVmQkFEQ1dtSUl2MTlPcnpyZWJSQTFNcU85bml0Mld2SVVodm9xWTVMeGIyMDlMbHJDcS1jMmdpZFNJQnl3Q0txMS1KQTdUVEJGMmRLZW5QUkxfenVfci1qcC1YNElMZkhWa3dXd1o3c3dmTEdYc2J1ZW5ueUwxSGE1Z0pPVlY3T1ZMMTFPbnFPZWRMVTNHMnJnclVGbkNTZGl0Y3hNZ3JyLUtoWFYxU3FiVHc1YUV2cEZNaNIB2gFBVV95cUxQMnZhOFZhTkdwekZRUWhnY0VUZEdGaG1TTFJ5bDVNdUZMaHBzNkozMjFreWVocHR4VUxLbThZMHhxOUdkSzBOWmxjMFpJSDkteXRObUlpbWRoYnU5cW9GcWZPUzhmc19sY3lHcmJRaU9vazlaMEwtUVppRWxjUnpKdnIzRmZBUGZ0UHJMNmN5TjRlTXRReGhlTE9yQ29WTmdXSmV1dXJjZDVOQjd1RDZtN2hRYlRvNGFfNFdnRDRzZkMzN3hoSWt0c2MzaGZLVVgtZWlGSE9USGtMdw?oc=5",
-      "date": "2026-06-10",
-      "source": "Google News EN",
-      "desc": "San Quentin Rehabilitation Center confirms 38-year-old male inmate contracted possible case of hantavirus&nbsp;&nbsp;ABC7 Bay Area"
-    },
-    {
-      "title": "Why Andes hantavirus is not the next COVID-19 - News-Medical",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTZHYjdmZk51dXZfOW1NZUQ4UnpRTm9YejVqcGxnRGhwbzNsVmFrYXBYZkRZUHVscEhKNjVEY09US3dFS0s4TUZqYVBmby14cHNxY1VFRlE5MjBRaEFhNmZIaEctQ2VrVlc3WVZGVGRKZlNGNlM5VEIxNk9mQk5mTEJIRzBBMVVwVU5iX0x4U3MwYWI2VXpRYg?oc=5",
-      "date": "2026-06-10",
-      "source": "Google News EN",
-      "desc": "Why Andes hantavirus is not the next COVID-19&nbsp;&nbsp;News-Medical"
-    },
-    {
-      "title": "Three more hantavirus cruise ship passengers cleared to leave Nebraska quarantine - WFAA",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZUFRamhFNnl0YVBpclE4SU9vMGJFVzM3aU5MVmVMZDBTTE9haUNNWHkxWmQxRTJQU3JKZjhNNlNXWHA0Szc5akh2WXJDa3k4RU84czRXNEt2Mk0yVnh5bktTMlM4eTl5bEluSmpXNGx2Y1ZkLVB5Tl9XWWN1S00xVUhxQUNIRHQwZ2F0QTR4eXVicE84TktLLWhiclF3WnczamR1Yl83MFRvQnlPVFBmSlo2OF9rOTRpWG9BR0dERTZJUm1JYW8zbzlRUGRnYTdxcENNUEx4aTBYcVVHZXNWTlJvRUF3bjR6XzExdHVha2U2SWlPTGc?oc=5",
-      "date": "2026-06-10",
-      "source": "Google News EN",
-      "desc": "Three more hantavirus cruise ship passengers cleared to leave Nebraska quarantine&nbsp;&nbsp;WFAA"
-    },
-    {
-      "title": "The World Cup’s Real Viral Threats Aren’t Ebola Or Hantavirus - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRnp0NUxRWDdpX1Brc25MX01MUENXTkpFcm01dmdHNU9FMlpEbUhMWkRiWUh6ZDRQejlIWXRNaFpoMHlibXdkamFBNGtpRFFjVm81Sk80YjQ2TXRGdWVyREkwUXFZU2RxWS01VkFtR0d4NzdpT3NzQWRDeDlsUi04NWFqRDd0ZkJRYk0xWEs0U1diUWE1ek5RMjRhdndnZlRwTnBxUVNGcVNKRnNMZXhtS0pydWxodnpk?oc=5",
-      "date": "2026-06-10",
-      "source": "Google News EN",
-      "desc": "The World Cup’s Real Viral Threats Aren’t Ebola Or Hantavirus&nbsp;&nbsp;Forbes"
     }
   ],
   "countries": [
