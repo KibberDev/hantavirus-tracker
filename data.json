@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-06-13 10:35 UTC"
+    "updated": "2026-06-13 12:16 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,6 +1124,20 @@
   ],
   "news": [
     {
+      "title": "Some quarantined cruise ship passengers push to return home",
+      "url": "https://www.npr.org/2026/06/13/nx-s1-5853598/some-quarantined-cruise-ship-passengers-push-to-return-home",
+      "date": "2026-06-13",
+      "source": "NPR Topics: Health",
+      "desc": "Some of the 18 cruise ship passengers in quarantine after a deadly hantavirus outbreak have had a tough time in isolation."
+    },
+    {
+      "title": "El mensaje positivo de los médicos durante su congreso en Asturias: el riesgo de expansión del hantavirus en Europa es bajo - LNE",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQekxEMmlhZ1YtUWswMllJZkxmZG5TclBla3NybkVPdzhFMHdFSjhQMWdEa0pmcEQxMGFZVXM3cVZrbHVtZFhFcURtemJYUGE2VjU0MzZUdzRtOFcwWEZtaW1uWTltUkVKVURCdXdLQklVemkzQ1lVYmc1NzVhSjFrMGEtWENfOE5SdlJTRTJCeDM2ZlpFQTBmS2NTa9IBoAFBVV95cUxNUWpXRUE3dkhiNjk0cDNHOU4xOEdsMFdIbDlza3lvcXRHZm0yc0FnWXVnNUtfZUZNWUFKZUd6bWdidnFEc2Z0eXVfMnA1MTJFM2o3S1pBeERfZDBfMF8xMm1IY0Y2UUM1b0U5WHUzNEtkSjJTejVPV0hJczVkSURKOWQwWHFOTWJuT09Ybm5aWFAzd0tMVU1VamM5Y1BkSUdK?oc=5",
+      "date": "2026-06-13",
+      "source": "Google News ES",
+      "desc": "El mensaje positivo de los médicos durante su congreso en Asturias: el riesgo de expansión del hantavirus en Europa es bajo&nbsp;&nbsp;LNE"
+    },
+    {
       "title": "After hantavirus exposures, 3 Kansans complete observation period - The Topeka Capital-Journal",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUk1FVjZWWmx2YVFqUHFORzlOQ2cyUU4zQXQzNmJlYW9jSVJZRnJZcGN4VkFvZ1FpdEhURnROd2tYdEIyS0J5MWNKNmVYdlRYcm56XzdxTHNOTE01Y01JNUxDLXAxNkZXZWJOR01WY1hjYlMyRXp3LUIyYVRuRlVwckljNzR5cHJHVjhJZVZLUlB4U0F5TlZzZjZ6Q0ZzVFo1TFlmQ3ZWWGpKcDF2Rk80ZVpKRXpnWm5CVkx5RjNEQXBoYzFkR3V6RDMybFJ4dDZVQVhsaQ?oc=5",
       "date": "2026-06-13",
@@ -1201,11 +1215,11 @@
       "desc": "Hantavirus One-Shot mRNA Vaccine Fully Protects in Syrian Hamster Model&nbsp;&nbsp;Genetic Engineering and Biotechnology News"
     },
     {
-      "title": "Hantavirus ruled out for San Quentin inmate - The Press Democrat",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQXBaejVfVU54OGt0RU52dmdZQTg3WnZxMnVxc0k2Ml9pQkVGLUV0R282OWpuN0lYaXlTZmFJSWlTR0VDVVRmRHpNOTdMSkY4d182cW5nbjllaklGUEVyaG53aE4tWWlIeVBUUmtGWGlRRXQ1WG04VXp3dFhVWlpWc2trRjdEUi1oM1p2czlR?oc=5",
+      "title": "Hantavirus ruled out for San Quentin inmate - Marin Independent Journal",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQnp6V3hjV2pjNS1fR3VRSjZQMXBVY1ZVbGNEc2JNMWFwYzd2cV80ZllsQ1hyRmJva2dnWXhZMFlEWXFsZV9UNzdZZWpjeE9GYktMNkFqd2RlMWNfVzJsaE9vUkZVdU9pSWk4VmpXcGxkelRheHJDSGdvWkV1VTFtYWNuY1ZhQdIBiwFBVV95cUxPenF3Yzl2MHpQb09NMC1jVEZvVXRCcGdGWTFMcnlSMDF4ejdqUk1MeDh2Z0V3WXQ5bm1jRG1SRHJkSUpnVXEtcjVLVlFXdWJldW1vdWxtVHh6d0FzWXZnR3FfdlhkbkVYaHBVQ2c2NllrMmV0bjMxdTNsQ0lmekZfRno3c2tNZmVzdWtR?oc=5",
       "date": "2026-06-12",
       "source": "Google News EN",
-      "desc": "Hantavirus ruled out for San Quentin inmate&nbsp;&nbsp;The Press Democrat"
+      "desc": "Hantavirus ruled out for San Quentin inmate&nbsp;&nbsp;Marin Independent Journal"
     },
     {
       "title": "ICT NEWSCAST: Indigenous water rights, hantavirus, nurse loan limits, Native movies and more - ictnews.org",
@@ -1213,13 +1227,6 @@
       "date": "2026-06-12",
       "source": "Google News EN",
       "desc": "ICT NEWSCAST: Indigenous water rights, hantavirus, nurse loan limits, Native movies and more&nbsp;&nbsp;ictnews.org"
-    },
-    {
-      "title": "Twenty-one countries launch coordinated Andes virus research initiative following hantavirus outbreak - World Health Organization (WHO)",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPY281cWdWVUZzY1JnRlBsWi16Q2VoRkdLUm9wV29DQUxLM0MtTzg0WjFlVEctdHZKOTFKWDViUDFhVDFsWk9zQm5oM3QwMkhnZ3d1emJYMlJla1NIM2JsZW1ldWJlYjUzbF9kMWkzMVFUaXBrREc1bzNHa21CRFJIQVVrYk85QzI5bUtyb1I2eVZ1eVRNWkh5d1pTcXNzQ2c4Zmo4T3RZVDkzVGMxZExRNjJyVGRwY3FmaGszMElxcDJQd1RyUVctcUFkblBHREswS1RMeVNSMC1KUQ?oc=5",
-      "date": "2026-06-12",
-      "source": "Google News EN",
-      "desc": "Twenty-one countries launch coordinated Andes virus research initiative following hantavirus outbreak&nbsp;&nbsp;World Health Organization (WHO)"
     },
     {
       "title": "Hantavirus Outbreak On MV Hondius Cruise Exposes Hidden Agricultural Threat - Eurasia Review",
@@ -1241,13 +1248,6 @@
       "date": "2026-06-12",
       "source": "Google News EN",
       "desc": "How Hantavirus May Expand Cruise Ship Liability Concerns&nbsp;&nbsp;Law360"
-    },
-    {
-      "title": "White House response to hantavirus and Ebola contrasts with COVID criticisms",
-      "url": "https://www.npr.org/2026/06/11/nx-s1-5854492/hantavirus-ebola-health-freedom",
-      "date": "2026-06-11",
-      "source": "NPR Topics: Health",
-      "desc": "The administration imposed mandatory quarantine orders on two passengers from the cruise ship hit by hantavirus and is blocking Americans who catch Ebola from returning home for treatment."
     }
   ],
   "countries": [
