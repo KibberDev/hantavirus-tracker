@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-06-13 07:58 UTC"
+    "updated": "2026-06-13 10:35 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,6 +1124,13 @@
   ],
   "news": [
     {
+      "title": "After hantavirus exposures, 3 Kansans complete observation period - The Topeka Capital-Journal",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUk1FVjZWWmx2YVFqUHFORzlOQ2cyUU4zQXQzNmJlYW9jSVJZRnJZcGN4VkFvZ1FpdEhURnROd2tYdEIyS0J5MWNKNmVYdlRYcm56XzdxTHNOTE01Y01JNUxDLXAxNkZXZWJOR01WY1hjYlMyRXp3LUIyYVRuRlVwckljNzR5cHJHVjhJZVZLUlB4U0F5TlZzZjZ6Q0ZzVFo1TFlmQ3ZWWGpKcDF2Rk80ZVpKRXpnWm5CVkx5RjNEQXBoYzFkR3V6RDMybFJ4dDZVQVhsaQ?oc=5",
+      "date": "2026-06-13",
+      "source": "Google News EN",
+      "desc": "After hantavirus exposures, 3 Kansans complete observation period&nbsp;&nbsp;The Topeka Capital-Journal"
+    },
+    {
       "title": "San Quentin Rehabilitation Center suspected hantavirus case in 38-year-old male inmate ruled a false positive, officials say - ABC7 Bay Area",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZTZvLVVETF9PX01sb0FJcXVYOGUxOVFXVDFjYTN0eDlOUVY5ejFVcG4wMjJyWlZDRXJ3bWN3cTUzTXZ5X3liQ3Q4V3FxbEthRHNPLWp3d2JQb0gxendqZjdrSHE3SDhZT3pudGZ3VFB5SFhZcUI2dmg1ZXc3UUFZVy1UTk03c3JMa1FNaUxycml6ZjBOV3B5Y2lyRTNBNWdBVWdPbk9rWnQ5N2NiblNVMEpldDI3dDZOajhZX0dLUlppbEtOX1lwV2tUdWJWWktYNExCWnhTR0VPMGgxZ2lWcG85VU0xWEtyY3fSAe8BQVVfeXFMTk1uN21HRGtCYUlUdlE5eWtDQ0RCUnJRR2tJX1c4M1NoVEJKRkY0QXplZ1pQd3VKWHZUV3NTb1JoZWE0blM4amZxUnpTTmpMUE1oUXhFNFd3QWoycWt6aE9SLW1JOGxIeTFSNVota2RQOXIza0ZkS2JjcFl4am96SFU5bDBDOHpYcVJjOEszREZyYTBYNURMT2lnZXZPWHRwR2R1bW85WVdsWnVLRTJXb0g2MVFIcU1JZ1J5Nzg3bnN1bERBTFFxdmdteGRvU2RBSHVOdWVSajU3cXhtdUttbW4tTDZaWkpXNFlMUGs0S00?oc=5",
       "date": "2026-06-13",
@@ -1173,13 +1180,6 @@
       "desc": "España y otros 20 países colaborarán en estudio del hantavirus que causó crisis en crucero&nbsp;&nbsp;Infobae"
     },
     {
-      "title": "EEUU desembolsa 750,000 dólares para evacuar a la ciudadana del crucero afectado por hantavirus en una isla remota - Univision",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZVRCQWY3U3F6VDFUem03bFI2cUJVQURBbFBJWkVyU3lTVmlPSDdVdmhvSmdReHY0Q2o3NWg1dWdwalRfVU5KMnNXc2xyS3Z2Ynh1NjRPaWhNa3Voclh0UmZzejU3dDU2RnU0VDNBNzI1MWUxMnpSSTBKQVRTM1BvU0RrSDZyZGp5RFhXdHJPdEdoNllvMlVrcW4zS3R4Sko4MEhDRXVhQmx5cnVVeG5IY2tkcjRhZ0hFYXlobExJeEJGSEFZVXAzNUl6TkVGYTRmUWVtSS1TbTliWTVvLWxSOE9DUGExS3BIX0VaZS01VGUydHdEb2djM1V3?oc=5",
-      "date": "2026-06-12",
-      "source": "Google News ES",
-      "desc": "EEUU desembolsa 750,000 dólares para evacuar a la ciudadana del crucero afectado por hantavirus en una isla remota&nbsp;&nbsp;Univision"
-    },
-    {
       "title": "Officials say possible hantavirus case in San Quentin prison was false positive - Los Angeles Times",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRHllWnNrTDhidWd5RWg3d2VhNFZoMWdVU0ZnZ0dKUjNsalp6blNBSDZOUVB5M1NFZFI0MDVSZTd4b1Jvc3pEeFhLcEtETjNOWS14dTdOWHF5X2Y2czZObEwzNmU0dHEzSHY5UW4yNzFrQTAwa09vcnlhbE83SHR0VnNLWWt1STh1OWtJMXRGc0MyUQ?oc=5",
       "date": "2026-06-12",
@@ -1201,18 +1201,11 @@
       "desc": "Hantavirus One-Shot mRNA Vaccine Fully Protects in Syrian Hamster Model&nbsp;&nbsp;Genetic Engineering and Biotechnology News"
     },
     {
-      "title": "Hantavirus ruled out for San Quentin inmate - Marin Independent Journal",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQnp6V3hjV2pjNS1fR3VRSjZQMXBVY1ZVbGNEc2JNMWFwYzd2cV80ZllsQ1hyRmJva2dnWXhZMFlEWXFsZV9UNzdZZWpjeE9GYktMNkFqd2RlMWNfVzJsaE9vUkZVdU9pSWk4VmpXcGxkelRheHJDSGdvWkV1VTFtYWNuY1ZhQdIBiwFBVV95cUxPenF3Yzl2MHpQb09NMC1jVEZvVXRCcGdGWTFMcnlSMDF4ejdqUk1MeDh2Z0V3WXQ5bm1jRG1SRHJkSUpnVXEtcjVLVlFXdWJldW1vdWxtVHh6d0FzWXZnR3FfdlhkbkVYaHBVQ2c2NllrMmV0bjMxdTNsQ0lmekZfRno3c2tNZmVzdWtR?oc=5",
+      "title": "Hantavirus ruled out for San Quentin inmate - The Press Democrat",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQXBaejVfVU54OGt0RU52dmdZQTg3WnZxMnVxc0k2Ml9pQkVGLUV0R282OWpuN0lYaXlTZmFJSWlTR0VDVVRmRHpNOTdMSkY4d182cW5nbjllaklGUEVyaG53aE4tWWlIeVBUUmtGWGlRRXQ1WG04VXp3dFhVWlpWc2trRjdEUi1oM1p2czlR?oc=5",
       "date": "2026-06-12",
       "source": "Google News EN",
-      "desc": "Hantavirus ruled out for San Quentin inmate&nbsp;&nbsp;Marin Independent Journal"
-    },
-    {
-      "title": "Twenty-one countries launch coordinated Andes virus research initiative following hantavirus outbreak - World Health Organization (WHO)",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPY281cWdWVUZzY1JnRlBsWi16Q2VoRkdLUm9wV29DQUxLM0MtTzg0WjFlVEctdHZKOTFKWDViUDFhVDFsWk9zQm5oM3QwMkhnZ3d1emJYMlJla1NIM2JsZW1ldWJlYjUzbF9kMWkzMVFUaXBrREc1bzNHa21CRFJIQVVrYk85QzI5bUtyb1I2eVZ1eVRNWkh5d1pTcXNzQ2c4Zmo4T3RZVDkzVGMxZExRNjJyVGRwY3FmaGszMElxcDJQd1RyUVctcUFkblBHREswS1RMeVNSMC1KUQ?oc=5",
-      "date": "2026-06-12",
-      "source": "Google News EN",
-      "desc": "Twenty-one countries launch coordinated Andes virus research initiative following hantavirus outbreak&nbsp;&nbsp;World Health Organization (WHO)"
+      "desc": "Hantavirus ruled out for San Quentin inmate&nbsp;&nbsp;The Press Democrat"
     },
     {
       "title": "ICT NEWSCAST: Indigenous water rights, hantavirus, nurse loan limits, Native movies and more - ictnews.org",
@@ -1220,6 +1213,13 @@
       "date": "2026-06-12",
       "source": "Google News EN",
       "desc": "ICT NEWSCAST: Indigenous water rights, hantavirus, nurse loan limits, Native movies and more&nbsp;&nbsp;ictnews.org"
+    },
+    {
+      "title": "Twenty-one countries launch coordinated Andes virus research initiative following hantavirus outbreak - World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPY281cWdWVUZzY1JnRlBsWi16Q2VoRkdLUm9wV29DQUxLM0MtTzg0WjFlVEctdHZKOTFKWDViUDFhVDFsWk9zQm5oM3QwMkhnZ3d1emJYMlJla1NIM2JsZW1ldWJlYjUzbF9kMWkzMVFUaXBrREc1bzNHa21CRFJIQVVrYk85QzI5bUtyb1I2eVZ1eVRNWkh5d1pTcXNzQ2c4Zmo4T3RZVDkzVGMxZExRNjJyVGRwY3FmaGszMElxcDJQd1RyUVctcUFkblBHREswS1RMeVNSMC1KUQ?oc=5",
+      "date": "2026-06-12",
+      "source": "Google News EN",
+      "desc": "Twenty-one countries launch coordinated Andes virus research initiative following hantavirus outbreak&nbsp;&nbsp;World Health Organization (WHO)"
     },
     {
       "title": "Hantavirus Outbreak On MV Hondius Cruise Exposes Hidden Agricultural Threat - Eurasia Review",
