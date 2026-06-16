@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-06-16 15:34 UTC"
+    "updated": "2026-06-16 19:23 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,6 +1124,48 @@
   ],
   "news": [
     {
+      "title": "El último paciente español ingresado por hantavirus recibe el alta y abandona el Gómez Ulla - Antena 3",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNLU1OSE1TQndxQVpLeUdyZGhaX181NkhHejBTbDl0TXlFVVJpWTVqM1NDTGJGcTh1UjZmZUNmS29iX0NNa09pQU1vUTZjbWVOc0I3NFFLcWZGQ0lpZ2JYa19SN2FrQ0N0OGhkVXNGT1dEMVhqVEFwbHBLaFBfTGJlVXNZN19ybjFyZjh4UXluX3kzalZJZWxJTm96b2xJY09xbFJVd2FpNE1GMjB3T3M4V0t2X2dnZUNpcVZuREZfam1lZTFjTTdhdDJHcGppWnRERHVUMWdOS3gzYkhlbUtTOFE5NlBLb3VE0gHoAUFVX3lxTE5wM09hdDRJaHVUVTFoMUxycGJrbGlMVlBVYW1yTDJJcEtYc1p4RFhyQnlSWUtqdWQ2bVI1VXlESTk5dGZ0cEdWV29Dd3M1RndOT2hoMWlqYWx0aHMwWnZiSmxEZmtoOGIyRVJzZW1fSVpqT0QwbWJCcVROejNIYjFuM2ROeWFySHZxb3JDbEdDcWxFYWxoV3BONGFhMnBKN0VGU3dZVXZfeUlCUHFrbjd3U0JyWnAxYmd1Um1Hbm5VS0JadFJSclVMekRxUmlHYTZicy1kRVJaM3Z4OXItUGlabkJjalNpLWE?oc=5",
+      "date": "2026-06-16",
+      "source": "Antena 3",
+      "desc": "El último paciente español ingresado por hantavirus recibe el alta y abandona el Gómez Ulla&nbsp;&nbsp;Antena 3"
+    },
+    {
+      "title": "El último paciente ingresado por hantavirus recibe el alta en el Hospital Gómez Ulla y ya se encuentra en su domicilio - RTVE.es",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbk9VQzI3M3EyVzNiLThPSWVTU1dIcEZRYjQwWUdSNkNJZ2FBMVRITWtEVTF6NkNLU1J5UVgweVgtdGhLMFhjZHpISmJ2VndtdW5GSFB4OW5yWXNlVFJINzZOdnliNFhWZWhBamZzYWVKNEpkeThHLTVXTnNJc3RpNkJJNTk4YmRrUGxmb1J0REJhV0JkYnJXQzV0cF9RclRFWlNGbVlrbmpuVnNVamU2T0ln0gGyAUFVX3lxTE1VVXk3a1o2NmN2R3VjX1FueGdUTE9jXzE4MkpyWnd4RVpVWDJFM2lVUXJDMHRBSF8xeDZFTXpuMTBTSlFCWDdhelQ1NmltcC1HdmtDNW4tSUJGTDkyeWdqeDl4ZFZrUUk3X0JRQkM3V0RGeTltbms1b3JkRjFkOEIwRHhoQ19kZGFUVmFnV1ozYk9CSE9BT3ZoeC1jM3JNMWc5VVVVZmE1MXlUWnZqQ20ydWc?oc=5",
+      "date": "2026-06-16",
+      "source": "RTVE",
+      "desc": "El último paciente ingresado por hantavirus recibe el alta en el Hospital Gómez Ulla y ya se encuentra en su domicilio&nbsp;&nbsp;RTVE.es"
+    },
+    {
+      "title": "El último paciente de hantavirus ingresado en el Hospital Gómez Ulla recibe el alta y ya está en su domicilio - El Mundo",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN0taSmpJb0xDQmxzT0VELU9RWFZ5dmZ1QjBiQ0tveXZjVFlxM2xWdFA0Z1ZPdGVQUWNUUjc4aS10OERQRHp5Ymh3ZjB1cGs5MElleEFSWXFUWUtocHA1cllOWWRjMWxvVXNGNWFoNzdraFdYTGlQU1NWNmdLN3VHelhrcFlzUTB4NXJGZEl30gGOAUFVX3lxTE9uRWlSTUlfYUFEQUlaQ0NHdVBERC1SOHhEYjlNZHVQR1dpeUtVVUQydERfQ25oMlUtSjZCYWctUXRocWpDYXdmdWhibUxZVWJwR09nQmFIdzdTUEZJLU1jcFM1dlNpNldDWXJiUV9rQTlwV1dtZnRYaUIwT0xsbGdNT3JBa3p1TEhNRjRHREE?oc=5",
+      "date": "2026-06-16",
+      "source": "El Mundo",
+      "desc": "El último paciente de hantavirus ingresado en el Hospital Gómez Ulla recibe el alta y ya está en su domicilio&nbsp;&nbsp;El Mundo"
+    },
+    {
+      "title": "El Gómez Ulla da el alta al último paciente del brote de hantavirus del crucero MV Hondius - La Vanguardia",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRHRKbW1sX0ZUYjhqcGdVMVdmcUtKdExiaFl2RWJZcUpsLXFNV0RMcXJiQjJERVVPamRjWVJXd1l5cWhtZEw2cW1BTmN4Ul93aEVCWkpId1RnSXRoWHcxM2I2bEQ5NkdwZXdsY3N4LWdpcTJOUEVXT2dqRVZ1N2FIZVk1WTZ1cllQVmNuRlR0bk84VzdNWWVUMnFmZjNvUVlfekFZXzFhVGpkanJfZkhkb2JnS3RVNjNZZXlodURLS0xUNHFQVmfSAcsBQVVfeXFMT2tkaGpzUFNNYXBCT2E3RWRERlJVNWs4SWstZGtmY1duWVFGeXg0NDZrNVl5RWJySmN0THdTZ3hHVmZCMVFfNzBJZTY2VGlFNXNvMWVydlRWNTQ4aWFzOHR3Y2xILWFuM21XMl93bDJ2NUNYN1Z4NGxBeFdZZ21HbWhzRGdZQUZrVldLLW94anVsWHMxM21FZU83ajdLQzQ3TEZ2cG1MazJ2anhDOHludjhmM3FMWjFVYnVScTBxamFPckRWdDkwR2RLQVU?oc=5",
+      "date": "2026-06-16",
+      "source": "La Vanguardia",
+      "desc": "El Gómez Ulla da el alta al último paciente del brote de hantavirus del crucero MV Hondius&nbsp;&nbsp;La Vanguardia"
+    },
+    {
+      "title": "Dado de alta el último paciente que permanecía ingresado por hantavirus en el Hospital Gómez Ulla - 20Minutos",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTncxdFY3dFVRcDJWUVJ5UmZSeW1NYWNPRnIzNXlhRm4xZ0VaRHBLSDdCT2dHVEhRZHpfTFNVNWZKV2U4dkswWk93elMyQWhfZ2YzZmp5ZmVQMlJqWHNRejJhWW1RSE5aZGZ0ZHRJLXR2NTZlSkxCME82ckRBZHdBNFBkallmMzJwSHN5cHJ6enQyMzJaVVhtTHZmcFNwWXU1anBaLTNLelJaa05wOGdnckhJbVRnUdIBuwFBVV95cUxNUGs4bG1EOHozSnJPRjhGZzB1VnlqS2Q5Vk5CS0UwMzRBbmppQW1abElOUzVHZVNfempaR19fTUM4eWhRUi1BSlNSTVFwV29iSGtrcUVPU3ZUS0hmRVJPNHFOYVYtLVNmMFlZZl80WjBKLTQ4blFfYkVaNTNNQUcwOGNsUV9aQUJ4TlY5VHphTnF3RHVWVjFJOUZjVW8tNHA1T0IwSF9UcVJjVlV0ZnI5S1J6X0dNQXBqTlV3?oc=5",
+      "date": "2026-06-16",
+      "source": "20 Minutos",
+      "desc": "Dado de alta el último paciente que permanecía ingresado por hantavirus en el Hospital Gómez Ulla&nbsp;&nbsp;20Minutos"
+    },
+    {
+      "title": "Dado de alta el último paciente ingresado por hantavirus en el Gómez Ulla - El Periódico",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTVRpNU9qc0hiMXVCMklHUEhjMlNTY1JzN3lVWW12THZ2WDk1cmNHYkZvNmExa0ZtVUd5Mk5yOERNUkpmekZuRklINVljWEc4TWRRcUJDMFdfOHF2UGxWOWVGWk5MejdrM0FUOWhRMDU0S3RjVzlHUmRETnEtQTlPMlVrT2xlYUdOTkNaWjdaS3hRX1Z0ZWk2eGxR0gGaAUFVX3lxTE54emdTTW9aT0QzQURreHJmd0lCMWlob2JzYjNWRUZPczdFZFZMbWtHUGVibkVkWDY4ejl2ZEx1bnExUTRxT3BNV3lSdHZjYUdzZi1YZUdLQzdkYmIyWllYbnl1WXQ1SzhfRHV1UFQ1aUM2aVFTSWZpallNcm0wVEpMVEdRYXh5dkhGX0gyR3hZcnJ0U2EzaEJJX0E?oc=5",
+      "date": "2026-06-16",
+      "source": "Google News ES",
+      "desc": "Dado de alta el último paciente ingresado por hantavirus en el Gómez Ulla&nbsp;&nbsp;El PeriódicoEl último paciente ingresado por hantavirus recibe el alta en el Hospital Gómez Ulla y ya se encuentra en su domicilio&nbsp;&nbsp;RTVE.esEl últ"
+    },
+    {
       "title": "Un hospital de Badalona coordinará un estudio global de la OMS sobre el hantavirus andino - Vozpopuli",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSUo5Y21VSGFIWjFWMWhtV2ZTb0o3ZV90NWdxTEc2UFEwY296emdTcW1pdTF2VGNGcUkwbTRmZklCVnVIU1hxLVV4QVoybmhlSEF2YTJKM0hxeGlaNlI0dlJVVWFWcmVLNUxseGRzTUhMdnZnR192X2pxTUltdmNyVG5yY3dOQ0pYdjY4MUNKZ3B6LXMxdngxeDZna0ZOX0hkZnR0UEowbjVyMUU0OVlhTWhtZzI4WThEQURkVU5PVjhzZXBVOV9HN2FR0gHPAUFVX3lxTE13VUlBQXZ6UmJ0c0hFdmY4Sm1CbThkSzl2VVBJUHZ6cEZteHdINjNUcDZDYXVWbGVwOWVNX3dvdDNuQldZdnBTeGVkOVZvaTQ2ckxjOFpQN1BUMk9WU29JM1FHdWxCMWY5SDdsa3hFTjdrZGlBT1FreDV0SG1XaVlhd3dmZkl5WVBERUdYWWpXMU9GdWktVXFIcnY0Z2tIbm11OXM4S29LUVlQRWZvTWo5S3V2UXdxWk1mUU9wODU2Sm1wNlhkTFd3R2tnWkt6NA?oc=5",
       "date": "2026-06-16",
@@ -1131,123 +1173,81 @@
       "desc": "Un hospital de Badalona coordinará un estudio global de la OMS sobre el hantavirus andino&nbsp;&nbsp;Vozpopuli"
     },
     {
+      "title": "Hantavirus: Estos son los síntomas tan comunes que produce - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbEl2SnNuSi1OQzE0OVcwajMxOXNBbS1Wb3FRX1NfeS0zUUFQWXkySTJEY1lqR2gyMkt6YXhSdU41N2NrdVdXN3V5YXM1LXFYU3I2dTN6LWxZWUxWZUpGaUs5TDN5Yl9adzBUOFBJcXg4d2FnX3g0M25zUjBjbkxiYWFQbzBZY2N1dUNnNFpxMUg3di1VaTZzd0JHbnQ2M3ZxRXh4X0FRUjRYVFV0cFBHZmNLb3MzdXZqRmJhNFBsa3NkMTRWYi1mU0xOWnpzeUVKZEFrbHBURjBoSTJ3VG9qdHBCWWFUVjZHNDBUMHNJOGNSdGdVczhOenlrU1FFMms?oc=5",
+      "date": "2026-06-16",
+      "source": "Google News ES",
+      "desc": "Hantavirus: Estos son los síntomas tan comunes que produce&nbsp;&nbsp;MSN"
+    },
+    {
+      "title": "El último paciente ingresado por hantavirus en el Gómez Ulla abandona el hospital tras ser dado de alta - Cadena SER",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZ2M5cEI3ZUtmRUdOT1lHV2NYRUdfd1FvNkRjV290bFZ2Z085NDlfaHVkU2h3UUo3R1RSNUZGN0xrQkNFSGJ3VkRFRHdFOXl0UVFjN0JFa2IxVU0tX0IzbXc5YkRURzFicDI3eHpmQTBISzg0S3JnNjJOOGpSOGFIM09fcXpkYTB2cjZRb2tNb3ZMejdVTkk4NTROTWdsUWg0bW90QW85S1FVT1pHSGI0eGg3dXJUbS00TnpSSXYzaC1nbjRja0gwNHV2OE5UN3poSlRFSlYzWTRJOExRQjlQMlJ4ZVlwWXVXWjBKSDB30gGCAkFVX3lxTE91U1l0UGNRcVo4SGtCcUhQS3hUNmw3NEphaFpBQXduXzl1WlRCZGhsVzFRNkNDMlNIdF8xSUkwaE1LU0lySk5SVFFwWkpraFdpYWU4cHNUaU11bkh3YXZlYmVDdVdjaDd3b1plMnVuRExYV0RiLWUwMWdRYzY1V2JxenpUV2FRUkNzMDZSQ1dLT09RWWVlQ2Z5S2NCcWQxc1JxdUVVcExfUldtYV8yc203TFJoczRUQzVzeDQwc0c0Q1BiY2Z6dXBjMEdSZHlhalZCOEowZzJCaTdMR21CN3FQSmVhaDA0c2Z5cmJxNzZwQU4zcjlkeXVaVTRDUGhnQUwwdw?oc=5",
+      "date": "2026-06-16",
+      "source": "Google News ES",
+      "desc": "El último paciente ingresado por hantavirus en el Gómez Ulla abandona el hospital tras ser dado de alta&nbsp;&nbsp;Cadena SER"
+    },
+    {
+      "title": "Dado de alta el último paciente ingresado por hantavirus en el Gómez Ulla - Diario de Mallorca",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd1BNZm4yRW40THhwQWs3aUl6dXY2S20ydjRpY29OVEp0MmROUU82a0ZWVEU5eDlvd09EVnM1Vi1zZGVYQnd2cUlCWjd0NnA5eEM0Z1RTeER1NFA3dDRNeDY5WUl0anAtbmQ3Y3B2NFpDNV9uU3htckM2c3hiaVpkWExzSjVLVWNnX2dXVHZRWVVyRmdibjFWUjlsR0FqWF9hNTh3X9IBqgFBVV95cUxPdEx6MGZsejFMMHdMUHA4a0h0Zk9xbS1vODRFUDJqWEV4TXdCcDNIeVotUmt3TU9SZGxwQmJtcXhpZk5FeGlhZ2Y4OHRMWHhYaFJTSXFjSURSdkxObExJLVA2UVhpZk5VYnQ3UENzZWk1cV9wSzMwY2ppX25OczRSZ19UVjE5aEVkUWVvX0pWODB3UGszTDJYZzF4R0RDcUlhZVY4SEhEZXJsZw?oc=5",
+      "date": "2026-06-16",
+      "source": "Google News ES",
+      "desc": "Dado de alta el último paciente ingresado por hantavirus en el Gómez Ulla&nbsp;&nbsp;Diario de Mallorca"
+    },
+    {
+      "title": "Recibe el alta el último paciente ingresado por hantavirus en el Hospital Gómez Ulla - OkDiario",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT1M2dUlPblc1SU50cEN2bXN2ZXV1V3BiMDRxczV1cUNkeWliMFhVWEVhWVMtNWV5ZlRGM1czckZmUk5Ddkp5WlhSZHNqMklnbTdUYWh3UjNlenhYSmlPM2EtY0QyZUZyZXRFVWhiUWw3bThmMjV4MzNDQkczUlJXUUlrenNHZ2tCTG9tT3FlazJhZmU3aWJsOU1rNkQ1cmt1RDBQTzVJTFk?oc=5",
+      "date": "2026-06-16",
+      "source": "Google News ES",
+      "desc": "Recibe el alta el último paciente ingresado por hantavirus en el Hospital Gómez Ulla&nbsp;&nbsp;OkDiario"
+    },
+    {
+      "title": "Dado de alta el último paciente ingresado por hantavirus en el Gómez Ulla - El Correo",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLXFsblIzdVBDMGtVX0pfWUZMTHQxRDNGOGtUYk4wZXZXWFBMNUZEdHdJQnBNWmtIVDU1WnFKNGJ3NE5xbXFFQVAyS2lvQWxzVUFfVlJSODNXdHRLTFJWLWhFMnhDakdiR1NVNGJVemdsSGp2Y3hHdE14UDJaR0dXMFZ3M3NrdWxOM2l5VWJvcFM1MlJjWjU1TDVrLVBQM1pnemU5LWZLVFZ3LXdqemRWQdIBtgFBVV95cUxPRnZXS3ZxU3BtYTFGWGVKYzk2b0hPeFl4elpTRlJKMkM3YUYtTE8wR09aeHh1YzE1bFpEQV9WN0JiSDZRY0JOUDR2UUt3c0xMUnlDMGppcE1GMTFHMVRxbGpBQ3FnQVZtUGYzUjEtMkwwcDlsb2ZJMlNwQUhiS1BBTG9JbVdiTzJ5RkFKdE1tcHBEN2tpMWNpaU5ZUVlTSFF1TlluZlRuMjRXZGR5WGF4cVhkc281dw?oc=5",
+      "date": "2026-06-16",
+      "source": "Google News ES",
+      "desc": "Dado de alta el último paciente ingresado por hantavirus en el Gómez Ulla&nbsp;&nbsp;El Correo"
+    },
+    {
+      "title": "Recibe el alta el último paciente ingresado por hantavirus y se da por cerrado el episodio hospitalario en el Gómez Ulla - Telecinco",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMDUzWndXWjktVFpEOVNVckhMZW9uTUNONVVRRTBVaHc3TzZCUXhGY190bzAtLTRseGhHOV9UNGxnXzEwYzFOV0RlYmQtcTJ0TGwwemxNYU81YWFnWXp0d1NueUFJQUl6ZVFsSVRGSGVRbUJFQVZXcWlhaDU2ZW5HS2FJNzBpcE8wTWNhTWRNTWZSYmZLbkhxczVRT1E5RXlRbHFKeXRxS0poUkVXc2ZxemJweGdYcGFRalRXRWNJenlqUTFPb2hJYk1oQ281S1FTamlDcXl5UDlQZw?oc=5",
+      "date": "2026-06-16",
+      "source": "Google News ES",
+      "desc": "Recibe el alta el último paciente ingresado por hantavirus y se da por cerrado el episodio hospitalario en el Gómez Ulla&nbsp;&nbsp;Telecinco"
+    },
+    {
+      "title": "El Gómez Ulla da de alta al último paciente con hantavirus y cierra la fase hospitalaria del brote del crucero MV Hondius - MARCA",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTUNJb3c5OU1kdXJfbXdvTUdsSEZsb0VVTFIwdTlhRXh4SHBXNm40Qm11S09fUEg2d2hhc0NDaFFWUzFCRzVsME1zMlluVzdJa1RaUlgzOTdrZF9qVEpFQ2V6WVB1MXE1dkFkY082UkFrcFZ5bng5c2paeUxhSlZzZlpVaEdYczlxOXFFMnBRTHd2bS12UGg1UXZDa3J2VG9PNFdrNG5mWDBpZ0Q3ZnEyTHJEVGRFQmNEenVFU0dMVzF5ZFFCZ180LWdjOXpMMndWc3l4WjhkVlBJTEs1S0FXWV9WZHlSVk5Z0gHoAUFVX3lxTFBkYUszQUxaR25CV0stNUxuejhkRHVFNFJoZUlwQ2VJczBKc1FGRHg5cHEtWjBUbHR2SU1iR1VmajBVLThKLW43NGpoek5Db0hTS0RIU1VTMDEyLVdsQ0QxaDBGbmRCZWd3MGZOTGJnWDl3M0tkbUEzWWFUcmYtUXBPQ3dIdEdJc3VxVjk0RzRGb3NQVUZzdktSTnVRa0toYjJDRW9MZnltYlp5ZUxDcGdyNldfUlFLaDdYbFhLNUtoM2dxUE9tN3pKUGRLZDRnNFc0MDlTLXVRMGdtTzNlaEZfbzBxdkZTdmc?oc=5",
+      "date": "2026-06-16",
+      "source": "Google News ES",
+      "desc": "El Gómez Ulla da de alta al último paciente con hantavirus y cierra la fase hospitalaria del brote del crucero MV Hondius&nbsp;&nbsp;MARCA"
+    },
+    {
+      "title": "Dado de alta el último paciente ingresado por hantavirus - El Imparcial - Diario liberal e independiente",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd3RydzREcXd1anlGS3B3dkVaR1lBZS1IVTZjcWV4NzI2c2xuSDRLRllqTjI4ZF9WTEpOdlFHSVdWUEdYMVEzYW5BZTRHUnZzNnRoLTNXME5RcjFmY2p6dGk0OVNfa1RoMkN5WVh5eWU1VHlxNk01dDhSWWNfWS1QUDJpYjZUSm9VcXBiTWNwb0ZHOUt4RFFHMExoM0FUaW5qTS1renhORkRBNEIxdWgzQmRUcw?oc=5",
+      "date": "2026-06-16",
+      "source": "Google News ES",
+      "desc": "Dado de alta el último paciente ingresado por hantavirus&nbsp;&nbsp;El Imparcial - Diario liberal e independiente"
+    },
+    {
+      "title": "Dado de alta el último paciente ingresado por hantavirus en el Hospital Gómez Ulla - Diario de León",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYnVvZWdhSFNhbmY1dFJ6RUUxUDlRa2ZrLVZmaHo4QVQtSlZzYzJsYUkzVG9GTzRhcU11andZUkZqUjFtTXdWcXVlUkJhZWF6WnB6UURqVlIzQ0djczBydkFheG93R0RBQjI1VjVabFNwM1JHYldaSUFYRkxheHQxdkZYUllsR3pRa0JJejRKRFZ2V2VKWkdhMG56ZHZiLWJGcXZPZ2J5MU1EN1ZFX1N0ZndPM1E3WEJjel80RHVJblLSAcYBQVVfeXFMUEV0dHVlS0Zfa01kLXBqM3NYUWc4TVgwTGRfNGxadUNSZFFqNk0tUkpqelp1cjJMSDIteUVhWUN5T1lJRUFNYjR5TW5LSHo5STE0WG1YVHBKWkZBa0dHMUhTZVRST3pOYzh2M1BvZzRHQTZxbzlPcVJJLWVTaGdnMlREWjN0dldRMV9qZW16amlmMy1GQUl3NHdreVBKVjVTSWRmZlRyUmNvT3I2djBOTFEyUGdMVmhzeVljLWlFVmdmdWh6cS1B?oc=5",
+      "date": "2026-06-16",
+      "source": "Google News ES",
+      "desc": "Dado de alta el último paciente ingresado por hantavirus en el Hospital Gómez Ulla&nbsp;&nbsp;Diario de León"
+    },
+    {
+      "title": "El último paciente ingresado por hantavirus en el Hospital Gómez Ulla recibe el alta y no quedan hospitalizados por el brote - Diario de Santiago",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOM3dFSWV0RFZ5R0JqRjV0enp2ZVFId1pfYWhXZWhfUWQ1X3dYc19YMWJRSjdtblNaY29YVWhPcUxfcWlsc05hamhJdDFDSE15QmpmRlF1SUFSVGV3M3RiVTYxTHpMdW04RHZkY2VNZ2d1OUJMVW1pUGlNRnVWVDRGWDYxX2UtRktRZTBwQXJHWG1qWTY3ZnhFUFBSWUZOQ2hOZUkyVlhvODVOTk1MXzdlYmMtMWpRUENIV1NNTEJQOF9CODJDNWItOXM2WVg1NjdjNkFlTUZ6c0N6Ni0yU3N3b2NIUjBqUFE3eHlRdmNKSTJNdFNXUVNR?oc=5",
+      "date": "2026-06-16",
+      "source": "Google News ES",
+      "desc": "El último paciente ingresado por hantavirus en el Hospital Gómez Ulla recibe el alta y no quedan hospitalizados por el brote&nbsp;&nbsp;Diario de Santiago"
+    },
+    {
       "title": "Una pasajera de crucero con hantavirus afirma sentirse “retenida como rehén” debido a una disputa de salud pública entre los CDC y Florida - Infobae",
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOMWdIRTlaSVMwRlFxR3NXdzZielc1Z2hRbFRILXljcFktQjJnTS1lSGFJQy1YdEtNRHhlNWhIUmN3akFaQTRUanpOWExhalNpU3o1aS1sbmRCalA3YmRkWHVzSU9HWTlJOFZRR05OcURCb19wYkNvMTN2SWFyenhCQ1dsM2xtVHNZeWZLMVdBTUZwYXBaZzNtZVFGUDFZbTd0OHJuT1duT0lwbHpYNGdpY19tWVRkWURjNWtFR3JXYlBCMk9VcDJ4R1FVV1I4Mkk2Yk9LRC0yVWpGcVNFMmIzbHlxMG9mOHo3QTk1MDhxVG5KZjEyZHZVUnA2S1g4NHJwTEhwYmVJYkE2TVFYT2N2U0JHd0EwQdIBsAJBVV95cUxQdzBLY2I0UC1oZk5jQzlFSzdnb2RCaFlISlgyN08wWW5GVnlLandaSGNSOFlLMkh0cExfU3pvQWJqV0pwT2pFNVQyNjRkallLcmdIcF9CX3lyVkxTOC1SbEQ2M3RyNnBjRHc3aVBuUkgxdVFoSzM5bWdmQXplcGEydWhsMzVyekk3b1NCb200c1F0NlhFMmRveE9qdVcwU1ZpQ1hHbk1JalJTM1RrUkFkWHgtM1NWbHRyVFNOUzNlamxsSW5xaEktYTJlRHowQk0xMlF2Z0xySlJQVHJyX2VtOTRhS2o1Q0szVTZCbTBKc0JSdTB5VkwwWWZVQ21WdDFQQXRIMlE2Z0ZXN1FJeElKTHFZUHRmUkM4WEF4UzJuTGh5X3lxakp1ZVU4NG1DaUZL?oc=5",
       "date": "2026-06-16",
       "source": "Google News ES",
       "desc": "Una pasajera de crucero con hantavirus afirma sentirse “retenida como rehén” debido a una disputa de salud pública entre los CDC y Florida&nbsp;&nbsp;Infobae"
-    },
-    {
-      "title": "RFK Jr. Orders American Exposed to Hantavirus to Stay Quarantined Against Medical Advice - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQd0FSc2VIX0dVdEdLcXVJRERsaS14cDJiVmZlLUtNUXQyS1JIUkw5eTVzVXY1OUNNSzhNbEJiYjM3cWxRQV9BOE1EUzc4S0xwd1o5VmpvRGRuam5jOGV2WHdBNEJUdFlIZFdQaGtiRmc2NF9NQjU3UG95dGNjZ09oajZoWTBYWUxVOWRyenpGUkZ6ai1fT0ZUR0xBd2RydnlpYlNLWVZMMDJnenB6V2wzdDlkQ3hOa2ZjVWRjR2R5djNmQ1JhZVkya1I3MHo?oc=5",
-      "date": "2026-06-16",
-      "source": "Google News EN",
-      "desc": "RFK Jr. Orders American Exposed to Hantavirus to Stay Quarantined Against Medical Advice&nbsp;&nbsp;WSJ"
-    },
-    {
-      "title": "Hantavirus Cruise Passenger Says She’s ‘Being Held Hostage’ Due to Public Health Dispute Between CDC, Florida - People.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORTFSVE1Sdk10dy1maXVVUjhfLTlQbWhMbjVxbjBnY3lHSTdOeFFDcVhzbHB0NVA0dWkzS0laLU8zVGhhcDc2YnhvNElrYTFRV2pGS25Gc0xIMmxSRVM3YnY3anpENzZhc0JpLUFiS2tVeE9kb2plRWZyc3FteFFvX24tWnFwWlBocndkcWM5NF9vRmZmSGkzeVdkYmtUTDNk?oc=5",
-      "date": "2026-06-16",
-      "source": "Google News EN",
-      "desc": "Hantavirus Cruise Passenger Says She’s ‘Being Held Hostage’ Due to Public Health Dispute Between CDC, Florida&nbsp;&nbsp;People.com"
-    },
-    {
-      "title": "Hantavirus latest updates: New case in Spain takes total to 13 after cruise ship outbreak - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMkVUTTZsUkdYMHJoRW9obTlsZGRxQmVxT25UYWxOMGs3UTRFYlI5SFRRTW1uaU52VFduMHZsQV9tR1hMcnlMVDJMeUNHNkJQQ1ZaS3pjcXY0T0cxZlZXdThtWGZNVm5yOS1GTFlNa3A4RG9IS0xSdjZXVmNOS2tFekhWeUt6VGFiRWtxeUx5aGw2MUpud2ZNRXprUVpBR2xCTllaS3kyLVdqTDdMVG5QYWdhMk54RW9LbkdGeThfdUgxVlJCQWdfSmMzTXNuT3BWUTZVa19zMjc?oc=5",
-      "date": "2026-06-16",
-      "source": "Google News EN",
-      "desc": "Hantavirus latest updates: New case in Spain takes total to 13 after cruise ship outbreak&nbsp;&nbsp;Yahoo"
-    },
-    {
-      "title": "Vaccine Breakthrough Targets Andes Hantavirus - EMJ",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSjVFUjREakhRZ3pGZnFjRGVuUTR4RTdRSFV0UjhNRzZjaVNodlN3TlJfNzdSWnJDdm1SZ0RlZWhZTTh1TlZsSkN0RGpnUnBaNTh5ZzBJNnU0UUhuUnN2TUk5TVlvRXBlZHVTcGZ3R0pyT3d2MlRFWUpHdGxRR0RGVk1Mejk0OUt3YXhFZTBfX3VPLW1IWmNBbFJqZlNwWGJXUkxUSGx2Z3lFbllyWXlsYQ?oc=5",
-      "date": "2026-06-16",
-      "source": "Google News EN",
-      "desc": "Vaccine Breakthrough Targets Andes Hantavirus&nbsp;&nbsp;EMJ"
-    },
-    {
-      "title": "Inflammatix Collaborates with University of Nebraska Medical Center to Support Rapid Response to the Hantavirus Outbreak Using TriVerity - Morningstar",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPYkxqQmZScUZmbDJGbVk1aTl4VzVFUFR1THQzQkpVUzBUWFlEOFM0NW82TXF4bW5jd0NCcGcxRkI4cWZWSTFxQnZmbTREUGxoblpkak5jdEZXMzU5YnBLZzR1d184MVBKOFdtV0F4Nk5ZZ0dqY3JQUzIwWTFUaFJwb0ZBSkRSbVVEYVFpMmhmUkV6bWI2elJCTkNwM3g2ZUJIUmVwam9RSWJldlJITEgwY0NRWHliRG1INENDX1RHanFKdTJkdEs3c0VSVV8xdXZYdmM2SU5wUFNvNmlCU1lJdW9kdnpkeFM5TWJDTlRTMmJBNWFRdEFjVUlZQUROV0E3dEppb0RUcDR1V2paUm45eTFXak10cEZmOVZnTlRUZVhUeFk?oc=5",
-      "date": "2026-06-16",
-      "source": "Google News EN",
-      "desc": "Inflammatix Collaborates with University of Nebraska Medical Center to Support Rapid Response to the Hantavirus Outbreak Using TriVerity&nbsp;&nbsp;Morningstar"
-    },
-    {
-      "title": "Weaponizing Post-COVID Trauma in the New Hantavirus Outbreak - NATO Association",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMWRGN2c1ZVJ1RVExcU82azNheHNUZ3RRdXIxS0VGQlRIT1NFZmdMZmdmS0JSWl9hcTJiNHpHaHFkVGNnUlJiN0xUNURQWkJ6R2JnazRJajdLRUFJV0xxNnd3a2RHUm9TU0VmbF80WTdWcUIzMTg0UVJPenhKdHF5STI3a1kxSHNQNnZucnpKMHlCZw?oc=5",
-      "date": "2026-06-16",
-      "source": "Google News EN",
-      "desc": "Weaponizing Post-COVID Trauma in the New Hantavirus Outbreak&nbsp;&nbsp;NATO Association"
-    },
-    {
-      "title": "American Says Hantavirus Quarantine Order ‘Feels Like Retaliation’ - Newsweek",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZXdMQk02X0luaVJtcEpBNlhUdEZjUGhsdW1zaVpZRlFHWHdkQ3RMQm5LeVJPbjd6aGtBQ3pUeEF3d2x2V0o2Vm1QZ2R0TDkxZzk0dXliLV84cGY2djE1OUZDc2FpdmhpbE9RME1JOUdMNlIwWVhoemM4TDl1VWNKWUFEbTB4TnY4R255TGRfWTZUck45bVBVQ1VoM0JKXzg?oc=5",
-      "date": "2026-06-16",
-      "source": "Google News EN",
-      "desc": "American Says Hantavirus Quarantine Order ‘Feels Like Retaliation’&nbsp;&nbsp;Newsweek"
-    },
-    {
-      "title": "Expertos en infecciosas afean que el \"ruido político\" del hantavirus alarmó sin necesidad - Diario de León",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYWZ0T0l6anpvZG42MDhycHEzejFaVkVKdm44UTBIQ1FEOURIanZDRDdvY1RGQ0pTeDNIQWxXLXNIWnFSYzh0TTdFa0psTjk3Y3pSeVBSUWk4Mld6YmdKMUZMajF6YUZoQlh0a0NoYnIzNDFZdXU1Z0hDUVZtWHB6dDRLUTdKOGdtWTdEOUtTS2VqYS1zbk4wU3JZYXh5ck1Vd3hCbkVGb2p1VXN3OGNFay0wTzlhZEdJampHdjU4VHR0V1dv0gHKAUFVX3lxTFB4T2VXd1dQUXgtNC0tXzVIZVFYNFpPOW5IQ0w5MXhXekNpM1BrMkV3QmludVBWRkdlNk1faVFDaWZLc0F3cUk0eUlQOHg2OW52U1QzUEpzS1VIclAzZVRRMlhnQ3dvamJqS1R1Q083VlJ4NU9VQ0pCeWVacXEyUWdadzdzU0lhZ1hDeGlEd1hBYzJaUC1TRkw3dUdfNFBGRnRFQmJnTUhkMU9sU3BmYnljVmtFQlR0X3FNb3FwUGpiX2pCWEgtSWpBOGc?oc=5",
-      "date": "2026-06-15",
-      "source": "Google News ES",
-      "desc": "Expertos en infecciosas afean que el \"ruido político\" del hantavirus alarmó sin necesidad&nbsp;&nbsp;Diario de León"
-    },
-    {
-      "title": "Badalona lidera la investigación de la OMS sobre el hantavirus de los Andes - CatalunyaPress",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVk9GazVoTmtLajFjZTdlS1BJeXB5bEJUdlZjdlQwY01rUXRiZGZmbHQyX25XUWQ0eDRpaVB6V3VtaTVLWWxhUnVxRERyaUg1UDkzYXdNU1NscDA3LVpPQTAyZHVSOHI0TTlVd0gzSDUzclI0TUtKV1F0UERXU3NFR0NsblNEWFNPYU5YMWFuRzd3VlJ5LU1aeEo1YXpMMmo0ZmNtcTlOcVYyeWk0VGpmZDMxMFFIeXNXWWNnbnJLUjZpcTZVYW1tLXAtOFF1cEJIRU5uaA?oc=5",
-      "date": "2026-06-15",
-      "source": "Google News ES",
-      "desc": "Badalona lidera la investigación de la OMS sobre el hantavirus de los Andes&nbsp;&nbsp;CatalunyaPress"
-    },
-    {
-      "title": "Kennedy Orders Woman to Stay in Hantavirus Quarantine, Despite C.D.C. Recommendation - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY3c1SkR1WDdSTk5BV3lhUlVyNDUwUWh1M3ZfTTdMQ3NjaHdEeFZrcDBRMzlPSTRGUXNuMzRfLXpJaEE3eTdra0JnQ2NONzh1ZzBzME13Qk13TmwwcVBpQW1MZzEyZldtQ203Q0FjdEo0MldLaVdXYVVwYnBmLW9Kei1R?oc=5",
-      "date": "2026-06-15",
-      "source": "Google News EN",
-      "desc": "Kennedy Orders Woman to Stay in Hantavirus Quarantine, Despite C.D.C. Recommendation&nbsp;&nbsp;The New York Times"
-    },
-    {
-      "title": "Right now, we could be living through a hantavirus disaster. The world avoided that, and this is why | Devi Sridhar - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdllzcnlVUFRvNWw3akVUS0VXQmJtY0NUMjBGXzYtRlllQ180OEExSGx6WkZ1ZVlha2RKWjFaY1NYTWdpaDd3Vk1VSDFWWExkWkdqUk9mOVFpRFpySmFKbURZQXhLTkE3NTNjN3lmM0RuVmg4dk1YNXpwN25oSHltclo0WXJMMC1LVjJvNGZnQ1dfdjN2Vnp6Y1Z3Y2RqNThFWVRCN3lRVUs?oc=5",
-      "date": "2026-06-15",
-      "source": "Google News EN",
-      "desc": "Right now, we could be living through a hantavirus disaster. The world avoided that, and this is why | Devi Sridhar&nbsp;&nbsp;The Guardian"
-    },
-    {
-      "title": "When Hantavirus Meets Mass Panic: Cornell Scientists on Trust and Future Pandemic Communication - The Cornell Daily Sun",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV00tX2ZUUTBrV1lCUUo4UWF1Z282M2hrTXNLQUptWGRqQ0FGYWR0ZDBGcUlLVUFadTJ3bGxLVExFaENvZGpRb05UNHB5cGtwYW1XaHp6SVV6RG4tY1VLT0FDVGMtQU1MTVpkTWhxRmU4WkZPLVkyNE5rMlhHTEtKWXZJWmkyVk9NYkpHV0RpZllRSFVLcElWY2lWVWkzX0NiVlZhbHFya1dnXzU5RFdTdFJRazZrdGNCS0dPTDYzTWZXWjM2bDY4aEROaVk1VEVGbS04?oc=5",
-      "date": "2026-06-15",
-      "source": "Google News EN",
-      "desc": "When Hantavirus Meets Mass Panic: Cornell Scientists on Trust and Future Pandemic Communication&nbsp;&nbsp;The Cornell Daily Sun"
-    },
-    {
-      "title": "Kennedy orders woman to stay in hantavirus quarantine, despite CDC recommendation - Inquirer.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSXFzMVkzcUdQd3BmMmFSMngzc0ZoaURSU1FnSzJmTXotUUNTT0VrQlZhUnZtTHRESTVqME1FaUM1bExPVEE0cmR0T2hJRFRVSGhRcjdBbU1SclpWWjFBb3QwSXJqMDdla185ejM2MXN0eTdDV3F2V0ptLU1XTUxpUWhLQWpLVDJWalRreGdlS0dEMXExTTJSUWxLY3VtMWZHRGZKd0RiQjE2WVJvMnVWTW0zR2NXZ2dpd1RkdC1OZmxTMlRSZHJr?oc=5",
-      "date": "2026-06-15",
-      "source": "Google News EN",
-      "desc": "Kennedy orders woman to stay in hantavirus quarantine, despite CDC recommendation&nbsp;&nbsp;Inquirer.com"
-    },
-    {
-      "title": "El ‘Hondius’ zarpa de nuevo: el crucero que sufrió el hantavirus viaja al Ártico cargado con empleados - EL PAÍS",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMElFNjJpcUwxRmdvLVk5NVNGc05DOXgyTUtKZEFvNF9nLXpsRUJTdDh5dHpLTU5GYUhCMXBFOUtkVUgwQkhJSkRrdWd3OVpJT2ZQcnFGUXhVUzlaeXNsTVAxUmZTb3V1WE1RT3NkMWJteXhhX2pnQUtOYmRUTHI0RV9DVlVDd1lXUEdBOF9oNk9CVGhJaTJnbU1kb3hPZ0l4cmIySi05XzZhYW9oRWt5U3JyT2dJRzh1UzNEd1BPQ1VUSTZEdU1PSlZJVUQ4Unl2M1cwWTZkLUFja2PSAe8BQVVfeXFMTXZLRWNfUWlIdlhuNWVWZDUyVkFiYXFIOW9sWmVma3lPclZLRUxJelhMaHQ2cU1DX1EyX285ZUozUHFPek03OGlCMWNYM0FhNDFRd0x1bVdQZXlESDdfU3BfRHJEQno0R1paNzJPZ1NxUnlsU2dLVndDZTRiRkFuSFp0MWI4Vm82WWx3SHZMZW1ub1JDZEFpYjJhWVV6MzVlNkNURm53T0RYeWl4dGhBY2wzVDk4ZE9zZkdfM3hOc01rZGZwcGEwNy1fTmVfMERpaGFNMjRpWjNMaUYxOENBMGFoNFFjbk5GR0dEUHFxdEk?oc=5",
-      "date": "2026-06-14",
-      "source": "El País",
-      "desc": "El ‘Hondius’ zarpa de nuevo: el crucero que sufrió el hantavirus viaja al Ártico cargado con empleados&nbsp;&nbsp;EL PAÍS"
-    },
-    {
-      "title": "San Quentin’s suspected hantavirus case a false positive, additional tests show - San Francisco Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb2tIVkl5UkZ1OTNBalY3eGl2RjczZTZjSUxiTm0wVHdSZHFIRHhpTGFTRElhYmoxY3ZsTFg2M1NjZ192T3lfQWw0cmpJbXBEbVhpWHNVVzRpVGVKa0Q1QWExQTVLajMxUHlRdmllWkFLckRWaE84N3JmMmZNOHBxMno2NFA?oc=5",
-      "date": "2026-06-14",
-      "source": "Google News EN",
-      "desc": "San Quentin’s suspected hantavirus case a false positive, additional tests show&nbsp;&nbsp;San Francisco Chronicle"
-    },
-    {
-      "title": "Some quarantined cruise ship passengers push to return home",
-      "url": "https://www.npr.org/2026/06/13/nx-s1-5853598/some-quarantined-cruise-ship-passengers-push-to-return-home",
-      "date": "2026-06-13",
-      "source": "NPR Topics: Health",
-      "desc": "Some of the 18 cruise ship passengers in quarantine after a deadly hantavirus outbreak have had a tough time in isolation."
     }
   ],
   "countries": [
