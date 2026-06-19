@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-06-19 13:36 UTC"
+    "updated": "2026-06-19 16:22 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,11 +1124,11 @@
   ],
   "news": [
     {
-      "title": "Último paciente español con hantavirus recibió el alta hospitalaria - Noticias Venevisión",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMUE3cXFqdEJhR21Zb2drRlVpdmxzdkNhVnZWRE00cFlONlRVbVUtTFFWUTlxSHFiLWhTdXprY3pDcVN1NmsxS25tNC0wODF2b3FCNjNZQUtCeVFqOXpiWFJWNzNMdXR6TXNyRkNvMERhejN4cFVVNVIxTWV1N1NCRHY2ajREZDlmRXQxU04tQ3AzTFdFSC1RZC1HNURQMkp3blVhTTRTWnlPU29CaE1vaEpNYw?oc=5",
+      "title": "The real reason a hantavirus disaster was averted | Letters - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeERBUlhjeVoybEk0cGVzQmhISEtoSVYxRnI1SWZldkM5amFSZVJORExrZ25YVXFDX0ZrR2k2S2ZzRWoyQk1zMXRBcW40aU1sTmdVYnZjdDBRTDNFbXphUElab2J1TDAtMFRqOFhQMXlkZGdlekRYLW5wdzNEdDFpUGlVSklMRkNOcEZMbVRSUFBoZDZkLXJXdGdxbw?oc=5",
       "date": "2026-06-19",
-      "source": "Google News ES",
-      "desc": "Último paciente español con hantavirus recibió el alta hospitalaria&nbsp;&nbsp;Noticias Venevisión"
+      "source": "Google News EN",
+      "desc": "The real reason a hantavirus disaster was averted | Letters&nbsp;&nbsp;The Guardian"
     },
     {
       "title": "Quarantine over for almost all hantavirus ship passengers, crew - Medical Xpress",
@@ -1152,25 +1152,18 @@
       "desc": "Hantavirus update: 2 more leave National Quarantine Unit in Omaha&nbsp;&nbsp;WOWT"
     },
     {
-      "title": "What did we learn from the hantavirus cruise ship scare? - KMVU FOX 26 Medford",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQzBzd3JCcVY2WmRoUWYxbFhta3lVZUtsRHE2U1hKcnp1MjdHWE9kdWp6U2w1ckRDOE4wWTFvdURsSExGcnNPVktNYTJUZzRDQmxXdFdTSFVtWTNHeHdiNlZUYnJnTS1JRGhhbDlsZ3pnamRQOEtJZjdzcldibWgxMFRJaDctMUJyd0g1NmE3VTE2YjRKVDdORVROa0NnMVpEZmRxeEhwRlZXQmt0NS1nbGx4LS05Mm53cFJ0UzUxWmQ4Q1pwMEpKcW9pM2x0eDR3WUlLb3EtNjZJYmJGZVpuZWNn?oc=5",
-      "date": "2026-06-19",
-      "source": "Google News EN",
-      "desc": "What did we learn from the hantavirus cruise ship scare?&nbsp;&nbsp;KMVU FOX 26 Medford"
-    },
-    {
-      "title": "Two more hantavirus-risk cruise passengers leave Omaha quarantine - Omaha World-Herald",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZEtNYzVsRnVaV29NemZPbThPTGJiWmpBQjVlczNvckJhUWJBQ0lFRXRqT0QtZktCSDZCR095dW5NdlJNSnJVYlRaclRJU2JwMWdiYkFNbDd3WURyX1Z6TVhYblpIdy1EV1I3RUJ4N0J1UzJ2dF9uOXNzQU5Cak84dTlXdTI?oc=5",
-      "date": "2026-06-18",
-      "source": "Google News EN",
-      "desc": "Two more hantavirus-risk cruise passengers leave Omaha quarantine&nbsp;&nbsp;Omaha World-Herald"
-    },
-    {
       "title": "2 more cruise ship passengers leave Omaha quarantine after deadly hantavirus outbreak - Nebraska Examiner",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa05CR1BnU29HMDVEYi0wNUVLb2ZvYXdKOFRIUVMwdXBNQ0QyNjhybTRUNUZhZ2ZhVkl0a1lEeERQeFZ0ekVpZXR1b25hTk1UNGRSWFdqand6YkRZMVdxUXd0ODdIWXJYQjd1T3JzeUJ3MS1XMVNBSmNWb3pkZ1JSZnJSS0VBV05zRnk5azJrSGhSeGgxeXVLRFFadUhlbjYwWEU4dEI5Wlp2MmRFSnFOVnZpUU1pd01ZRzhOX2VFbw?oc=5",
       "date": "2026-06-18",
       "source": "Google News EN",
       "desc": "2 more cruise ship passengers leave Omaha quarantine after deadly hantavirus outbreak&nbsp;&nbsp;Nebraska Examiner"
+    },
+    {
+      "title": "Dado de alta el último paciente ingresado por hantavirus en el Hospital Gómez Ulla - El Confidencial",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPanp2NXhPeVptdURWTmNmNlM2anFTSWRCeXFNU2RrOVNzUHBUenN3djVqZ3pMQlhCbjBVZjUyUUpvR29QVEs4OHp3NzZuSDhSdTVyX2RBYzVkel9UZnFDQ21waW5kT0YxYXNSTG5GbU9TVjQzanN6M3czRlZsMHdLcy1wV2s4SkFTUGdYdU1lb1d6bmxTcXFhb0V1eGhicV9fcVhwY2tvWG1YMXpnT3FvdUZCMXNpbjZabWZKR3FyVXNZTGpOWFE?oc=5",
+      "date": "2026-06-17",
+      "source": "Google News ES",
+      "desc": "Dado de alta el último paciente ingresado por hantavirus en el Hospital Gómez Ulla&nbsp;&nbsp;El Confidencial"
     },
     {
       "title": "Sanidad confirma el alta del último paciente ingresado por hantavirus en el Hospital Gómez Ulla - Gaceta Médica",
@@ -1180,11 +1173,11 @@
       "desc": "Sanidad confirma el alta del último paciente ingresado por hantavirus en el Hospital Gómez Ulla&nbsp;&nbsp;Gaceta Médica"
     },
     {
-      "title": "RFK Jr. orders American exposed to hantavirus to stay quarantined against her will - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVVhqUmxCUy01VGRRRTVRZjRXMEFZMHpFbGZiUzkwamxiNUVTOVhLVGtVenpIWlpMMWtPVHczMjRldWx1R1lMR2tSRkZQWFRIeDkzcEZPLWpSZ3FmYmZNQ1d5cC1MUXZsTWEtMHR5Yk1PbV9kQmo5ajg1aUx5WmdxeTkxNHpybk1KODVOREJBcEFidVA1MDVoY2tsZFNEdS1sR09CV25IWFdPaS1WUnV1OUI5NEJ4NERqNFEw?oc=5",
+      "title": "El último paciente español con hantavirus recibe el alta y pone fin a la crisis sanitaria del MV Hondius - consalud.es",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYlNlZGJjYjdoajZBRDBqci05a3BvbzFvU3RlQjhHOG9RaUZfMGszMWt1TjkwNVphbmpGZFdQbzZIb1I0VGJ5aDFQU2lYZ0Y3ei1sSmtVTGlQaWNUUnItMG1FSGJDYzhkc0pjOFBMTXdVcTFuX0RQNHVJSlZqLW1wWjlrVjBFVFUtcjJnYk8xTVU2djg3cHBWakhMbDJqc0cxQlZQZ2kyT2FvcDRuQUxERDlZYUo1MVFRY0VuRDJSbjMxM3FHUlRURUhBVzZaMWx0MEhKXzZsQjMxU1lHS3U4ag?oc=5",
       "date": "2026-06-17",
-      "source": "Google News EN",
-      "desc": "RFK Jr. orders American exposed to hantavirus to stay quarantined against her will&nbsp;&nbsp;USA Today"
+      "source": "Google News ES",
+      "desc": "El último paciente español con hantavirus recibe el alta y pone fin a la crisis sanitaria del MV Hondius&nbsp;&nbsp;consalud.es"
     },
     {
       "title": "Hantavirus cruise passenger says she’s being forced to quarantine in Nebraska - The Washington Post",
@@ -1192,6 +1185,13 @@
       "date": "2026-06-17",
       "source": "Google News EN",
       "desc": "Hantavirus cruise passenger says she’s being forced to quarantine in Nebraska&nbsp;&nbsp;The Washington Post"
+    },
+    {
+      "title": "RFK Jr. orders American exposed to hantavirus to stay quarantined against her will - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVVhqUmxCUy01VGRRRTVRZjRXMEFZMHpFbGZiUzkwamxiNUVTOVhLVGtVenpIWlpMMWtPVHczMjRldWx1R1lMR2tSRkZQWFRIeDkzcEZPLWpSZ3FmYmZNQ1d5cC1MUXZsTWEtMHR5Yk1PbV9kQmo5ajg1aUx5WmdxeTkxNHpybk1KODVOREJBcEFidVA1MDVoY2tsZFNEdS1sR09CV25IWFdPaS1WUnV1OUI5NEJ4NERqNFEw?oc=5",
+      "date": "2026-06-17",
+      "source": "Google News EN",
+      "desc": "RFK Jr. orders American exposed to hantavirus to stay quarantined against her will&nbsp;&nbsp;USA Today"
     },
     {
       "title": "Could a hantavirus vaccine be on the horizon? - Gavi, the Vaccine Alliance",
@@ -1206,6 +1206,13 @@
       "date": "2026-06-17",
       "source": "Google News EN",
       "desc": "RFK Jr. orders hantavirus cruise ship passenger to stay in quarantine&nbsp;&nbsp;LiveNOW from FOX"
+    },
+    {
+      "title": "Kennedy orders American exposed to hantavirus to stay quarantined against her will, WSJ reports - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUEc4OWJOcXg1eE1KNURpZGlDRHpkZVNPczNUT3VleXZHM21hcF9JWWZOOHlsc0I4MHNZb1RDd0VoZUxNM05seEU0TXN5VUxCMzF4aHhnNlFSdG1OanR3blJxYUhpbXM5UDRQdXNVZXZ0NE5CNEhmMVlKdTZFemg2Wk1USk5tRkdJR1o0XzgzTVAwQV93RjRsenlBVW4?oc=5",
+      "date": "2026-06-17",
+      "source": "Google News EN",
+      "desc": "Kennedy orders American exposed to hantavirus to stay quarantined against her will, WSJ reports&nbsp;&nbsp;Yahoo"
     },
     {
       "title": "El último paciente español ingresado por hantavirus recibe el alta y abandona el Gómez Ulla - Antena 3",
@@ -1229,25 +1236,18 @@
       "desc": "El último paciente de hantavirus ingresado en el Hospital Gómez Ulla recibe el alta y ya está en su domicilio&nbsp;&nbsp;El Mundo"
     },
     {
+      "title": "El Gómez Ulla da el alta al último paciente del brote de hantavirus del crucero MV Hondius - La Vanguardia",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRHRKbW1sX0ZUYjhqcGdVMVdmcUtKdExiaFl2RWJZcUpsLXFNV0RMcXJiQjJERVVPamRjWVJXd1l5cWhtZEw2cW1BTmN4Ul93aEVCWkpId1RnSXRoWHcxM2I2bEQ5NkdwZXdsY3N4LWdpcTJOUEVXT2dqRVZ1N2FIZVk1WTZ1cllQVmNuRlR0bk84VzdNWWVUMnFmZjNvUVlfekFZXzFhVGpkanJfZkhkb2JnS3RVNjNZZXlodURLS0xUNHFQVmfSAcsBQVVfeXFMT2tkaGpzUFNNYXBCT2E3RWRERlJVNWs4SWstZGtmY1duWVFGeXg0NDZrNVl5RWJySmN0THdTZ3hHVmZCMVFfNzBJZTY2VGlFNXNvMWVydlRWNTQ4aWFzOHR3Y2xILWFuM21XMl93bDJ2NUNYN1Z4NGxBeFdZZ21HbWhzRGdZQUZrVldLLW94anVsWHMxM21FZU83ajdLQzQ3TEZ2cG1MazJ2anhDOHludjhmM3FMWjFVYnVScTBxamFPckRWdDkwR2RLQVU?oc=5",
+      "date": "2026-06-16",
+      "source": "La Vanguardia",
+      "desc": "El Gómez Ulla da el alta al último paciente del brote de hantavirus del crucero MV Hondius&nbsp;&nbsp;La Vanguardia"
+    },
+    {
       "title": "Recibe el alta el último paciente que permanecía ingresado por hantavirus en el Hospital Gómez Ulla - ABC",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTW52SkhzajA3ZlptNE05Vjg0eTA3UTI5bHI5N1c5dkliSHl0OUlqODh2SGh4M3ZLdlE5aGJmZktPX3RYU2c0V3I3SlVXNERXRml0WEZOT3AxRVN5NThxUzJremJmLTNkbHdmTGc4dkZHRGNfYlBKaVRzZWUwdDI2bXB5eENORUhxNHFJMWZUUWVoQzJZRm1iS3JSMWUxLWdocFVXQks5RmpXZ1JfUnlN0gG0AUFVX3lxTE5Rb2xuVFRTd2tyd2N3Ym1UVlM3bkgyWlhiNHZtd3U4ZGZRNmRYQ0s5TTlnd2N0UFJYb01GUUNDVzl0Rmg2NnhMd3ZVS0lGbUhrbDBwdkFJemNLTGhTNkdQQm1KaE9oZXloY2x5cWs0VnZqMkI3bzdMZ2pkekk2ejVWYnRZd29DOUJlelE3enhDSUpjMzdGYksxR1ZzQ3lfc2lBNlpXTXlKb2wxTkFRWGR3OWQ5Sg?oc=5",
       "date": "2026-06-16",
       "source": "ABC",
       "desc": "Recibe el alta el último paciente que permanecía ingresado por hantavirus en el Hospital Gómez Ulla&nbsp;&nbsp;ABC"
-    },
-    {
-      "title": "Dado de alta el último paciente que permanecía ingresado por hantavirus en el Hospital Gómez Ulla - 20Minutos",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTncxdFY3dFVRcDJWUVJ5UmZSeW1NYWNPRnIzNXlhRm4xZ0VaRHBLSDdCT2dHVEhRZHpfTFNVNWZKV2U4dkswWk93elMyQWhfZ2YzZmp5ZmVQMlJqWHNRejJhWW1RSE5aZGZ0ZHRJLXR2NTZlSkxCME82ckRBZHdBNFBkallmMzJwSHN5cHJ6enQyMzJaVVhtTHZmcFNwWXU1anBaLTNLelJaa05wOGdnckhJbVRnUdIBuwFBVV95cUxNUGs4bG1EOHozSnJPRjhGZzB1VnlqS2Q5Vk5CS0UwMzRBbmppQW1abElOUzVHZVNfempaR19fTUM4eWhRUi1BSlNSTVFwV29iSGtrcUVPU3ZUS0hmRVJPNHFOYVYtLVNmMFlZZl80WjBKLTQ4blFfYkVaNTNNQUcwOGNsUV9aQUJ4TlY5VHphTnF3RHVWVjFJOUZjVW8tNHA1T0IwSF9UcVJjVlV0ZnI5S1J6X0dNQXBqTlV3?oc=5",
-      "date": "2026-06-16",
-      "source": "20 Minutos",
-      "desc": "Dado de alta el último paciente que permanecía ingresado por hantavirus en el Hospital Gómez Ulla&nbsp;&nbsp;20Minutos"
-    },
-    {
-      "title": "Dado de alta el último paciente ingresado por hantavirus en el Gómez Ulla - El Correo",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLXFsblIzdVBDMGtVX0pfWUZMTHQxRDNGOGtUYk4wZXZXWFBMNUZEdHdJQnBNWmtIVDU1WnFKNGJ3NE5xbXFFQVAyS2lvQWxzVUFfVlJSODNXdHRLTFJWLWhFMnhDakdiR1NVNGJVemdsSGp2Y3hHdE14UDJaR0dXMFZ3M3NrdWxOM2l5VWJvcFM1MlJjWjU1TDVrLVBQM1pnemU5LWZLVFZ3LXdqemRWQdIBtgFBVV95cUxPRnZXS3ZxU3BtYTFGWGVKYzk2b0hPeFl4elpTRlJKMkM3YUYtTE8wR09aeHh1YzE1bFpEQV9WN0JiSDZRY0JOUDR2UUt3c0xMUnlDMGppcE1GMTFHMVRxbGpBQ3FnQVZtUGYzUjEtMkwwcDlsb2ZJMlNwQUhiS1BBTG9JbVdiTzJ5RkFKdE1tcHBEN2tpMWNpaU5ZUVlTSFF1TlluZlRuMjRXZGR5WGF4cVhkc281dw?oc=5",
-      "date": "2026-06-16",
-      "source": "Google News ES",
-      "desc": "Dado de alta el último paciente ingresado por hantavirus en el Gómez Ulla&nbsp;&nbsp;El Correo"
     }
   ],
   "countries": [
