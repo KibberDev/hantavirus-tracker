@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-06-20 19:41 UTC"
+    "updated": "2026-06-20 20:56 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,6 +1124,13 @@
   ],
   "news": [
     {
+      "title": "Sanidad \"da por cerrada\" la gestión del hantavirus tras confirmar que todos los seguimientos han dado negativo - RTVE.es",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNmpnRUxqZzFzU3VtWlFxRXd2Q0RzQW5CeUZxX3o4cXhMQ1pyb0k2Tkd6UkkwZkRyaklmZUtHd1RqUTRpMEZzNkRkMDNuRkxSaWxxX2hvaEVEYXR1YWNuaHZxVWlET01DZ1d2TFpZUXRwc0ZyQnpyZ040OVAtMEFpRjZXbWtkZDhacmROR2dEeDAzV2xmN2J3VTZ5dGhRUjNBV1JqXzBvMlpCZVJMbmFLdHo1d3E1bVgyXzgxeEtMYWhUOTAxTFl1T0pVQXlTaDBqcUQtM3ZxWFVOM3hoSEVhSVhHdHI?oc=5",
+      "date": "2026-06-20",
+      "source": "RTVE",
+      "desc": "Sanidad \"da por cerrada\" la gestión del hantavirus tras confirmar que todos los seguimientos han dado negativo&nbsp;&nbsp;RTVE.es"
+    },
+    {
       "title": "Todos los aislados españoles por el hantavirus han dado negativo en la última prueba y terminan la cuarentena - EL PAÍS",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcG5iQzRldjZzeG8taWphYjRzdUxFcUZhdDJfSjhGYXBwa2RTSWxVZ0xnRmR0RUUyd1dXa1RNOTJVdEctRUV5LXdDc0l3ZnYyc21iS1NtWTRFd0E0dTJJSzZNUnYtMC13SkE2Y0VUMkdQTERkUXU1QTB4aTkxX296a3ptenZnczRYcE51NVFHcEstbFl5Qy1xQ3VlaDNJM20xWU9kbDBWMVI4WFltNlNkZ25wQlFUbklSaFZGUW9jZ1pEem9lVFVqZXBTM2hBclQxTVlrazB0enNLOWFXOENwTWNEV18xMklG0gH8AUFVX3lxTFBDZDB1TU4xa0R4ZE4xUS1panBUdmlibHQzTHlJdm5vZF9BRG9TcjlheFhWNFBhRlZXcEVuQUdSNW9peXp0VWxmems1NGpDa21LNXpqdWE1MXlINUpWMGFPVTh5eXNEUzNILVhhN002U2xCVFVud0N0UDhpTC1vcGJUdEthSTZoem01dVdRdmxlb2p4UHRyZENSSkZqQnVEZVlKWE4yaDZ3SDFEbjRoNnpKd0pNU21kMVNiWkJTQ3VERkpkOE9SZzBHUXZLeGpNc1NaNENPSnFjeUg3VzE3dThGTEZoMHYxTWZDM0ZCLU1JMHhHZlptQ0ozbFVTTQ?oc=5",
       "date": "2026-06-20",
@@ -1145,11 +1152,18 @@
       "desc": "Sanidad “da por cerrada” la gestión del hantavirus tras confirmar que todos los seguimientos han dado negativo&nbsp;&nbsp;La Vanguardia"
     },
     {
-      "title": "Sanidad \"da por cerrada\" la gestión del hantavirus tras confirmar que todos los seguimientos han dado negativo - El Periódico",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcGtCMkJQQ1RVMlZneVplYWtzZWtEZU9kWXppNmJ0Q3N6RHhzY3E5QWNwbTA1UjlJeWxLc2JHajlyUjNveUV5RFdGU3ByMjNyMC1hcmUwaWMwNDdraUh6ZjhwQjFMX1VrYmZDU3RSTThRb0VqdElUMWlDakFTWGlTNnQwQ2Z3dXRBUW9oTkFMQkhyZF9LeEozQ2tlMjRHVWtnQVBoZk5KWEdpcXQ1cUdOeHZRaURlUzFKQ3fSAboBQVVfeXFMUFR0clI2NWFQM1I0Sm1LV19pZ3dsS19iT0JlUlVzQmdEbHBOZW9wUUs2TDFCUUZuVlJOaExudG5OLVpNR3I0MDJmYXJnS0tNWnVxR0poLU9lM1RzbEZjVnFwVXZRNVl6eGUyaDNudDRrb3VmOUVweG4zN3dwQ3Z5RjNZcFRRVTRnRXdtdm1hclpuYXFLbG9tYlJhdVZNZklVWEdQWnJHYWhNNm5YUFpiVHNwWG1TN0F3UG9n?oc=5",
+      "title": "Los cinco catalanes del crucero MV Hondius reciben el alta y ya pueden salir de sus casas - ABC",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQemFVd2wxLXV0aDNodjNJTXMyNXJTa2t0LXpfYXlwQXk5XzJOMk9XZnJDd1JFTjJXMVAya0dSSHA2WVBCUUJVaXhWN1RVU05vNWtTblB1cHk5TVAtLW00WjFYZ3djd0xBczcycE0tS2RzYzZJMERISTZxRFdnUy1oMGNwaGpVajVBR2pUNk5tZ2pYUDVrR1hMTzhkU0tYeXVrMzA5QVZCX2NscWF3TUE?oc=5",
       "date": "2026-06-20",
-      "source": "Google News ES",
-      "desc": "Sanidad \"da por cerrada\" la gestión del hantavirus tras confirmar que todos los seguimientos han dado negativo&nbsp;&nbsp;El Periódico"
+      "source": "ABC",
+      "desc": "Los cinco catalanes del crucero MV Hondius reciben el alta y ya pueden salir de sus casas&nbsp;&nbsp;ABC"
+    },
+    {
+      "title": "El Ministerio de Sanidad cierra la gestión del brote de hantavirus al no haber ya cuarentenas ni ingresos - 20Minutos",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc0swNnJvTEdKdXRnQjdaWmozZU1YMGZMWXhyNzBLYzFEZ1QtMnN1YzE2MUFIRERrY0lKZFdaZUN2UGE5SWJhU01sUUF2UmNVSFpFWENTbkpjM2pJTjFOOHJ2M3IzRmdVQ21pNzJrNTBaVXNoM3Z5eThCMkxEYTJXVWZFSkkxejN6Tl9jNmh6VW5yeTFVczM5MmlKcWZMdUpuNE5ZOW9aWTJoRzFhS3hWTk82aFFoeUZLdElBZUZwYVHSAcYBQVVfeXFMT2xWeHdIT3FFelY0a1lRZUdHZjdLd2hoMG5DN2lhenNuaTE5MDRGczUydm9zT3I3SkNlZlRhMExkWWlwLXBqUnBMaWpjeFpWaVp6OUUyejl5RHNBeGhWbVF5MXNzM25VSkI5OFI2V3BVc1llTDBaMDVYOXFiYWluXzB3MHlKNlZSblRZMVlvUG9NVUpwM3BPSGJFNEtrcnk2RHVlM2N0NTgxckpvbjlRMTBiTFR4T0owdU9mNDlmdnNrQVF6aVJR?oc=5",
+      "date": "2026-06-20",
+      "source": "20 Minutos",
+      "desc": "El Ministerio de Sanidad cierra la gestión del brote de hantavirus al no haber ya cuarentenas ni ingresos&nbsp;&nbsp;20Minutos"
     },
     {
       "title": "Hantavirus: Estos son los síntomas tan comunes que produce - MSN",
@@ -1166,6 +1180,13 @@
       "desc": "Sanidad da por cerrada la crisis del hantavirus tras concluir todas las cuarentenas&nbsp;&nbsp;Cadena SER"
     },
     {
+      "title": "Sanidad da por acabada su gestión del hantavirus - La Razón",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNblBlR211LVdIQVBIWndSVjFKWjhCN3RvcFc2Um11NGFPRUtSaHAydjRvYnRTeHVDUHZIYWtrQ2ZQanhwdzJyYklsUk5tb0EtaGZDS3VoUEU0TXhQNUFTUXFzdUw3LWtuaEM3OTA1elpjaC15SDUtUVJIai0tbUs1VVY0M0NRM19GdlJPMkh0cXZEQWpobk1RUmVDVFFDWlBHSkowcElIMNIBuwFBVV95cUxNN2ZVbGZvZlNIaUQwTUx0bTJQT0g2bUVfVVR3MG9OZ25yc0djejhnWXRUSWRSdDVjMUk5NlUwYm9ESEhWZEg2T0JpVGJLM1AzMGppbWFPeThuaThlNEF6eVVtZXh5WUlfTm81b0FYMF9UQWg1dFhxQkhtS0dUYlAzVGRabEFLNnNPYlJ4SF9EMlNwX2JabXNOazBqem1QN2FPNU1CTDkzSzB5ZGIteGNuY21SLU1UMTNYWmdN?oc=5",
+      "date": "2026-06-20",
+      "source": "Google News ES",
+      "desc": "Sanidad da por acabada su gestión del hantavirus&nbsp;&nbsp;La Razón"
+    },
+    {
       "title": "Sanidad «da por cerrada» la gestión del hantavirus tras confirmar que todos los seguimientos han dado negativo - El Debate",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZG40Y0NSVDJUMmtiQnkyQUdrb2diNy1PUDdwLVBYWVY2Y0hVd0s4TlhyVmJ2VXBUa1ZtcWRzc0hoLUdwcDdwUVpubkN1MkNGZGpCWTMtc3piUzZCZVAtaHlMQm9vS1J3bmxHZ2VNTzFUSDJpdFY4S3JyRXhiVVYxNXhTSUgwc1dUNmptZUJhRktfZnFndEFRd1FEbGtvd2JocngxZkZlTHZKeUgxbXdUbThBNlV6ZmJsM0ppVWZUZ1hNMWZlX2QxU1JJS0xib2taX0U1UkpB0gHbAUFVX3lxTFB2YU5IX3lLVTBIZXJ2czNtV2lJSEhIZDNiOTFWOUN6QVpRMkd3WFBLUDhqR3U2ZFVjNTIxVGtFeTQtY2MwVFlJZ2F2S0x5Vkpkb2V1dEViSFRfOWRvR09nSDFVU0pLQnN1VzNCNVJqSWV5bWN3S09lYURNN3dKdDdtU3RQbjBLZjV2dlNaLTlVU2RiZW5kVHRRZFVrVWUtcHY5YzVxNGhocFlSMFZ5UjVTMHRGV0FKSjdLaVYtUWlXWThtOGIwZGw0Z1ExSjJ1eF8wTnFwRFgtdS1BOA?oc=5",
       "date": "2026-06-20",
@@ -1173,18 +1194,18 @@
       "desc": "Sanidad «da por cerrada» la gestión del hantavirus tras confirmar que todos los seguimientos han dado negativo&nbsp;&nbsp;El Debate"
     },
     {
-      "title": "Sanidad cierra la gestión del brote de hantavirus al no haber ya cuarentenas ni ingresos - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdlEwQkNkNFo3cjROTjlmX1NUdXlqaWpuRTVvaExnaU9FU0F1M2hqWmZTbFJwSExNWG5sSEh1Q3EwNWE4TzBLaUVfLU9QbVcwczh6c1lJMFZVZ2NRSkRxU0YyQUwyQzlsNWd2VjJNOGVBem1vaFlFQ2hmLVpTU0ljQ0RhN0RQSXMtV1htWjBsdV9FU2stR3NlbmU0bm9FN1c5TVNRcjZnQjhHVmZiWG1iLXZlWlBZUTZFQURpNHlIY2FuV3BRNWNnYkctcHF0SmNFTnZVTWlOTdIB8gFBVV95cUxQbjk4WmlJVjU3Zi1wV19PQXdCaWRwaFFmeEM3X0JfQl9BTmNiTjFxUmRBaGlQNHJqNUJlTXdieUYtdjVhRUtRNW5Ldzc3V0Nyd0pPVTJxNklRMUV6eEVNOXRvckRUZURuYV9MRjk4VEY3bXFDV3B0WjJNRklFWjVIdEQ2WEFEeVRKNDlHNEU2T0U1aHdYenVXdVdkN2xYRHhwZTBoU2tXY1Z3VkZackpiNjJGdFE2MkJNcllnbUhWWWN1cWhvdUoycHVkX3RJUkFPdGI2dWg2SUZGcHRoWDNXTlJTZVdRMkhJVERLRzdWWDBXUQ?oc=5",
-      "date": "2026-06-20",
-      "source": "Google News ES",
-      "desc": "Sanidad cierra la gestión del brote de hantavirus al no haber ya cuarentenas ni ingresos&nbsp;&nbsp;Infobae"
-    },
-    {
       "title": "Sanidad da por concluida la gestión del brote de hantavirus tras finalizar los seguimientos con resultados negativos - Demócrata",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTk51eXl2UXNRN0w0UFdpNWdrTUd1Z0NGVVZFTGhucmx6YWtZeDA2dERhT1ZQWFVkdi1TQjAwcUQ2S09fLVpZRGR2RjVETmVuY1ZHQTBLVmJOWHIxMG12NkFVZzJJUUZaUER2NWRjMFhmalRfMHptT3FtT1VjRFFmTHJJSDVWRTJTcWJkOGk2bzZSZ0luLThLdjA4cWlaYkhKbG04emt4VDM0ajZMMWtXd0o2R0kwM2d5aExVOTRxbTF1UmVBWl9aZTdXVkRseFg5N2pfY09idjFXWUZfXzJnc0pOdlPSAeoBQVVfeXFMT0VKcU9HSHN2Q1U4RldnUWFLVHZlOExsS1czdWF4SmpDOXZydkc1WTNlUm5YTTVLRlBadjN6YXRnNXdISEhhQXYwR3RBM1lHNE1aNlRCNGRnOWVpb3lLdURCNlRNX3Q3OTVyZFQ3Rm5wejB5WmsxSG0zZjVNa2V0WmcyeXNKd2VfeFJhSU5WZ0ZrZlpKMnFMZnQ1MXNmREYzbnFmYnl4WDhEOXp5NzRndy1TSUgtbzZ5ajU0WEpJYXY2OTFIZU41TWdvbXlzS19oOTR5LU5YM0JSYUFnYnZsQlFWRDF1eHl1WGd3?oc=5",
       "date": "2026-06-20",
       "source": "Google News ES",
       "desc": "Sanidad da por concluida la gestión del brote de hantavirus tras finalizar los seguimientos con resultados negativos&nbsp;&nbsp;Demócrata"
+    },
+    {
+      "title": "Adiós al hantavirus: Sanidad “da por cerrada” la crisis tras confirmar que todos los seguimientos han dado negativo - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNaUNDcnEzNXItcWRBbzkzaXBwcE12ektDeFFDX3c4QnJOVllUVzhYLS05blRWal9kUURKZWpueXRTZUoweXhyZTI5a3RYcE50NWl3QWhPcml5WDU0Rlo3TGZXck9JQ0JQelJ5THh5dGdnM3ladWNOc3ZIeUV2VDBOaGx4MXAxbnN1SmVXQWwySTQ1ZFhGVzBldDFmT0JVVFhISXRDSkZQVjBHNk9mVlA2dktwOHl1VmhEek5nRzNUSTFXZ3JfRl9Tb08zOGZ4Y0o0NDFSTU42UlRVWHNvOEQybXVmZEsxMlFzY2lJ0gGGAkFVX3lxTE5OQnpkZ244aWM1cUtYQTdQdFZHVkJkUmt1QWJJdTlBWHNlS1VDZGgwczRiZ2dTRXhJVWx2Y2RGLXJoS1JCU2xuUHBVUndldUUyM0R6bDMwVlVrb3FGR19nUC0tM1NKeDZyX0lsdWpPeEk5WUlmbGViSU13cTVfWU1URUVZZ3FRX3hKaGI3T2lPU1ZiU3hBTkJka20xTDc4MS1PaGkyd3JLZE5xd09fRVJlUnNfUzFUWUs1Mk12NmVNSWs5RVNIckZId29VTXFyd0RoR25sZWZVczZpczBoZDdyUE16bWU1aXBRZEYzZy1nRDQ5ZkFsVnBoVWFQY0tMbGNKMmFUYWc?oc=5",
+      "date": "2026-06-20",
+      "source": "Google News ES",
+      "desc": "Adiós al hantavirus: Sanidad “da por cerrada” la crisis tras confirmar que todos los seguimientos han dado negativo&nbsp;&nbsp;Infobae"
     },
     {
       "title": "Los 5 catalanes del Hondius reciben el alta definitiva de hantavirus y retoman su vida normal - Demócrata",
@@ -1227,27 +1248,6 @@
       "date": "2026-06-19",
       "source": "Google News EN",
       "desc": "The real reason a hantavirus disaster was averted | Letters&nbsp;&nbsp;The Guardian"
-    },
-    {
-      "title": "Hantavirus update: 2 more leave National Quarantine Unit in Omaha - WOWT",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeHh5eUdrQ3JLOVg0Nk1UNnlWNFlXcXdaT0xKT3REYkVwY3AyRmkxWWVCOWhoMU91ZGZoRk9hQjl0cHpZUWxkVGRRMzVUX28xMG5JME5USk0zS1hSMEV2X3lScEVtOXk4R0lUVnh4bXBkS1RGam9ZQlJ3cUVBYWkyeGpHUVNnRU9xVEg1dW1heUg5dGJpaWdwS3BB?oc=5",
-      "date": "2026-06-19",
-      "source": "Google News EN",
-      "desc": "Hantavirus update: 2 more leave National Quarantine Unit in Omaha&nbsp;&nbsp;WOWT"
-    },
-    {
-      "title": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUThMc0pIYUVmdmh0VDhLd1J6Njk3T0Mzenppak14OWE4eWhrYjA5MEZGdDN6dnN3UzQ3aFVlNWNyeTJmQ18wU05XN2tQZjlQT09wdFRZc3VDTG4xamx2YWgyODVQaWVTUmw4?oc=5",
-      "date": "2026-06-18",
-      "source": "Google News EN",
-      "desc": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)"
-    },
-    {
-      "title": "2 more cruise ship passengers leave Omaha quarantine after deadly hantavirus outbreak - Nebraska Examiner",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa05CR1BnU29HMDVEYi0wNUVLb2ZvYXdKOFRIUVMwdXBNQ0QyNjhybTRUNUZhZ2ZhVkl0a1lEeERQeFZ0ekVpZXR1b25hTk1UNGRSWFdqand6YkRZMVdxUXd0ODdIWXJYQjd1T3JzeUJ3MS1XMVNBSmNWb3pkZ1JSZnJSS0VBV05zRnk5azJrSGhSeGgxeXVLRFFadUhlbjYwWEU4dEI5Wlp2MmRFSnFOVnZpUU1pd01ZRzhOX2VFbw?oc=5",
-      "date": "2026-06-18",
-      "source": "Google News EN",
-      "desc": "2 more cruise ship passengers leave Omaha quarantine after deadly hantavirus outbreak&nbsp;&nbsp;Nebraska Examiner"
     }
   ],
   "countries": [
