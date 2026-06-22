@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-06-22 11:14 UTC"
+    "updated": "2026-06-22 16:03 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,18 +1124,18 @@
   ],
   "news": [
     {
-      "title": "Sanidad pone fin al brote de hantavirus vinculado al crucero MV Hondius - iSanidad",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOX0hHVFNpOHNrWkVRQnZaSjJJbGJFZXZzNjN1NkdrVkVTVUNZRjFmUTB5TjFTQjhKcVlkNUtqZFZETjRwTXRONkdWeFFrM0ZBZ3lqajRiajEzbEJadDVJR0RJNWk4ZFRSRG9UT0dqYXFXb0VNa0NUbFhsclozWUpQc1NZQmhnd1VBZGtIYmZhcmptNVZDRWVlSjN1NjFXZXZnN2JGYWhhSzM4RUYtczFTMXVyWGhibmVkMTR0UE9reGV5U0sxdnZ0RmhqMnZKcmhmMWRV?oc=5",
-      "date": "2026-06-22",
-      "source": "Google News ES",
-      "desc": "Sanidad pone fin al brote de hantavirus vinculado al crucero MV Hondius&nbsp;&nbsp;iSanidad"
-    },
-    {
       "title": "Sanidad da por cerrado el brote de hantavirus tras concluir todas las cuarentenas - Gaceta Médica",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcjZwTjFTS2FaMmd0MFVsSWotZkpLeUZuRGpFdEk4V0VrX3hVekY2QXBDRDJlQkRXVkY5Y0doZDlFcHRRcFN2Y1dmcTF6cS1aNHNZZFdpb0Jqd1hqOG11X1JOQ2d4UzEtTkNaNGtocm9lOENkU1pKeDMwQUtHNnJfTUxiN1hFR1Z1dmFWRGFpUk5ucFQxUUxDTE9tVXZuQXMyODhqQVpNQW5IbWYtaUh5MWh0OA?oc=5",
       "date": "2026-06-22",
       "source": "Google News ES",
       "desc": "Sanidad da por cerrado el brote de hantavirus tras concluir todas las cuarentenas&nbsp;&nbsp;Gaceta Médica"
+    },
+    {
+      "title": "Sanidad pone fin al brote de hantavirus vinculado al crucero MV Hondius - iSanidad",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOX0hHVFNpOHNrWkVRQnZaSjJJbGJFZXZzNjN1NkdrVkVTVUNZRjFmUTB5TjFTQjhKcVlkNUtqZFZETjRwTXRONkdWeFFrM0ZBZ3lqajRiajEzbEJadDVJR0RJNWk4ZFRSRG9UT0dqYXFXb0VNa0NUbFhsclozWUpQc1NZQmhnd1VBZGtIYmZhcmptNVZDRWVlSjN1NjFXZXZnN2JGYWhhSzM4RUYtczFTMXVyWGhibmVkMTR0UE9reGV5U0sxdnZ0RmhqMnZKcmhmMWRV?oc=5",
+      "date": "2026-06-22",
+      "source": "Google News ES",
+      "desc": "Sanidad pone fin al brote de hantavirus vinculado al crucero MV Hondius&nbsp;&nbsp;iSanidad"
     },
     {
       "title": "Sarampión, tuberculosis o hantavirus: el Morales Meseguer duplica el espacio de aislamiento para pacientes infecciosos - La Opinión de Murcia",
@@ -1145,11 +1145,18 @@
       "desc": "Sarampión, tuberculosis o hantavirus: el Morales Meseguer duplica el espacio de aislamiento para pacientes infecciosos&nbsp;&nbsp;La Opinión de Murcia"
     },
     {
-      "title": "Sanidad da por concluida gestión del hantavirus: todos los seguimientos han dado negativo - consalud.es",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSFY3S3l6c0tySTZ3N01pVzYxUHFtT1RtUDVvUG14QVk5NmozN2FackliVW5KcVBsZDlKblZqX1lWTnE1NmVSeFpGSThWNTgyMWh1by1hOGJrRzg2ZmVZOVVtOTNCbkc1VmE5ZXRTUzZnQkwtTlJGWVVuaWlOc2lDMzZ4b2lNd09fWHg1Z0RHdzE2bFRjN1NmeXlWekt1ZjU0MnA2Y0h3TWd6c1hhdUppMnNsUXNTNkgtT283RTdpN3F1ZGpWOTlkZVNab2NKa1BVZFNpUWlB?oc=5",
+      "title": "El ébola y el hantavirus obligan al sector sanitario a extremar su preparación ante nuevas amenazas globales - consalud.es",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdmZRRjYwNzN0Vkc4bFJuSk1jRThVNDl4VXd2Q3h3bElSMWxjUWZhYTFFLWJ5MVVHMW5tSzFwRUt0NUlpSzc4TGg3ZlZLcVFZQUxHVVZwdjJmS3UyNkE3eWhLRTk5QXF2OXp3Ty1BeERGM0w2ZklxX283OHNuODdUZ0hiRUV0RUpIY09leU9taU51YWY0VDNfcWptRnY4VFQyejVvSGxBNkVVYzVHcjhXc1V3T2FoaUJyOUtCeWUyakRfMF9DQUI2cWdMbTBNVzhYU1FhdGJRM0N2dXdVa1UtdVZRdFZhQQ?oc=5",
       "date": "2026-06-22",
       "source": "Google News ES",
-      "desc": "Sanidad da por concluida gestión del hantavirus: todos los seguimientos han dado negativo&nbsp;&nbsp;consalud.es"
+      "desc": "El ébola y el hantavirus obligan al sector sanitario a extremar su preparación ante nuevas amenazas globales&nbsp;&nbsp;consalud.es"
+    },
+    {
+      "title": "Hantavirus en alta mar: nueva hipótesis sobre el inicio del brote y la pista para llegar a un motorhome clave - La Nación",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWVN0SVh6dUVOT3otQnJoaUExOXpTbExYVHUyVm9wMVZ1NnFzSlRlOWwtN3pNSnpYanVMTFhERXNyQ2trc0hPY1FYRVNwN0J0d3FvM3UwNE1KbmtKaGd3NG5uREhQSWM1NTMwZ1JCZFBJQjBJN0VvVjFQLUMtU0FUejQxODhoUmFsN3FKaUNiSnM1MV9EdXFrWWpSelN4M1Z3TG9uTVBLd1NGdWFFMFd0b3NWc1NOVXlYS1dMRWhJc2lablRuakljektRLUpfMGNtT3FYekhUOFl5dw?oc=5",
+      "date": "2026-06-22",
+      "source": "Google News ES",
+      "desc": "Hantavirus en alta mar: nueva hipótesis sobre el inicio del brote y la pista para llegar a un motorhome clave&nbsp;&nbsp;La Nación"
     },
     {
       "title": "Sanidad da por cerrado el brote de hantavirus al concluir las cuarentenas con PCR negativas - Gaceta de salud",
@@ -1159,6 +1166,13 @@
       "desc": "Sanidad da por cerrado el brote de hantavirus al concluir las cuarentenas con PCR negativas&nbsp;&nbsp;Gaceta de salud"
     },
     {
+      "title": "El PSOE destaca que no se ha registrado ningún caso de hantavirus en Canarias tras concluir la cuarentena del crucero Hondius - El Tambor.es",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOLXp0alVVV1ZiX2lRMDZqTloyOTNqb3BteGJmUzJRZWFydWJLakl2QnhaUGk4QUZMdENxbjdSNXkwM1c2TWpCMEJsVGZqMkQ0bDRjQngwQ3E0bndMZlNkOUhaNVJ5VWdZZnA3b0wtcFBfWk1PQXdNSEV1RWpXSU0xZUdUel91RjZ6aHBWVUVzSkZTTGZ5UGlsVnBTMU5qRU91ZklfRW50d2xfdnVCNEJsRTlrenZKOHdkSXkzMWh0QV9sYWdlM0paaHpUcWtvMEh0MzNnWGMzOW5NVmdDeW1EQkVXeG8?oc=5",
+      "date": "2026-06-22",
+      "source": "Google News ES",
+      "desc": "El PSOE destaca que no se ha registrado ningún caso de hantavirus en Canarias tras concluir la cuarentena del crucero Hondius&nbsp;&nbsp;El Tambor.es"
+    },
+    {
       "title": "Sanidad da por cerrado el episodio de hantavirus tras descartar nuevos contagios - Fuentes Informadas",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUno4Wkc5Q2FzeGNIRnFyc1FVWEIwaDZvcTMybDNJaXc2Z29MTkVjWkJqbVhSRW9KcmdfMDN2T1lRaVRrNVlILTlNT25LNHpIOW5ROWlMYU9rOElWc1REX3NhTkJxVGhPWUVhZFJxYS1YY09ydzlqTWhvSnlacjNheE9nYlVPMFpfaDFMckcyYm41STdDeUtjeUVCdk1OU19PejZxUDVma1BnYV83aFpj?oc=5",
       "date": "2026-06-22",
@@ -1166,11 +1180,60 @@
       "desc": "Sanidad da por cerrado el episodio de hantavirus tras descartar nuevos contagios&nbsp;&nbsp;Fuentes Informadas"
     },
     {
+      "title": "Sanidad da por concluida gestión del hantavirus: todos los seguimientos han dado negativo - consalud.es",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSFY3S3l6c0tySTZ3N01pVzYxUHFtT1RtUDVvUG14QVk5NmozN2FackliVW5KcVBsZDlKblZqX1lWTnE1NmVSeFpGSThWNTgyMWh1by1hOGJrRzg2ZmVZOVVtOTNCbkc1VmE5ZXRTUzZnQkwtTlJGWVVuaWlOc2lDMzZ4b2lNd09fWHg1Z0RHdzE2bFRjN1NmeXlWekt1ZjU0MnA2Y0h3TWd6c1hhdUppMnNsUXNTNkgtT283RTdpN3F1ZGpWOTlkZVNab2NKa1BVZFNpUWlB?oc=5",
+      "date": "2026-06-22",
+      "source": "Google News ES",
+      "desc": "Sanidad da por concluida gestión del hantavirus: todos los seguimientos han dado negativo&nbsp;&nbsp;consalud.es"
+    },
+    {
+      "title": "The hantavirus disaster that wasn’t - Politico",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRWtGUl9Odml0NTcyT0ZlZU01NEJsYl9mWElsOEVVbEo4cEoycUpfa2gteG9RVmU2ZW9nTHo2WEQ2cFVRbmRabkcycnNtVzdnYkx0MkpVbGo1WWVJRnBDbkY1Qjh4WDB6YXJwU3hrbm9MSE0wMTNmN3pQWXk2RllJLXRjRlVWV2ZxOGkwdkRsSGxZTjAxcExEcVJqN3hzYmJaWGZVekRTaXlRdw?oc=5",
+      "date": "2026-06-22",
+      "source": "Google News EN",
+      "desc": "The hantavirus disaster that wasn’t&nbsp;&nbsp;Politico"
+    },
+    {
+      "title": "American Passenger from Hantavirus Cruise Ship Leaves Quarantine After 42 Days: 'Forever Grateful' - People.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMlBIWlRGX1hwWWJWX2RiejZNalZtTkZweUZkTElsbmZxRUMzQUNOeF9kSVBsNF92bFdEU3E5X3RJQWJfbU9oQ0tKemtpb29MZXVEd1d0OGxOSGdIYUtkWHotSDZBaE13TFo0blRRXzdyTEg0U1habjFXTGZmalQ3aTRtRWFCTzZRX1k2djRQNjU3SXNLYUhQUnN2Yw?oc=5",
+      "date": "2026-06-22",
+      "source": "Google News EN",
+      "desc": "American Passenger from Hantavirus Cruise Ship Leaves Quarantine After 42 Days: 'Forever Grateful'&nbsp;&nbsp;People.com"
+    },
+    {
+      "title": "Hantavirus cruise passengers to be released from quarantine - SMH.com.au",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOU9lcHpXUWYzLUpzQWZKWUNOUWFrUWRhMDhjWkNNeG9SaWtlVjUyd0ZqOFFDQmNGS081MExjUExEUTNWeUcxdDY0VnF1VGNRZFltTmlnWWtLV0J6TnR6eld2bnZKVzFPam1aQ0x5Rkgwa25uUWNRX3U5cVVRWDFPbG4ydkQ0b3RxV1RaNE9kckk1YkstUWZOZ05YSjhMYmhPaTF5MmVvRE1wUWRMWnVEcktB?oc=5",
+      "date": "2026-06-22",
+      "source": "Google News EN",
+      "desc": "Hantavirus cruise passengers to be released from quarantine&nbsp;&nbsp;SMH.com.au"
+    },
+    {
       "title": "Ebola and hantavirus can start like the flu but turn deadly fast - ScienceDaily",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wY0JXUmEzWXVfZ2o1QW1Ld0JqeWR3d2Q5Y2M3MjNUeUUxVWd5d2NOMlJpaF9sSHFqcTFHR25mMXhnTUFQSnlVUFNtZTlfOXdaSGtSLWhMdmJJTnl2SXZSNDhnMDZsMGFvN3M0Y19pTQ?oc=5",
       "date": "2026-06-22",
       "source": "Google News EN",
       "desc": "Ebola and hantavirus can start like the flu but turn deadly fast&nbsp;&nbsp;ScienceDaily"
+    },
+    {
+      "title": "Can Hantavirus Spread Between People? What to Know About the Cruise Ship Outbreak and Pandemic Risk - Infection Control Today",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNblo0aExwamNhSVdGUnRKZGFDZlo0NWJZeVdXaDFzOERZa2pYWlpkdXVrVzVwMHZCMngxY0xiVWE5SlFLa2FXTDJ0U1pIbmlKaUFvWDFiNnVxY0I3SGNYTWVoLTQzWmZ3emhaamlDcTJzSHlqTk9ISG5kV0VlY1lvQzFJYVRSeUFrMzYxRDdrcHlWdVZvQTM3ZGIwSTVWMkhWaV9EU1VqVkMxZ29DVm4wR3VFaXJPdkJDTk0zSEo0ajM3QQ?oc=5",
+      "date": "2026-06-22",
+      "source": "Google News EN",
+      "desc": "Can Hantavirus Spread Between People? What to Know About the Cruise Ship Outbreak and Pandemic Risk&nbsp;&nbsp;Infection Control Today"
+    },
+    {
+      "title": "How clinicians can identify and manage Ebola, hantavirus - News-Medical",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUzhYYUFweDZSalcxd0xXQ3ZZSkt4bWRnaHBFT1Z1dnR6bEU4cExwUXBFWGp2RW1pZzh0d1I1ekl4MXgtb2VvN0RZVUFoMUxWUVd1ZDdPS0VVdUNYSGplakZ1SExSU3F6VnJfUGhEbmw1YXJBdWFjR1NhNzdTV3dIb1UxcUhBWGgtb3BqMnNWc25BR2pNelQ5QWpCLVZJcVhvcVRET19R?oc=5",
+      "date": "2026-06-22",
+      "source": "Google News EN",
+      "desc": "How clinicians can identify and manage Ebola, hantavirus&nbsp;&nbsp;News-Medical"
+    },
+    {
+      "title": "Hypertension Drug Recall; Hantavirus Quarantine Ends; Bending Over and Miscarriage - MedPage Today",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jVlNLSGRmeHZncXVfdk8tejBRZWtXOUNNcUcwdHFKQWtCQTBsaVVtNkhfbUdjQzNWQ294RTdMTV9Ta0g5SEpvUXAxaU80aENjLWFOVm4wWnlIZlJnRGZsU2pWRjNuNlFFODhB?oc=5",
+      "date": "2026-06-22",
+      "source": "Google News EN",
+      "desc": "Hypertension Drug Recall; Hantavirus Quarantine Ends; Bending Over and Miscarriage&nbsp;&nbsp;MedPage Today"
     },
     {
       "title": "Gastritis, resfriados, mareos... ¿A qué riesgos nos exponemos en un barco como el MV Hondius? - El Mundo",
@@ -1185,69 +1248,6 @@
       "date": "2026-06-21",
       "source": "Google News ES",
       "desc": "La valenciana aislada con hantavirus acaba la cuarentena: «Por fin nos hemos podido abrazar»&nbsp;&nbsp;Las Provincias"
-    },
-    {
-      "title": "Sanidad cierra la gestión del brote de hantavirus al no haber ya cuarentenas ni ingresos - La Voz de Galicia",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPakQ0d3pmMGFXZm9sYlFQYzJPVlY4LXNzZ0J3NTNWaUNUNEZBenprSkg4azZoc255aF9pOERPNnYtSUxIVDBLdkc0UnNGRVp6MlVCQUQwLUU3SW9qQ2RIMmt5QnVqcHJDY2p1ajZIYkFidW41UWdlZTdjeVhVeDd3RGFqdmVVRUJGb3V3M2xMVnJlcTNobWhrZFkyUzFtWUFzeW52cjk0R2xvRVo5WGY0OHZndm9pQ1lCdFQ2N2pqTmEzd1FEZ2RDUGhUclJpSmhtN3NCamNPX1QwWlhnZWU5aG4wWTEzTGfSAYMCQVVfeXFMTW55OGNFZG5aN3lRX0gyMEI2dTVKNmd1OGluZnFRdDExSzBzWWozWlB1amtZWVpKeUxxcXZtQV90NTB5X3RWWEtKV2FaYmliWlFqTUh5eFBGWTBQeVpqcG05Z19xM3FrbE1WeEQxS2RrUVFZd2pORXQ1QmM5SXQ3MXVoS25CREh2b1BSc2djY3JkclNwal9LNmx2ak51dnpSMW5aR1VMaDY0LVRob0JWMGVKRUNuUndFX1JaTHJSakN3QU5tRk1sVTNxbW5QS1dCX194QldVb2FmdHFwYVlnamh5aFktdGpzRWlZdVltZWpsclBROWJOdHpwY25FNTA1VjJqOA?oc=5",
-      "date": "2026-06-21",
-      "source": "Google News ES",
-      "desc": "Sanidad cierra la gestión del brote de hantavirus al no haber ya cuarentenas ni ingresos&nbsp;&nbsp;La Voz de Galicia"
-    },
-    {
-      "title": "Sanidad cierra la alerta por hantavirus tras confirmar negativos en todos los seguimientos - Estrella Digital",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWnJRNGJfRVlhUHlkZHlsYk5aLXVwM1BycnVpSmxPVFJlZERnNTNvNUxVU2t5bDRraF80YVdVcFd5RERrR2hYQlFCeXUwNmdiSWk1MHZuVUJwR0N3TDZ3M1pKWkExRmNPVm9xU1drV05lTDhxY3I3WDBWUlRWUTYtT0FMU2lGUXFoS1JEcWZKMi1za2d3bHd4TlFZZ21xMXFpSUkwMVMybTJEODlRc0lKLXdyRU1uS05LMlJ2eUVPWUVHeFdnNXVLMFBERWRzbDZTTVRwUUk5UExyUzZR0gHiAUFVX3lxTE5VcklkcVZ6WENBaFNvMXNZU1QtNEFibldnekl0X2hwLTJpcTFzRUx0OGlDQ0d1WktrSnNaTDFxZnFuNmtWSnVabnBReEtLWi1qeUlYaDZFbXY3WmpLalN2M1ZmamEyV0xLZGNNRWRXSFJkZkcxVU51SVZUd1JRTzUwMkdvRDdJWm1SRS03UU5aLXdIYUdEamktUGFtSVd1VmV3a3NWVy1wcC1oWjFVT01RMnhhamhSMnNkdGF0bFhzdUc2QmtNWU5nLWdJTDFITTJEeGx3UFQ0M0NCLWlXRmljQ1E?oc=5",
-      "date": "2026-06-21",
-      "source": "Google News ES",
-      "desc": "Sanidad cierra la alerta por hantavirus tras confirmar negativos en todos los seguimientos&nbsp;&nbsp;Estrella Digital"
-    },
-    {
-      "title": "Torres celebra el fin de la cuarentena por hantavirus del buque Hondius sin contagios en Canarias y critica alarmismo - moncloa.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTkhja0FjUlJrWWdNTm5LWEsxc2MxbWluY3hoM1ZuYXNSNXNuR0poVGpkcFBZeGtMY0pyM19BUFpRLWtreFpQNEVZdFJRQzBwLTJHV0szRXBReFM2VGljTEtNMHBPZ1lzNGtONkxRLURoWURaT3dURElPUkxNMGpmckUzZl9KZVZIb3VUVUNqYlhDaFBhWTBJ?oc=5",
-      "date": "2026-06-21",
-      "source": "Google News ES",
-      "desc": "Torres celebra el fin de la cuarentena por hantavirus del buque Hondius sin contagios en Canarias y critica alarmismo&nbsp;&nbsp;moncloa.com"
-    },
-    {
-      "title": "Los cinco catalanes del Hondius dan negativo de hantavirus y dejan de tener la obligación de confinarse - El Triangle",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOa1I4UENwSXJ4cUJlb1l6TDh6amlQWlQ5dzlRX0xEZEFuNXJ6eUZzNFY0S1VKM3o0bHVQTDhhWXpOdnY1NzBrYmN6aEJVeEtTNWlha2ZQWldCMG5CNTl1NUtWamxVQkx0QkI4ZWlXRUxGc2hkbUlOTGtFejgtaWpuUW9KakpISDkyNm1lR1AyWnE2OXNHcUlRU21fMVp1NFlaZHpvWHd0ZG9SeEh2ZVZ2aWdsdXZUWm5FcWRzcXNHdi1TUWNYWGpMYWpMdktmVWNRRERjQ0JyZ090UHVR0gHiAUFVX3lxTE5PWTZpcTg2TnRNZTUtSXB3VzhqOU43dG15TE80OFZfUHE5Y1NmTmJmNHo2aTVNY1Z5Yk1YZTFkTHJIbXdPSDV1a0hnVW1PWGJSWVdpMWZQQmFHaVg3OEJuQlkxTTdzSVFXRFdrUE5nNV9OY2tpTXpIT29JcVZmNFplVEF2MXpRc1FSX0k5SndlbEwwWHFjaGxkOFZtNWM5ajhyb0RPbGVVZVNGZ2lKZjlHcTJaZV9FTDlLYjFyZE5OTVZNNG5EdmxWeVpKRjV5eXhIZ0Rqd3o3SjJtZDQyc2NoZ1E?oc=5",
-      "date": "2026-06-21",
-      "source": "Google News ES",
-      "desc": "Los cinco catalanes del Hondius dan negativo de hantavirus y dejan de tener la obligación de confinarse&nbsp;&nbsp;El Triangle"
-    },
-    {
-      "title": "Hantavirus Quarantine Ends for 18 Americans Exposed on a Cruise Ship - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvcmEzdUhfUGNHa3M0LWJzTGY3TFV4QU1oMzhmcDJRc3lBUjZEcUxYdnFXVDNZSTF6SXFKNl9TdmdCLVd1amQxWlNTRWo5ak12N01hSjF1d2VfN0FrUlBxQXY2WW95R1E5eGk1dWJJM0p1aXRDUzdB?oc=5",
-      "date": "2026-06-21",
-      "source": "Google News EN",
-      "desc": "Hantavirus Quarantine Ends for 18 Americans Exposed on a Cruise Ship&nbsp;&nbsp;The New York Times"
-    },
-    {
-      "title": "The hantavirus quarantine is over. Here’s what cruise passengers and scientists learned. - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNEZwUHVfQmFkOHZQc3J2c1czelU5Qm9nRUh1RTdiX3pmR1d0UFdwNk9WUnNRQ1E1U0dPa2dSSFVLT0NmNTV0Qm9VV0Exc1pCVC15dTRfUmltQkdnbXNqc0VCbGNkS0dqczZ5OWhnQjR1RnowWnhKODc5djYwejhRTFpTNmlvUnljVWttREtKQ0FZSXVOMEdXMUpFNHJGVXdNY056aEVUOEV6TkY3RHRUS20wRTFhaGJU?oc=5",
-      "date": "2026-06-21",
-      "source": "Google News EN",
-      "desc": "The hantavirus quarantine is over. Here’s what cruise passengers and scientists learned.&nbsp;&nbsp;NBC News"
-    },
-    {
-      "title": "Sanidad \"da por cerrada\" la gestión del hantavirus tras confirmar que todos los seguimientos han dado negativo - RTVE.es",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNmpnRUxqZzFzU3VtWlFxRXd2Q0RzQW5CeUZxX3o4cXhMQ1pyb0k2Tkd6UkkwZkRyaklmZUtHd1RqUTRpMEZzNkRkMDNuRkxSaWxxX2hvaEVEYXR1YWNuaHZxVWlET01DZ1d2TFpZUXRwc0ZyQnpyZ040OVAtMEFpRjZXbWtkZDhacmROR2dEeDAzV2xmN2J3VTZ5dGhRUjNBV1JqXzBvMlpCZVJMbmFLdHo1d3E1bVgyXzgxeEtMYWhUOTAxTFl1T0pVQXlTaDBqcUQtM3ZxWFVOM3hoSEVhSVhHdHI?oc=5",
-      "date": "2026-06-20",
-      "source": "RTVE",
-      "desc": "Sanidad \"da por cerrada\" la gestión del hantavirus tras confirmar que todos los seguimientos han dado negativo&nbsp;&nbsp;RTVE.es"
-    },
-    {
-      "title": "Todos los aislados españoles por el hantavirus han dado negativo en la última prueba y terminan la cuarentena - EL PAÍS",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcG5iQzRldjZzeG8taWphYjRzdUxFcUZhdDJfSjhGYXBwa2RTSWxVZ0xnRmR0RUUyd1dXa1RNOTJVdEctRUV5LXdDc0l3ZnYyc21iS1NtWTRFd0E0dTJJSzZNUnYtMC13SkE2Y0VUMkdQTERkUXU1QTB4aTkxX296a3ptenZnczRYcE51NVFHcEstbFl5Qy1xQ3VlaDNJM20xWU9kbDBWMVI4WFltNlNkZ25wQlFUbklSaFZGUW9jZ1pEem9lVFVqZXBTM2hBclQxTVlrazB0enNLOWFXOENwTWNEV18xMklG0gH8AUFVX3lxTFBDZDB1TU4xa0R4ZE4xUS1panBUdmlibHQzTHlJdm5vZF9BRG9TcjlheFhWNFBhRlZXcEVuQUdSNW9peXp0VWxmems1NGpDa21LNXpqdWE1MXlINUpWMGFPVTh5eXNEUzNILVhhN002U2xCVFVud0N0UDhpTC1vcGJUdEthSTZoem01dVdRdmxlb2p4UHRyZENSSkZqQnVEZVlKWE4yaDZ3SDFEbjRoNnpKd0pNU21kMVNiWkJTQ3VERkpkOE9SZzBHUXZLeGpNc1NaNENPSnFjeUg3VzE3dThGTEZoMHYxTWZDM0ZCLU1JMHhHZlptQ0ozbFVTTQ?oc=5",
-      "date": "2026-06-20",
-      "source": "El País",
-      "desc": "Todos los aislados españoles por el hantavirus han dado negativo en la última prueba y terminan la cuarentena&nbsp;&nbsp;EL PAÍS"
-    },
-    {
-      "title": "Todas las personas en seguimiento por hantavirus han finalizado la cuarentena - El Mundo",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM2NlS1dTRlBUVjFieU13R19pRUpIQ19NVWdKTExiQk5sMVIwaE1fQ2g1OUoxazR2ci1DSDQ3Z2ZLdDBRLW9jT1U0enV2bExGN3hxcktKbUkzN3FTeEJtQ1VuQWREQkI5eUdpXzJ5QkY5d3ZKd2M0SnIyMnktYW9ONXVUZWFMbTZrYnU5U2130gGOAUFVX3lxTE1LNVQ1V3FYQkpTOU1BTlZLd19OcVR6aEVYdl9wd25NdnFHLXpxVy10VTJLalZaWEJNSi15aXBzTWtNd1lGX185eTJIZUtyVHdPd2NIVEpzcEF5cVpYaS1wMzViZ0ZTUlBpOHI1cGJfY3NtelJzWEFPT1NhaHZDQi14UWp0UUtfQi1zb1p2Rmc?oc=5",
-      "date": "2026-06-20",
-      "source": "El Mundo",
-      "desc": "Todas las personas en seguimiento por hantavirus han finalizado la cuarentena&nbsp;&nbsp;El Mundo"
     }
   ],
   "countries": [
