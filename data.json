@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-06-22 19:48 UTC"
+    "updated": "2026-06-22 22:06 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,18 +1124,11 @@
   ],
   "news": [
     {
-      "title": "Hantavirus en alta mar: nueva hipótesis sobre el inicio del brote y la pista para llegar a un motorhome clave - La Nación",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWVN0SVh6dUVOT3otQnJoaUExOXpTbExYVHUyVm9wMVZ1NnFzSlRlOWwtN3pNSnpYanVMTFhERXNyQ2trc0hPY1FYRVNwN0J0d3FvM3UwNE1KbmtKaGd3NG5uREhQSWM1NTMwZ1JCZFBJQjBJN0VvVjFQLUMtU0FUejQxODhoUmFsN3FKaUNiSnM1MV9EdXFrWWpSelN4M1Z3TG9uTVBLd1NGdWFFMFd0b3NWc1NOVXlYS1dMRWhJc2lablRuakljektRLUpfMGNtT3FYekhUOFl5dw?oc=5",
+      "title": "Brote de hantavirus en el crucero: tras más de cuarenta días de encierro, los pasajeros de EEUU pudieron volver a sus casas - Clarin.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdnFxVDh3dlZHWXVUb1d1YXVTcm1pVlo2SjJrbXd4NG9sWEpOVkphUm4wOTRlRTBydmJyTlVyX2JDOHZvc2U0V1lIZk9CenhPb0RPS0VaNUpySUdGVER3YzU4UHNzeDV6VndMTk1YVGlWbU5hdWVlakNRMDNuM1d3UW5QOEtLU0ExZjdCbDVOMnFOV2doTEw2ZnFmUzZoeUpQcXlQbUNobDBDRE9EM1FuUk1ISnVDQURsQzV4WWtjd1NKeHNtWkZVYzlRdw?oc=5",
       "date": "2026-06-22",
       "source": "Google News ES",
-      "desc": "Hantavirus en alta mar: nueva hipótesis sobre el inicio del brote y la pista para llegar a un motorhome clave&nbsp;&nbsp;La Nación"
-    },
-    {
-      "title": "Sarampión, tuberculosis o hantavirus: el Morales Meseguer duplica el espacio de aislamiento para pacientes infecciosos - La Opinión de Murcia",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbFRUdy03V2UzZTNrRTRoYk1mcmRhMkdfOFhxOGR4UjljUzhPQmRyMmxEaFUyY1VHSm1RZ3hjNE51ZmJzV1F2aFp1VG1OOG5WTVQ5Y3UzUlZLbFh2d2lIazFwTE5SN2hiX2VnZ21pRkYyVF8tcnBkMmt4VDFXYTE5azF6c2hxcUluRkl3eW5hLW5md3RyNFZyMDdEck5FQW93QzQyWUNJUjFpZ3ZOWS01ZlBB0gG3AUFVX3lxTFA2VzM3d0xDc0g4NndVcllYQkZnUG9ZcXhSdllqdlZUMUNLMDJCQXJ4V0lsTFNGb0d1SDRjYWJObFNaMXRhTWdyZldwSURJUHdRNzFhcDBzRGVmXzREWWVyY01mSUw4UThoRmQ5a2ZLalg3NHdObVlja3BMVUpBUkU4dGZnZEZ2RFlJdGlGemF3cEVCdVI1amdCeUkwSDBhWFJwdzhMY041RUMwZVJFNVBpbHcyNHlPUQ?oc=5",
-      "date": "2026-06-22",
-      "source": "Google News ES",
-      "desc": "Sarampión, tuberculosis o hantavirus: el Morales Meseguer duplica el espacio de aislamiento para pacientes infecciosos&nbsp;&nbsp;La Opinión de Murcia"
+      "desc": "Brote de hantavirus en el crucero: tras más de cuarenta días de encierro, los pasajeros de EEUU pudieron volver a sus casas&nbsp;&nbsp;Clarin.com"
     },
     {
       "title": "Sanidad pone fin al brote de hantavirus vinculado al crucero MV Hondius - iSanidad",
@@ -1152,6 +1145,13 @@
       "desc": "Sanidad da por cerrado el brote de hantavirus tras concluir todas las cuarentenas&nbsp;&nbsp;Gaceta Médica"
     },
     {
+      "title": "Sarampión, tuberculosis o hantavirus: el Morales Meseguer duplica el espacio de aislamiento para pacientes infecciosos - La Opinión de Murcia",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbFRUdy03V2UzZTNrRTRoYk1mcmRhMkdfOFhxOGR4UjljUzhPQmRyMmxEaFUyY1VHSm1RZ3hjNE51ZmJzV1F2aFp1VG1OOG5WTVQ5Y3UzUlZLbFh2d2lIazFwTE5SN2hiX2VnZ21pRkYyVF8tcnBkMmt4VDFXYTE5azF6c2hxcUluRkl3eW5hLW5md3RyNFZyMDdEck5FQW93QzQyWUNJUjFpZ3ZOWS01ZlBB0gG3AUFVX3lxTFA2VzM3d0xDc0g4NndVcllYQkZnUG9ZcXhSdllqdlZUMUNLMDJCQXJ4V0lsTFNGb0d1SDRjYWJObFNaMXRhTWdyZldwSURJUHdRNzFhcDBzRGVmXzREWWVyY01mSUw4UThoRmQ5a2ZLalg3NHdObVlja3BMVUpBUkU4dGZnZEZ2RFlJdGlGemF3cEVCdVI1amdCeUkwSDBhWFJwdzhMY041RUMwZVJFNVBpbHcyNHlPUQ?oc=5",
+      "date": "2026-06-22",
+      "source": "Google News ES",
+      "desc": "Sarampión, tuberculosis o hantavirus: el Morales Meseguer duplica el espacio de aislamiento para pacientes infecciosos&nbsp;&nbsp;La Opinión de Murcia"
+    },
+    {
       "title": "El ébola y el hantavirus obligan al sector sanitario a extremar su preparación ante nuevas amenazas globales - consalud.es",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdmZRRjYwNzN0Vkc4bFJuSk1jRThVNDl4VXd2Q3h3bElSMWxjUWZhYTFFLWJ5MVVHMW5tSzFwRUt0NUlpSzc4TGg3ZlZLcVFZQUxHVVZwdjJmS3UyNkE3eWhLRTk5QXF2OXp3Ty1BeERGM0w2ZklxX283OHNuODdUZ0hiRUV0RUpIY09leU9taU51YWY0VDNfcWptRnY4VFQyejVvSGxBNkVVYzVHcjhXc1V3T2FoaUJyOUtCeWUyakRfMF9DQUI2cWdMbTBNVzhYU1FhdGJRM0N2dXdVa1UtdVZRdFZhQQ?oc=5",
       "date": "2026-06-22",
@@ -1164,6 +1164,13 @@
       "date": "2026-06-22",
       "source": "Google News ES",
       "desc": "Sanidad da por cerrado el brote de hantavirus al concluir las cuarentenas con PCR negativas&nbsp;&nbsp;Gaceta de salud"
+    },
+    {
+      "title": "Hantavirus en alta mar: nueva hipótesis sobre el inicio del brote y la pista para llegar a un motorhome clave - La Nación",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWVN0SVh6dUVOT3otQnJoaUExOXpTbExYVHUyVm9wMVZ1NnFzSlRlOWwtN3pNSnpYanVMTFhERXNyQ2trc0hPY1FYRVNwN0J0d3FvM3UwNE1KbmtKaGd3NG5uREhQSWM1NTMwZ1JCZFBJQjBJN0VvVjFQLUMtU0FUejQxODhoUmFsN3FKaUNiSnM1MV9EdXFrWWpSelN4M1Z3TG9uTVBLd1NGdWFFMFd0b3NWc1NOVXlYS1dMRWhJc2lablRuakljektRLUpfMGNtT3FYekhUOFl5dw?oc=5",
+      "date": "2026-06-22",
+      "source": "Google News ES",
+      "desc": "Hantavirus en alta mar: nueva hipótesis sobre el inicio del brote y la pista para llegar a un motorhome clave&nbsp;&nbsp;La Nación"
     },
     {
       "title": "Estados Unidos pone fin a la cuarentena tras el letal brote de hantavirus en el crucero MV Hondius - Infobae",
@@ -1187,18 +1194,11 @@
       "desc": "Sanidad da por concluida gestión del hantavirus: todos los seguimientos han dado negativo&nbsp;&nbsp;consalud.es"
     },
     {
-      "title": "Termina la cuarentena en EEUU para los pasajeros del barco con hantavirus - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeUhqZlRYdk40YWxzLUdUQ0FoajNNNVB1a1NTbzJNbnJmU1JlblU1cmEzQUo0YWpwZzBtUXdudDN5R0lIak56YzJ1U3BBN1JhNmVhblJOWVZIYVhHVElkVVhIVDZsVDJhbTViMDZucnRrdjVQYTJKMFR2bXZLYkZ0R05PTTMyUVp2SkpJWjhqRFpMa1FrVGZYV0R2Q1NjZTNYNXFwLUs3ZUJXeWc?oc=5",
-      "date": "2026-06-22",
-      "source": "Google News ES",
-      "desc": "Termina la cuarentena en EEUU para los pasajeros del barco con hantavirus&nbsp;&nbsp;AP News"
-    },
-    {
-      "title": "Origins of Cruise-Ship Hantavirus Outbreak Under Scrutiny - The Santa Barbara Independent",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS2lIeTlJaFROZ2g0dVRsUldjMWptQzkwVXdUaWtyd2VxR3YxS2pRN1NaOHNOZHRzTlRsX3E0REplR0FDei04R1NUNG01XzlueUZBRkRrOHBLam04Z2pMUkYtLUJBTHJRUEJ0Um5LVEFhMWRlN3ZwNmFoQlhVZXFVei1abmxYR0R6VFF6bUkzNXdFeVViVHRHSXBzbDBfZw?oc=5",
+      "title": "Quarantine ends for the last of the hantavirus ship passengers in Nebraska - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcWFjZ3J3aEh3YlAtekZfN0cxTmlIX0h1TWcxVUZyYzZ0V3RtaFZpOThUS3FvWTVHZzZwOURZRXJvVXdGUjVhVTdSZUZpYzhFMmtiandJcVZJOWVKM0lGVXIyTXBjT3BRWjkzaEZyMjltNVg5ZFRFLVVPTV9RWFJPemJHcUR5dFI0SXFOWlBvell6OGNvREY1VUtnYUlZZk5RSnNYbk1aUXZZZGc5bXBmZTVaTVRMVVBqRzd0Sg?oc=5",
       "date": "2026-06-22",
       "source": "Google News EN",
-      "desc": "Origins of Cruise-Ship Hantavirus Outbreak Under Scrutiny&nbsp;&nbsp;The Santa Barbara Independent"
+      "desc": "Quarantine ends for the last of the hantavirus ship passengers in Nebraska&nbsp;&nbsp;Los Angeles TimesHantavirus Quarantine Ends for 18 Americans Exposed on a Cruise Ship&nbsp;&nbsp;The New York TimesAmerican Passenger from Hantavirus Crui"
     },
     {
       "title": "Ebola and hantavirus can start like the flu but turn deadly fast - ScienceDaily",
@@ -1208,11 +1208,11 @@
       "desc": "Ebola and hantavirus can start like the flu but turn deadly fast&nbsp;&nbsp;ScienceDaily"
     },
     {
-      "title": "Hypertension Drug Recall; Hantavirus Quarantine Ends; Bending Over and Miscarriage - MedPage Today",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jVlNLSGRmeHZncXVfdk8tejBRZWtXOUNNcUcwdHFKQWtCQTBsaVVtNkhfbUdjQzNWQ294RTdMTV9Ta0g5SEpvUXAxaU80aENjLWFOVm4wWnlIZlJnRGZsU2pWRjNuNlFFODhB?oc=5",
+      "title": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUThMc0pIYUVmdmh0VDhLd1J6Njk3T0Mzenppak14OWE4eWhrYjA5MEZGdDN6dnN3UzQ3aFVlNWNyeTJmQ18wU05XN2tQZjlQT09wdFRZc3VDTG4xamx2YWgyODVQaWVTUmw4?oc=5",
       "date": "2026-06-22",
       "source": "Google News EN",
-      "desc": "Hypertension Drug Recall; Hantavirus Quarantine Ends; Bending Over and Miscarriage&nbsp;&nbsp;MedPage Today"
+      "desc": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)"
     },
     {
       "title": "AFRL’s 711th Human Performance Wing supports hantavirus response in Omaha - wpafb.af.mil",
@@ -1222,6 +1222,13 @@
       "desc": "AFRL’s 711th Human Performance Wing supports hantavirus response in Omaha&nbsp;&nbsp;wpafb.af.mil"
     },
     {
+      "title": "Origins of Cruise-Ship Hantavirus Outbreak Under Scrutiny - The Santa Barbara Independent",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS2lIeTlJaFROZ2g0dVRsUldjMWptQzkwVXdUaWtyd2VxR3YxS2pRN1NaOHNOZHRzTlRsX3E0REplR0FDei04R1NUNG01XzlueUZBRkRrOHBLam04Z2pMUkYtLUJBTHJRUEJ0Um5LVEFhMWRlN3ZwNmFoQlhVZXFVei1abmxYR0R6VFF6bUkzNXdFeVViVHRHSXBzbDBfZw?oc=5",
+      "date": "2026-06-22",
+      "source": "Google News EN",
+      "desc": "Origins of Cruise-Ship Hantavirus Outbreak Under Scrutiny&nbsp;&nbsp;The Santa Barbara Independent"
+    },
+    {
       "title": "What Arizona should understand about hantavirus - ASU News",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcEt6SlRoVHllNFFsTk41MzhzUXZfRmhHa25oSlprcFEwRlVTdGhmWmN2WUwwSzl1eWdldHVPZjVaWGY0R2FITDhwYjZ0ZEgyMnpUVk5Ob0hRclREVEFrMFdaaENpNFBzakJQNEtCa191Y0JMSWFrVTduMTNqV3NHREZieHFIbXI5VUViaVRlMFRGeVBGYVZqSG5FeUNlQQ?oc=5",
       "date": "2026-06-22",
@@ -1229,25 +1236,18 @@
       "desc": "What Arizona should understand about hantavirus&nbsp;&nbsp;ASU News"
     },
     {
+      "title": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObm1TT1ZTRTFBeTJEcTJJV2dacnZGM0stX3NtbE1WOVNLZFZHbXhxRnRRLUxwZVYwaDh0YU9COWxWTDFjcUpiNTZZeTUyYUxuelp2MENVR21DNC11aUhfUmh2UC1CSVVaWnc0cFA3dXpvOUFiNGw4cHdlSUNpMjlFMy0xLTBjNlBueFlqX1BYY2NGNVhFRTU0NdIBngFBVV95cUxNcGRPR0QtMVFPb2hleDc4bzY3akJhYThidk9TNllXbkN3XzZyV0thcl9zSlVHZHZEYXFqUHZBYmhHbTVCNFM2SHdLRWN0THBXRXRwa0RFNHRVX3lCNDZRUXZRaVdqWHA0UUFQVXVBUDNaV3c0S3c2Qnp5ZS14V21MNFpmY28xOHFhTDNrMFZYZDVhbGlLWEJVRHFURzZVdw?oc=5",
+      "date": "2026-06-22",
+      "source": "Google News EN",
+      "desc": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos"
+    },
+    {
       "title": "Can Hantavirus Spread Between People? What to Know About the Cruise Ship Outbreak and Pandemic Risk - Infection Control Today",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNblo0aExwamNhSVdGUnRKZGFDZlo0NWJZeVdXaDFzOERZa2pYWlpkdXVrVzVwMHZCMngxY0xiVWE5SlFLa2FXTDJ0U1pIbmlKaUFvWDFiNnVxY0I3SGNYTWVoLTQzWmZ3emhaamlDcTJzSHlqTk9ISG5kV0VlY1lvQzFJYVRSeUFrMzYxRDdrcHlWdVZvQTM3ZGIwSTVWMkhWaV9EU1VqVkMxZ29DVm4wR3VFaXJPdkJDTk0zSEo0ajM3QQ?oc=5",
       "date": "2026-06-22",
       "source": "Google News EN",
       "desc": "Can Hantavirus Spread Between People? What to Know About the Cruise Ship Outbreak and Pandemic Risk&nbsp;&nbsp;Infection Control Today"
-    },
-    {
-      "title": "How clinicians can identify and manage Ebola, hantavirus - News-Medical",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUzhYYUFweDZSalcxd0xXQ3ZZSkt4bWRnaHBFT1Z1dnR6bEU4cExwUXBFWGp2RW1pZzh0d1I1ekl4MXgtb2VvN0RZVUFoMUxWUVd1ZDdPS0VVdUNYSGplakZ1SExSU3F6VnJfUGhEbmw1YXJBdWFjR1NhNzdTV3dIb1UxcUhBWGgtb3BqMnNWc25BR2pNelQ5QWpCLVZJcVhvcVRET19R?oc=5",
-      "date": "2026-06-22",
-      "source": "Google News EN",
-      "desc": "How clinicians can identify and manage Ebola, hantavirus&nbsp;&nbsp;News-Medical"
-    },
-    {
-      "title": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska - Messenger-Inquirer",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQVWU1elpvYm02N2VYMlg3NjVkV3k5X2d4V1gtTUtxNnlrZlk5eXNBODFvWUZ6ZVVFZXFuTjJ6bTdybnpLbHdkeUZDazhCeDlUR1p5Q3c4UWZjVUNZZDFFNWpmMTlYLUg0TDk2T25XblU5R3JTVlFRN0wwTV9OX3l0d1dvTnA2N2VWVHNTS2o5bHZjY0Qtd3k3ZGNzb1NDSGJERmJGZmF0YmotZ0E1Yi1DV3BLMmhQZGxyQnNRbVVFWmpDNDkwcmtMZEFiSm0zUjg3SFdqamc4bTVsMVhUU1NQa0diQ0R0YWx2cXBlRW4xTnVNbnZxdFRoMjF2OG9sWTI5Rl9WLUJLbm9ZOUZm?oc=5",
-      "date": "2026-06-22",
-      "source": "Google News EN",
-      "desc": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska&nbsp;&nbsp;Messenger-Inquirer"
     }
   ],
   "countries": [
