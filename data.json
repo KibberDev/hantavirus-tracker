@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-06-23 06:11 UTC"
+    "updated": "2026-06-23 10:04 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,6 +1124,27 @@
   ],
   "news": [
     {
+      "title": "EEUU pone fin a cuarentena de ocho pasajeros expuestos a brote de hantavirus - The Objective",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUk9MVldmMVMtVEUwX0JQRkd6T3oycjA5X0RhOENJTHd2OUd2TlNqcDRqMTlKZW5NaXMxTWxuYWdQXzE5WlJZWFVuOFFEcGI0VjBFRExEYjdvMUZwWDA0bnEwcUpGcHFGR0ZqY3hZRzhKS0pPMktuMGFlYTJzOFA4X1Z1bnAtYUN1WEJLdXFfSzE?oc=5",
+      "date": "2026-06-23",
+      "source": "Google News ES",
+      "desc": "EEUU pone fin a cuarentena de ocho pasajeros expuestos a brote de hantavirus&nbsp;&nbsp;The Objective"
+    },
+    {
+      "title": "Finaliza el seguimiento de los viajeros estadounidenses del MV Hondius sin casos de hantavirus - consalud.es",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVEtEcDFvY0ltamdYQjRYQWZMOTZYU2xHaWcyUzJGNG5EdUJrRnc2a015MFJ2dm81VTNCWHZiYXowQkxVWFlnV1BYcXI3THF2LWFEM1hVVWR0M1NPRHIza1ZQTTdPTUhpeEJxQmZiT3VibzlXYjAwSmRGU3EyMUV5dUdXN1VlMFk1UzBLSHNmck1jNVVIS0FmT0dheU1MVkl1WHdLX281LWtHdXdzRTdIT0J0UVpGZFNDZ2tNSFFxVGY4QkJDR0FSZkJuM0owVS1GU0U3c0ZqN0hSUVh0Qnc?oc=5",
+      "date": "2026-06-23",
+      "source": "Google News ES",
+      "desc": "Finaliza el seguimiento de los viajeros estadounidenses del MV Hondius sin casos de hantavirus&nbsp;&nbsp;consalud.es"
+    },
+    {
+      "title": "El brote de hantavirus \"está a punto de terminar\", afirma el director general de la OMS, después de que más del 80 % de los contactos hayan terminado la cuarentena - Gamereactor",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQN3hLaDNRek5FTXJMOHZNZHBCRVMtR0JBbVZuU25yVnJqMEtZbVBMMkNOZjRJWXZwT28yTXlIbEZsV3FGTFRTcTY4V29QcXFMVW84TlRxc0w3RnkzOVVIc3lYMlA2OHh4SjlRanVfX3R6aXZpWVZhV2pGUUo0emF2LUFJVjlaMlBnX3hnUm1aWVhDa1AxY0lwUlU3eHR2ZklpSmY2SDdiOExwc08tVFJrX0pqam85Z0x0QnJ2Rl9BelJuQ0hlanJWempNM3JRb3cySlhRX2MwTzVBLTl5T3UyS0wzcXhTMFhzbDRIMVlqNW5wMVVXNEtONFBqU1M1cmNqdWdzS2x2MDdvZFpRTlQ3TEVNcmhPZFRtcktfYUdB?oc=5",
+      "date": "2026-06-23",
+      "source": "Google News ES",
+      "desc": "El brote de hantavirus \"está a punto de terminar\", afirma el director general de la OMS, después de que más del 80 % de los contactos hayan terminado la cuarentena&nbsp;&nbsp;Gamereactor"
+    },
+    {
       "title": "Americans on hantavirus-infected ship end quarantine - NBC News",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcFB2RmRuZzBHWHp5Tzdrc1ZSbHVEM0YxbDNJazZuTjByS3djV05kcDBndUUyV200VVVxMjZOUWJlLVZjRUdyZm9DRHl5TTNuVU9VbkFwZVhxVHgxU015aG9wMmY4UE1zeXd4MkFqVHZ5bUM5V2UwS0FJSlR0WUdqNzV6Ym9NRzI2cXFNczhDWDFYcEpBWUFtRGpXUVF0S2ZjYThwTg?oc=5",
       "date": "2026-06-23",
@@ -1145,18 +1166,11 @@
       "desc": "Hantavirus quarantine monitoring ends for M/V Hondius passengers at UNMC&nbsp;&nbsp;KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE"
     },
     {
-      "title": "US completes quarantine of cruise ship passengers after hantavirus outbreak - Українські Національні Новини (УНН)",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ1ZGLS1fRWZiOG8xbnJRY2RicmtSbnlyaXEwMDB0ZU11ZlE1YmNRV1d5SzFPMlFDSDRRUnBYMnFxZGNPZFg4eVlDQ214cVNzQmdDNS11bGVKb0lodlVrNUsxVHBmUnRnZDJ1VjBQcG9BSElhS0wxS1IxQWQtZEMxZ2NzSkctekZsQkRFQ2VmZlNld1htYm82ZzRLOVprRmvSAZ4BQVVfeXFMTzRGWlhJVl9yWUdzZ1JrWWlaaUw4REJIeVVUUjdlOTFtUjctc2tqUUJwbWVnSWluNXBFSWRDVzZrVU1TMU5nTVdXbm5IU2tPQXEyRmk1TmNiY2dMbllTRHg0dXpiR05nWF9ra2pGa0FqeDB3WUowQmV3djRkbk1lVkpILXdzaFdtSG56Q2ctX1VHYTl1ZGdLbkJMQ1FVNWc?oc=5",
+      "title": "U.S. hantavirus cruise passengers complete monitoring, no new cases reported - AnewZ",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMU1CejVQek5hLVhDazEzQTBjei1TSmwtSGQ1YVd2Q2tKLWVaQWpFWmhJTEprZVplQ0U1TVpMa2lGUElKYTJEMlFUSzl1ekctQVBBbDhWdHZkQnNxcmI1ZHA3OExoX0RHdW9BdmpwSjZLbnJIdWdNSjRmYk1QQWxBSVBqaVVYN2JwbmZTcUU5WEp2Y25ERnczc0NNU0VtbkwxS2c?oc=5",
       "date": "2026-06-23",
       "source": "Google News EN",
-      "desc": "US completes quarantine of cruise ship passengers after hantavirus outbreak&nbsp;&nbsp;Українські Національні Новини (УНН)"
-    },
-    {
-      "title": "Quarantine ends for all 18 Americans exposed to hantavirus on cruise ship - KVIA",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMGZ3cjNfYjhjbEdTeklOLUtmeV94XzZiYVBpVDUtT09CQ1ZJVWJ4WV9Ebm5UYTB2eGlBN3BUWXc1YW91ZEwzbUVtbUN6MzNQdS1JMTgxRmV1TTlNQ3h1MkpGRVM5VU1rLWRkRlFRMlRWU0NEZE1qdEpnTFNNenVWdGNjTnFIdTFqb3Y2YWJPcmVCVzVCZVVaNGFsck5WXzBMaHNvUg?oc=5",
-      "date": "2026-06-23",
-      "source": "Google News EN",
-      "desc": "Quarantine ends for all 18 Americans exposed to hantavirus on cruise ship&nbsp;&nbsp;KVIA"
+      "desc": "U.S. hantavirus cruise passengers complete monitoring, no new cases reported&nbsp;&nbsp;AnewZ"
     },
     {
       "title": "Quarantine ends for last of American passengers of cruise ship hit by hantavirus outbreak - weareiowa.com",
@@ -1166,6 +1180,13 @@
       "desc": "Quarantine ends for last of American passengers of cruise ship hit by hantavirus outbreak&nbsp;&nbsp;weareiowa.com"
     },
     {
+      "title": "US completes quarantine of cruise ship passengers after hantavirus outbreak - Українські Національні Новини (УНН)",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ1ZGLS1fRWZiOG8xbnJRY2RicmtSbnlyaXEwMDB0ZU11ZlE1YmNRV1d5SzFPMlFDSDRRUnBYMnFxZGNPZFg4eVlDQ214cVNzQmdDNS11bGVKb0lodlVrNUsxVHBmUnRnZDJ1VjBQcG9BSElhS0wxS1IxQWQtZEMxZ2NzSkctekZsQkRFQ2VmZlNld1htYm82ZzRLOVprRmvSAZ4BQVVfeXFMTzRGWlhJVl9yWUdzZ1JrWWlaaUw4REJIeVVUUjdlOTFtUjctc2tqUUJwbWVnSWluNXBFSWRDVzZrVU1TMU5nTVdXbm5IU2tPQXEyRmk1TmNiY2dMbllTRHg0dXpiR05nWF9ra2pGa0FqeDB3WUowQmV3djRkbk1lVkpILXdzaFdtSG56Q2ctX1VHYTl1ZGdLbkJMQ1FVNWc?oc=5",
+      "date": "2026-06-23",
+      "source": "Google News EN",
+      "desc": "US completes quarantine of cruise ship passengers after hantavirus outbreak&nbsp;&nbsp;Українські Національні Новини (УНН)"
+    },
+    {
       "title": "All US passengers from hantavirus-hit ship return to home states - Red Lake Nation News",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNVRMZzhuMTNIOHc4eGJMUnFyd1dCSlRIN19aQUdTeWtTMW9EV0ZSMDRSaThJa0ZsU0pFXzlqMmt4SFNlalBMb2VTMWRzNXJJbTFwQWloYnhkNnRRUklvV2dWYnVVSnRMYmduTjhtY2RFQU9iRFh3VWFXZ1ZUN0pqMVBtbWpFVUNFMnhRVVdIX0gzUGlfemlTdkRfX2VmREVaNGNIaUdNUC1BTDk0cmJVRWxYd0V5ZElLR0IyaG5KSVFHdl9DUGV6WFdSZGI?oc=5",
       "date": "2026-06-23",
@@ -1173,11 +1194,11 @@
       "desc": "All US passengers from hantavirus-hit ship return to home states&nbsp;&nbsp;Red Lake Nation News"
     },
     {
-      "title": "U.S. passengers from hantavirus cruise complete monitoring, no cases reported - AnewZ",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMU1CejVQek5hLVhDazEzQTBjei1TSmwtSGQ1YVd2Q2tKLWVaQWpFWmhJTEprZVplQ0U1TVpMa2lGUElKYTJEMlFUSzl1ekctQVBBbDhWdHZkQnNxcmI1ZHA3OExoX0RHdW9BdmpwSjZLbnJIdWdNSjRmYk1QQWxBSVBqaVVYN2JwbmZTcUU5WEp2Y25ERnczc0NNU0VtbkwxS2c?oc=5",
-      "date": "2026-06-23",
-      "source": "Google News EN",
-      "desc": "U.S. passengers from hantavirus cruise complete monitoring, no cases reported&nbsp;&nbsp;AnewZ"
+      "title": "Un matrimonio holandés fallecido, los supuestos pacientes cero de Hantavirus - RTVE.es",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PUlI0YTFaeHk3VzhFVy13ajFidXhUdllfdGUybFFSMnNkT1dIMzc0Wm1neE5tNllrdGtfaW1qUm9LV29OOE5sV3pBR09XTHRsRk5MZ2N5eHNlaDRDUmlLWXU2bFI?oc=5",
+      "date": "2026-06-22",
+      "source": "RTVE",
+      "desc": "Un matrimonio holandés fallecido, los supuestos pacientes cero de Hantavirus&nbsp;&nbsp;RTVE.es"
     },
     {
       "title": "Hantavirus en alta mar: nueva hipótesis sobre el inicio del brote y la pista para llegar a un motorhome clave - La Nación",
@@ -1187,18 +1208,25 @@
       "desc": "Hantavirus en alta mar: nueva hipótesis sobre el inicio del brote y la pista para llegar a un motorhome clave&nbsp;&nbsp;La Nación"
     },
     {
-      "title": "Sanidad pone fin al brote de hantavirus vinculado al crucero MV Hondius - iSanidad",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOX0hHVFNpOHNrWkVRQnZaSjJJbGJFZXZzNjN1NkdrVkVTVUNZRjFmUTB5TjFTQjhKcVlkNUtqZFZETjRwTXRONkdWeFFrM0ZBZ3lqajRiajEzbEJadDVJR0RJNWk4ZFRSRG9UT0dqYXFXb0VNa0NUbFhsclozWUpQc1NZQmhnd1VBZGtIYmZhcmptNVZDRWVlSjN1NjFXZXZnN2JGYWhhSzM4RUYtczFTMXVyWGhibmVkMTR0UE9reGV5U0sxdnZ0RmhqMnZKcmhmMWRV?oc=5",
-      "date": "2026-06-22",
-      "source": "Google News ES",
-      "desc": "Sanidad pone fin al brote de hantavirus vinculado al crucero MV Hondius&nbsp;&nbsp;iSanidad"
-    },
-    {
       "title": "Sarampión, tuberculosis o hantavirus: el Morales Meseguer duplica el espacio de aislamiento para pacientes infecciosos - La Opinión de Murcia",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbFRUdy03V2UzZTNrRTRoYk1mcmRhMkdfOFhxOGR4UjljUzhPQmRyMmxEaFUyY1VHSm1RZ3hjNE51ZmJzV1F2aFp1VG1OOG5WTVQ5Y3UzUlZLbFh2d2lIazFwTE5SN2hiX2VnZ21pRkYyVF8tcnBkMmt4VDFXYTE5azF6c2hxcUluRkl3eW5hLW5md3RyNFZyMDdEck5FQW93QzQyWUNJUjFpZ3ZOWS01ZlBB0gG3AUFVX3lxTFA2VzM3d0xDc0g4NndVcllYQkZnUG9ZcXhSdllqdlZUMUNLMDJCQXJ4V0lsTFNGb0d1SDRjYWJObFNaMXRhTWdyZldwSURJUHdRNzFhcDBzRGVmXzREWWVyY01mSUw4UThoRmQ5a2ZLalg3NHdObVlja3BMVUpBUkU4dGZnZEZ2RFlJdGlGemF3cEVCdVI1amdCeUkwSDBhWFJwdzhMY041RUMwZVJFNVBpbHcyNHlPUQ?oc=5",
       "date": "2026-06-22",
       "source": "Google News ES",
       "desc": "Sarampión, tuberculosis o hantavirus: el Morales Meseguer duplica el espacio de aislamiento para pacientes infecciosos&nbsp;&nbsp;La Opinión de Murcia"
+    },
+    {
+      "title": "Hantavirus en Bariloche: murió una mujer y aislaron a 24 personas por contacto estrecho - El Cronista",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcjlObVZBWWttN292QnE2TjJvV3REcjd0RGVUWEExTEY4YlNJNzluaDJ5R1pQeUlvMU93NldLT0ZIZHE1dlluWm5mVFJqc2ZyWDUyVDdrOVZWYVkyaUJ2NzQybmlBUEQwUlVhcFU2QkZtYzE0S3RDdklHYTdkclFub1k4dVV0S0Z4QTVnOUNFb1FxNFJYdUJ1eFZmX3FWMFZuSjh1d3U2QXFKeGNNNkZITlc3WUxiMkg4d3lIcUxvVFAyTm9TWE5wSNIB4wFBVV95cUxOREJCbFZHQlF0dEZEV3VWSG9Hdmo5OGs4bTFFa0tZRVNvSFI2Vkhuanh4c1BBS3BMZEtvNFpVXzJZRnhHZmx6dzA3Z1BqY19zR1RMTTFheWhWRUlVWlo5aXV6RWFUNXhDUjZGU3l6aG1Vc253VGNnQTNxVGlfQXVLUERQSWtuTDh5TG9JT2FOQ1JlUVUwS0NmQWYzaWgtRE5wTzlscEY4Vjk2NzZOVm4zU0h3WlU2NkhWNEJLdlR0ekE3aHRDSFMzd3Y0UDlMd00zNTlUWHp1UnBXRXYxSlhLbVhqMA?oc=5",
+      "date": "2026-06-22",
+      "source": "Google News ES",
+      "desc": "Hantavirus en Bariloche: murió una mujer y aislaron a 24 personas por contacto estrecho&nbsp;&nbsp;El Cronista"
+    },
+    {
+      "title": "Sanidad pone fin al brote de hantavirus vinculado al crucero MV Hondius - iSanidad",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOX0hHVFNpOHNrWkVRQnZaSjJJbGJFZXZzNjN1NkdrVkVTVUNZRjFmUTB5TjFTQjhKcVlkNUtqZFZETjRwTXRONkdWeFFrM0ZBZ3lqajRiajEzbEJadDVJR0RJNWk4ZFRSRG9UT0dqYXFXb0VNa0NUbFhsclozWUpQc1NZQmhnd1VBZGtIYmZhcmptNVZDRWVlSjN1NjFXZXZnN2JGYWhhSzM4RUYtczFTMXVyWGhibmVkMTR0UE9reGV5U0sxdnZ0RmhqMnZKcmhmMWRV?oc=5",
+      "date": "2026-06-22",
+      "source": "Google News ES",
+      "desc": "Sanidad pone fin al brote de hantavirus vinculado al crucero MV Hondius&nbsp;&nbsp;iSanidad"
     },
     {
       "title": "Sanidad da por cerrado el brote de hantavirus tras concluir todas las cuarentenas - Gaceta Médica",
@@ -1208,13 +1236,6 @@
       "desc": "Sanidad da por cerrado el brote de hantavirus tras concluir todas las cuarentenas&nbsp;&nbsp;Gaceta Médica"
     },
     {
-      "title": "El ébola y el hantavirus obligan al sector sanitario a extremar su preparación ante nuevas amenazas globales - consalud.es",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdmZRRjYwNzN0Vkc4bFJuSk1jRThVNDl4VXd2Q3h3bElSMWxjUWZhYTFFLWJ5MVVHMW5tSzFwRUt0NUlpSzc4TGg3ZlZLcVFZQUxHVVZwdjJmS3UyNkE3eWhLRTk5QXF2OXp3Ty1BeERGM0w2ZklxX283OHNuODdUZ0hiRUV0RUpIY09leU9taU51YWY0VDNfcWptRnY4VFQyejVvSGxBNkVVYzVHcjhXc1V3T2FoaUJyOUtCeWUyakRfMF9DQUI2cWdMbTBNVzhYU1FhdGJRM0N2dXdVa1UtdVZRdFZhQQ?oc=5",
-      "date": "2026-06-22",
-      "source": "Google News ES",
-      "desc": "El ébola y el hantavirus obligan al sector sanitario a extremar su preparación ante nuevas amenazas globales&nbsp;&nbsp;consalud.es"
-    },
-    {
       "title": "Brote de hantavirus en el crucero: tras más de cuarenta días de encierro, los pasajeros de EEUU pudieron volver a sus casas - Clarin.com",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdnFxVDh3dlZHWXVUb1d1YXVTcm1pVlo2SjJrbXd4NG9sWEpOVkphUm4wOTRlRTBydmJyTlVyX2JDOHZvc2U0V1lIZk9CenhPb0RPS0VaNUpySUdGVER3YzU4UHNzeDV6VndMTk1YVGlWbU5hdWVlakNRMDNuM1d3UW5QOEtLU0ExZjdCbDVOMnFOV2doTEw2ZnFmUzZoeUpQcXlQbUNobDBDRE9EM1FuUk1ISnVDQURsQzV4WWtjd1NKeHNtWkZVYzlRdw?oc=5",
       "date": "2026-06-22",
@@ -1222,32 +1243,11 @@
       "desc": "Brote de hantavirus en el crucero: tras más de cuarenta días de encierro, los pasajeros de EEUU pudieron volver a sus casas&nbsp;&nbsp;Clarin.com"
     },
     {
-      "title": "Sanidad da por concluida gestión del hantavirus: todos los seguimientos han dado negativo - consalud.es",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSFY3S3l6c0tySTZ3N01pVzYxUHFtT1RtUDVvUG14QVk5NmozN2FackliVW5KcVBsZDlKblZqX1lWTnE1NmVSeFpGSThWNTgyMWh1by1hOGJrRzg2ZmVZOVVtOTNCbkc1VmE5ZXRTUzZnQkwtTlJGWVVuaWlOc2lDMzZ4b2lNd09fWHg1Z0RHdzE2bFRjN1NmeXlWekt1ZjU0MnA2Y0h3TWd6c1hhdUppMnNsUXNTNkgtT283RTdpN3F1ZGpWOTlkZVNab2NKa1BVZFNpUWlB?oc=5",
+      "title": "El ébola y el hantavirus obligan al sector sanitario a extremar su preparación ante nuevas amenazas globales - consalud.es",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdmZRRjYwNzN0Vkc4bFJuSk1jRThVNDl4VXd2Q3h3bElSMWxjUWZhYTFFLWJ5MVVHMW5tSzFwRUt0NUlpSzc4TGg3ZlZLcVFZQUxHVVZwdjJmS3UyNkE3eWhLRTk5QXF2OXp3Ty1BeERGM0w2ZklxX283OHNuODdUZ0hiRUV0RUpIY09leU9taU51YWY0VDNfcWptRnY4VFQyejVvSGxBNkVVYzVHcjhXc1V3T2FoaUJyOUtCeWUyakRfMF9DQUI2cWdMbTBNVzhYU1FhdGJRM0N2dXdVa1UtdVZRdFZhQQ?oc=5",
       "date": "2026-06-22",
       "source": "Google News ES",
-      "desc": "Sanidad da por concluida gestión del hantavirus: todos los seguimientos han dado negativo&nbsp;&nbsp;consalud.es"
-    },
-    {
-      "title": "Estados Unidos pone fin a la cuarentena tras el letal brote de hantavirus en el crucero MV Hondius - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQzFvUTdYMWJhaHIwU0VtNndtM0Ffd1lMbDVMc09IVWE5TTExR0g3c1hUQjNUekhmelFibjBHM2FDaHpndGc4Mm9jR2hsYzZURWhJcGJNZWlQckphSmpCV3FwYWtiX1ZFaHRDc3ZFWW44YW9Yb1VPQmhiN3hyTU5FVVZiajcyRXFjZDBIejZHeGNtSkFnOUJxSWFHd29uaDJPZGxiX1pZX0xJdzR0V1RpNXE3VEMxZHdZX1RISkxmcVF0b1ZtYzVkdVFoZi1LRUsySmdRQjFBaW1mV3NVV1RPUDBKVdIB_gFBVV95cUxPWXZWdDFobXRPU2tSSUVKWGdZaWpKc2ZFbGtBRldyZDV5SkNmZWR5Uk1uWFdmRmEydWRlRkJqV1JNRW9rWWN5aTk3VUdpVmRnVjFEUFRtRFJtcmtMb2RDc2Q2TlZNZ2NfRWcwaEdtQ0RYLXlpQXduWWJqRm1oT3BfS3J4Z3ptU3ZGOXlfTk90SktFTUxXSXJfRmlfRkxTaGtBLTJVTzl2ZGNsRkI5QzctNzU4Zkx6UWgyWEhYUXg3REprYlp5dG41bXdsUVctLWM4a2M1ckZORzFDbGRkV0dBalpkTjhwQkVJUTBtSEtOMEFmRWg5NzVTb2FNNHllZw?oc=5",
-      "date": "2026-06-22",
-      "source": "Google News ES",
-      "desc": "Estados Unidos pone fin a la cuarentena tras el letal brote de hantavirus en el crucero MV Hondius&nbsp;&nbsp;Infobae"
-    },
-    {
-      "title": "Sanidad da por cerrado el brote de hantavirus al concluir las cuarentenas con PCR negativas - Gaceta de salud",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWUpqM3EyWXhuR2dsZzd1Ti1zSmllVnk5b2xpMEVmQ0M1Q29rWENSNHZUVlBSZV9CMTRvUUtEVkphUWdGWUlad0VXZmVyN2E4RS13b2dLT3h2dmlYRkJFRmE5bG52VTJCb00ybmNJQVJFMG44YzJtcGptYmVUc0xidDVBaFU2bmtZblkwWVMxWHFyZHJVWUJpekxtNnlDVUlDU0lDczlsQkwtZVNPVXpkZER5ZWVlUkZHTDlob2p2OGdkNVh5cTFhRWoxY0FOUFFDVGxlSUM3Z2p4UDhKQ05lZUtSRUNPMzhFNWxjdnBhOHllMUozRVZn?oc=5",
-      "date": "2026-06-22",
-      "source": "Google News ES",
-      "desc": "Sanidad da por cerrado el brote de hantavirus al concluir las cuarentenas con PCR negativas&nbsp;&nbsp;Gaceta de salud"
-    },
-    {
-      "title": "Quarantine ends for all 18 Americans exposed to hantavirus on cruise ship - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVnM2NmZ3UGRzdGwwdkV2RUFNRlVILVNmNGlnZzgycTVGaDRnT0RGMTk4STU4YXhKZHlQVXowanliRkp4al9Zd1hUdFFoV2pxelRFbG55d0J2QUhwQklFaTFPSml6dVhYVnd2X2dKdmYyN0dscnVBZWFPaG1ESDJ4SVphQVZHNHpwc3dkN1g0WUE1ZzA1Wmcwdjl1d21lNUxXTjVYNmZHRUvSAa4BQVVfeXFMTWlUTi12eTRFS3Bac3JKb25mVmUtblo0QlZFakNVV05RTXA3bGFNZ2ozZG5la0tpb1NRRzRCdWN1VGc5a1Y3cmJJSmNpdFRhWFlfN21JZFBxWllQOExKbXl2SW1lNm9peXJzM0VXc1FwcXdZMjlQcXVBLUJYOERZVDRmYU1uTl9mQUd0VzY0azI2MXMwZnJGUmswZ3BkNWY0bGZybmdoM1h1WkVTblVR?oc=5",
-      "date": "2026-06-22",
-      "source": "Google News EN",
-      "desc": "Quarantine ends for all 18 Americans exposed to hantavirus on cruise ship&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosAll US passengers from hantavirus-hit ship return to home states&nbsp;&nbsp;ReutersHantavirus Quarantine En"
+      "desc": "El ébola y el hantavirus obligan al sector sanitario a extremar su preparación ante nuevas amenazas globales&nbsp;&nbsp;consalud.es"
     }
   ],
   "countries": [
