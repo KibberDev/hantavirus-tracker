@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-06-24 11:19 UTC"
+    "updated": "2026-06-24 13:37 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,11 +1124,25 @@
   ],
   "news": [
     {
+      "title": "CDC prepares to end its hantavirus response as American passengers celebrate the end of quarantine - 10TV",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORHBXZllteXp5U2dFWjlERWhOOENVWS1DcGpocFBjYnBnZVBJa0owVGZJX3RGeW9GM0VoelgtbGE5UXZuNnpXUG9XeGlpa2ktVWNpUEJhUDZCOVc1Ml9DMFBOV180cU1Dd0t2ZVBBUzJ3S0dwajJpLTM5OWwySTN3ckxCdDMzQ2pzekF4RGNlMXF2MEo3UFRUbUZ2b1lYN2RDR01Jb0FPdk10UV9LOE1wMjF2Y3hqSkwzQ1dQU3lkNkl4RWdSMlJVTW5zTW5NdVAzN3psa3lhZE9CZ1hrU0xfbXQzWnY?oc=5",
+      "date": "2026-06-24",
+      "source": "Google News EN",
+      "desc": "CDC prepares to end its hantavirus response as American passengers celebrate the end of quarantine&nbsp;&nbsp;10TV"
+    },
+    {
       "title": "Exclusive | CDC to End Hantavirus Response as U.S. Outbreak Risk Diminishes - WSJ",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaVZBeHN3U01temxZOEFuY0lleDQzZXpxWjdxMlozRVlMQzZXX0NveXB1eDNtcEdCSFVWYm9nY2RvNHJCcXBmZGkwNjNrUGx1UlNjcFlYOXhaeFRxV19JTzFDeGpKYTVfa1RLMjR4dlhfWS1yd2JZLTBkb2dQRkdLeDU1X1dsTG84aUljZ3NLaWFUUlg3X0hzUmlPNjlLc3h4M1F0aXRoRE5UYjQ?oc=5",
       "date": "2026-06-24",
       "source": "Google News EN",
       "desc": "Exclusive | CDC to End Hantavirus Response as U.S. Outbreak Risk Diminishes&nbsp;&nbsp;WSJ"
+    },
+    {
+      "title": "International public health response helped contain Andes hantavirus outbreak on Dutch cruise ship - CIDRAP",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUnlfNUl2WnJRZ3Y3UE5CRnNoZnpfNFRDYnI3OV9fMkR0TG9kdVVPcXNQTGRYUkRvYjhRYmpMN3lNZzBYcWM2QTFZaXFfaUpvMkVaNXF0SXJUZFNjQWdvcFA4UjZiajVDR3BOSlpiZGJUOGc4MkpwS1g4bUF1X3FGYkpVZ3ByY01OZVl0YzZYMHhldS1GYkFNbWtlYjdleU5mWlFxYVpxQ3FSZXFSQUs0OHhlRU1vdkJkRzBxbzN3?oc=5",
+      "date": "2026-06-24",
+      "source": "Google News EN",
+      "desc": "International public health response helped contain Andes hantavirus outbreak on Dutch cruise ship&nbsp;&nbsp;CIDRAP"
     },
     {
       "title": "Omaha quarantine unit shares lessons as last passengers from hantavirus ship leave - Omaha World-Herald",
@@ -1152,18 +1166,25 @@
       "desc": "Americans on hantavirus-infected ship end quarantine&nbsp;&nbsp;NBC News"
     },
     {
+      "title": "US CDC to end hantavirus response, WSJ reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObGVfZGhnMVdqX0ttM2FMeXR4UDVEQWxuUEtsZFFJOHZocjZHUkxiNmZDWHZwWE8wYnhfUDJqSV85b2VtNEx0LVBsRmI0VVpIZTZrZXRuSjdTUVl2XzhOdmZvc3k3d3ptTkcteVFpdmpfX0Rsc1Foc0FqV3JYSS1JbHJvZmJBVkw3S0VDRW1sTnpXZlJxVEZhVk1oRXhNamxBUlZueFY2WXg3MzVhSE9HNHdRWGM?oc=5",
+      "date": "2026-06-24",
+      "source": "Google News EN",
+      "desc": "US CDC to end hantavirus response, WSJ reports&nbsp;&nbsp;Reuters"
+    },
+    {
+      "title": "US disease control agency to end hantavirus response: report - TRT World",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTSnZILU1IZ2VObXBIaXM0TW9lYVRqcW84VGVTTHFwV09NREpKWUp5dkdKSThlaWtFZW5GQWdiZl9UZ1N6WC1VM1ViVlFhVmVtVWd1dnJqMlo?oc=5",
+      "date": "2026-06-24",
+      "source": "Google News EN",
+      "desc": "US disease control agency to end hantavirus response: report&nbsp;&nbsp;TRT World"
+    },
+    {
       "title": "Local influencer returns home after quarantine following hantavirus outbreak on ship - NBC Boston",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcXI5RGpwR2FFdDFuYlNNeV9NX2lBczNudDNZTjlPSHZkZk4yc3A5ZjNSLWg2ZGFzQnV3NDZJTjloV0h3STFvaDFPbVdFN05SS1Aydjl3RkNNcDZqQTRralhaU3dXTkIxUlhpVXc4dGFobnJqOHNXX09tVDAwdDh4OVpNNUxNc1NXd3hWcm8zUVBlNFdEdk9Xck9hU1pCUkQ5N05nZzRmN1R6eGx1YS1FTkpmZ3R3cWk3dW5TamM3SUFpTHUySERlLVhha0hXYkx2MUHSAdoBQVVfeXFMTkhIQ0NzZTV4UGxuRnFZNkdvb2Y1RjlEeEl4T3ltS1VxbG15YS1EYk5URElyUnFRWUJTRV82Z1JkcVl3dzR1TVliam9XOWNxSzE2SklGM1g3RjVkVXl1Z2xmQmM1eC1wTWZVY2xZdnhhWGxJdGJfdjUydVFpcjF0ME5ENF85RVBfWXc0dERKRnYtZlRhRXQ0aDBRTHFpNHlkZkdXNHp2ckJhYjkzclVPc3ZqdkxzSEIycmVtREJyWkg4S3VudnUyclR4Vy1BMWpMb1JCeThLR0RIb1E?oc=5",
       "date": "2026-06-24",
       "source": "Google News EN",
       "desc": "Local influencer returns home after quarantine following hantavirus outbreak on ship&nbsp;&nbsp;NBC Boston"
-    },
-    {
-      "title": "US CDC to end Hantavirus response, WSJ reports - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObGtNODhieXdEdDVRZTJLeVRGdnZ1ZmdBWV9vUkFOM1dWRWdwYkg5VWRQREVxQ0hQWG01Y1ZxTnJMcGNTSFlaaUtGNUlMcWFHc0ZTdVNLNDl6TTJGanlmMmxWMjgwRUw0TjRBZ3JQaE9hbm5UbWFVTmNoVzZRWEZON1JrN1FMWTRtOGZ4R0lCWVZVOVpBbTh1V0Y2dm5yREQ4N1R6SGMzX0daSXc1LU1UbnBRMS1IZw?oc=5",
-      "date": "2026-06-24",
-      "source": "Google News EN",
-      "desc": "US CDC to end Hantavirus response, WSJ reports&nbsp;&nbsp;TradingView"
     },
     {
       "title": "Robles, al personal del Gómez Ulla que gestionó el hantavirus: \"Misión cumplida\" - ABC",
@@ -1194,18 +1215,18 @@
       "desc": "El Gómez Ulla culmina con éxito la crisis del hantavirus tras movilizar a 270 profesionales&nbsp;&nbsp;El Debate"
     },
     {
+      "title": "Robles loa la \"misión cumplida\" del Gómez Ulla contra el hantavirus: \"Quien mejor lo podía hacer era la sanidad militar\" - Europa Press",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPTF83OTZ6UUlhLVlGUGZuTlRRcGRGX0hqT0F3bTlINjR0bnV3aWVnNkNkNXcwZnNJTklpeEJBRGhWTmUtNHk1cXFOVTVOSTYyR2NuV28yYjhaQ1I0RHVvMkJZM3BCb0tVUU0tenZCUGlXd0ZQR21fVzFMdXBmN2RTS0ZfR25LZExzcDdRR0ZtNjZmS29QbUc0Y0RuWTVuOXFwQURMZlRRdnJDdE1PVGotbGpuV2RIUWZ0dFMyamhwUGktMHRPQThWWHpPb2JqTlNBQTBaUUJ4b2hERzZ2TFAzYXNsejE1Wk5FOFVpVXBRaU5LMVpzMmNCWGk2X251X2oyUWxZRQ?oc=5",
+      "date": "2026-06-23",
+      "source": "Google News ES",
+      "desc": "Robles loa la \"misión cumplida\" del Gómez Ulla contra el hantavirus: \"Quien mejor lo podía hacer era la sanidad militar\"&nbsp;&nbsp;Europa Press"
+    },
+    {
       "title": "Murió la mujer que estaba internada con hantavirus en Bariloche - Página|12",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeU9XX3hPQW5DN1JGNXRDZXNVRVhsSEVjdUJrUkJ0NUpqRHNpZDJZZFc0NldhaU9DcE9YUldNeFY2QmJCb3FHM1hVSjVQUEZJY1FjS2JYVGtOdW1HbEU2ZWxQaWhBaG14dFJVYTNLYURfMHBYU3BKdHMyZUFwTTFTd1REdElKUlA3YXZ6Z3pfYUt1ckd3RmhhdEZmTGJZU2czUThPbC1R?oc=5",
       "date": "2026-06-23",
       "source": "Google News ES",
       "desc": "Murió la mujer que estaba internada con hantavirus en Bariloche&nbsp;&nbsp;Página|12"
-    },
-    {
-      "title": "El hantavirus ‘contagia’ la temporada alta de los cruceros en España: pierden un 12% de viajeros entre abril y mayo - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTXZJZ2JqenhJZ0ZmSTQ0dkpVYTMxcmRZVmlMbHlnanpNTWhKdlNObDdKRUt0Yjc3WkRXQ3RnNkZ4SEtoZ2hBY3JfaG5nSHVWWDhxZ2hFODBlQlp1NkJPaTA2dEVpR2pSMnA0TTdPNUxBTUhKdzh5LWtqNk5VcUQyWklROFNjMkJMdHNVYm56VFh1R3JEXzBqREhXWU9wTTlvOHlTMkcwUjRoQUlJN1B4aGd5ZG1uODZmeC1sM2t6a1lBMWl1azFHeUtsMHM0cGhWMzFvWVlyRGlaR052ekNDZlVudHZkYktDcmfSAYQCQVVfeXFMUEZSMjlqVDAxaXJ5ZXZMOUpiNjBXQmdjQUVSVDgwZ29DaVZuZERrQm05ZWhRbG5ySmJJb0RSUDVsenYwWlJGS1dnT3Z1a1FpN0s4RVFFSWR6VW5NRTFSNkVmeTZHVnpEZDFsVFdDRGtpYVowNW9obmdLWk9Idng0RVpxdUtxanAtaEltc2lZVmVIQ3REZ1hLY3JXbW92YXNGN292dnYzUC1XRlBzOGZBa2I2UFRsQlUyZ2dmbEU1bHNodFZfUzNaVEJ2bThUbkJScGJsc0RDdFcyRVJZSXc2UnpIY1I5TGZFUWJQU0thbkJaczVZQUVmWUwzTXZMNHMtTVAzWVU?oc=5",
-      "date": "2026-06-23",
-      "source": "Google News ES",
-      "desc": "El hantavirus ‘contagia’ la temporada alta de los cruceros en España: pierden un 12% de viajeros entre abril y mayo&nbsp;&nbsp;Infobae"
     },
     {
       "title": "El Gómez Ulla exhibe músculo sanitario: 270 profesionales atendieron a los 14 españoles en cuarentena por hantavirus - Estrella Digital",
@@ -1222,32 +1243,11 @@
       "desc": "Finaliza el seguimiento de los viajeros estadounidenses del MV Hondius sin casos de hantavirus&nbsp;&nbsp;consalud.es"
     },
     {
-      "title": "Más de 270 sanitarios del Gómez Ulla atendieron a los españoles afectados por el hantavirus - Servimedia",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSlRrN0hraFJ4T3BlV2tkVjVFdGRQTWhVeTJUeVljTjQ3ZEVjT0ZUa2g0aS1nMTZRTzQxSXFjR0NIWEQ2RXdZRkJGSjR4VW1odC13TFdYT2VhYmZkR3VUZ0dRRXVCZ0tHcjUyZGFUZnhibGlaY0ZodjF2TElrdC1KVThsZU9DWFhfZXRrcWVQSlhRLWlnNHBzWlE2d3ZLYjZIMm83VEQwZXFoeGJvZWoxckNkeDNZSkNS?oc=5",
+      "title": "El hantavirus ‘contagia’ la temporada alta de los cruceros en España: pierden un 12% de viajeros entre abril y mayo - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTXZJZ2JqenhJZ0ZmSTQ0dkpVYTMxcmRZVmlMbHlnanpNTWhKdlNObDdKRUt0Yjc3WkRXQ3RnNkZ4SEtoZ2hBY3JfaG5nSHVWWDhxZ2hFODBlQlp1NkJPaTA2dEVpR2pSMnA0TTdPNUxBTUhKdzh5LWtqNk5VcUQyWklROFNjMkJMdHNVYm56VFh1R3JEXzBqREhXWU9wTTlvOHlTMkcwUjRoQUlJN1B4aGd5ZG1uODZmeC1sM2t6a1lBMWl1azFHeUtsMHM0cGhWMzFvWVlyRGlaR052ekNDZlVudHZkYktDcmfSAYQCQVVfeXFMUEZSMjlqVDAxaXJ5ZXZMOUpiNjBXQmdjQUVSVDgwZ29DaVZuZERrQm05ZWhRbG5ySmJJb0RSUDVsenYwWlJGS1dnT3Z1a1FpN0s4RVFFSWR6VW5NRTFSNkVmeTZHVnpEZDFsVFdDRGtpYVowNW9obmdLWk9Idng0RVpxdUtxanAtaEltc2lZVmVIQ3REZ1hLY3JXbW92YXNGN292dnYzUC1XRlBzOGZBa2I2UFRsQlUyZ2dmbEU1bHNodFZfUzNaVEJ2bThUbkJScGJsc0RDdFcyRVJZSXc2UnpIY1I5TGZFUWJQU0thbkJaczVZQUVmWUwzTXZMNHMtTVAzWVU?oc=5",
       "date": "2026-06-23",
       "source": "Google News ES",
-      "desc": "Más de 270 sanitarios del Gómez Ulla atendieron a los españoles afectados por el hantavirus&nbsp;&nbsp;Servimedia"
-    },
-    {
-      "title": "Robles alaba la respuesta de la sanidad militar en la gestión del brote de hantavirus - consalud.es",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZzdNOUlFdUVUbG9uOTVaa0ludzRCajkxeENlaDZ0T2d6NWdsMVdFaFBteHNhOVZhOEhLSDdHYXVZVFU3eG9wWEo1akVNdHB2UXB5ckR2dXdXT3VEZXU4SnZlSG1pTUkyWWt0cGFKYklrT2VHTkdHQkluTUltaVZCYkY5RGdEQS03MEZHTFdoNjBqZTBsLUhzOGJxQ1NTT3M4Um1hSEdYT3VRYzNqQW92U2tzd2w0VGVPTXNia1pTa21VN2xnMi1ZaWNRc05MUmowQUE?oc=5",
-      "date": "2026-06-23",
-      "source": "Google News ES",
-      "desc": "Robles alaba la respuesta de la sanidad militar en la gestión del brote de hantavirus&nbsp;&nbsp;consalud.es"
-    },
-    {
-      "title": "Health officials to discuss end of hantavirus monitoring operation in Omaha - WOWT",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZkxfZkF5a01WaUJPQkItcERkLUlQOUJJSEJsN1h0X0c2eTVHLUNYVnFXckVxQ1JsdW9mYk1JOExPZ2Rub3V5a2dfY2VadEhha1FyWFpJUkstSU1PN3VRaTZfY1FOU3E3aHNhb21XUVhtZEhJN1BpSy1jZDNGeWZwNTZCdEhuTGVpNnRrSTYtLVMzYUVnZVBsX0F2WXY4Y3prVkM4S2NGanN0QQ?oc=5",
-      "date": "2026-06-23",
-      "source": "Google News EN",
-      "desc": "Health officials to discuss end of hantavirus monitoring operation in Omaha&nbsp;&nbsp;WOWT"
-    },
-    {
-      "title": "‘No room for error': UNMC reflects as quarantine ends for hantavirus cruise ship passengers - Nebraska Public Media",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeWsxMk0xYmlJOXdjWGZCUDFicmdCeE5MTml3MWtTZ2hnT0Vha2duUUdiSnQ4NXlWOUowMWNra3h1ZXhxWTVQRnFkV1E1VUd3bENRV1hJbGNIWW01TC16cUo1LTYtVVJwRnNScW5NZkliV2ViMXJCXzFJVXEyUHdJTzJjZUxuZDhjN2NXRFJvVDNTME9UY3RWdXE0SzFtOURoSnYyVTg4Z0FPQ3FVSk5IM2JQQi16OUVidVNhajFyNVNibURFU2E1U2k3VXpZM1ZMalNMbkxSMlhtdjg?oc=5",
-      "date": "2026-06-23",
-      "source": "Google News EN",
-      "desc": "‘No room for error': UNMC reflects as quarantine ends for hantavirus cruise ship passengers&nbsp;&nbsp;Nebraska Public Media"
+      "desc": "El hantavirus ‘contagia’ la temporada alta de los cruceros en España: pierden un 12% de viajeros entre abril y mayo&nbsp;&nbsp;Infobae"
     }
   ],
   "countries": [
