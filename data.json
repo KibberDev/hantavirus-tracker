@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-06-25 12:03 UTC"
+    "updated": "2026-06-25 15:16 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,6 +1124,13 @@
   ],
   "news": [
     {
+      "title": "El hantavirus irrumpió con menos recursos de salud pública en España que antes del covid - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVjJhQ3lzOGVYVXFtY3NJX0d4RUdrckxuNzZrMEhveUVvdlZlSnRQWTExcElqZ3JnQTlxaDZUOWNMb3NOaWlocmxuaVRrcVRDQi1nbHVhajBkY2lhUXNSdHpLUGdsUUktNmtkc0ItclNCbW90VGhlOFFnYlBVcEprQU12RE1oSk9TYVptQzFlMUl4dTh1d0dudlcyNnVyQk9RcExpeVpjTk9CTFp2bmswajg0SDdlMFZGWXhKekQ3dG9hQkNzeU03NEtnQ1ExV19QS2hxS2V4WdIB8gFBVV95cUxQZW84S2E2Tm9YbDc0aGFCa3ZiQThZZUVRQ1BSSEYtYzZEUDFBUmhDcm94bFRxVWFYRXlYRF9CR2ozRVVYVFR2bjc4VmpJcjZBVTczWnR1M0lSckZJaTluNUVybThVUXh0T05IZGlGU0Z4UmpuV2VJYTVLcDNrSW0yTEZ0Zy1kc3lCTXNURG5JLXhEVTRJQUI3MkZyREpNSTRaRkZvMElaUGFQajM5cXVnQnExQWpqSWxBSjV5ZGh6dnZQa3hPeWFRSDNIUWhseGRoMmFzOFhEbWlzMHZnLS1EZFBUYldJTW9VOVVralRfOS1Odw?oc=5",
+      "date": "2026-06-25",
+      "source": "Google News ES",
+      "desc": "El hantavirus irrumpió con menos recursos de salud pública en España que antes del covid&nbsp;&nbsp;Infobae"
+    },
+    {
       "title": "El brote de hantavirus debería concluir oficialmente el 2 de julio, según la OMS - SWI swissinfo.ch",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaUsyT2RrSVFDYmVXNk9oREFSNXhSWUVrV2FuR1ZJT2U1UXFSNnB0aU1QMjBRR3N1OW9qTFJzTXgzWk5XLTl3VFU4XzRyQnFEVzRCVlJrZWFDYmtKb2tqOFM2X2R2dm83LVotTldkN0hZdndob2o4VjVzd0s1cW1uZlNaVGpiTTdBX3libEZzZnJEa0lFVFNldVBRQjZiMHhmVVFBTUJ5LTBkb1Rnenk2dVBLQ28wNjk0ZUN5azlrMk14S05qa2xnWjZR?oc=5",
       "date": "2026-06-25",
@@ -1138,18 +1145,18 @@
       "desc": "WHO to declare end of hantavirus outbreak on July 2&nbsp;&nbsp;Plataforma Media"
     },
     {
-      "title": "WHO announces timeline for end of hantavirus outbreak - Українські Національні Новини (УНН)",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTW1iNGluNllveTdfa05OdURRWEp5eXhSUjdrb0I5UlpkMUpXbjg1bklMNGx0aGlSWk1hOXBBNGJFRTZqYnpuVUNGMWJyODRrRWltSGdJU1dPS3BEZmRnTmxTZ2RJbkhpRjJNazVYU3RnZnZPRUF6d1FEX3JKTEtzOHlR0gGAAUFVX3lxTE1Kb3NlRzFBOGtfUjNpQk5Jd0V2aTZRM2xSeUdNRllWbzFIbC10TUFpYUtsS0JZVng5cWNCN0pIWmRWYmEwTG8xdkpSNHlla0Y4b180VFFaYVdwZ0gtdlk4bFJTb0pUTUwxbVhhVXB0Zm44MFdtQkdmZEpVakpUSGs2?oc=5",
-      "date": "2026-06-25",
-      "source": "Google News EN",
-      "desc": "WHO announces timeline for end of hantavirus outbreak&nbsp;&nbsp;Українські Національні Новини (УНН)"
-    },
-    {
       "title": "No additional cases found after hantavirus cruise ship outbreak - Central Oregon Daily",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRDJYYUxoZ3VfY3BDXzRxLVZYMVAwSEFMQTBhampNamd6N3ZDUzRFNlF2WG9IbWZXeUdJLUhaMU5yOHV2VXRJaE5Vd0ZWcHdBQzFUSGtvX2M4bDJPZlVhc3p2RXlhTVZQaTg5MmpFU3NvWExIeXEwZUlxTXRNa1QtbnFJTjJJQXZpdHFYOUVXcjYtUFpJazJZTmdzV3ljQUhxdkppYXlqeDh3SkFQUnZBeHgxSFh3SnVDNEdTVXRCYjFweDNuYkNmMkhKTkNUdDhINTJSbU9FZ2FpdjZIMUd0UGxDbEJNdw?oc=5",
       "date": "2026-06-25",
       "source": "Google News EN",
       "desc": "No additional cases found after hantavirus cruise ship outbreak&nbsp;&nbsp;Central Oregon Daily"
+    },
+    {
+      "title": "WHO announces timeline for end of hantavirus outbreak - Українські Національні Новини (УНН)",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTW1iNGluNllveTdfa05OdURRWEp5eXhSUjdrb0I5UlpkMUpXbjg1bklMNGx0aGlSWk1hOXBBNGJFRTZqYnpuVUNGMWJyODRrRWltSGdJU1dPS3BEZmRnTmxTZ2RJbkhpRjJNazVYU3RnZnZPRUF6d1FEX3JKTEtzOHlR0gGAAUFVX3lxTE1Kb3NlRzFBOGtfUjNpQk5Jd0V2aTZRM2xSeUdNRllWbzFIbC10TUFpYUtsS0JZVng5cWNCN0pIWmRWYmEwTG8xdkpSNHlla0Y4b180VFFaYVdwZ0gtdlk4bFJTb0pUTUwxbVhhVXB0Zm44MFdtQkdmZEpVakpUSGs2?oc=5",
+      "date": "2026-06-25",
+      "source": "Google News EN",
+      "desc": "WHO announces timeline for end of hantavirus outbreak&nbsp;&nbsp;Українські Національні Новини (УНН)"
     },
     {
       "title": "Los correos internos del Gobierno canario en la crisis del hantavirus: “Nuestra mejor sanidad no justifica el envío del barco” - elDiario.es",
@@ -1187,18 +1194,18 @@
       "desc": "La OMS declarará el fin del brote de hantavirus el 2 de julio si no surgen nuevos casos&nbsp;&nbsp;consalud.es"
     },
     {
-      "title": "La OMS prevé dar por concluido el brote de hantavirus el 2 de julio si no aparecen más casos - Demócrata",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNUhXTmNueGQ0c05JVWUyQ2FydFhBazloaXg5ZERVNzdQbWEtV2ZKY0h1alZYMlpfX01NSmlZenk2QjVBOVJ5UnhXd0F2djByNEI5cXBTMjlzUVIyeTV6N05aVkxJZ0tQdVMyUE9jYWNHa2ZPUnhsZFItR2ZQVXhrdm95RFo1ekJpdk9JUHpKZWljTjJfMllUTWJTNDJKTUJiTnlHUmNNbkpjTk5MTHNiNmp3LXFWd0x2cmswOTU4eGJKSGFx0gHKAUFVX3lxTFBkbHRrRVZNbDZ3RmIxeDlUcGt5S2JuWVJmaGw3SW5fV2kwUVkxNGpwdGItRTJKdjN3YWFRRV9ZM2VkVzMwcTE5UUtORzNVZ0l3dTMtcGRza0RsNVpNejZRRzlrMEUtdnVLR2NKczNicXpkMk5xcWEwOWpFY0tUaUpoclZ0OUQwaUlISHcwWEFBblFnc1RaRTZVTFhZNm5uZE5BVldHZlhXMjh1NXFydWNMMVR0R3pYR3pyMy1OOG9Wb0IySzhiekNQWEE?oc=5",
-      "date": "2026-06-24",
-      "source": "Google News ES",
-      "desc": "La OMS prevé dar por concluido el brote de hantavirus el 2 de julio si no aparecen más casos&nbsp;&nbsp;Demócrata"
-    },
-    {
       "title": "OMS declará el fin de la alerta por hantavirus el próximo 2 de julio si no se registran más casos - El Nacional",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdnhYV1RJY3hLQU15Tm43UHNUaFo0Qlgtd3A2dnZzbVJueFpJNnNGM3FtRVpabHZ6WTRQNGZCbFJYOHpTNWdEYl9UaGtwLV9GYUNZaFh0LV9aMkFPVHFSRExqYzR3ZEJINWRsM01DcGlCYUNLRlBCVHJGcmlqandaMjJlYlVnYXJKaGlXQXZFclZ3WHNydTUzUjQwQjlpYnZQNV9EUTVKX0JmZl9QUThfR2Y1NHU4RmlnM05RcVByd1dVb3Nkblh0ZTd6WTdhaExGUEE?oc=5",
       "date": "2026-06-24",
       "source": "Google News ES",
       "desc": "OMS declará el fin de la alerta por hantavirus el próximo 2 de julio si no se registran más casos&nbsp;&nbsp;El Nacional"
+    },
+    {
+      "title": "La OMS prevé dar por concluido el brote de hantavirus el 2 de julio si no aparecen más casos - Demócrata",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNUhXTmNueGQ0c05JVWUyQ2FydFhBazloaXg5ZERVNzdQbWEtV2ZKY0h1alZYMlpfX01NSmlZenk2QjVBOVJ5UnhXd0F2djByNEI5cXBTMjlzUVIyeTV6N05aVkxJZ0tQdVMyUE9jYWNHa2ZPUnhsZFItR2ZQVXhrdm95RFo1ekJpdk9JUHpKZWljTjJfMllUTWJTNDJKTUJiTnlHUmNNbkpjTk5MTHNiNmp3LXFWd0x2cmswOTU4eGJKSGFx0gHKAUFVX3lxTFBkbHRrRVZNbDZ3RmIxeDlUcGt5S2JuWVJmaGw3SW5fV2kwUVkxNGpwdGItRTJKdjN3YWFRRV9ZM2VkVzMwcTE5UUtORzNVZ0l3dTMtcGRza0RsNVpNejZRRzlrMEUtdnVLR2NKczNicXpkMk5xcWEwOWpFY0tUaUpoclZ0OUQwaUlISHcwWEFBblFnc1RaRTZVTFhZNm5uZE5BVldHZlhXMjh1NXFydWNMMVR0R3pYR3pyMy1OOG9Wb0IySzhiekNQWEE?oc=5",
+      "date": "2026-06-24",
+      "source": "Google News ES",
+      "desc": "La OMS prevé dar por concluido el brote de hantavirus el 2 de julio si no aparecen más casos&nbsp;&nbsp;Demócrata"
     },
     {
       "title": "Hantavirus: la OMS evalúa declarar el fin del brote vinculado al crucero si se cumple una condición clave - Infobae",
@@ -1241,13 +1248,6 @@
       "date": "2026-06-24",
       "source": "Google News EN",
       "desc": "International public health response helped contain Andes hantavirus outbreak on Dutch cruise ship&nbsp;&nbsp;CIDRAP"
-    },
-    {
-      "title": "US public health agency concludes hantavirus response as outbreak eases - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNHdUT0N4b2ZYbW50bmJTTUdfajBIY1pULXVBTm1KVnNlYXg2RW1oem8tY1BBcmRyME82MFlreFpnVjc2cHhlbGpYVG5GR3VOVmhYejlCM2lnMmRJajBFR0RvOTRrMWk1cXllWnVRRFA1RkNpZzlFOC1TZ0RLN0FwUm4yaFVyaUxHdnBYeU1UcUJlQ0xMTEhHQ0pvR213UzdPZ0cxLUtEN2VJalFMUWZ0QnJR0gG3AUFVX3lxTE9xZDYzelhIT29ScXo1N3JCZ25FZEFmREF6QjBBMXFXMmlQdm1RQ1g2S2xvSFhla0xpRDZEZkRmT2VXTzMtTGdYM09hcG04WkRTdW9hb0dBOWY0TmNMTnNjeTc2VmQycktQQjdWZjV4SHJDTW9TTkIybk90MlBKbjloR3djNXRWUUF3Y0lSTlBfVmh6b0ZKMGwyb2d5aE5Lb2xEcWVvaVRRSjZfMmR1Smp2UWhiMTFNbw?oc=5",
-      "date": "2026-06-24",
-      "source": "Google News EN",
-      "desc": "US public health agency concludes hantavirus response as outbreak eases&nbsp;&nbsp;Al Jazeera"
     }
   ],
   "countries": [
