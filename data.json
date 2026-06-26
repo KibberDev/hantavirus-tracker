@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-06-26 00:15 UTC"
+    "updated": "2026-06-26 04:44 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,11 +1124,25 @@
   ],
   "news": [
     {
+      "title": "La cuenta regresiva para el fin del brote de hantavirus ya comenzó: esto dice la OMS - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOW1uLTlCMG82ZVAxMmFOcHhqSi12YVE0N3FXaFBydk9EemJYRGs0TFFEbFoyMFphbkttakhiSjM3VlhSNXhKUUdMbm9VTFJDOTI1aWExNVU1bk55NV8xMlRaa3FFQUpHUk9YTzU0d0tkWjc3ZnIxU2daV3FXX2RBWE96VlZ5X05BQkF0eGxjM2k2eGh1cmc?oc=5",
+      "date": "2026-06-26",
+      "source": "Google News ES",
+      "desc": "La cuenta regresiva para el fin del brote de hantavirus ya comenzó: esto dice la OMS&nbsp;&nbsp;Yahoo"
+    },
+    {
       "title": "El brote de hantavirus debería concluir oficialmente el 2 de julio, según la OMS - SWI swissinfo.ch",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaUsyT2RrSVFDYmVXNk9oREFSNXhSWUVrV2FuR1ZJT2U1UXFSNnB0aU1QMjBRR3N1OW9qTFJzTXgzWk5XLTl3VFU4XzRyQnFEVzRCVlJrZWFDYmtKb2tqOFM2X2R2dm83LVotTldkN0hZdndob2o4VjVzd0s1cW1uZlNaVGpiTTdBX3libEZzZnJEa0lFVFNldVBRQjZiMHhmVVFBTUJ5LTBkb1Rnenk2dVBLQ28wNjk0ZUN5azlrMk14S05qa2xnWjZR?oc=5",
       "date": "2026-06-25",
       "source": "Google News ES",
       "desc": "El brote de hantavirus debería concluir oficialmente el 2 de julio, según la OMS&nbsp;&nbsp;SWI swissinfo.ch"
+    },
+    {
+      "title": "Expertos urgen a invertir en profesionales en vigilancia epidemiológica tras la alerta por hantavirus - Infosalus",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQR1ZrN0RiM2RsRS1peVVFOXR4Zm80OWhRS29YQUF6cUdnYTNwSWsxQkFRWHV3UkRWUHJCSGcxZF9aenFlY1V4X1BGejlHOTlvSTBUUUZGR2JFVWdybzBGLVJqbm1FVGtGMTRvTXV4dlpVd1ZhTlprLWZIMjRnOE9EWGstSHRHRldhUFZFN2lmUlJnOG9ES2V2ajFEWmNKbHdmVG1DdjRMYUYzbndwZ2pjekloRFU2aGlwMlBsdXgzOVk5MjZVRUdOa1JYUWx3VUFJdmdXd3VoVTdWNjZUVkNV?oc=5",
+      "date": "2026-06-25",
+      "source": "Google News ES",
+      "desc": "Expertos urgen a invertir en profesionales en vigilancia epidemiológica tras la alerta por hantavirus&nbsp;&nbsp;Infosalus"
     },
     {
       "title": "Más allá del hantavirus: las zoonosis que sí están presentes en España - The Conversation",
@@ -1152,18 +1166,11 @@
       "desc": "El hantavirus irrumpió con menos recursos de salud pública en España que antes del covid&nbsp;&nbsp;Infobae"
     },
     {
-      "title": "Expertos urgen a invertir en profesionales en vigilancia epidemiológica tras la alerta por hantavirus - Infosalus",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQR1ZrN0RiM2RsRS1peVVFOXR4Zm80OWhRS29YQUF6cUdnYTNwSWsxQkFRWHV3UkRWUHJCSGcxZF9aenFlY1V4X1BGejlHOTlvSTBUUUZGR2JFVWdybzBGLVJqbm1FVGtGMTRvTXV4dlpVd1ZhTlprLWZIMjRnOE9EWGstSHRHRldhUFZFN2lmUlJnOG9ES2V2ajFEWmNKbHdmVG1DdjRMYUYzbndwZ2pjekloRFU2aGlwMlBsdXgzOVk5MjZVRUdOa1JYUWx3VUFJdmdXd3VoVTdWNjZUVkNV?oc=5",
+      "title": "La alerta por hantavirus deja una lección clara: la vigilancia epidemiológica funciona, pero el sistema está al límite - Pamplona Actual",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUGV6cWVSTktuNFJBakZNT3JCYXZmT05CaG04NjVFTkhZZXNfQ2lVN1JTNjAwUFBMWmxMOVZFM0NJMDVuVlMwSXNRSDloQ0l1Q1poYTNVWDE2bkRfYlYtMXgtSm5OQ0xaSU43a0FvaEtiWHFRelBCcW9PdTFnRUV3ZXZCWklFcFk1bnFGRDdiNE5KM2p6Yzc4NGR4QWloYTAxLTB1Rk5fdjdIQVlIamJDV1A0THVtVmFtVWd4X0swUVF2d1JXQ0hfakRTYkJ1VFZUOFNyV2JsbnhkTGgtSnJVVEZHYkJJS3NIVUJsbU1iaEpOWUFVVVZSeVdwOA?oc=5",
       "date": "2026-06-25",
       "source": "Google News ES",
-      "desc": "Expertos urgen a invertir en profesionales en vigilancia epidemiológica tras la alerta por hantavirus&nbsp;&nbsp;Infosalus"
-    },
-    {
-      "title": "La alerta por hantavirus deja una lección clara: la vigilancia epidemiológica funciona, pero el sistema está al límite - Pamplona Televisión",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNbXBCRTRNNmxCUlREbmxIUDRXVS1qV1FDYkdiNUFnZy1DVEZoRVNfWVhydlNKa0NRbUo4TFU2SzBYeF9EY25MdE55RmVWb24tUEFnem5zc1FhZE5XeTVSVXJDNVVaa3g4Tnh0S0lYTGNTU3BtMzhLcUZ2RllwM1pWc000d0NiRUFHS0JuUU1zRW1qRUJXaVdRYnVDdzNpT2tvc0VIMGxlZ3VEU09Qb2h2U1lkTUZPZ2NaTXJWckVMLWNVVERERXA0YWd0eG9pWmRaSThrZXNIRjhVTElJQ2U4Wmp0X3RvNFZBSGVNb0VacjBTVUdnWWxPTHdpTkZGTFNkY3pOLQ?oc=5",
-      "date": "2026-06-25",
-      "source": "Google News ES",
-      "desc": "La alerta por hantavirus deja una lección clara: la vigilancia epidemiológica funciona, pero el sistema está al límite&nbsp;&nbsp;Pamplona Televisión"
+      "desc": "La alerta por hantavirus deja una lección clara: la vigilancia epidemiológica funciona, pero el sistema está al límite&nbsp;&nbsp;Pamplona Actual"
     },
     {
       "title": "Live: Health Talk Special – Ebola, hantavirus and global epidemic prevention - news.cgtn.com",
@@ -1185,20 +1192,6 @@
       "date": "2026-06-25",
       "source": "Google News EN",
       "desc": "The deadly hantavirus outbreak on a cruise ship, which sparked international alarm, should be formally declared over on July 2, the World Health Organization (WHO) announced. | via ANC 24/7 Link to full story in the comments section.&nbsp;&"
-    },
-    {
-      "title": "WHO to declare end of hantavirus outbreak on July 2 - Plataforma Media",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcmlmX0ZCcGR5aElkbkN6Nkc0QjlmYjBodVFzYzMyU3M5RVlkTW0zWml3akpiQTU0cHRtMmdiSjd1TFYxUkZwVTNqX2VISC1GQnlBRW43LVl2STJrOEtRMnM5bHg3MTJnUUhFT3JYc3ZjMXc4UTRDQldUM2k2V3RDY0c1WXVIN1RFTFNkdFpOYTFMbFRLWlN2bw?oc=5",
-      "date": "2026-06-25",
-      "source": "Google News EN",
-      "desc": "WHO to declare end of hantavirus outbreak on July 2&nbsp;&nbsp;Plataforma Media"
-    },
-    {
-      "title": "WHO announces timeline for end of hantavirus outbreak - Українські Національні Новини (УНН)",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTW1iNGluNllveTdfa05OdURRWEp5eXhSUjdrb0I5UlpkMUpXbjg1bklMNGx0aGlSWk1hOXBBNGJFRTZqYnpuVUNGMWJyODRrRWltSGdJU1dPS3BEZmRnTmxTZ2RJbkhpRjJNazVYU3RnZnZPRUF6d1FEX3JKTEtzOHlR0gGAAUFVX3lxTE1Kb3NlRzFBOGtfUjNpQk5Jd0V2aTZRM2xSeUdNRllWbzFIbC10TUFpYUtsS0JZVng5cWNCN0pIWmRWYmEwTG8xdkpSNHlla0Y4b180VFFaYVdwZ0gtdlk4bFJTb0pUTUwxbVhhVXB0Zm44MFdtQkdmZEpVakpUSGs2?oc=5",
-      "date": "2026-06-25",
-      "source": "Google News EN",
-      "desc": "WHO announces timeline for end of hantavirus outbreak&nbsp;&nbsp;Українські Національні Новини (УНН)"
     },
     {
       "title": "La OMS declarará el fin del brote de hantavirus el 2 de julio si no se detectan nuevos casos - El Confidencial",
@@ -1229,11 +1222,11 @@
       "desc": "La OMS declarará el fin del brote de hantavirus el 2 de julio si no surgen nuevos casos&nbsp;&nbsp;consalud.es"
     },
     {
-      "title": "La OMS prevé que el mortal brote de hantavirus acabe el 2 de julio - Euronews.com",
+      "title": "La OMS prevé que el mortal brote de hantavirus acabe el 2 de julio - Euronews",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjRqZHVHQUVuQjczVy14SFFkRDRuVk5zU0FzZl8wOWI5NTVYZzB2X0d6emtDenhDTTVFcTV3emVQZ2UxRWwxcEFYTFlNS09WRXJJLTUzdmVLWDFxandEOGNteGl1YmFCYnE4eHNIb0FBREpuSE1TTmgyaDNacjdLeng0N3NDNFFKX3dicDltM0pqNVJ3Yi10bjhScHFfbGMtbXB0NXI3WmVNYzg?oc=5",
       "date": "2026-06-24",
       "source": "Google News ES",
-      "desc": "La OMS prevé que el mortal brote de hantavirus acabe el 2 de julio&nbsp;&nbsp;Euronews.com"
+      "desc": "La OMS prevé que el mortal brote de hantavirus acabe el 2 de julio&nbsp;&nbsp;Euronews"
     },
     {
       "title": "La OMS prevé dar por concluido el brote de hantavirus el 2 de julio si no aparecen más casos - Demócrata",
@@ -1243,11 +1236,18 @@
       "desc": "La OMS prevé dar por concluido el brote de hantavirus el 2 de julio si no aparecen más casos&nbsp;&nbsp;Demócrata"
     },
     {
-      "title": "Pasajero de un barco con hantavirus regresa a casa tras 42 días de cuarentena - CNN en Español",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYmY1S2s5dDFGMUtoYmtobWNTRk03RkUtNTNaSDZ6Y1NINmxiVDRKNHBTRVhEZjJwSk1zQjJxQ0RCcm8weWVZQkpMbE5JY1JYUjZaOGhadEVBclVMU0lCMWpjT0lfcGFtSGNiMHAtbmwwZEcwMUNGU2hnVlprX2Q3X0ZoYzIzeHB0elVsR2ppSUlCaUVLZkE?oc=5",
+      "title": "Quick takes: More New World screwworm; CDC to cease measles, mumps testing; hantavirus response ends - CIDRAP",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaXhMbzB1RmdxZDBCcUxLYWpyRVZEUXJmcHdBVEhaX2VXeW10b1QxWVdtTmRLX3hfSUhSUjZ2bXktSWlBS0g4MkNOZDN5TzVPc09rOTVQamdvVnNzZ2wzeGVEWU1BZ3dfa0dWUWVMa3FKT3pXTjJuUHlnMF96OTB3b0dlN3NFUEUzM3hDRUJwY09yd3F2QXA0aEx1MDlpQzhuVEduOGtJQWo1RjgtTUhlSFNTNHB1Zi1ub21KVXBTQlNSY3Qx?oc=5",
       "date": "2026-06-24",
-      "source": "Google News ES",
-      "desc": "Pasajero de un barco con hantavirus regresa a casa tras 42 días de cuarentena&nbsp;&nbsp;CNN en Español"
+      "source": "Google News EN",
+      "desc": "Quick takes: More New World screwworm; CDC to cease measles, mumps testing; hantavirus response ends&nbsp;&nbsp;CIDRAP"
+    },
+    {
+      "title": "Exclusive | CDC Ends Hantavirus Response as U.S. Outbreak Risk Diminishes - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaVZBeHN3U01temxZOEFuY0lleDQzZXpxWjdxMlozRVlMQzZXX0NveXB1eDNtcEdCSFVWYm9nY2RvNHJCcXBmZGkwNjNrUGx1UlNjcFlYOXhaeFRxV19JTzFDeGpKYTVfa1RLMjR4dlhfWS1yd2JZLTBkb2dQRkdLeDU1X1dsTG84aUljZ3NLaWFUUlg3X0hzUmlPNjlLc3h4M1F0aXRoRE5UYjQ?oc=5",
+      "date": "2026-06-24",
+      "source": "Google News EN",
+      "desc": "Exclusive | CDC Ends Hantavirus Response as U.S. Outbreak Risk Diminishes&nbsp;&nbsp;WSJ"
     }
   ],
   "countries": [
