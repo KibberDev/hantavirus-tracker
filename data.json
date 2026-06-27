@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-06-27 11:37 UTC"
+    "updated": "2026-06-27 12:56 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,6 +1124,13 @@
   ],
   "news": [
     {
+      "title": "La cuenta regresiva para el fin del brote de hantavirus ya comenzó: esto dice la OMS - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOW1uLTlCMG82ZVAxMmFOcHhqSi12YVE0N3FXaFBydk9EemJYRGs0TFFEbFoyMFphbkttakhiSjM3VlhSNXhKUUdMbm9VTFJDOTI1aWExNVU1bk55NV8xMlRaa3FFQUpHUk9YTzU0d0tkWjc3ZnIxU2daV3FXX2RBWE96VlZ5X05BQkF0eGxjM2k2eGh1cmc?oc=5",
+      "date": "2026-06-26",
+      "source": "Google News ES",
+      "desc": "La cuenta regresiva para el fin del brote de hantavirus ya comenzó: esto dice la OMS&nbsp;&nbsp;Yahoo"
+    },
+    {
       "title": "The irony of the hantavirus quarantine - Your Local Epidemiologist",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZjlmUnM3QnNrNjhFVGxiVThSNFU4NXRYOUdrblZqcldxVC01WDR0Q1g0ejJMQnlBZUJKM1l0ei1zMEwwSjhoc2tfTGU3V09KSEQ5Q0pubGRvdDRxSmVaRW92eHE5MGJJU19paHdnX1VuOXNmTk9jTlVxdDR2UTl5bEFUTnYzTFpNUS1HSEFR?oc=5",
       "date": "2026-06-26",
@@ -1236,18 +1243,11 @@
       "desc": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case&nbsp;&nbsp;HHS.gov"
     },
     {
-      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - The American Journal of Managed Care® (AJMC®)",
+      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - AJMC",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY01QWXJ3RDZBaDdxM3ZncFVkdFdyWmxUeTRFeTcwWGVqeFJJS0prWldJQnFBTkI3LVFJaFdQcnJpSUpFVHhFNzhrV1h6R25OVU1NU1h4UjNobmxBXzc1Rkg1WUttRDhiakZjSWd4c1ZlNmFjblJ4bHFzWjN0MUxNUXN0NEJlaVJQWVljZTE1NnctQnpl?oc=5",
       "date": "2026-06-24",
       "source": "Google News EN",
-      "desc": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes&nbsp;&nbsp;The American Journal of Managed Care® (AJMC®)"
-    },
-    {
-      "title": "International public health response helped contain Andes hantavirus outbreak on Dutch cruise ship - CIDRAP",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUnlfNUl2WnJRZ3Y3UE5CRnNoZnpfNFRDYnI3OV9fMkR0TG9kdVVPcXNQTGRYUkRvYjhRYmpMN3lNZzBYcWM2QTFZaXFfaUpvMkVaNXF0SXJUZFNjQWdvcFA4UjZiajVDR3BOSlpiZGJUOGc4MkpwS1g4bUF1X3FGYkpVZ3ByY01OZVl0YzZYMHhldS1GYkFNbWtlYjdleU5mWlFxYVpxQ3FSZXFSQUs0OHhlRU1vdkJkRzBxbzN3?oc=5",
-      "date": "2026-06-24",
-      "source": "Google News EN",
-      "desc": "International public health response helped contain Andes hantavirus outbreak on Dutch cruise ship&nbsp;&nbsp;CIDRAP"
+      "desc": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes&nbsp;&nbsp;AJMC"
     }
   ],
   "countries": [
