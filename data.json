@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-06-28 01:55 UTC"
+    "updated": "2026-06-28 06:22 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,6 +1124,13 @@
   ],
   "news": [
     {
+      "title": "La OMS podría dar por terminado el brote de hantavirus el 2 de julio si no aparecen nuevos casos entre los contactos bajo vigilancia sanitaria - El Imparcial",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOZHh2TjB0eW5oY2s0cXROUDdzVDVobUdIWnNrSWltN1ZLVV8yUEpKbEUzQnVvZ0hkSzRXbm5VMVlqLTJxc05SeW9XckNwcDlXc2tPZ3phUGMxWHlnVEN6WnZkQTI5Y1JsU3lOanJfOVhHRURtaUtYUFN6bTZrMTFWNXlCdVIxZkRLOHcyOXRFVmpUbkhCOWZObTMwTjJHUlN6bk95dDlMLXJEOXg4OTdZbEtkbVN6aXFsQjJkdUFoQ1JrZUVSMzR5eTRwVDEzTVYxcXRXZVFCYl8yWWhaTFJUVl9YWGp0VnVyYkN1MkpqcGJ5WWp1ZWhKVHVBRU95V19MRFJIY3lJcmt4WGluV0tQZHBUWkc5SXfSAbICQVVfeXFMTjB6bmFGbk8wUGREQlFEdUpZYUFyVmpCZjFUTlNjcXBkNnJBZUtRRTRsOTU4cDZEWVEwejlPdDVWM1NiUVVkOVlOd0p4blZKMUJfMDJUanE1dUdoWGFsZGxxTDVsdnByc2JTMnl0OHlQOWhLTEZoNlVzdXBxRjVIRDFqdnZ1VWFNUmR3NzFMZ083YzJFX2NFTHp0TDdaZ1lRY0VIYkh0ZXozeEkzN2szc2NvN09Sc0tBa3hpb1AxWEZjTWRQZjdmWUh6WHk0RXBFUmlHX244ZjgtTmcyTWFLbTRqYXVXUGcxU2tmc2U0N043Nnl0X3NiRzdRRVFsZEI2WF91UnZ0OHV1aUJvX2JvNkMtczFtOW9MVXNOMFJOUEsxeEl5UWo4S3F6RzB4WEVTNTNR?oc=5",
+      "date": "2026-06-28",
+      "source": "Google News ES",
+      "desc": "La OMS podría dar por terminado el brote de hantavirus el 2 de julio si no aparecen nuevos casos entre los contactos bajo vigilancia sanitaria&nbsp;&nbsp;El Imparcial"
+    },
+    {
       "title": "Bend doctor on hantavirus ship released from quarantine - bendbulletin.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOHRHemFmenUtR3RjTWE5RmZJaWxPR2RpOTA1SzdQdUY0Y2RZTXd6TzdJSm9sMEIxS194QnhzVkdSbUR1Y1IwS1JxNTVrSXpyUndwT1NidlBsRHJBMlRoNXZOaGV1M2RQNjVQNEhpWlBZdkJ1aUY3NmxVc05ST3NZanEwMUxzamZQRWRCMjFXWmc4UWJDQjJB?oc=5",
       "date": "2026-06-28",
@@ -1180,18 +1187,11 @@
       "desc": "Los correos internos del Gobierno canario en la crisis del hantavirus: “Nuestra mejor sanidad no justifica el envío del barco”&nbsp;&nbsp;elDiario.es"
     },
     {
-      "title": "Pasajero de un barco con hantavirus regresa a casa tras 42 días de cuarentena - CNN en Español",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYmY1S2s5dDFGMUtoYmtobWNTRk03RkUtNTNaSDZ6Y1NINmxiVDRKNHBTRVhEZjJwSk1zQjJxQ0RCcm8weWVZQkpMbE5JY1JYUjZaOGhadEVBclVMU0lCMWpjT0lfcGFtSGNiMHAtbmwwZEcwMUNGU2hnVlprX2Q3X0ZoYzIzeHB0elVsR2ppSUlCaUVLZkE?oc=5",
-      "date": "2026-06-24",
-      "source": "Google News ES",
-      "desc": "Pasajero de un barco con hantavirus regresa a casa tras 42 días de cuarentena&nbsp;&nbsp;CNN en Español"
-    },
-    {
-      "title": "La OMS declarará el fin del brote de hantavirus el 2 de julio si no surgen nuevos casos - consalud.es",
+      "title": "La OMS declarará el fin del brote de hantavirus el 2 de julio si no surgen nuevos casos - ConSalud.es",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOT1NtQkVmekEtVFRZMk1ITWpYR29NN3JsOHg0bzl5MnU3MXl2Sk02MWhlU09DM2tZQy0xWHNvYkFQMk4yX2VmekRuUjMtcV83TjFGQThYeGo1QkhsUlVZOVotYkVPYWtCdGppNjgtQjdDNFRkRVpXcGtjVFBiSEtRd25EcjAzaVZVNnZjNjF2OUZUSUVBdkdRdWRyS1lYZlFHeVFJYTFPaG5tTG5wUUxRSkNZYUR5YmFiYWFzcHVWbF9haWJWSEJkTUUybjNJQlVDOUEwcw?oc=5",
       "date": "2026-06-24",
       "source": "Google News ES",
-      "desc": "La OMS declarará el fin del brote de hantavirus el 2 de julio si no surgen nuevos casos&nbsp;&nbsp;consalud.es"
+      "desc": "La OMS declarará el fin del brote de hantavirus el 2 de julio si no surgen nuevos casos&nbsp;&nbsp;ConSalud.es"
     },
     {
       "title": "La OMS declarará el fin del brote de hantavirus el 2 de julio si no hay más casos - La Voz de Galicia",
@@ -1208,18 +1208,11 @@
       "desc": "La OMS prevé que el mortal brote de hantavirus acabe el 2 de julio&nbsp;&nbsp;Euronews"
     },
     {
-      "title": "CDC ends US Hantavirus response - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNjVHUzU0ZkVOZGJma3hkS3FFQ0pTbDFFVmxHTHZ4eEtDRUZ0WGppNjhjN19yXzlBRDE3WGZ0Q3hWdE03cGtCQkVmM1VSUHRuMEttS0ZuLXJ5d0pCamEzZmwtRDd6TEZBYVdoeEc5TFNRQXNfVFV3YmN3X0FsYjdOWNIBhgFBVV95cUxOb1ViUVBZZFlyVVVNa294NFBDR0x2VWRZTTRNcUdFcXlTTU94cVF4eXhnU1FhVVAwNzZEWHVMaHpmX0xKbmZ4ODZQUElqV1hCNkkwVloyeGxuQTVlSldfVFMxYTRPVVpGQ0ZOdFIxVDEwbmRwOG9ELTNwbE00MUUyUWJDMEZ1Zw?oc=5",
+      "title": "Quick takes: More New World screwworm; CDC to cease measles, mumps testing; hantavirus response ends - CIDRAP",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaXhMbzB1RmdxZDBCcUxLYWpyRVZEUXJmcHdBVEhaX2VXeW10b1QxWVdtTmRLX3hfSUhSUjZ2bXktSWlBS0g4MkNOZDN5TzVPc09rOTVQamdvVnNzZ2wzeGVEWU1BZ3dfa0dWUWVMa3FKT3pXTjJuUHlnMF96OTB3b0dlN3NFUEUzM3hDRUJwY09yd3F2QXA0aEx1MDlpQzhuVEduOGtJQWo1RjgtTUhlSFNTNHB1Zi1ub21KVXBTQlNSY3Qx?oc=5",
       "date": "2026-06-24",
       "source": "Google News EN",
-      "desc": "CDC ends US Hantavirus response&nbsp;&nbsp;The Hill"
-    },
-    {
-      "title": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case - HHS.gov",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUXJaVTd0OUlXd1hjeTl6R204QkhveEczZ2lWbmR5RXZZblVvOGhRN2FITnRRc2lLU1NDbGFnazJCLW9hWnQwTXR2TGx4enRuVk1yejZyb3pTcVZEeFRrMFZGbnRweGx0V1E4eFVfZFd4Y2JiekJIMlFZdVZtSXkzR2E4QmFHdVY0UUtHYUpnV0JfNms?oc=5",
-      "date": "2026-06-24",
-      "source": "Google News EN",
-      "desc": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case&nbsp;&nbsp;HHS.gov"
+      "desc": "Quick takes: More New World screwworm; CDC to cease measles, mumps testing; hantavirus response ends&nbsp;&nbsp;CIDRAP"
     },
     {
       "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - The American Journal of Managed Care® (AJMC®)",
@@ -1227,13 +1220,6 @@
       "date": "2026-06-24",
       "source": "Google News EN",
       "desc": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes&nbsp;&nbsp;The American Journal of Managed Care® (AJMC®)"
-    },
-    {
-      "title": "Quick takes: More New World screwworm; CDC to cease measles, mumps testing; hantavirus response ends - CIDRAP",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaXhMbzB1RmdxZDBCcUxLYWpyRVZEUXJmcHdBVEhaX2VXeW10b1QxWVdtTmRLX3hfSUhSUjZ2bXktSWlBS0g4MkNOZDN5TzVPc09rOTVQamdvVnNzZ2wzeGVEWU1BZ3dfa0dWUWVMa3FKT3pXTjJuUHlnMF96OTB3b0dlN3NFUEUzM3hDRUJwY09yd3F2QXA0aEx1MDlpQzhuVEduOGtJQWo1RjgtTUhlSFNTNHB1Zi1ub21KVXBTQlNSY3Qx?oc=5",
-      "date": "2026-06-24",
-      "source": "Google News EN",
-      "desc": "Quick takes: More New World screwworm; CDC to cease measles, mumps testing; hantavirus response ends&nbsp;&nbsp;CIDRAP"
     },
     {
       "title": "International public health response helped contain Andes hantavirus outbreak on Dutch cruise ship - CIDRAP",
@@ -1248,6 +1234,20 @@
       "date": "2026-06-24",
       "source": "Google News EN",
       "desc": "Hantavirus quarantine ends for Americans held for six weeks in Nebraska&nbsp;&nbsp;The Guardian"
+    },
+    {
+      "title": "CDC ends US Hantavirus response - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNjVHUzU0ZkVOZGJma3hkS3FFQ0pTbDFFVmxHTHZ4eEtDRUZ0WGppNjhjN19yXzlBRDE3WGZ0Q3hWdE03cGtCQkVmM1VSUHRuMEttS0ZuLXJ5d0pCamEzZmwtRDd6TEZBYVdoeEc5TFNRQXNfVFV3YmN3X0FsYjdOWNIBhgFBVV95cUxOb1ViUVBZZFlyVVVNa294NFBDR0x2VWRZTTRNcUdFcXlTTU94cVF4eXhnU1FhVVAwNzZEWHVMaHpmX0xKbmZ4ODZQUElqV1hCNkkwVloyeGxuQTVlSldfVFMxYTRPVVpGQ0ZOdFIxVDEwbmRwOG9ELTNwbE00MUUyUWJDMEZ1Zw?oc=5",
+      "date": "2026-06-24",
+      "source": "Google News EN",
+      "desc": "CDC ends US Hantavirus response&nbsp;&nbsp;The Hill"
+    },
+    {
+      "title": "Exclusive | CDC Ends Hantavirus Response as U.S. Outbreak Risk Diminishes - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaVZBeHN3U01temxZOEFuY0lleDQzZXpxWjdxMlozRVlMQzZXX0NveXB1eDNtcEdCSFVWYm9nY2RvNHJCcXBmZGkwNjNrUGx1UlNjcFlYOXhaeFRxV19JTzFDeGpKYTVfa1RLMjR4dlhfWS1yd2JZLTBkb2dQRkdLeDU1X1dsTG84aUljZ3NLaWFUUlg3X0hzUmlPNjlLc3h4M1F0aXRoRE5UYjQ?oc=5",
+      "date": "2026-06-24",
+      "source": "Google News EN",
+      "desc": "Exclusive | CDC Ends Hantavirus Response as U.S. Outbreak Risk Diminishes&nbsp;&nbsp;WSJ"
     }
   ],
   "countries": [
