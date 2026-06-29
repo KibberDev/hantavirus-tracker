@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-06-29 19:05 UTC"
+    "updated": "2026-06-29 20:57 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,11 +1124,11 @@
   ],
   "news": [
     {
-      "title": "Más allá del hantavirus: las enfermedades transmitidas por animales que sí están en España - ABC",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVHk1cEs3NkQzU0QyWW9yeDhwQ3ZhQTM3VVFsclRucDdqcTk5bF83NXVKRm93MFVtWC1mLXFwTzd3LW05Q2RmbEhOdHcyeGtaT3hyNUQ2Yll5TDdvSGpOeDFhYUR4R3BjNnMxSEV1ZE1NeEt6bzh2aTEzN2xLREp0VFF3SU44U1UtTWtyMGxJWFA1aUszbW9vamk4WlA3RjI1Q1RRMGZnWFBPZ1FfbTRGYVl0ZlFkWUtjSHfSAb8BQVVfeXFMTV82cjJwZDN6NjNRLUVVN2c1VFloUzh1aHVLcXZuWEhPTU9nNjRuaWx5ajlrVVhfODBHU0hWdUlqTG1hREVpcC0zVnlYd0NUeUZPcGY5QklJNG5aR1hJY0xMdHdDVWJGczk3NHZoTFFOUGRLZm5STmhVMDZtZGdUVUFkaWp6QWgtX3JuWkIxOXhZUGtKU25Gb0l6M2o1VWExQ085VlZQZVJ1X0JsTnloZjdza3I1ZmRXNk53U01tTW8?oc=5",
+      "title": "Argentina halla hantavirus en roedores silvestres en Usuahia, pero descarta un nexo con el brote del crucero MV Hondius - 20minutos.es",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcUFuYS05ZUNjeUJ0VWhRbGRLaFVaZjBkSGloaGpTTFRBWTlCYnVwVVlBamtERmhJcmc1MkpHTFhuOEF3MjZRWDVzOUs2cV9KRFV3QU10azdhcXZXaWhTbDNJdnNEY0Z0ZlJhMFpQUXhORXYybFVXaDdRX3Fya0VVWlg5R1JIWXdLR0hIOEYxTGY2aEwyYUxrRlktQmtDLTlHdWE3NS05UFZDaU85SGdRRUxIRm1NQUJoVTB2LTd0UXFkOWhrZDNEWVBBUDhaT3E0aWtDbW5ycWxILUtrckVuTHlBY1c4blA2Wk14WGVQRTfSAfYBQVVfeXFMTkxpSlNmVFJzOGE2NzNfUGtBblJZMi1SX2hnQzhNRTRIRTA5Z2NuSlhnT2dPNkF6bjI0S041OHRoeTlBYkE1c3JvUDRTMTh3RlB6VGZhc2hPN1pDbDVlSkZpMkUyQ1ljX29zdHJReGtaOW5XZ2RzOTJQZExwNHE1QWJhNGxhVXhGanM5TXN6M0tFUWJCcDg1QlZWQUJBcV90SWpaTUIwS1dzcVhpcUhNNXdqWmduVnM2dW9BR24wMTk1eklQeTJCMm0xSkdUcEZua3M2V0plRTNqRU5UVUpzZWRqX1E0TWRBaU5CblhncG1ZRjhxUi13?oc=5",
       "date": "2026-06-29",
-      "source": "ABC",
-      "desc": "Más allá del hantavirus: las enfermedades transmitidas por animales que sí están en España&nbsp;&nbsp;ABC"
+      "source": "20 Minutos",
+      "desc": "Argentina halla hantavirus en roedores silvestres en Usuahia, pero descarta un nexo con el brote del crucero MV Hondius&nbsp;&nbsp;20minutos.es"
     },
     {
       "title": "Argentina halla hantavirus en roedores en Ushuaia pero descarta nexo con brote de crucero - El Periódico",
@@ -1136,6 +1136,13 @@
       "date": "2026-06-29",
       "source": "Google News ES",
       "desc": "Argentina halla hantavirus en roedores en Ushuaia pero descarta nexo con brote de crucero&nbsp;&nbsp;El Periódico"
+    },
+    {
+      "title": "Por primera vez encuentran hantavirus en Tierra del Fuego: por qué no lo asocian al brote del crucero - Clarin.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVWd3OHdjdHFXOXhpbGVfWmZ0SVd1X2dObFJablRZZkJBbUEyZkJOR2VxbEtNQWNxbnlvOVRqUktSSjBIU0FobHNXQVBqSURjWXExd1o3X3ZHbDZFZXJDZlJ1WDRPT21kT3pNc2xmaW5YZVRxYVpGTmRnVW1yUlg2Qng1endCdTZjQjVCUTZVX1JQQkxXVG5fNVRvWkFLY0xLeDZneU9MdGxRLTVvdXMzOXVQSFhhNVoxaXc?oc=5",
+      "date": "2026-06-29",
+      "source": "Google News ES",
+      "desc": "Por primera vez encuentran hantavirus en Tierra del Fuego: por qué no lo asocian al brote del crucero&nbsp;&nbsp;Clarin.com"
     },
     {
       "title": "El contagio de hantavirus del Hondius no fue en Ushuaia - ANSA Latina",
@@ -1152,13 +1159,6 @@
       "desc": "Argentina halla hantavirus en Tierra del Fuego sin nexo con brote del crucero 'Hondius'&nbsp;&nbsp;El Nuevo Herald"
     },
     {
-      "title": "Por primera vez encuentran hantavirus en Tierra del Fuego: por qué no lo asocian al brote del crucero - Clarin.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVWd3OHdjdHFXOXhpbGVfWmZ0SVd1X2dObFJablRZZkJBbUEyZkJOR2VxbEtNQWNxbnlvOVRqUktSSjBIU0FobHNXQVBqSURjWXExd1o3X3ZHbDZFZXJDZlJ1WDRPT21kT3pNc2xmaW5YZVRxYVpGTmRnVW1yUlg2Qng1endCdTZjQjVCUTZVX1JQQkxXVG5fNVRvWkFLY0xLeDZneU9MdGxRLTVvdXMzOXVQSFhhNVoxaXc?oc=5",
-      "date": "2026-06-29",
-      "source": "Google News ES",
-      "desc": "Por primera vez encuentran hantavirus en Tierra del Fuego: por qué no lo asocian al brote del crucero&nbsp;&nbsp;Clarin.com"
-    },
-    {
       "title": "Hantavirus en Santa Fe: confirmaron el primer caso de 2026 - El Litoral",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORjd5Vm1EUVJoSl95LXNJT19VM3JBV2NiTEtXYnZNb1VHM3kyZ0ZVSHh4SFh5blFzdVFsR3YwZGNRVnVjNnhyeHZXZ2RYOG96cGZwZW02b3R6Wl9wODBlVkdjc3c0MnJ0OE9oQW1fdTlHOTlpZjZFdG1uWm5aRjZfRHk4RVg0NlNKN2JCTkZyS0ZELWZSaVdxdkQ4aWpOd0p1U0VGNjd6SXdtb3gxdWh5TVZrT0p6OC1sNy1fU0xuM3VNNjRNU3pfcFRpY0U4ZUFDVklTVWJPQnhQYmFkeXhkWTgzTdIB6AFBVV95cUxNOXBsV1BpUzNKNTNVTGJMdUQxam1kSFpiaEFOUnBKLXpkbFFGUTdRbVR3UkJTdzJvMjdBNWx3RFJtcVFwdXg2eUg4WWNTeHNuYVppWjdRQkdNUHpHMVNmVlNlaEN1MTFUZTNWTHZ1QVhnOE9fd3RvRF9LNU11aDNKWUZ1NUFXV0s3aEhZTkYxX3BZR1lBbmVZZGI0VF9hVk5hSGpNa3RMN2tBZy0yaGFzRnpIVGtSOS1JRlNWQm5aRXdzSDY3SWFCQklNanJVNmJFOVN0M3ZWd0xNYTB3cnJpczJ6bkJMMS1H?oc=5",
       "date": "2026-06-29",
@@ -1173,13 +1173,6 @@
       "desc": "Scientists discover 70 existing drugs that block deadly hantavirus infections&nbsp;&nbsp;News-Medical"
     },
     {
-      "title": "Hantavirus outbreak 'nearing end' as total cases hold at 13: WHO - Türkiye Today",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYzFVR0tYOVA1SFlnQ1RLRGF5MVhBYXZOZWpmeE1MNU5xV1pRVDVpcjNNbER6Qy1JM2lBMFFvdTJmUU91d043XzY2VVBzUmJxX0FBNVBLSzVvZkMxU1pNX1ozR3pSZE5UNHVmQjdWTTFYTm5DYThpQWhjeVVFV1VzM3R3dHdBOEM1aE5wNTVSRjdpX0w0LUJ2VEJTd1BLR04xNGFnQWNHcTdMbm9h?oc=5",
-      "date": "2026-06-29",
-      "source": "Google News EN",
-      "desc": "Hantavirus outbreak 'nearing end' as total cases hold at 13: WHO&nbsp;&nbsp;Türkiye Today"
-    },
-    {
       "title": "Pennsylvania doctors share why you should take hantavirus seriously - Chambersburg Public Opinion",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcDFQY04wcFVYTHUyTXJNaXlZakw1YUk3MmdNVWx5dFdHdlhoNVRDS1dkQXhCa194V2lSRzFLNVFnR2JfZkRjSDFTTFVlVEZLSl9TNzRLUkxYSEh2a3hET2lDbElmYkJ3TFhyX1FydUJaWWtONkFUTDItTTdnRVJTM2NEdXFmVTFVYTBTSlhIRjgwMzg5MGlMb3l1Y2xUa3NkSjV4ZG9uRlB3MHQyemEtNkFIaWduZWFNbTZsVVppTkMxUDh5Y1Q0ODUxdDFDcFQwcUxKamJR?oc=5",
       "date": "2026-06-29",
@@ -1187,11 +1180,25 @@
       "desc": "Pennsylvania doctors share why you should take hantavirus seriously&nbsp;&nbsp;Chambersburg Public Opinion"
     },
     {
+      "title": "Hantavirus outbreak 'nearing end' as total cases hold at 13: WHO - Türkiye Today",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYzFVR0tYOVA1SFlnQ1RLRGF5MVhBYXZOZWpmeE1MNU5xV1pRVDVpcjNNbER6Qy1JM2lBMFFvdTJmUU91d043XzY2VVBzUmJxX0FBNVBLSzVvZkMxU1pNX1ozR3pSZE5UNHVmQjdWTTFYTm5DYThpQWhjeVVFV1VzM3R3dHdBOEM1aE5wNTVSRjdpX0w0LUJ2VEJTd1BLR04xNGFnQWNHcTdMbm9h?oc=5",
+      "date": "2026-06-29",
+      "source": "Google News EN",
+      "desc": "Hantavirus outbreak 'nearing end' as total cases hold at 13: WHO&nbsp;&nbsp;Türkiye Today"
+    },
+    {
       "title": "Bend doctor on hantavirus ship released from quarantine - bendbulletin.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOHRHemFmenUtR3RjTWE5RmZJaWxPR2RpOTA1SzdQdUY0Y2RZTXd6TzdJSm9sMEIxS194QnhzVkdSbUR1Y1IwS1JxNTVrSXpyUndwT1NidlBsRHJBMlRoNXZOaGV1M2RQNjVQNEhpWlBZdkJ1aUY3NmxVc05ST3NZanEwMUxzamZQRWRCMjFXWmc4UWJDQjJB?oc=5",
       "date": "2026-06-28",
       "source": "Google News EN",
       "desc": "Bend doctor on hantavirus ship released from quarantine&nbsp;&nbsp;bendbulletin.com"
+    },
+    {
+      "title": "Más allá del hantavirus: las enfermedades transmitidas por animales que sí están en España - ABC",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNXzZyMnBkM3o2M1EtRVU3ZzVUWWhTOHVodUtxdm5YSE9NT2c2NG5pbHlqOWtVWF84MEdTSFZ1SWpMbWFERWlwLTNWeVh3Q1R5Rk9wZjlCSUk0blpHWEljTEx0d0NVYkZzOTc0dmhMUU5QZEtmblJOaFUwNm1kZ1RVQWRpanpBaC1fcm5aQjE5eFlQa0pTbkZvSXozajVVYTFDTzlWVlBlUnVfQmxOeWhmN3NrcjVmZFc2TndTTW1Nb9IBvwFBVV95cUxNXzZyMnBkM3o2M1EtRVU3ZzVUWWhTOHVodUtxdm5YSE9NT2c2NG5pbHlqOWtVWF84MEdTSFZ1SWpMbWFERWlwLTNWeVh3Q1R5Rk9wZjlCSUk0blpHWEljTEx0d0NVYkZzOTc0dmhMUU5QZEtmblJOaFUwNm1kZ1RVQWRpanpBaC1fcm5aQjE5eFlQa0pTbkZvSXozajVVYTFDTzlWVlBlUnVfQmxOeWhmN3NrcjVmZFc2TndTTW1Nbw?oc=5",
+      "date": "2026-06-27",
+      "source": "ABC",
+      "desc": "Más allá del hantavirus: las enfermedades transmitidas por animales que sí están en España&nbsp;&nbsp;ABC"
     },
     {
       "title": "Irish survivor of deadly hantavirus cruise ship plans next voyage - The Times",
@@ -1241,13 +1248,6 @@
       "date": "2026-06-24",
       "source": "Google News ES",
       "desc": "La OMS declarará el fin del brote de hantavirus el 2 de julio si no hay más casos&nbsp;&nbsp;La Voz de Galicia"
-    },
-    {
-      "title": "La OMS prevé que el mortal brote de hantavirus acabe el 2 de julio - Euronews",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjRqZHVHQUVuQjczVy14SFFkRDRuVk5zU0FzZl8wOWI5NTVYZzB2X0d6emtDenhDTTVFcTV3emVQZ2UxRWwxcEFYTFlNS09WRXJJLTUzdmVLWDFxandEOGNteGl1YmFCYnE4eHNIb0FBREpuSE1TTmgyaDNacjdLeng0N3NDNFFKX3dicDltM0pqNVJ3Yi10bjhScHFfbGMtbXB0NXI3WmVNYzg?oc=5",
-      "date": "2026-06-24",
-      "source": "Google News ES",
-      "desc": "La OMS prevé que el mortal brote de hantavirus acabe el 2 de julio&nbsp;&nbsp;Euronews"
     }
   ],
   "countries": [
