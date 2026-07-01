@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-07-01 18:32 UTC"
+    "updated": "2026-07-01 20:29 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,6 +1124,13 @@
   ],
   "news": [
     {
+      "title": "Un hombre se contagió de hantavirus en San Lorenzo pero advierten que la cepa \"no es contagiosa\" - 11Noticias",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbGp5QmZ5bDJteFNvX25WSW9NN3ByM09zSlN5TUo3SFBSM0daeWsyRUhGaDZqMVZ0RFlKWnpMM245SXFfZVRHUVY1aUlLYXV5VzdLZ254X2pxRjFhV2ZCWVBNMGxLc1I4SE01bjIzbkxiaVJYVW9FUUVtckpPMHlfeUdrVXdTLXFMRWZMYWdKeVM3VlkyMTlwSEl4bG1kX2c2M0FNczBjZmpMMzgtLVR2Q2FCNlJuU1ZpYm5DdTdrX2hSVEg0M01rRlRYTGU2ME9rN0JkX0RfRl8wVVR6SXA5R2gtQ1lpS2s5S0FZTW0xWGs5QdIB9wFBVV95cUxQalNnR1p1dmFXN0lNOGNyUkxGd2ExQWY2aVQ4ak5rYWdKY0RoNzFXN3dsaFczNEhHUWJSQWQxUnpfb1NKcXMwZGM1RVBXZDJQNXVGM19CTnk4dXZLN2p3eUJMVUV3bVN6bWVVOTZ6Vnd6VHBxOS1RdlBETnVoQUpZS3ZselhuZm5vOXVPWHBkZ2dfLXpYUTBOMnkzVGFhUlZIam4yU05uWmJWNjM0cGZCRmF2RkVYeWxKLUJhdXZEV2ZYWHZGdGVUdFJsR0VxeHAyNS1reFZyaHVHU3BIQ29mUzB0TURacEpvRHBENTZRaE8tNFJ3S1JR?oc=5",
+      "date": "2026-07-01",
+      "source": "Google News ES",
+      "desc": "Un hombre se contagió de hantavirus en San Lorenzo pero advierten que la cepa \"no es contagiosa\"&nbsp;&nbsp;11Noticias"
+    },
+    {
       "title": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaVFxQTZQbEFJdm9jTU5qVFFlbUh1Z2tCRDhCZHBlY3NneVhwN0VEV1lJOUlZVjVoNUxfMGVsbmVpcGkwVTF6TWVRWTlhb0xSamJaZU5QMFJoZ0lNME1BT0FoRlJCSmNnWW81cXN0QVBqb2RhSWhJTDRmYWE4eW4tcUdMVlFjcTBVVTVCMGFKOF9RMjhUX2ZJTFRnTzVyLW0zbk930gGoAUFVX3lxTE50VnEwRi1SSDJvaTZ0Z2VjVjZaNWlrZGlZa3BneElvZjJzcUZoRWlIZ0hXTzV4QW1TY21oVVRuMVRGZHB5X09fU3NFVWhtVVpNN3Q2aWR3UkpUM3lOamItODI2R2VWdnhjRnhQNC1ub1hqQzhmUUVRVG5idWt1Q0VIcVQ2NzRVWUF4N1NWclk4ZVZqSEF4RHBFYUpzNnl5SHZMbDhYdHlRMw?oc=5",
       "date": "2026-07-01",
@@ -1136,13 +1143,6 @@
       "date": "2026-06-30",
       "source": "El Mundo",
       "desc": "Tierra del Fuego se encuentra con que hay ratones con hantavirus en su territorio tras negarlo insistentemente&nbsp;&nbsp;El Mundo"
-    },
-    {
-      "title": "Argentina halla hantavirus en Tierra del Fuego sin nexo con el brote del crucero «Hondius» - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN0lFdndlRTJtQUwtQmRfVXZqZEhjbm1qOHRCZERDdWFOQXc2WThpVDBtcml2YnU2LXZ0QU5vaFhVMm5tQ18taWNTQUR3T25HN0w3Ykt5c0RBRDJsLU5YQXFjVDN1ck1XbTJjSHRwN1A5cE5IeEEwTFVxRmpBajh1VnQ4OWQwY01Ua1hZNkZReFpKZkZ0Qmw0RG4tY3lwTXd2Z3IwTEtjVFdwQzlxUDlDMVUwOEQwSTNxTWlvaDN3Q3l1RjU3Ni1OMURmazU?oc=5",
-      "date": "2026-06-30",
-      "source": "Google News ES",
-      "desc": "Argentina halla hantavirus en Tierra del Fuego sin nexo con el brote del crucero «Hondius»&nbsp;&nbsp;SWI swissinfo.ch"
     },
     {
       "title": "Self-isolation ends for travellers exposed to hantavirus-stricken cruise ship - Times Colonist",
@@ -1194,13 +1194,6 @@
       "desc": "Más allá del hantavirus: las zoonosis que sí están presentes en España&nbsp;&nbsp;The Conversation"
     },
     {
-      "title": "El brote de hantavirus debería concluir oficialmente el 2 de julio, según la OMS - France 24",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMWxCWEFRSVZxRFNRQlBDdWt6U3NnTFhlcUtMZ2J4dVR2cG14VEhFNy1VaWY4QjVEX1J1d2xjZnRtS2dpVG5jd3RsUmZ3X2tCYjJkdmlQUzY3Y2ZwZkE1a3NMSGpRTGhtMHFNU05fbnRXNzVpZTE1Q1J5UFRzVXpXVndWZ0Jqb2F6S2MtWEdUWGdPU2RwUTJVLWM4SnIxT3ltbmVnSTBEcnlGYTdSVHhNTDh4cXM4MTZuLS1XUkhqbGZjWExTTmZfSXlBajh3X0wtcVpzNGJtYlJvdw?oc=5",
-      "date": "2026-06-25",
-      "source": "Google News ES",
-      "desc": "El brote de hantavirus debería concluir oficialmente el 2 de julio, según la OMS&nbsp;&nbsp;France 24"
-    },
-    {
       "title": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case - HHS.gov",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUXJaVTd0OUlXd1hjeTl6R204QkhveEczZ2lWbmR5RXZZblVvOGhRN2FITnRRc2lLU1NDbGFnazJCLW9hWnQwTXR2TGx4enRuVk1yejZyb3pTcVZEeFRrMFZGbnRweGx0V1E4eFVfZFd4Y2JiekJIMlFZdVZtSXkzR2E4QmFHdVY0UUtHYUpnV0JfNms?oc=5",
       "date": "2026-06-24",
@@ -1248,6 +1241,13 @@
       "date": "2026-06-23",
       "source": "ABC",
       "desc": "Robles loa la \"misión cumplida\" del Gómez Ulla contra el hantavirus&nbsp;&nbsp;ABC"
+    },
+    {
+      "title": "Robles, al personal del Gómez Ulla que gestionó el hantavirus: \"Misión cumplida\" - ABC",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWUR4d1poVk90WnpXN3p3ZzhFQ3BWN3hVZjRZS09LSm9UbkZ5UzBiX2dMTThlV3g2TUhROG5UakJNT1Q2U1hzd2VvWmZNZEFVQ2xnaUR2dUxTSlJIMFUzUVdHdjRYX2REYzRpOEVGY3Z5RmZiaHp0dlZSeVJJenQ0RWtDdkJBdG5FbWI4NVowUUhBOVliWXZ4c0FMS1ZNRDRWM0ZkOQ?oc=5",
+      "date": "2026-06-23",
+      "source": "ABC",
+      "desc": "Robles, al personal del Gómez Ulla que gestionó el hantavirus: \"Misión cumplida\"&nbsp;&nbsp;ABC"
     }
   ],
   "countries": [
