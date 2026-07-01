@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-07-01 08:32 UTC"
+    "updated": "2026-07-01 11:44 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,11 +1124,25 @@
   ],
   "news": [
     {
+      "title": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaVFxQTZQbEFJdm9jTU5qVFFlbUh1Z2tCRDhCZHBlY3NneVhwN0VEV1lJOUlZVjVoNUxfMGVsbmVpcGkwVTF6TWVRWTlhb0xSamJaZU5QMFJoZ0lNME1BT0FoRlJCSmNnWW81cXN0QVBqb2RhSWhJTDRmYWE4eW4tcUdMVlFjcTBVVTVCMGFKOF9RMjhUX2ZJTFRnTzVyLW0zbk930gGoAUFVX3lxTE50VnEwRi1SSDJvaTZ0Z2VjVjZaNWlrZGlZa3BneElvZjJzcUZoRWlIZ0hXTzV4QW1TY21oVVRuMVRGZHB5X09fU3NFVWhtVVpNN3Q2aWR3UkpUM3lOamItODI2R2VWdnhjRnhQNC1ub1hqQzhmUUVRVG5idWt1Q0VIcVQ2NzRVWUF4N1NWclk4ZVZqSEF4RHBFYUpzNnl5SHZMbDhYdHlRMw?oc=5",
+      "date": "2026-07-01",
+      "source": "Google News EN",
+      "desc": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos"
+    },
+    {
       "title": "Tierra del Fuego se encuentra con que hay ratones con hantavirus en su territorio tras negarlo insistentemente - El Mundo",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX2tsM20yZmZaSGJodzhLSTJDNEZ6MUdVWmNCc21BNC02NExZNmZTWXIyQVVRTEtEVzU0SC1RR3hmOVpWaTBMWUVjOUhDSk5TUXFkYTNwdlJfY3A4ZmZRaURhYjRwNUdqWFRuTS1qdmVJRV84NFJtX3I2X0JKUzNBMGkyWEQ2M0NHaE4zdDRB0gGOAUFVX3lxTE9IdnppOU9Saldld0dsenJ0ZzNpQlB0dVlFSndPWVFWNXdkZVhaZ3RIZTBjb2tVYy1JZjhfaXBOMlloVHk0MFdUVVRDNTNmQW5PRS1yaUg4MU1MRnBaX1VaUGJjTGNtVjByZWlOSFhsUmNybWlBNTlwT2JJenZxTVVSVDNlRjZxb1hhNmN0eUE?oc=5",
       "date": "2026-06-30",
       "source": "El Mundo",
       "desc": "Tierra del Fuego se encuentra con que hay ratones con hantavirus en su territorio tras negarlo insistentemente&nbsp;&nbsp;El Mundo"
+    },
+    {
+      "title": "Argentina halla hantavirus en Tierra del Fuego sin nexo con el brote del crucero «Hondius» - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN0lFdndlRTJtQUwtQmRfVXZqZEhjbm1qOHRCZERDdWFOQXc2WThpVDBtcml2YnU2LXZ0QU5vaFhVMm5tQ18taWNTQUR3T25HN0w3Ykt5c0RBRDJsLU5YQXFjVDN1ck1XbTJjSHRwN1A5cE5IeEEwTFVxRmpBajh1VnQ4OWQwY01Ua1hZNkZReFpKZkZ0Qmw0RG4tY3lwTXd2Z3IwTEtjVFdwQzlxUDlDMVUwOEQwSTNxTWlvaDN3Q3l1RjU3Ni1OMURmazU?oc=5",
+      "date": "2026-06-30",
+      "source": "Google News ES",
+      "desc": "Argentina halla hantavirus en Tierra del Fuego sin nexo con el brote del crucero «Hondius»&nbsp;&nbsp;SWI swissinfo.ch"
     },
     {
       "title": "Self-isolation ends for travellers exposed to hantavirus-stricken cruise ship - Times Colonist",
@@ -1143,13 +1157,6 @@
       "date": "2026-06-30",
       "source": "Google News EN",
       "desc": "Zero Americans Became Ill in a Cruise Ship Hantavirus Outbreak: Here's the Monitoring Process Behind It&nbsp;&nbsp;Medical Daily"
-    },
-    {
-      "title": "Self-isolation over for travellers exposed to hantavirus - Yahoo News Canada",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbWIwQnN2WTlfQU5pc3VJVXZzN3JTUWJET3lYV3BkYjlvRkNDeXRVTkJSSkVIbl9zcllCNU5OWkY1R25YZzhRR19nNVRGTWZIYjdQTi1UQlNUQm9ZZmpPa00zMkY4R1FJcHVqNHNjMFR3TEM2THFEUXFSM1JmUlN4ZENIMWRKdw?oc=5",
-      "date": "2026-06-30",
-      "source": "Google News EN",
-      "desc": "Self-isolation over for travellers exposed to hantavirus&nbsp;&nbsp;Yahoo News Canada"
     },
     {
       "title": "Más allá del hantavirus: las enfermedades transmitidas por animales que sí están en España - ABC",
@@ -1180,6 +1187,13 @@
       "desc": "El contagio de hantavirus del Hondius no fue en Ushuaia&nbsp;&nbsp;ANSA Latina"
     },
     {
+      "title": "Canadians exposed to hantavirus on cruise ship complete isolation period - CBC",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQVhvU0xvbUVHS1NWSkQzX2pvbW9kYmhpTUU1OHRlZUk3bFdPYzQ1YnU3S3l4NEF5bm9KXy02WVJiUERDeTJqZUdEYkJoemR6cE9WcEU1NDdpdFVPR1lWXzAwSDZYRGpvU01RZnlCRHE3bVdLVVhmNkpSemtPV0UwNWpFSmZIbmM?oc=5",
+      "date": "2026-06-29",
+      "source": "Google News EN",
+      "desc": "Canadians exposed to hantavirus on cruise ship complete isolation period&nbsp;&nbsp;CBC"
+    },
+    {
       "title": "The irony of the hantavirus quarantine - Your Local Epidemiologist",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZjlmUnM3QnNrNjhFVGxiVThSNFU4NXRYOUdrblZqcldxVC01WDR0Q1g0ejJMQnlBZUJKM1l0ei1zMEwwSjhoc2tfTGU3V09KSEQ5Q0pubGRvdDRxSmVaRW92eHE5MGJJU19paHdnX1VuOXNmTk9jTlVxdDR2UTl5bEFUTnYzTFpNUS1HSEFR?oc=5",
       "date": "2026-06-26",
@@ -1194,11 +1208,18 @@
       "desc": "Más allá del hantavirus: las zoonosis que sí están presentes en España&nbsp;&nbsp;The Conversation"
     },
     {
-      "title": "La OMS declarará el fin del brote de hantavirus el 2 de julio si no surgen nuevos casos - consalud.es",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOT1NtQkVmekEtVFRZMk1ITWpYR29NN3JsOHg0bzl5MnU3MXl2Sk02MWhlU09DM2tZQy0xWHNvYkFQMk4yX2VmekRuUjMtcV83TjFGQThYeGo1QkhsUlVZOVotYkVPYWtCdGppNjgtQjdDNFRkRVpXcGtjVFBiSEtRd25EcjAzaVZVNnZjNjF2OUZUSUVBdkdRdWRyS1lYZlFHeVFJYTFPaG5tTG5wUUxRSkNZYUR5YmFiYWFzcHVWbF9haWJWSEJkTUUybjNJQlVDOUEwcw?oc=5",
+      "title": "Los correos internos del Gobierno canario en la crisis del hantavirus: “Nuestra mejor sanidad no justifica el envío del barco” - elDiario.es",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMU5tZFliWU84d3VGMHhUVE1Mdl9oc3RWWThMWmQzM3NFS0ZWTWtKdklOMEc3WFdPbkZnOExPVTRtTWFIaUgtNnhuWVZMNkNrT0V5Q0g1ZlIycnFfY1lTTzBhQXFKSWxqMlFfSG9JRHdQbFNvY2lkRzh3c1hwRGNYNC1QckF5elJUOXRDbVhzUTFUMlRZWlVMNEtfMExIUUhPVW9JTjJkam92WjUycVBaQUNQRFRCZkN6eWEtMTV2MjRjVXVJNmVLeUFfWVkwSWxfdDY5YnEwQzlDSXJlanBHX2FpR0Yybm9D0gHuAUFVX3lxTE44VkZ5MUlFVkNyMkJTTGhiT1VBWkFwU3dKdjgzNFhNV1JXVTlHbUxjaVpwSHV4b2pyOG5pS0kxSzZWaGNxTWxqVjBfcDJjbmJSOUN0X3prejBHVW00NVdqTTVRcHAtSGtPYWNJSnNlTHVyU3B5d3B3cnlWNDJEVDJEalFGalZnM01DOTFlTjJZSDlhTF9lU1BzbmlBcmdDS2liZmlWR0k3ZUt5N29BWEFmc1BRaENMTXpBQS1ZREJzamtCOUNRY096amRQd2cwTUM2RFJuQXJzeFJLLXo3QzBXeFhBVjI0N0dJV2JXdkE?oc=5",
       "date": "2026-06-24",
       "source": "Google News ES",
-      "desc": "La OMS declarará el fin del brote de hantavirus el 2 de julio si no surgen nuevos casos&nbsp;&nbsp;consalud.es"
+      "desc": "Los correos internos del Gobierno canario en la crisis del hantavirus: “Nuestra mejor sanidad no justifica el envío del barco”&nbsp;&nbsp;elDiario.es"
+    },
+    {
+      "title": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case - HHS.gov",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUXJaVTd0OUlXd1hjeTl6R204QkhveEczZ2lWbmR5RXZZblVvOGhRN2FITnRRc2lLU1NDbGFnazJCLW9hWnQwTXR2TGx4enRuVk1yejZyb3pTcVZEeFRrMFZGbnRweGx0V1E4eFVfZFd4Y2JiekJIMlFZdVZtSXkzR2E4QmFHdVY0UUtHYUpnV0JfNms?oc=5",
+      "date": "2026-06-24",
+      "source": "Google News EN",
+      "desc": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case&nbsp;&nbsp;HHS.gov"
     },
     {
       "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - AJMC",
@@ -1222,32 +1243,11 @@
       "desc": "CDC ends US Hantavirus response&nbsp;&nbsp;The Hill"
     },
     {
-      "title": "US CDC concludes hantavirus response as outbreak eases - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObGVfZGhnMVdqX0ttM2FMeXR4UDVEQWxuUEtsZFFJOHZocjZHUkxiNmZDWHZwWE8wYnhfUDJqSV85b2VtNEx0LVBsRmI0VVpIZTZrZXRuSjdTUVl2XzhOdmZvc3k3d3ptTkcteVFpdmpfX0Rsc1Foc0FqV3JYSS1JbHJvZmJBVkw3S0VDRW1sTnpXZlJxVEZhVk1oRXhNamxBUlZueFY2WXg3MzVhSE9HNHdRWGM?oc=5",
-      "date": "2026-06-24",
-      "source": "Google News EN",
-      "desc": "US CDC concludes hantavirus response as outbreak eases&nbsp;&nbsp;Reuters"
-    },
-    {
       "title": "Exclusive | CDC Ends Hantavirus Response as U.S. Outbreak Risk Diminishes - WSJ",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaVZBeHN3U01temxZOEFuY0lleDQzZXpxWjdxMlozRVlMQzZXX0NveXB1eDNtcEdCSFVWYm9nY2RvNHJCcXBmZGkwNjNrUGx1UlNjcFlYOXhaeFRxV19JTzFDeGpKYTVfa1RLMjR4dlhfWS1yd2JZLTBkb2dQRkdLeDU1X1dsTG84aUljZ3NLaWFUUlg3X0hzUmlPNjlLc3h4M1F0aXRoRE5UYjQ?oc=5",
       "date": "2026-06-24",
       "source": "Google News EN",
       "desc": "Exclusive | CDC Ends Hantavirus Response as U.S. Outbreak Risk Diminishes&nbsp;&nbsp;WSJ"
-    },
-    {
-      "title": "Hantavirus quarantine ends for Americans held for six weeks in Nebraska - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMVhVLUFrQkotUGt1dVRrdUJEcTg5aVZKeU5TejFha2stMlcyMTFBQUhqWVVvLU42T0tma2pEa2UzNDdDNmVfQTAtOS0tUjNUMmw5TFpOZk1NeG5QYm5kcVAzZjhubnJjMVFyb2hGZ3RmdTJjZVdrQVNJdVNmWVhhWDJKQkZITndIN2hR?oc=5",
-      "date": "2026-06-24",
-      "source": "Google News EN",
-      "desc": "Hantavirus quarantine ends for Americans held for six weeks in Nebraska&nbsp;&nbsp;The Guardian"
-    },
-    {
-      "title": "US public health agency concludes hantavirus response as outbreak eases - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNHdUT0N4b2ZYbW50bmJTTUdfajBIY1pULXVBTm1KVnNlYXg2RW1oem8tY1BBcmRyME82MFlreFpnVjc2cHhlbGpYVG5GR3VOVmhYejlCM2lnMmRJajBFR0RvOTRrMWk1cXllWnVRRFA1RkNpZzlFOC1TZ0RLN0FwUm4yaFVyaUxHdnBYeU1UcUJlQ0xMTEhHQ0pvR213UzdPZ0cxLUtEN2VJalFMUWZ0QnJR0gG3AUFVX3lxTE9xZDYzelhIT29ScXo1N3JCZ25FZEFmREF6QjBBMXFXMmlQdm1RQ1g2S2xvSFhla0xpRDZEZkRmT2VXTzMtTGdYM09hcG04WkRTdW9hb0dBOWY0TmNMTnNjeTc2VmQycktQQjdWZjV4SHJDTW9TTkIybk90MlBKbjloR3djNXRWUUF3Y0lSTlBfVmh6b0ZKMGwyb2d5aE5Lb2xEcWVvaVRRSjZfMmR1Smp2UWhiMTFNbw?oc=5",
-      "date": "2026-06-24",
-      "source": "Google News EN",
-      "desc": "US public health agency concludes hantavirus response as outbreak eases&nbsp;&nbsp;Al Jazeera"
     }
   ],
   "countries": [
