@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-07-02 16:20 UTC"
+    "updated": "2026-07-02 18:14 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,8 +1124,15 @@
   ],
   "news": [
     {
+      "title": "WHO says Hantavirus outbreak linked to ship is over",
+      "url": "https://www.bbc.co.uk/news/articles/cd7wjy2e1d8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-02",
+      "source": "BBC News",
+      "desc": "The World Health Organization's director general says no further cases have been reported since 25 May."
+    },
+    {
       "title": "La OMS da por concluido el brote de hantavirus declarado en el crucero MV Hondius - RTVE.es",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcWhESFF5cFNGV2cxaU9ibkg3V25LT2llOVd2YmNPUk5OUHY0OC1rMTJmclhFWWVJMHpUNmo5SEI2OFMtWThieGVlT3IyWjhYYzJLaXRPWGNmNV9uZi1JVEZMVVVibVNINFhsWURfbW9NYVFETnl6WkRKcUVKdTIzT3BGQW1qd0FWV2dzTlQtM2p5NVgxUVFpT0NVUWFwZTh4aTA1aVA2NjhDbG9TY091cXlSLTlwS19xbGVR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNFhTdWNEelJaOE9ZLUZ1QTNHQ3VNZ1VPNjYxaGlMd0dFUzcxWDRWUUgweGtFN1BpQ1ROVEMyeWVRNzZGa0psMWtMM3hnTU9YdGVTdDhGSEVsRWFESkxlRGgyMG9KdVR4RS1WOERwMnRrWGNCcEFpYmN2dFlteFYtSFMtQm9GQ1BkTHZySWhsOEtRLVg2c1lzZ2tPOHJQVlZkdmJDUVJnOFdGdU9xSDVWYVdYY1VZR3hwbjlF?oc=5",
       "date": "2026-07-02",
       "source": "RTVE",
       "desc": "La OMS da por concluido el brote de hantavirus declarado en el crucero MV Hondius&nbsp;&nbsp;RTVE.es"
@@ -1135,7 +1142,7 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY2lMMW9sSWg4Uk8ycXdSREp3NTlMeDduX2l3X2tBdlFPdFh4cm91M3FhX09qVHlNbFhyZEtvOVpWWGJaQi1OSkNBS21BX2gyblZUd2VCa19NSlVLTTJaaGJPTkN0aE9uMHFmQV9qY0s3OVhQYTFITWdnNVdTTUxnc0QxdmFYazJkWGJYM3BBb0hGTWU2TE1R0gGXAUFVX3lxTE1INHY3dkNrZ25Xd00yaGJRT0tYQmcxTGRqQW5aU3BmQlIwaElILVBOdUhSX1B3elZGSG9Ncm9oRnRSLUdUMVNqZXMxWGNCTEhObTNBVU5jMlJhbUYzQ1YtdDdwRVpiV2NRNWxVREFGbXVMRWVaaUZnbUdfV2hNQmV6SVRCV3U5QzZiaWRXWjI5U0RtTWhMSk0?oc=5",
       "date": "2026-07-02",
       "source": "Google News ES",
-      "desc": "La OMS pone fin al brote de hantavirus del crucero tras más de un mes sin contagios&nbsp;&nbsp;El PeriódicoLa OMS da por concluido el brote de hantavirus ligado al crucero MV Hondius&nbsp;&nbsp;Onda CeroLa OMS declara el fin del brote de ha"
+      "desc": "La OMS pone fin al brote de hantavirus del crucero tras más de un mes sin contagios&nbsp;&nbsp;El PeriódicoLa OMS da por finalizado el brote de hantavirus tras dar el alta al último contacto&nbsp;&nbsp;Diari de TarragonaLa OMS declara el fi"
     },
     {
       "title": "Flash: Jefe de OMS dice que brote de hantavirus ligado a crucero está \"terminado\" - Xinhua Español",
@@ -1145,11 +1152,25 @@
       "desc": "Flash: Jefe de OMS dice que brote de hantavirus ligado a crucero está \"terminado\"&nbsp;&nbsp;Xinhua Español"
     },
     {
+      "title": "La OMS da por concluido el brote de hantavirus ligado al crucero MV Hondius - Onda Cero",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPODhOTlhnbEJsX1NuWjc2NXdlM01FaGk5MS1JcDdBTGN1SXJRR1dSbENLNHlTTXJRZF9rX0pBejB4dG1xSUJ5eHlMYk9BdmFpVDRIMTY2d1B0TmtkbWZRZ3pkT2xuQ1ZxaUh0dHdrNzl4ck1DeXZxcjJRUmhTX2hLZ1JzSENfSXEyZGZhNVV5QjlrZDZnbDVNNlYyT09NUDhvUG5YaXh4dlhJdTdkVVNYanFYNzV3UDhYaVhlQWpFVUtCXzhyOU9KOGh30gHKAUFVX3lxTE4wd0ZWc3hkTWhpMGltZFpEOXZlc0xWNlFxWGd4cDJuQV9mWkJtenJwOEZ1MS04SXZvc0NkekVrRGQ2MjFlSXNpNmJqSngzdlItSmFWSmVJR0tRd3lLT29kT0ZtWldYa29qUGUxVVpzVUxtaUxtTnA4TjlTQkgyanUtQkZtbUxNQ2RxdERHNlR5WVo5YThQc0lvQm5wVFI0X0tFM2hGZUNMdkVVa1Boc056enB6YlpSaWdZNUxwa0hzV2Y4NTViUDJmaGc?oc=5",
+      "date": "2026-07-02",
+      "source": "Google News ES",
+      "desc": "La OMS da por concluido el brote de hantavirus ligado al crucero MV Hondius&nbsp;&nbsp;Onda Cero"
+    },
+    {
       "title": "La OMS da por concluido el brote de hantavirus que se declaró en el crucero - La Voz de Galicia",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNExDSER2cWIxNU1oempIRHlIb3RObWhZRWpKSlR1c2hUN0ZsODZncjMyeF9wWDU0LVZaNF9xeUg0emJqcUU4TnVMSzBhNnJRenhWZkRVeU0yeWxoNHJqRmZkcUxFaUtfVE5tLVdybW1JTWlRNDcwdS1xZnRzdWtsRnNvTlFhckdFTkQ5YkIydjUyemI5WkNjVGw4aklibi1SVk91VFVOLV9Cemp5b3A3elV5aDFVdTBzbWlrZGhodU9ybFFxOVg4NDN6Xy1MODMx0gHsAUFVX3lxTE1vdGNnNG5HMXczU0kyYTVkbnNjQkVENU1TZDNZSTFLR3Nva0xDa0JzdFhVS0sxODEzQXNGeEswb2lQeWN3ckNadnVRdjR4RkFkTE5WblNCczg2OERrUzduOERreXFKMnNXYzZ0REtFVDJna3hBb1d6NHlRZXhnQ3VhbV9LSGRyZ0lYczRfcVpXR3M1bUZoRW83VkZRQ2dmLXZhOEs0OVM5WV9iRDlUSzFjMXVDdU1ldDJSRE1Tcnh2MVlVWlBsQzFfZzZTRHhIbWhweDlZMy16cjNRc0g1aWdqSFo1TFdIZlA5Zm5t?oc=5",
       "date": "2026-07-02",
       "source": "Google News ES",
       "desc": "La OMS da por concluido el brote de hantavirus que se declaró en el crucero&nbsp;&nbsp;La Voz de Galicia"
+    },
+    {
+      "title": "La OMS da por finalizado el brote de hantavirus - Segre.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPXzNlYXJPY2lJR3V2bHdIYnN2SHdKZ2p1WVlJd2xueVVteG5zeHBiMUhyZS1hdDBNZHdnLTg3eGZWMkcyWk9ZSlFsT0VRLUc3RG1oc0UwVW1VeTVsRUhlbWoxRV9CNGYzUmp3SFZGNFgtSXQ0aWlqZnpsa0hGQXNCdmhxV2JMeDRBUlFFUGdZZG9EOWh4a05XMGlaX3NadENMVTIxZw?oc=5",
+      "date": "2026-07-02",
+      "source": "Google News ES",
+      "desc": "La OMS da por finalizado el brote de hantavirus&nbsp;&nbsp;Segre.com"
     },
     {
       "title": "La OMS declara el fin del brote de hantavirus - El Confidencial",
@@ -1166,6 +1187,13 @@
       "desc": "La OMS da por extinto el brote de hantavirus relacionado con un crucero&nbsp;&nbsp;TradingView"
     },
     {
+      "title": "Con un total de 13 casos, tres fallecidos y cuarentenas completadas, la OMS da por finalizado el brote de hantavirus - iSanidad",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNWxid1p5WkhqUjZfMWVrTnUyang5OVFCU2JQQXlrMlBSaWFnUlNsLTQyWGh0WlNpLTZnbEZiYURwVU9fOFo4aEJMVlB2U29FQzJLUmpQajQ5RmZMOE5zRXpfMTdZOUpRQXFMSDdrTUV2WGg5aXktLTB2WkJzTkNidzc2a05HSkZVeVVtRlBMX3JpQjV2a1c4dExvTjdsTlNjTkJyUkQxWmVuaUk1czlaRWtIa1hUUQ?oc=5",
+      "date": "2026-07-02",
+      "source": "Google News ES",
+      "desc": "Con un total de 13 casos, tres fallecidos y cuarentenas completadas, la OMS da por finalizado el brote de hantavirus&nbsp;&nbsp;iSanidad"
+    },
+    {
       "title": "La OMS da por concluido el brote de hantavirus que se declaró en un crucero - EFE - Agencia de noticias",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tdmI1LWR4bVNOekJ3RUdZdFpIdTh1M0hQQjhKMEczdWt0VTFnY19BWTU0ckQ0a0l1MlA2SlU5ampuTmVsREZHa2w4cWlOTkNvRGdTaElQTkJXMGxNN1o5aUhnNEtQQm5JRUtEN3l1SER4UlhMUGc?oc=5",
       "date": "2026-07-02",
@@ -1173,11 +1201,11 @@
       "desc": "La OMS da por concluido el brote de hantavirus que se declaró en un crucero&nbsp;&nbsp;EFE - Agencia de noticias"
     },
     {
-      "title": "La OMS da por finalizado el brote de hantavirus - Segre.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPXzNlYXJPY2lJR3V2bHdIYnN2SHdKZ2p1WVlJd2xueVVteG5zeHBiMUhyZS1hdDBNZHdnLTg3eGZWMkcyWk9ZSlFsT0VRLUc3RG1oc0UwVW1VeTVsRUhlbWoxRV9CNGYzUmp3SFZGNFgtSXQ0aWlqZnpsa0hGQXNCdmhxV2JMeDRBUlFFUGdZZG9EOWh4a05XMGlaX3NadENMVTIxZw?oc=5",
+      "title": "La OMS da por concluido el brote de hantavirus que se declaró en el crucero - Aragón Noticias (CARTV)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMTV4S3ZKQWRXV3h6S3lIRjIzMzcxb2xGSmtoQlhzRVRlM08tdEVIOEdEUG82Zmh0X01RWEtOWEhOUE1jRDBfZUlpc3hDaXd0RElIZ2xDaFZlUlU5UUNnMldOZ25oUFk1dXNUYWVfV0ZvNlVIaVRoNzNZbEV5SkdlMms1SV92cWhXTTZmMDhsdXBpVEJlQ2M5MjZiVWxhN3JBVmF1MHp5bXREU0lhMXo2cEptbUoyeWFfdEdNaFpZQ1g?oc=5",
       "date": "2026-07-02",
       "source": "Google News ES",
-      "desc": "La OMS da por finalizado el brote de hantavirus&nbsp;&nbsp;Segre.com"
+      "desc": "La OMS da por concluido el brote de hantavirus que se declaró en el crucero&nbsp;&nbsp;Aragón Noticias (CARTV)"
     },
     {
       "title": "La OMS da por concluido el brote de hantavirus que se declaró en un crucero - La Razón",
@@ -1187,11 +1215,11 @@
       "desc": "La OMS da por concluido el brote de hantavirus que se declaró en un crucero&nbsp;&nbsp;La Razón"
     },
     {
-      "title": "La OMS declara el fin del brote de hantavirus: «No se han notificado nuevos casos desde el 25 de mayo» - El Debate",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbllUZGRYS2lXTXI1WHlUT1JYVDczWi1vRW9TVm51TTc1MVRhcllJQkZ6Y3k4c09oLUdwTU9oM2xyN0g2N2JZbVJCSGxkOW5kbllBUXBERlZzWnBISk1jdFJucV80RWlTZm5KaW91bEEwMmp6RUFwdGNKRndlNjRkQVRFOW5WNEFNZ2FKX0tzWmdERTNEdEVWa2gybE5tb2t3ak1sNmhQdHpudHh6b21QN2RwX3JTYWhpblUyTjRjMWFwX3pzTlRDbEZydVTSAdIBQVVfeXFMTmRQOTAxeUQ5M3BCLVkzVDd5bnEyLWVGbkhiTzBJWVNpX241ZGZPV0hnanp2VlFwcW5ORVc1Vk9yejY4RkZ6MFEwSG8zR2liaEJBSGg0cjNOZUs3TG9QTFBVQnpXUGNNT3BJcVk3YVcwMU44UWlDUThVd2UxbWFTV3ZhbU9WSFpCem9xeFRJcFlrSm8yZXZYRnRCNVFNS3EyT1I5SDliVHdxenFfb3U3Y256dVJRRjlqaC1lRmZtS0p6cWoxQXdCRzExb190V2o1eGZn?oc=5",
+      "title": "La OMS da por concluido el brote de hantavirus a nivel global - Demócrata",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcEN2d1FES2NlWHNpSGpHSFNISlFwZ2I1N3dYQUZLb2ZLWUl2UGhueHUzQkkwS2c4NTNubWNrOHJvSUVSZmlvWTRBQlduVDJDOEdKRzVQbVRydzh2aXBTSHp1bHFrWmwyMzFScU5NZ01oR3dlaUFCWUVWRnNEbHI3ZUIyOVIyUjc1ZUV3aUVaX0I2bE90WGxybnZVNNIBoAFBVV95cUxNQ2dVZWs4dUlxem55YVdQeUVBQ0JPYmV3d2tRc21vdTZjRnZiR2k4NVpUVHRjUnE3NG5IbVZtSTZON3J6Z3owcnNwZnlDeFprMjN1NGQzSmF2SUJLRkN6VUM2bEI2QUUyZ2swYVdPaThGNVg4YlVXUGU5ZjFrTVlsZlp4Qkp6QWhBZjlYOHcwR2pHQjVkczFmTXBOZUlZVFFw?oc=5",
       "date": "2026-07-02",
       "source": "Google News ES",
-      "desc": "La OMS declara el fin del brote de hantavirus: «No se han notificado nuevos casos desde el 25 de mayo»&nbsp;&nbsp;El Debate"
+      "desc": "La OMS da por concluido el brote de hantavirus a nivel global&nbsp;&nbsp;Demócrata"
     },
     {
       "title": "La OMS da por extinto el brote de hantavirus relacionado con el crucero MV Hondius - Ultima Hora",
@@ -1201,11 +1229,18 @@
       "desc": "La OMS da por extinto el brote de hantavirus relacionado con el crucero MV Hondius&nbsp;&nbsp;Ultima Hora"
     },
     {
-      "title": "La OMS da por concluido el brote de hantavirus a nivel global - Demócrata",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcEN2d1FES2NlWHNpSGpHSFNISlFwZ2I1N3dYQUZLb2ZLWUl2UGhueHUzQkkwS2c4NTNubWNrOHJvSUVSZmlvWTRBQlduVDJDOEdKRzVQbVRydzh2aXBTSHp1bHFrWmwyMzFScU5NZ01oR3dlaUFCWUVWRnNEbHI3ZUIyOVIyUjc1ZUV3aUVaX0I2bE90WGxybnZVNNIBoAFBVV95cUxNQ2dVZWs4dUlxem55YVdQeUVBQ0JPYmV3d2tRc21vdTZjRnZiR2k4NVpUVHRjUnE3NG5IbVZtSTZON3J6Z3owcnNwZnlDeFprMjN1NGQzSmF2SUJLRkN6VUM2bEI2QUUyZ2swYVdPaThGNVg4YlVXUGU5ZjFrTVlsZlp4Qkp6QWhBZjlYOHcwR2pHQjVkczFmTXBOZUlZVFFw?oc=5",
+      "title": "Fin del brote de hantavirus del MV Hondius: OMS confirma que no hay nuevos casos desde mayo - consultorsalud.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QU3AwcEJqWnlyZ0gyOTMzQjZYWEZab2RadmdvdTJ3MkpKNnV3Qy1Jak5hWHV4bWJiTmJycHdVcFVVYVNMUUs2Wmxab0ZEQ0ZSY0NDZkNFcTRLU1RhMVNKTWVIdU9tR1RLVkRVTzJVaw?oc=5",
       "date": "2026-07-02",
       "source": "Google News ES",
-      "desc": "La OMS da por concluido el brote de hantavirus a nivel global&nbsp;&nbsp;Demócrata"
+      "desc": "Fin del brote de hantavirus del MV Hondius: OMS confirma que no hay nuevos casos desde mayo&nbsp;&nbsp;consultorsalud.com.mx"
+    },
+    {
+      "title": "Hantavirus en crucero MV Hondius: “el brote terminó”, declara director de la OMS - Grupo Animal",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV1B1WFdJcmd0Z2ZOQkRzTjZvWWNiV0dBQVIzc2xfWVo5VEgxTWRCb2xvdmlTZ2QwQVpIbjNFNVJKS1N1enZpQ0R4aS1uUEtsMzJHV3pvZDhjX181cE8tRGo2dWxCQTlZeWdSUWJ4OTVtblVfX09FX1JaWDdmRXAwWXUtcjFQU2pEWThfNEgwV1FncFR5Sm1FTw?oc=5",
+      "date": "2026-07-02",
+      "source": "Google News ES",
+      "desc": "Hantavirus en crucero MV Hondius: “el brote terminó”, declara director de la OMS&nbsp;&nbsp;Grupo Animal"
     },
     {
       "title": "Organización Mundial de la Salud declara el fin del brote de hantavirus relacionado con el crucero MV Hondius - ELTIEMPO.com",
@@ -1213,41 +1248,6 @@
       "date": "2026-07-02",
       "source": "Google News ES",
       "desc": "Organización Mundial de la Salud declara el fin del brote de hantavirus relacionado con el crucero MV Hondius&nbsp;&nbsp;ELTIEMPO.com"
-    },
-    {
-      "title": "Hantavirus en crucero MV Hondius: “el brote terminó”, declara director de la OMS - Grupo Animal",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRDlEUjg0RnNQZUlMamFJdU9nMzJ4Tmg2Y2FxalQxSTlqUUdNd1BNRGdCd05KenI0OXVhcGp0ZHlUR1VDQXhVTV9VNGR1ZzZpbE9yYlhBZ3BodVRWUE1RQjFOeE9TLW8tUkpBZXhjQWVzVkllMENDXzVTcjFaYXREbW1KdkJDV0lCV2kxUHB3?oc=5",
-      "date": "2026-07-02",
-      "source": "Google News ES",
-      "desc": "Hantavirus en crucero MV Hondius: “el brote terminó”, declara director de la OMS&nbsp;&nbsp;Grupo Animal"
-    },
-    {
-      "title": "OMS declara fin del brote de hantavirus vinculado a crucero MV Hondius - Milenio",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV2RSUUpoZ3RyTWJYZElfa2FmM0FDVTNGcWpvdWo2WGQ4ZVZGNDc2UW1fUXcyUGREcUpLeFVvcVJlbDRsVkZtZllFaUtiQzdVYWxrRTEyOWlfTWxPdjExMm1mbEI4TWxXYU80MUhleXd2a05RbFdNODc4aTN5TnlxQzZMTDk5R0pteDluZkM1ckE1TEt2VjJwQnQwMW1rdHRKWWNJ0gGjAUFVX3lxTE9oT0tYUmFzNG1BYWxsS0NXSnlDU1JCelE0WmcxM1EwYS0zenAwLUVLTlBXaG1EUWFHU19uNllMRF9rd09yamVRZy1UeFFrcElvbWd0VHlCOXhiVzNIODByTU9mSThRaHJRQk1lY1hlZTEwSkVzemNuTUt2azljT1ZEbTNEcDhuTXFaMkNYQkdYVmhpVkpuRmJJUzRCbkhmOW9NWTg?oc=5",
-      "date": "2026-07-02",
-      "source": "Google News ES",
-      "desc": "OMS declara fin del brote de hantavirus vinculado a crucero MV Hondius&nbsp;&nbsp;Milenio"
-    },
-    {
-      "title": "WHO declares hantavirus outbreak linked to cruise ship over - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pMlF2eE91cTdnaWVmYU9Kd2ctTlN4M2RpSm9KaXNSLVdta2NxampvMW40ZGx1TVd5UjFqNVU3bTFObjd2SFN3S1d6ZGdhUnVpTllQVzFSWGNYZ2xUZTdzMnItTVBneUlsTFBwbGhRa0ZfcXc?oc=5",
-      "date": "2026-07-02",
-      "source": "Google News EN",
-      "desc": "WHO declares hantavirus outbreak linked to cruise ship over&nbsp;&nbsp;The Guardian"
-    },
-    {
-      "title": "Hantavirus outbreak linked to cruise ship over, WHO says - yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeTVFQzhGeHMtc2FUTU1HSHdIM3dlZy1QbE5tRl9TanI5TjVhOEt2dzFkNjdIVlJteUtXdVpwaHAtOW1VTTBCeDNfLU5USGFmUl9sMFV3Ykdzci1qYU1RdUZiSlFJc1dkWDZKU0ZnWWt6V29STXRnTmpOSDJQb3RCYjU0am5wQUprR1F2N2RNMXFSRUFYUTRnWTVTbTE3QQ?oc=5",
-      "date": "2026-07-02",
-      "source": "Google News EN",
-      "desc": "Hantavirus outbreak linked to cruise ship over, WHO says&nbsp;&nbsp;yahoo.com"
-    },
-    {
-      "title": "Hantavirus Cruise Ship Outbreak Officially Over After 13 Infected, 3 Dead - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLWFQWGRFX3IyOVMzQ3pBZDVQRnNpOTl0LTFmdzdXQTR6aDdCU3JFbl9sMWt0UExuM1hYZU1RNmxES3UzZ1UzSnpucjl4ZXlxQldOUk41YV8wYTVwWnVnMXNqR1dRUURtQlhuVEs2X3hGbjE2WEtYWmh3MHRXQXpMYXNTN2Y4T3ZJMU5KdVp1M25QZ21pYVY4bzlwTnFCOVFFNzNWTk5tX1ZtQXgxTVNDLVI5MkxtREM3X2JBdGJBbTg4OHAt?oc=5",
-      "date": "2026-07-02",
-      "source": "Google News EN",
-      "desc": "Hantavirus Cruise Ship Outbreak Officially Over After 13 Infected, 3 Dead&nbsp;&nbsp;Forbes"
     }
   ],
   "countries": [
