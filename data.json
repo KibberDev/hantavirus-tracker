@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-07-01 23:44 UTC"
+    "updated": "2026-07-02 01:52 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,13 +1124,6 @@
   ],
   "news": [
     {
-      "title": "Un hombre se contagió de hantavirus en San Lorenzo pero advierten que la cepa \"no es contagiosa\" - 11Noticias",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbGp5QmZ5bDJteFNvX25WSW9NN3ByM09zSlN5TUo3SFBSM0daeWsyRUhGaDZqMVZ0RFlKWnpMM245SXFfZVRHUVY1aUlLYXV5VzdLZ254X2pxRjFhV2ZCWVBNMGxLc1I4SE01bjIzbkxiaVJYVW9FUUVtckpPMHlfeUdrVXdTLXFMRWZMYWdKeVM3VlkyMTlwSEl4bG1kX2c2M0FNczBjZmpMMzgtLVR2Q2FCNlJuU1ZpYm5DdTdrX2hSVEg0M01rRlRYTGU2ME9rN0JkX0RfRl8wVVR6SXA5R2gtQ1lpS2s5S0FZTW0xWGs5QdIB9wFBVV95cUxQalNnR1p1dmFXN0lNOGNyUkxGd2ExQWY2aVQ4ak5rYWdKY0RoNzFXN3dsaFczNEhHUWJSQWQxUnpfb1NKcXMwZGM1RVBXZDJQNXVGM19CTnk4dXZLN2p3eUJMVUV3bVN6bWVVOTZ6Vnd6VHBxOS1RdlBETnVoQUpZS3ZselhuZm5vOXVPWHBkZ2dfLXpYUTBOMnkzVGFhUlZIam4yU05uWmJWNjM0cGZCRmF2RkVYeWxKLUJhdXZEV2ZYWHZGdGVUdFJsR0VxeHAyNS1reFZyaHVHU3BIQ29mUzB0TURacEpvRHBENTZRaE8tNFJ3S1JR?oc=5",
-      "date": "2026-07-01",
-      "source": "Google News ES",
-      "desc": "Un hombre se contagió de hantavirus en San Lorenzo pero advierten que la cepa \"no es contagiosa\"&nbsp;&nbsp;11Noticias"
-    },
-    {
       "title": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaVFxQTZQbEFJdm9jTU5qVFFlbUh1Z2tCRDhCZHBlY3NneVhwN0VEV1lJOUlZVjVoNUxfMGVsbmVpcGkwVTF6TWVRWTlhb0xSamJaZU5QMFJoZ0lNME1BT0FoRlJCSmNnWW81cXN0QVBqb2RhSWhJTDRmYWE4eW4tcUdMVlFjcTBVVTVCMGFKOF9RMjhUX2ZJTFRnTzVyLW0zbk930gGoAUFVX3lxTE50VnEwRi1SSDJvaTZ0Z2VjVjZaNWlrZGlZa3BneElvZjJzcUZoRWlIZ0hXTzV4QW1TY21oVVRuMVRGZHB5X09fU3NFVWhtVVpNN3Q2aWR3UkpUM3lOamItODI2R2VWdnhjRnhQNC1ub1hqQzhmUUVRVG5idWt1Q0VIcVQ2NzRVWUF4N1NWclk4ZVZqSEF4RHBFYUpzNnl5SHZMbDhYdHlRMw?oc=5",
       "date": "2026-07-01",
@@ -1159,11 +1152,11 @@
       "desc": "Más allá del hantavirus: las enfermedades transmitidas por animales que sí están en España&nbsp;&nbsp;ABC"
     },
     {
-      "title": "Argentina halla hantavirus en roedores silvestres en Usuahia, pero descarta un nexo con el brote del crucero MV Hondius - 20minutos.es",
+      "title": "Argentina halla hantavirus en roedores silvestres en Usuahia, pero descarta un nexo con el brote del crucero MV Hondius - 20Minutos",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcUFuYS05ZUNjeUJ0VWhRbGRLaFVaZjBkSGloaGpTTFRBWTlCYnVwVVlBamtERmhJcmc1MkpHTFhuOEF3MjZRWDVzOUs2cV9KRFV3QU10azdhcXZXaWhTbDNJdnNEY0Z0ZlJhMFpQUXhORXYybFVXaDdRX3Fya0VVWlg5R1JIWXdLR0hIOEYxTGY2aEwyYUxrRlktQmtDLTlHdWE3NS05UFZDaU85SGdRRUxIRm1NQUJoVTB2LTd0UXFkOWhrZDNEWVBBUDhaT3E0aWtDbW5ycWxILUtrckVuTHlBY1c4blA2Wk14WGVQRTfSAfYBQVVfeXFMTkxpSlNmVFJzOGE2NzNfUGtBblJZMi1SX2hnQzhNRTRIRTA5Z2NuSlhnT2dPNkF6bjI0S041OHRoeTlBYkE1c3JvUDRTMTh3RlB6VGZhc2hPN1pDbDVlSkZpMkUyQ1ljX29zdHJReGtaOW5XZ2RzOTJQZExwNHE1QWJhNGxhVXhGanM5TXN6M0tFUWJCcDg1QlZWQUJBcV90SWpaTUIwS1dzcVhpcUhNNXdqWmduVnM2dW9BR24wMTk1eklQeTJCMm0xSkdUcEZua3M2V0plRTNqRU5UVUpzZWRqX1E0TWRBaU5CblhncG1ZRjhxUi13?oc=5",
       "date": "2026-06-29",
       "source": "20 Minutos",
-      "desc": "Argentina halla hantavirus en roedores silvestres en Usuahia, pero descarta un nexo con el brote del crucero MV Hondius&nbsp;&nbsp;20minutos.es"
+      "desc": "Argentina halla hantavirus en roedores silvestres en Usuahia, pero descarta un nexo con el brote del crucero MV Hondius&nbsp;&nbsp;20Minutos"
     },
     {
       "title": "Argentina detecta hantavirus por primera vez en Ushuaia, pero descartan que originara el brote del MV Hondius - El Periódico",
@@ -1248,6 +1241,13 @@
       "date": "2026-06-23",
       "source": "Google News EN",
       "desc": "Hantavirus quarantine ends for Americans held for six weeks in Nebraska&nbsp;&nbsp;The Guardian"
+    },
+    {
+      "title": "Sanidad pone fin al brote de hantavirus vinculado al crucero MV Hondius - iSanidad",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOX0hHVFNpOHNrWkVRQnZaSjJJbGJFZXZzNjN1NkdrVkVTVUNZRjFmUTB5TjFTQjhKcVlkNUtqZFZETjRwTXRONkdWeFFrM0ZBZ3lqajRiajEzbEJadDVJR0RJNWk4ZFRSRG9UT0dqYXFXb0VNa0NUbFhsclozWUpQc1NZQmhnd1VBZGtIYmZhcmptNVZDRWVlSjN1NjFXZXZnN2JGYWhhSzM4RUYtczFTMXVyWGhibmVkMTR0UE9reGV5U0sxdnZ0RmhqMnZKcmhmMWRV?oc=5",
+      "date": "2026-06-22",
+      "source": "Google News ES",
+      "desc": "Sanidad pone fin al brote de hantavirus vinculado al crucero MV Hondius&nbsp;&nbsp;iSanidad"
     }
   ],
   "countries": [
