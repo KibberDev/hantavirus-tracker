@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-07-04 15:42 UTC"
+    "updated": "2026-07-04 16:43 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,6 +1124,13 @@
   ],
   "news": [
     {
+      "title": "“Jamás imaginé que acabaría en un hospital militar”: el crucero soñado que terminó en un brote de hantavirus - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcUdFdWRpdXBpdUFHZEZqR3ZLQ1lEajMzaHVyT21tOEJfaVpoeVFRWnIxdUpoMlByY0hwMVNEMmtRVWxqYzFWN0RqejFaYUdOaDYzTUhRVThqcG5pR3FTdG9OZk95MEgtV2tEbnFmSFUxeWxLUTZ3LVhLVGJkYldyeHZQdmNNMElSa1JiSW5OejJjVUkwNDJNMVlyWUNQX2szQmNoX1ItZ1hQOEJpNVVRSEFmWUQ4cTVCM0xRZkRfVU05YnAxbG5qUE5hVUVZZXUwazZSQmdoMGtoaldIYmVhLQ?oc=5",
+      "date": "2026-07-04",
+      "source": "El País",
+      "desc": "“Jamás imaginé que acabaría en un hospital militar”: el crucero soñado que terminó en un brote de hantavirus&nbsp;&nbsp;EL PAÍS"
+    },
+    {
       "title": "La OMS declara el fin del brote de hantavirus vinculado al crucero que partió de Argentina después de que la última persona afectada haya terminado la cuarentena - El Mundo",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbDBvbTlUT01nQVlpVlRIRWZxOHd1djNkQktjcnlzMXVtNHEzSXBjNGJLazdzYUpZSFktZ0p6S1otbEpPbUV2VTMxem5mSFNLRXpjTDcwRWVnaGtGM1hZQ050R3pFYXJXUVQ3dW1qZHQ5aEFQY1pjNUpiV3VmQ29KTHU2a3ZCM3d2S3BjNnpn0gGOAUFVX3lxTE5iTVNJSldmemtaZkJpNTRPek1tbWZ6ODZ6Y2hyZzdzQWZaNWQ0elRlbDZrcGktZmJ4THNwWWxvdXl1UkcybW1qQTIyLXYzdW84bUd0ZGRGMGpkTXhoQk1zdmZURTEzNk9vcXFmUXd5dGZfQ3BJWTlCTC16Sk5BNkVKY2p2MThyNzQ5ZTdXT1E?oc=5",
       "date": "2026-07-04",
@@ -1136,13 +1143,6 @@
       "date": "2026-07-04",
       "source": "El Mundo",
       "desc": "HANTAVIRUS - PÁGINA 4&nbsp;&nbsp;El Mundo"
-    },
-    {
-      "title": "“Jamás imaginé que acabaría en un hospital militar”: el crucero soñado que terminó en un brote de hantavirus - EL PAÍS",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcUdFdWRpdXBpdUFHZEZqR3ZLQ1lEajMzaHVyT21tOEJfaVpoeVFRWnIxdUpoMlByY0hwMVNEMmtRVWxqYzFWN0RqejFaYUdOaDYzTUhRVThqcG5pR3FTdG9OZk95MEgtV2tEbnFmSFUxeWxLUTZ3LVhLVGJkYldyeHZQdmNNMElSa1JiSW5OejJjVUkwNDJNMVlyWUNQX2szQmNoX1ItZ1hQOEJpNVVRSEFmWUQ4cTVCM0xRZkRfVU05YnAxbG5qUE5hVUVZZXUwazZSQmdoMGtoaldIYmVhLQ?oc=5",
-      "date": "2026-07-04",
-      "source": "Google News ES",
-      "desc": "“Jamás imaginé que acabaría en un hospital militar”: el crucero soñado que terminó en un brote de hantavirus&nbsp;&nbsp;EL PAÍS"
     },
     {
       "title": "Rabia, hantavirus, gripe aviar o virus del Nilo Occidental: el 75% de las enfermedades infecciosas emergentes en humanos tienen origen animal - El Periódico",
@@ -1243,11 +1243,11 @@
       "desc": "La OMS da por concluido el brote de hantavirus ligado al crucero MV Hondius&nbsp;&nbsp;Onda Cero"
     },
     {
-      "title": "La OMS da por concluido el brote de hantavirus que se declaró en el crucero - La Voz de Galicia",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNExDSER2cWIxNU1oempIRHlIb3RObWhZRWpKSlR1c2hUN0ZsODZncjMyeF9wWDU0LVZaNF9xeUg0emJqcUU4TnVMSzBhNnJRenhWZkRVeU0yeWxoNHJqRmZkcUxFaUtfVE5tLVdybW1JTWlRNDcwdS1xZnRzdWtsRnNvTlFhckdFTkQ5YkIydjUyemI5WkNjVGw4aklibi1SVk91VFVOLV9Cemp5b3A3elV5aDFVdTBzbWlrZGhodU9ybFFxOVg4NDN6Xy1MODMx0gHsAUFVX3lxTE1vdGNnNG5HMXczU0kyYTVkbnNjQkVENU1TZDNZSTFLR3Nva0xDa0JzdFhVS0sxODEzQXNGeEswb2lQeWN3ckNadnVRdjR4RkFkTE5WblNCczg2OERrUzduOERreXFKMnNXYzZ0REtFVDJna3hBb1d6NHlRZXhnQ3VhbV9LSGRyZ0lYczRfcVpXR3M1bUZoRW83VkZRQ2dmLXZhOEs0OVM5WV9iRDlUSzFjMXVDdU1ldDJSRE1Tcnh2MVlVWlBsQzFfZzZTRHhIbWhweDlZMy16cjNRc0g1aWdqSFo1TFdIZlA5Zm5t?oc=5",
+      "title": "La OMS declara el fin del brote de hantavirus - El Confidencial",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcGdWQ2wzcVpBRFhSY3JiSWdBdEZaVktQVjdORXlnYTMzREJsQmFyRWJqSTVfa3A1Ui1xZGVWM2ZWNURkODF6ZE9NWnVzc0pFSzhTVGNZdFVFZl9SZnpnWjVMd1ZPck9SdXRjMHhWUU9vTms5Sk1zVElLdzB3emhwSDRiMm1SdXJRbmpWM2gtaTg2NW9QWE8xcmV6M0E2ZU5EV1BKSg?oc=5",
       "date": "2026-07-02",
       "source": "Google News ES",
-      "desc": "La OMS da por concluido el brote de hantavirus que se declaró en el crucero&nbsp;&nbsp;La Voz de Galicia"
+      "desc": "La OMS declara el fin del brote de hantavirus&nbsp;&nbsp;El Confidencial"
     }
   ],
   "countries": [
