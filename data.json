@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-07-09 04:16 UTC"
+    "updated": "2026-07-09 08:01 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,6 +1124,13 @@
   ],
   "news": [
     {
+      "title": "Marina Mercante expone ante la OMI la gestión del brote de hantavirus en el MV Hondius - pasionporelmar.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObE05QnRmUHpzWlZJYkFRaTRlc3RlRE9xd1F6Vnp1dzVqbkN6ZDhfNzNJWjZNRkhFVGdXb2Q0NWc2Yk9haDZzMU9uNHlkTGNBZWtQd2kxSDJvdHFmeTFJQ2p4dkpkOHlJSzAwNzd4LV8wdjdLQWo4U0xmb2FLNWlDclhJdUFldTJsTFUtMHl2RER5cUtmckVCVDluNlEyVGpMRlBFX3BKMXhEZWZycXE1RVdzMzVQUXZ5WXV1N05BUllUR2V4UDlpdG1UaFhqZw?oc=5",
+      "date": "2026-07-09",
+      "source": "Google News ES",
+      "desc": "Marina Mercante expone ante la OMI la gestión del brote de hantavirus en el MV Hondius&nbsp;&nbsp;pasionporelmar.com"
+    },
+    {
       "title": "Hantavirus Cluster Linked to Cruise Ship Travel: A Comprehensive Review of a Looming Global Public Health Concern - Cureus",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdWtNS2N6VUVhZXNnVTBrTXFHemx6ZjNhUTZvZGhuZHJ2VE8yWFJYTmsxSnEybjdEd0ZFeHZKcU9pbDBDWlItMWxWajBsWEtKaF9WazY4a0ZzMEFQOF8yZkVTOW41VVctV0JvOE13VXJBeDYyZlpVRG5rX3ZiNkgxeXpNcWsxSFVFRFQ3N2hvQ0tNSnRERm5hNkVOeU5fTkdaZTdQNlRJRTU3T0JmOTRoNTJmVUtsc29mUXJaVXg3MjFiajA4VkM0bEV2WGJxTGo4SjZpMFF4ejhXVTFHY0NyWHE3ZFFYQQ?oc=5",
       "date": "2026-07-08",
@@ -1222,13 +1229,6 @@
       "desc": "Con un total de 13 casos, tres fallecidos y cuarentenas completadas, la OMS da por finalizado el brote de hantavirus&nbsp;&nbsp;iSanidad"
     },
     {
-      "title": "La OMS da por concluido el brote de hantavirus que se declaró en el crucero - La Voz de Galicia",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNExDSER2cWIxNU1oempIRHlIb3RObWhZRWpKSlR1c2hUN0ZsODZncjMyeF9wWDU0LVZaNF9xeUg0emJqcUU4TnVMSzBhNnJRenhWZkRVeU0yeWxoNHJqRmZkcUxFaUtfVE5tLVdybW1JTWlRNDcwdS1xZnRzdWtsRnNvTlFhckdFTkQ5YkIydjUyemI5WkNjVGw4aklibi1SVk91VFVOLV9Cemp5b3A3elV5aDFVdTBzbWlrZGhodU9ybFFxOVg4NDN6Xy1MODMx0gHsAUFVX3lxTE1vdGNnNG5HMXczU0kyYTVkbnNjQkVENU1TZDNZSTFLR3Nva0xDa0JzdFhVS0sxODEzQXNGeEswb2lQeWN3ckNadnVRdjR4RkFkTE5WblNCczg2OERrUzduOERreXFKMnNXYzZ0REtFVDJna3hBb1d6NHlRZXhnQ3VhbV9LSGRyZ0lYczRfcVpXR3M1bUZoRW83VkZRQ2dmLXZhOEs0OVM5WV9iRDlUSzFjMXVDdU1ldDJSRE1Tcnh2MVlVWlBsQzFfZzZTRHhIbWhweDlZMy16cjNRc0g1aWdqSFo1TFdIZlA5Zm5t?oc=5",
-      "date": "2026-07-02",
-      "source": "Google News ES",
-      "desc": "La OMS da por concluido el brote de hantavirus que se declaró en el crucero&nbsp;&nbsp;La Voz de Galicia"
-    },
-    {
       "title": "WHO says Hantavirus outbreak linked to ship is over - BBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ScXFfYUkzZnY3ZkhkNWM1ZklPTDBPUFg3R3RqVmNFMU9VRHlmSC11SEZnb0VwWmZxelViUmctUERXeEktZGFIOUhMZU8wdkJ6QTdUMXBfSXI1Zw?oc=5",
       "date": "2026-07-02",
@@ -1243,11 +1243,11 @@
       "desc": "Deadly Hantavirus Cruise Ship Outbreak Is Over 3 Months Later, W.H.O. Says&nbsp;&nbsp;The New York Times"
     },
     {
-      "title": "Hantavirus Cruise Ship Outbreak Officially Over After 13 Infected, 3 Dead - Forbes",
+      "title": "Hantavirus Cruise Ship Outbreak Over, WHO Says - Forbes",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLWFQWGRFX3IyOVMzQ3pBZDVQRnNpOTl0LTFmdzdXQTR6aDdCU3JFbl9sMWt0UExuM1hYZU1RNmxES3UzZ1UzSnpucjl4ZXlxQldOUk41YV8wYTVwWnVnMXNqR1dRUURtQlhuVEs2X3hGbjE2WEtYWmh3MHRXQXpMYXNTN2Y4T3ZJMU5KdVp1M25QZ21pYVY4bzlwTnFCOVFFNzNWTk5tX1ZtQXgxTVNDLVI5MkxtREM3X2JBdGJBbTg4OHAt?oc=5",
       "date": "2026-07-02",
       "source": "Google News EN",
-      "desc": "Hantavirus Cruise Ship Outbreak Officially Over After 13 Infected, 3 Dead&nbsp;&nbsp;Forbes"
+      "desc": "Hantavirus Cruise Ship Outbreak Over, WHO Says&nbsp;&nbsp;Forbes"
     }
   ],
   "countries": [
