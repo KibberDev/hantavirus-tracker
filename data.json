@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-07-12 23:58 UTC"
+    "updated": "2026-07-13 03:47 UTC"
   },
   "current": {
     "cases": 13,
@@ -1131,6 +1131,13 @@
       "desc": "Keystone Health Shares Hantavirus Prevention and Safety Guidance&nbsp;&nbsp;Franklin County Free Press"
     },
     {
+      "title": "Hantavirus outbreak from cruise ship officially ends - The Star",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNC1UZ0tfaEphYXNYX29BZXcwRHVXMGFqMXRfWFBBeGxhMWR6dk1YaHR5M1M1NWJKamZYeWw3UVQ1WXJwX0ZrRFlHREZ4S0hUOVU2eTVFWV9TVXR4aVBYTEVsVDBDcVl5RTF1bXZXMDY2RDhLeVRybHFiT3R1dHJpbXVRZ1VmXzFSbWVlNHpoUWVpU3hBWFVHNFFLVDUzSmh5Z1E0Z1B0a0l2aHM?oc=5",
+      "date": "2026-07-12",
+      "source": "Google News EN",
+      "desc": "Hantavirus outbreak from cruise ship officially ends&nbsp;&nbsp;The Star"
+    },
+    {
       "title": "Hantavirus outbreak offers lessons for the next pandemic - Earth.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbDg0al82bmRNblpsR1k3bGhoaHFzOUluZGlxcG1idWVJS295RGszUVAteE5rMVQzMFdDVVdoNG5UQWtIQUItYXpyR3FsUTFlZ3RjUGhyeU9hdWVReHZsR19YdkhKb3VlU0hKM05FMFB6ZFE5Y2ZPNzRmNTlJQ3IzVXZWLXNqVFp0NDVZOQ?oc=5",
       "date": "2026-07-11",
@@ -1152,13 +1159,6 @@
       "desc": "Hantavirus Cluster Linked to Cruise Ship Travel: A Comprehensive Review of a Looming Global Public Health Concern&nbsp;&nbsp;Cureus"
     },
     {
-      "title": "HHS Suspends Hantavirus Monitoring | RT - respiratory-therapy.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc3lOMnpXUFkyU0ZYc2dfT3pKNS1naVRpUWgxZ2xROTB0bEJjRXdUMGttTldyWWRDT3lrdkVHTDBCbXVMX0VyRW11Y1c2Z1Q1WjkwdTBIS3JsSEJLZXJsOWRSeGl6VVcxZ3FOM2xib1VzczVQMGRyeGQ0UWR4cVBrRk9uZmZnbEc3U1JvNW8tUXQtSVR2Sl8yMUF2SUtQbTJVWGFEelhyT09LUS16cU83YmJmQzdsazRDbDEtZ3ZSNXQ?oc=5",
-      "date": "2026-07-06",
-      "source": "Google News EN",
-      "desc": "HHS Suspends Hantavirus Monitoring | RT&nbsp;&nbsp;respiratory-therapy.com"
-    },
-    {
       "title": "HANTAVIRUS - PÁGINA 4 - El Mundo",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fY1YwUTNRN3JiTGZua3J4LUloMnU3RFpmelpKRVZ6eW5SSFdCbG1MNHhQaTFQRnBKQlhsa0JuNnBoQ1NxWDl2N3VPRW1DN24tSEtZNmJtR1J2cXNGVVJKT0J6dHM?oc=5",
       "date": "2026-07-05",
@@ -1178,6 +1178,13 @@
       "date": "2026-07-04",
       "source": "El Mundo",
       "desc": "La OMS declara el fin del brote de hantavirus vinculado al crucero que partió de Argentina después de que la última persona afectada haya terminado la cuarentena&nbsp;&nbsp;El Mundo"
+    },
+    {
+      "title": "La OMS da por cerrado el brote de hantavirus y mantendrá la investigación sobre su origen - Gaceta Médica",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSEY2UWNKX29GZWhGaFZ2bXdDSW5QYWhTMzg0b0J0Sk84NGVZZGxrQmZsbWRPNU1Ub0FMM0I2b3F2MGtaT0xQSndhQWx5YjgxN1FCYUlVX201UWtLZnBsMjhQMEtQR191NFlBYi1Qc2lieWIwOHlUY0JvN0RQYnlLT1YtbFRJMjFIVFpfRA?oc=5",
+      "date": "2026-07-03",
+      "source": "Google News ES",
+      "desc": "La OMS da por cerrado el brote de hantavirus y mantendrá la investigación sobre su origen&nbsp;&nbsp;Gaceta Médica"
     },
     {
       "title": "La OMS da por concluido el brote de hantavirus declarado en el crucero MV Hondius - RTVE.es",
@@ -1215,13 +1222,6 @@
       "desc": "Deadly Hantavirus Cruise Ship Outbreak Is Over 3 Months Later, W.H.O. Says&nbsp;&nbsp;The New York Times"
     },
     {
-      "title": "WHO declares hantavirus outbreak linked to cruise ship over - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbmlpUnk1RThnMkplcEJPajZhbGJDTXBoT01XMjR4aWxFNXBjaWNXaVVfVzhpTUIxMVRRNk51R3lEQUFnQW1VV1FQV1JBR01SbzljVWswUTZURHowOGVzR2VveVBzY1J6ZTUwZV82TE9CcXJMbDh5ZTd2Q2hrMERIMjRZempoV2JhYng4ZXU2clhuX0gzM2MtcEF0V1Fqd2ZUZXVwWkgzWndwNDJ1NkpvZmhfNXdPd09sNkxKT19Jbll3bTBobjgw?oc=5",
-      "date": "2026-07-02",
-      "source": "Google News EN",
-      "desc": "WHO declares hantavirus outbreak linked to cruise ship over&nbsp;&nbsp;Reuters"
-    },
-    {
       "title": "Tierra del Fuego se encuentra con que hay ratones con hantavirus en su territorio tras negarlo insistentemente - El Mundo",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX2tsM20yZmZaSGJodzhLSTJDNEZ6MUdVWmNCc21BNC02NExZNmZTWXIyQVVRTEtEVzU0SC1RR3hmOVpWaTBMWUVjOUhDSk5TUXFkYTNwdlJfY3A4ZmZRaURhYjRwNUdqWFRuTS1qdmVJRV84NFJtX3I2X0JKUzNBMGkyWEQ2M0NHaE4zdDRB0gGOAUFVX3lxTE9IdnppOU9Saldld0dsenJ0ZzNpQlB0dVlFSndPWVFWNXdkZVhaZ3RIZTBjb2tVYy1JZjhfaXBOMlloVHk0MFdUVVRDNTNmQW5PRS1yaUg4MU1MRnBaX1VaUGJjTGNtVjByZWlOSFhsUmNybWlBNTlwT2JJenZxTVVSVDNlRjZxb1hhNmN0eUE?oc=5",
       "date": "2026-06-30",
@@ -1236,18 +1236,18 @@
       "desc": "Más allá del hantavirus: las enfermedades transmitidas por animales que sí están en España&nbsp;&nbsp;ABC"
     },
     {
+      "title": "Argentina detecta hantavirus por primera vez en Ushuaia, pero descartan que originara el brote del MV Hondius - El Periódico",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWk5vLVQwbjlIWDFYLU1Yb3haRFRJeTJBQ3I4OE5wdjdOWGRFeEhBQzNiMXpYYV9FdXhNMTBtRGg0NEJaMnBCM0c1cGZxVVZRX004ZnBDcHZzd1dlSEtJbjhlaFB4ckFvWGR4YWE0MmdXaWFvMEFzWkFmOWY1YzJoZXpqQ2RTQ0NyVFYzQlg1dE5RY3YtV1N2OGRxSjVNVGcwOENHZy0zeFktOWfSAasBQVVfeXFMUFFnZGR0MHMwY2pQbjRDMURUWUxCYU9BUEkwNkNXNkNBS0xlajJwY093ZlA3SG00U0cybnZKc0RtSDBseDZPMTVhaGp0bTNhVGdhWVFaZjBzMU5aRHY5YUVvUkxZZ0R2OE1MRVh1VDhmdV9KVF9RZ2pOLXNzalBhTkZpeXMxdGZTZHIwWHFTR1AxOGtZSzRKMjJxYmMxMktPR1FTbTRMT3llNjBZ?oc=5",
+      "date": "2026-06-29",
+      "source": "Google News ES",
+      "desc": "Argentina detecta hantavirus por primera vez en Ushuaia, pero descartan que originara el brote del MV Hondius&nbsp;&nbsp;El Periódico"
+    },
+    {
       "title": "Más allá del hantavirus: las zoonosis que sí están presentes en España - The Conversation",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYlU2NzIxSF8xejh2aHF5N3hQZkxNWmdYbmVhZkhneXIwU1kzYkY4SUpPWW1mWWxfUGdLMUNlVTQ2LVdCRVBDZmRvNmt4R0FmbHlaUE1xYkxhcTFGVUVnSDIwZVFuVXBESEQ3eVpQSVBpM3NmQTR0dlp3dWVyV1N0UGZ6MVdIZHFFVFZGeTg1MlZRaTVUV1pxelJYVGRIMDd0Sl9FbGNfQQ?oc=5",
       "date": "2026-06-25",
       "source": "Google News ES",
       "desc": "Más allá del hantavirus: las zoonosis que sí están presentes en España&nbsp;&nbsp;The Conversation"
-    },
-    {
-      "title": "La OMS prevé que el mortal brote de hantavirus acabe el 2 de julio - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjRqZHVHQUVuQjczVy14SFFkRDRuVk5zU0FzZl8wOWI5NTVYZzB2X0d6emtDenhDTTVFcTV3emVQZ2UxRWwxcEFYTFlNS09WRXJJLTUzdmVLWDFxandEOGNteGl1YmFCYnE4eHNIb0FBREpuSE1TTmgyaDNacjdLeng0N3NDNFFKX3dicDltM0pqNVJ3Yi10bjhScHFfbGMtbXB0NXI3WmVNYzg?oc=5",
-      "date": "2026-06-24",
-      "source": "Google News ES",
-      "desc": "La OMS prevé que el mortal brote de hantavirus acabe el 2 de julio&nbsp;&nbsp;Euronews.com"
     }
   ],
   "countries": [
