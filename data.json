@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-07-14 15:25 UTC"
+    "updated": "2026-07-14 16:46 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,6 +1124,13 @@
   ],
   "news": [
     {
+      "title": "Neurological Symptoms Linked to Hantavirus Infection Revealed - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVXJ0Q2d4c1Q2cGpTZVlRam0yUnkxUWw3UmdwYUxHVVRQdFIwYmJ3LXpudmtJVjhJa2J5aEJYSDBCVmlhbENDcHpScGg3ZW9pRUkzQi1iM0VheWhnOVlGWmFiaDJUWWpYYkZZQkh3YzRuWVA4WG8tWU5obDBrdjZPRDlPS0Ewa0YtUThBM3Y1bw?oc=5",
+      "date": "2026-07-14",
+      "source": "Google News EN",
+      "desc": "Neurological Symptoms Linked to Hantavirus Infection Revealed&nbsp;&nbsp;Bioengineer.org"
+    },
+    {
       "title": "Hantavirus outbreak offers lessons for the next pandemic - Earth.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbDg0al82bmRNblpsR1k3bGhoaHFzOUluZGlxcG1idWVJS295RGszUVAteE5rMVQzMFdDVVdoNG5UQWtIQUItYXpyR3FsUTFlZ3RjUGhyeU9hdWVReHZsR19YdkhKb3VlU0hKM05FMFB6ZFE5Y2ZPNzRmNTlJQ3IzVXZWLXNqVFp0NDVZOQ?oc=5",
       "date": "2026-07-11",
@@ -1201,6 +1208,13 @@
       "desc": "Más allá del hantavirus: las enfermedades transmitidas por animales que sí están en España&nbsp;&nbsp;ABC"
     },
     {
+      "title": "Los correos internos del Gobierno canario en la crisis del hantavirus: “Nuestra mejor sanidad no justifica el envío del barco” - elDiario.es",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMU5tZFliWU84d3VGMHhUVE1Mdl9oc3RWWThMWmQzM3NFS0ZWTWtKdklOMEc3WFdPbkZnOExPVTRtTWFIaUgtNnhuWVZMNkNrT0V5Q0g1ZlIycnFfY1lTTzBhQXFKSWxqMlFfSG9JRHdQbFNvY2lkRzh3c1hwRGNYNC1QckF5elJUOXRDbVhzUTFUMlRZWlVMNEtfMExIUUhPVW9JTjJkam92WjUycVBaQUNQRFRCZkN6eWEtMTV2MjRjVXVJNmVLeUFfWVkwSWxfdDY5YnEwQzlDSXJlanBHX2FpR0Yybm9D0gHuAUFVX3lxTE44VkZ5MUlFVkNyMkJTTGhiT1VBWkFwU3dKdjgzNFhNV1JXVTlHbUxjaVpwSHV4b2pyOG5pS0kxSzZWaGNxTWxqVjBfcDJjbmJSOUN0X3prejBHVW00NVdqTTVRcHAtSGtPYWNJSnNlTHVyU3B5d3B3cnlWNDJEVDJEalFGalZnM01DOTFlTjJZSDlhTF9lU1BzbmlBcmdDS2liZmlWR0k3ZUt5N29BWEFmc1BRaENMTXpBQS1ZREJzamtCOUNRY096amRQd2cwTUM2RFJuQXJzeFJLLXo3QzBXeFhBVjI0N0dJV2JXdkE?oc=5",
+      "date": "2026-06-25",
+      "source": "Google News ES",
+      "desc": "Los correos internos del Gobierno canario en la crisis del hantavirus: “Nuestra mejor sanidad no justifica el envío del barco”&nbsp;&nbsp;elDiario.es"
+    },
+    {
       "title": "Más allá del hantavirus: las zoonosis que sí están presentes en España - The Conversation",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYlU2NzIxSF8xejh2aHF5N3hQZkxNWmdYbmVhZkhneXIwU1kzYkY4SUpPWW1mWWxfUGdLMUNlVTQ2LVdCRVBDZmRvNmt4R0FmbHlaUE1xYkxhcTFGVUVnSDIwZVFuVXBESEQ3eVpQSVBpM3NmQTR0dlp3dWVyV1N0UGZ6MVdIZHFFVFZGeTg1MlZRaTVUV1pxelJYVGRIMDd0Sl9FbGNfQQ?oc=5",
       "date": "2026-06-25",
@@ -1234,20 +1248,6 @@
       "date": "2026-06-24",
       "source": "Google News EN",
       "desc": "International public health response helped contain Andes hantavirus outbreak on Dutch cruise ship&nbsp;&nbsp;CIDRAP"
-    },
-    {
-      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - The American Journal of Managed Care® (AJMC®)",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY01QWXJ3RDZBaDdxM3ZncFVkdFdyWmxUeTRFeTcwWGVqeFJJS0prWldJQnFBTkI3LVFJaFdQcnJpSUpFVHhFNzhrV1h6R25OVU1NU1h4UjNobmxBXzc1Rkg1WUttRDhiakZjSWd4c1ZlNmFjblJ4bHFzWjN0MUxNUXN0NEJlaVJQWVljZTE1NnctQnpl?oc=5",
-      "date": "2026-06-24",
-      "source": "Google News EN",
-      "desc": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes&nbsp;&nbsp;The American Journal of Managed Care® (AJMC®)"
-    },
-    {
-      "title": "US public health agency concludes hantavirus response as outbreak eases - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNHdUT0N4b2ZYbW50bmJTTUdfajBIY1pULXVBTm1KVnNlYXg2RW1oem8tY1BBcmRyME82MFlreFpnVjc2cHhlbGpYVG5GR3VOVmhYejlCM2lnMmRJajBFR0RvOTRrMWk1cXllWnVRRFA1RkNpZzlFOC1TZ0RLN0FwUm4yaFVyaUxHdnBYeU1UcUJlQ0xMTEhHQ0pvR213UzdPZ0cxLUtEN2VJalFMUWZ0QnJR0gG3AUFVX3lxTE9xZDYzelhIT29ScXo1N3JCZ25FZEFmREF6QjBBMXFXMmlQdm1RQ1g2S2xvSFhla0xpRDZEZkRmT2VXTzMtTGdYM09hcG04WkRTdW9hb0dBOWY0TmNMTnNjeTc2VmQycktQQjdWZjV4SHJDTW9TTkIybk90MlBKbjloR3djNXRWUUF3Y0lSTlBfVmh6b0ZKMGwyb2d5aE5Lb2xEcWVvaVRRSjZfMmR1Smp2UWhiMTFNbw?oc=5",
-      "date": "2026-06-24",
-      "source": "Google News EN",
-      "desc": "US public health agency concludes hantavirus response as outbreak eases&nbsp;&nbsp;Al Jazeera"
     }
   ],
   "countries": [
