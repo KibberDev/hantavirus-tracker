@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-07-18 01:06 UTC"
+    "updated": "2026-07-18 04:15 UTC"
   },
   "current": {
     "cases": 13,
@@ -1145,6 +1145,13 @@
       "desc": "Postscript to the Hantavirus Outbreak&nbsp;&nbsp;tristandc.com"
     },
     {
+      "title": "Hantavirus and Ebola scares reveal cracks in public health messaging, infectious diseases experts warn - Labmate Online",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPZGh5NWFwcFpuQmNLclJTbV9EdDRDTEtycHRPemRnU2pUTVpQUENCX3ZxbndUZ0JnNXVvMmRHODN3Y05NSmI0TUtPUUlYb2Z2VWM1SXdjdHN5VzdjWGg3LVFsdGQ1dkxORElFSWhacEswUTFwYW9GNEc5T3k2c0oyWEVMN2hpMHZYNnk2NXhKVW1DVGJudy1SSk5kLXA5X0dQQUhqNXhsVnZJRHRwbktZX015M0lJSUdlQ0NjRlBSWXlKMUhhY01RSnJ2QV8ySmhKbUxaTVFTcmJWVkhiT205ZXJNQWVKdnNCMVpRb05GWFpDRDRRMHFtS3NRbUxkdng0dVlWQg?oc=5",
+      "date": "2026-07-15",
+      "source": "Google News EN",
+      "desc": "Hantavirus and Ebola scares reveal cracks in public health messaging, infectious diseases experts warn&nbsp;&nbsp;Labmate Online"
+    },
+    {
       "title": "HHS Suspends Hantavirus Monitoring - respiratory-therapy.com",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc3lOMnpXUFkyU0ZYc2dfT3pKNS1naVRpUWgxZ2xROTB0bEJjRXdUMGttTldyWWRDT3lrdkVHTDBCbXVMX0VyRW11Y1c2Z1Q1WjkwdTBIS3JsSEJLZXJsOWRSeGl6VVcxZ3FOM2xib1VzczVQMGRyeGQ0UWR4cVBrRk9uZmZnbEc3U1JvNW8tUXQtSVR2Sl8yMUF2SUtQbTJVWGFEelhyT09LUS16cU83YmJmQzdsazRDbDEtZ3ZSNXQ?oc=5",
       "date": "2026-07-06",
@@ -1180,18 +1187,18 @@
       "desc": "OMS declara fin del brote de hantavirus vinculado a crucero&nbsp;&nbsp;DW.com"
     },
     {
-      "title": "La OMS declara el fin del brote de hantavirus - El Confidencial",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcGdWQ2wzcVpBRFhSY3JiSWdBdEZaVktQVjdORXlnYTMzREJsQmFyRWJqSTVfa3A1Ui1xZGVWM2ZWNURkODF6ZE9NWnVzc0pFSzhTVGNZdFVFZl9SZnpnWjVMd1ZPck9SdXRjMHhWUU9vTms5Sk1zVElLdzB3emhwSDRiMm1SdXJRbmpWM2gtaTg2NW9QWE8xcmV6M0E2ZU5EV1BKSg?oc=5",
-      "date": "2026-07-02",
-      "source": "Google News ES",
-      "desc": "La OMS declara el fin del brote de hantavirus&nbsp;&nbsp;El Confidencial"
-    },
-    {
       "title": "La OMS pone fin al brote de hantavirus del crucero tras más de un mes sin contagios - El Periódico",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY2lMMW9sSWg4Uk8ycXdSREp3NTlMeDduX2l3X2tBdlFPdFh4cm91M3FhX09qVHlNbFhyZEtvOVpWWGJaQi1OSkNBS21BX2gyblZUd2VCa19NSlVLTTJaaGJPTkN0aE9uMHFmQV9qY0s3OVhQYTFITWdnNVdTTUxnc0QxdmFYazJkWGJYM3BBb0hGTWU2TE1R0gGXAUFVX3lxTE1INHY3dkNrZ25Xd00yaGJRT0tYQmcxTGRqQW5aU3BmQlIwaElILVBOdUhSX1B3elZGSG9Ncm9oRnRSLUdUMVNqZXMxWGNCTEhObTNBVU5jMlJhbUYzQ1YtdDdwRVpiV2NRNWxVREFGbXVMRWVaaUZnbUdfV2hNQmV6SVRCV3U5QzZiaWRXWjI5U0RtTWhMSk0?oc=5",
       "date": "2026-07-02",
       "source": "Google News ES",
       "desc": "La OMS pone fin al brote de hantavirus del crucero tras más de un mes sin contagios&nbsp;&nbsp;El Periódico"
+    },
+    {
+      "title": "La OMS declara el fin del brote de hantavirus - El Confidencial",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcGdWQ2wzcVpBRFhSY3JiSWdBdEZaVktQVjdORXlnYTMzREJsQmFyRWJqSTVfa3A1Ui1xZGVWM2ZWNURkODF6ZE9NWnVzc0pFSzhTVGNZdFVFZl9SZnpnWjVMd1ZPck9SdXRjMHhWUU9vTms5Sk1zVElLdzB3emhwSDRiMm1SdXJRbmpWM2gtaTg2NW9QWE8xcmV6M0E2ZU5EV1BKSg?oc=5",
+      "date": "2026-07-02",
+      "source": "Google News ES",
+      "desc": "La OMS declara el fin del brote de hantavirus&nbsp;&nbsp;El Confidencial"
     },
     {
       "title": "Hantavirus Cruise Ship Outbreak Over, WHO Says - Forbes",
@@ -1208,18 +1215,18 @@
       "desc": "Deadly Hantavirus Cruise Ship Outbreak Is Over 3 Months Later, W.H.O. Says&nbsp;&nbsp;The New York Times"
     },
     {
-      "title": "Hantavirus outbreak linked to cruise ship over after last contact completes quarantine: WHO - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZTN1RTFnU01oRUVVQVltcVlBWlF0aWZPVkg5LWotRUFNT2NzNmdNVDFCdEJXZXNLZ01YV25oZl94OXMzdnlIS0FNT2NhRnkzVzB5N2dpQ0FZZkJDQWc0eU5HVS1Bc09EMlZCOTRhc0lwel9DZ0dlNlhSY0J4ZkRjV3RuMER5MEowckg4RERRMFBETzdYX3pFTnhDNWRHTDQzX1dCM2FxcVZlSklq0gGyAUFVX3lxTE9MVml0cFJHQlB5UHNJYXFLekhmVUFES0lzdVZVSnJndUNRWkpKSC1DU2NXX1hpU2kyRnlLcXZsNkpZV1A5OGEzV1UxdlBJdnlVWHRGRTVFVnR4cGZSN3cwWi0tcjJFVnp1UlIwNzczMmhqMjZrbkdZVkdXMFktbnAwRFZvUkFJUnpzcmQ4WU95N1EzODBxdGoxY2xiZGlYNDA4bGpfWUVWaUFVMnVYa2xFQXc?oc=5",
-      "date": "2026-07-02",
-      "source": "Google News EN",
-      "desc": "Hantavirus outbreak linked to cruise ship over after last contact completes quarantine: WHO&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos"
-    },
-    {
       "title": "WHO declares cruise-linked hantavirus outbreak officially over - Al Jazeera",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcUJ1RS1xVWtvUENRTG82RVhWY09VVzQtSXd2dGJURE5URGFEc2RTeUlybmNFcFBFenMxNmxpVkNsRzlqRmM0bGVEMDFVMlFxVTFtZFRyRXpWR29MbmNMQVNwNFBiakdLdFpVZWFMeWtYYVIyU1Rha3Z6dHc3akRZMndEWHQ4OEd1TDFNMU00SVUxcVgxeWc0X1FMMktyaG5vRDRNcdIBqgFBVV95cUxOUDN2blBFaU5ZZ3c1ZksxNzJVVXptbXAzakhrYmxFY0N3NlppX1BNd0p1NVVXbTVaUzRQSmxGT25QVjQ4dW93ZGt3a3ZSamstTXhQdmRwVlNyNGZHTk5GbnBaekh1VXJRSWJFNDNMaC10X1htUXJjTHk5TmVtRlV3R05nOFRzNXZRcnROVGlUSUIzWUtrNWZVd2pldlgtMWxrYVJDSEYzUEVCZw?oc=5",
       "date": "2026-07-02",
       "source": "Google News EN",
       "desc": "WHO declares cruise-linked hantavirus outbreak officially over&nbsp;&nbsp;Al Jazeera"
+    },
+    {
+      "title": "Hantavirus outbreak linked to cruise ship over after last contact completes quarantine: WHO - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZTN1RTFnU01oRUVVQVltcVlBWlF0aWZPVkg5LWotRUFNT2NzNmdNVDFCdEJXZXNLZ01YV25oZl94OXMzdnlIS0FNT2NhRnkzVzB5N2dpQ0FZZkJDQWc0eU5HVS1Bc09EMlZCOTRhc0lwel9DZ0dlNlhSY0J4ZkRjV3RuMER5MEowckg4RERRMFBETzdYX3pFTnhDNWRHTDQzX1dCM2FxcVZlSklq0gGyAUFVX3lxTE9MVml0cFJHQlB5UHNJYXFLekhmVUFES0lzdVZVSnJndUNRWkpKSC1DU2NXX1hpU2kyRnlLcXZsNkpZV1A5OGEzV1UxdlBJdnlVWHRGRTVFVnR4cGZSN3cwWi0tcjJFVnp1UlIwNzczMmhqMjZrbkdZVkdXMFktbnAwRFZvUkFJUnpzcmQ4WU95N1EzODBxdGoxY2xiZGlYNDA4bGpfWUVWaUFVMnVYa2xFQXc?oc=5",
+      "date": "2026-07-02",
+      "source": "Google News EN",
+      "desc": "Hantavirus outbreak linked to cruise ship over after last contact completes quarantine: WHO&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos"
     },
     {
       "title": "WHO declares hantavirus outbreak linked to cruise ship over - The Guardian",
@@ -1241,13 +1248,6 @@
       "date": "2026-07-02",
       "source": "Google News EN",
       "desc": "Decades of research reveal surprising secrets about hantavirus evolution&nbsp;&nbsp;News-Medical"
-    },
-    {
-      "title": "The hantavirus outbreak is over, WHO declares - Live Science",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS1ZkaF95X3NVdUhNQlZNTlRMTl9QR01ZVDdLaXZiSVktMUJrOTZPdkZsR2FQREhQSUJWLVgxd2VYM2NnRllrWURUN21NSUN0eFp5dmJ3UlNkVkFvY0NHa09BYmJOdkVNRVZvQ2JmSWVpTl92SmZaSmUtbUU2VHRqVDlSTFdSWWpabVZZczVnQzY4Q1JpRnZudUVETlZPbXpGNHQ4dWlNVElVUQ?oc=5",
-      "date": "2026-07-02",
-      "source": "Google News EN",
-      "desc": "The hantavirus outbreak is over, WHO declares&nbsp;&nbsp;Live Science"
     }
   ],
   "countries": [
