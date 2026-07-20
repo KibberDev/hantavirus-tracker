@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-07-20 13:19 UTC"
+    "updated": "2026-07-20 15:29 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,6 +1124,13 @@
   ],
   "news": [
     {
+      "title": "U.S. citizens on hantavirus cruise ship monitored at Nebraska Medicine - American Hospital Association",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVkVuUFM0UXk3MFBzMW82WmJEX3JFVGVhRDVNbmtWQWEwVjNEcGxwbWtNdFAyRmh3ZUY3OVlzLWVkczV2OVlVSGc0T3c2SmlySGZWNEhKNFhlVWFoSW1uOGJzc19hWUhjWUdfeTFueWNoNW14Nm9ySk5qcmdncnRBcnAtajRPSnB4UGxxeVpreHRnelAzMUxVXzlDNGNGMS0xbDNhcllLVnh6LWtBa21WUHdkdV8?oc=5",
+      "date": "2026-07-20",
+      "source": "Google News EN",
+      "desc": "U.S. citizens on hantavirus cruise ship monitored at Nebraska Medicine&nbsp;&nbsp;American Hospital Association"
+    },
+    {
       "title": "Sanidad elude entregar las actas de las reuniones sobre el brote de hantavirus - The Objective",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWnQyWjZpcVMyOTZGbmVleC1kM2dmTjR4QnRwNnVhUE5tTmFXX2tORGtKUjZDeXo1TVF3d29pT0UyR1BsU0VPWFNaWEF6TXR4VEgtRnlIRnZzdHFPRWhZdmdLTkJRR25fQ2xMaVF5bnFUekREWXZuVURMM0RXVzkxSG5ITmtubjRPeDIzVjJhTTBEdFJhTEVCNNIBngFBVV95cUxQdmlRM2t2aHd5alAzUkcxWE5FTERyQkJMNV9OcGk3ZlZSX2M4TmJkWWVhejJxWFI0ektNMDI5OWcwb2RmeHhUbFloT2xfSG04LXRNZmQxYUp6TmZSNTB2bm1XdmZ2MVExdU5zeXE4RVdlZXE1XzFqODFHTjcwM1RNWUg2RC1QQTJuMG9jZGRGMG5fRFV4dDUteS1VNFd5Zw?oc=5",
       "date": "2026-07-19",
@@ -1136,13 +1143,6 @@
       "date": "2026-07-18",
       "source": "Google News ES",
       "desc": "Tras la confirmación de un caso de Hantavirus en el distrito la Municipalidad de Tres Arroyos refuerza la prevención&nbsp;&nbsp;Vía País"
-    },
-    {
-      "title": "U.S. citizens on hantavirus cruise ship monitored at Nebraska Medicine - American Hospital Association",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVkVuUFM0UXk3MFBzMW82WmJEX3JFVGVhRDVNbmtWQWEwVjNEcGxwbWtNdFAyRmh3ZUY3OVlzLWVkczV2OVlVSGc0T3c2SmlySGZWNEhKNFhlVWFoSW1uOGJzc19hWUhjWUdfeTFueWNoNW14Nm9ySk5qcmdncnRBcnAtajRPSnB4UGxxeVpreHRnelAzMUxVXzlDNGNGMS0xbDNhcllLVnh6LWtBa21WUHdkdV8?oc=5",
-      "date": "2026-07-18",
-      "source": "Google News EN",
-      "desc": "U.S. citizens on hantavirus cruise ship monitored at Nebraska Medicine&nbsp;&nbsp;American Hospital Association"
     },
     {
       "title": "Opinion | The hantavirus outbreak has officially ended. Here are 5 lessons. - The Washington Post",
