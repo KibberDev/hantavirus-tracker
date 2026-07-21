@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-07-21 22:13 UTC"
+    "updated": "2026-07-21 23:14 UTC"
   },
   "current": {
     "cases": 13,
@@ -1166,6 +1166,13 @@
       "desc": "Ministerio de Salud confirma tres muertes por hantavirus en Anzoátegui&nbsp;&nbsp;El Nacional"
     },
     {
+      "title": "Venezuela confirma tres fallecimientos por brote de hantavirus: 'Diagnóstico confirmado' - El Tiempo",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNWJpTjROMklaY1JGM2pKSHB2YVFMa1NPUl9NdzFLRHVvOTVRTUpjVDRjSXlEbER3UktCQm9vQWtDT0JsWHNva0tZc1V5OWpqaUdaUm55ZGhncDAtWEZGWmxNVDlrUDZub2dNT0hya2RYWmI1WHdBdUFtRU5wQTNRQmlERGlNNnRPZExMT0w1NHIzalhMaGNPdUlNWC1QOHh2dFBFaGtvZWUtNXltU0liNlJjak1sVEM4aU9RdUpQMFRyUVc2aEZvZ1ZnZ2ptdXPSAdQBQVVfeXFMTTZDSUJmOWxhUHRCd0EwbU1hRlVya3BXUDZJeXJvRmRfUTFNM0F0djd4d2pfcVhNVGdJUmFQS3VsUWJ4QUM3d1BwQVEzdTFYQUcyTEY2b2RmRjFDN0o1U2U0akJ0YWRHU1YzZ1VUSlY0bzBibElmdW5UOUZPZjQ3MENMMEJJOEg3RzJHYjRlM3NyZVd1VGlFMU1PZ29JSldEbjlFRU95d1hWZm83NE5pZGJTWkZMT0c5ZFVrMXpXbGNvd0pXU0REeWFzRWZoZ1JNLTVKcWo?oc=5",
+      "date": "2026-07-21",
+      "source": "Google News ES",
+      "desc": "Venezuela confirma tres fallecimientos por brote de hantavirus: 'Diagnóstico confirmado'&nbsp;&nbsp;El Tiempo"
+    },
+    {
       "title": "Ministerio de Salud de Venezuela confirma 3 fallecimientos por hantavirus - El Economista",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZkdyUTVwQWhweTIxb0RlaGw2dTM1Z1Y1TVA2VVg5VldTV0VLclVTMHJaUEZ2ZUljUnZ0SlpHZkoteGlzMjVzQlM2MmlRN1ZfYUxBQ1BNLVFkZEpOblNOckE3cjNoN3BYTlZiX2hEdGtDaGNJcV9VZkNkM0xKd3ZNUHd1bDJqSk5memFKOTI2RVBtd2Y0MDdjMjh4eXFick9Ea1piVjc1cVBJaThIM0RSaWFXamxXcF83N1ZGc2RJVllqUGxmYlRuVWppMkbSAdIBQVVfeXFMTVdEMTJHTHFPbWRZUTF4UFFGRVltNUMwUGFMRzc4cm1UcUR6dVpFSWlZTVBHaWZMcjd4S3ZGRERUcU1uSVBwUm1ZSU5ZbDExc1JMUEhuOENvd2JrM3FEVS1ueEw1T1Jfa0d6cUNtYUx5QVpQb1hWRXFEckppejI4bmFHWS10SGQ5dXhPamh0VHpYTWxQd2Rmb3VvRGtteC1SRVRQUmIwZ2tDUjdEWFk4NWlyZWd1WXIxODdjTWNHcy1qaEJpb3RJTW9jeGhDVDZYYWdn?oc=5",
       "date": "2026-07-21",
@@ -1185,13 +1192,6 @@
       "date": "2026-07-21",
       "source": "Google News ES",
       "desc": "Alerta en Venezuela: confirman tres muertes por hantavirus en Anzoátegui&nbsp;&nbsp;CiberCuba"
-    },
-    {
-      "title": "Tres personas murieron por hantavirus en Venezuela: esto se sabe sobre los contagios - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdVFsUTdZQkh3dUdMREcxQ1FHTm1GclpCQ0p6STM0cmRfR2JuQldLRGJpQnJDUkRGd1ZHWUdHUlpobTB6OG1DX2FFMEhvVlBWZGdaSnRiVjczV181bkszb3E3bDBaMG1LS2lPUExGT2VJZWExQ1ptT0NHdFUtRGRsQ3VEb29RQkdNS3BlQlNFZnN1U0JxR2c?oc=5",
-      "date": "2026-07-21",
-      "source": "Google News ES",
-      "desc": "Tres personas murieron por hantavirus en Venezuela: esto se sabe sobre los contagios&nbsp;&nbsp;Yahoo"
     },
     {
       "title": "Tres fallecidos por hantavirus en el noreste de Venezuela - El Universo",
@@ -1229,25 +1229,25 @@
       "desc": "Ministerio de Salud confirmó el deceso de tres pacientes por Hantavirus en Anzoátegui&nbsp;&nbsp;Noticias Venevisión"
     },
     {
-      "title": "Ministerio de Salud confirma tres muertes por Hantavirus en Venezuela - La Prensa de Lara",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRzlzWU9wczR3dlAzaHI2QVEzd2tOQmJobG12alBzaFg0amhlNDNQZGhIZW81NVdJMjN5ZEh3T2lGemc2dmlTQzF3RXhfZFdHSlN4MUhyS0lZT1d1eHFTNGx5RS1wcWtReUtjdHdtSVlza0tfUENXNmxPMnpXUFN4MWZB?oc=5",
+      "title": "Tres personas murieron por hantavirus en Venezuela: esto se sabe sobre los contagios - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdVFsUTdZQkh3dUdMREcxQ1FHTm1GclpCQ0p6STM0cmRfR2JuQldLRGJpQnJDUkRGd1ZHWUdHUlpobTB6OG1DX2FFMEhvVlBWZGdaSnRiVjczV181bkszb3E3bDBaMG1LS2lPUExGT2VJZWExQ1ptT0NHdFUtRGRsQ3VEb29RQkdNS3BlQlNFZnN1U0JxR2c?oc=5",
       "date": "2026-07-21",
       "source": "Google News ES",
-      "desc": "Ministerio de Salud confirma tres muertes por Hantavirus en Venezuela&nbsp;&nbsp;La Prensa de Lara"
+      "desc": "Tres personas murieron por hantavirus en Venezuela: esto se sabe sobre los contagios&nbsp;&nbsp;Yahoo"
     },
     {
-      "title": "#URGENTE Casos de Hantavirus ocasionaron el f4llecimiento de miembros de familia en Boca de El Pao municipio Francisco de Miranda al sur de Anzoátegui. Desde ya las alarmas encendidas, No se conoce en Venezuela transmisión de persona a person - instagram.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBabDlNUlU4UVplSDNFbzU4NmVIQi13ZHZyVTVKQThfd0NVV29hdG14akx6OTM3OW4xQnhUY0hubzlQNjlwQjJlWVM0SnVPbDZyTDlTUFFR?oc=5",
+      "title": "¡Precaución! Ministerio de Salud confirma fallecidos por Hantavirus - Radio Miraflores",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSWtkeklSdmg4bmlrbjBMblBVSkU2TGdlWTl4RVZZZVRGck84dEU0T1YwYXVzM2FDb29Xa2h4S21fc3ZYbUFldU9YeVVpNl9ac0hhandiSFBFT2xxU2VHTzdyczg3MVRjLU1Nb1BiREpFSVBzWUJuOF9HclFBRU82RnVPSQ?oc=5",
       "date": "2026-07-21",
       "source": "Google News ES",
-      "desc": "#URGENTE Casos de Hantavirus ocasionaron el f4llecimiento de miembros de familia en Boca de El Pao municipio Francisco de Miranda al sur de Anzoátegui. Desde ya las alarmas encendidas, No se conoce en Venezuela transmisión de persona a pers"
+      "desc": "¡Precaución! Ministerio de Salud confirma fallecidos por Hantavirus&nbsp;&nbsp;Radio Miraflores"
     },
     {
-      "title": "Ministerio de Salud confirma 3 muertes por hantavirus en Anzoátegui - El Estímulo",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pczdmNjZ5bmsxTmNDWHdPQXNHdy1Fa0k2WlFBTDFZWElCbnBoaDYxNUZ1UER1aWJwdmZ1RndYRWJEaG5DaWhnYk9YTTJXV0drYmJ4T0hKVkctUFM5a3k5QTVCY3ZfRmlsdnRzMXV3Vi1LQURBS3Bsc1hzd2dYTzA?oc=5",
+      "title": "Dra. María Eugenia Landaeta descarta riesgo epidémico en el país tras confirmación de casos de hantavirus - Noticias Venevisión",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMVVRSWV5TU1VV3lYazc3Z2NHR21INVdqcUlDUG5HakRLS3kxMzV3QjlZdWtlN2g1Uk44WncwQXVzZkdFcTFLNkpoYXJ1czNMNEN3eWxHR21tRFpMQWJPdG9QbkI5REN5eTN0WVZ3aE5TV0xDckdwVW5zZlpqMF90WFJJRVpuaWliTWZBQkd4eDFQNmpBWGctZHVuNVBJNmQ2WUtEdVktbWY2ZU1mbm03LUdnTnZwS0J5WWUwWUNzMXdOZ0d0SktJZDU1Y01MemxCeDZYSGNJUjRBYmdTeHhUNTBGSUc?oc=5",
       "date": "2026-07-21",
       "source": "Google News ES",
-      "desc": "Ministerio de Salud confirma 3 muertes por hantavirus en Anzoátegui&nbsp;&nbsp;El Estímulo"
+      "desc": "Dra. María Eugenia Landaeta descarta riesgo epidémico en el país tras confirmación de casos de hantavirus&nbsp;&nbsp;Noticias Venevisión"
     }
   ],
   "countries": [
