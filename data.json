@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-07-22 16:48 UTC"
+    "updated": "2026-07-22 18:10 UTC"
   },
   "current": {
     "cases": 13,
@@ -1187,6 +1187,13 @@
       "desc": "Venezuela confirma tres muertes por hantavirus en Anzoátegui&nbsp;&nbsp;سانا"
     },
     {
+      "title": "Julio Castro: El riesgo de un brote masivo de hantavirus en Venezuela es extremadamente bajo - Comunicación Continua",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRGlzRl9SQ0FKbEZvTGxHWngtdWtnV09jRWpTWjVSUnFDU29PM29uSXVfQjFMeU9VUFM1aXVFOHl4N193QnZOS09Hb19nREFwdFBIMnlCSlBFdEFYMzJoVzg1RkhuZU0wd0UzTDhBSkp1emJXYlhpSXl1TzJYeGFPcFVUTy12VkpSLU52WmFESHU3aUUzcGx2Xy1KVGRJam4xcklqVWl3cjFQU2RoTXgtRWF6aVItVGxmMWd2dWNWbGVHLUE?oc=5",
+      "date": "2026-07-22",
+      "source": "Google News ES",
+      "desc": "Julio Castro: El riesgo de un brote masivo de hantavirus en Venezuela es extremadamente bajo&nbsp;&nbsp;Comunicación Continua"
+    },
+    {
       "title": "Venezuela confirma tres muertes por hantavirus y asegura que los casos están controlados - El Pespunte",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZzlIQ1RsQXBqeVc4dE1LRnBKUmRnQUlvUm93NjZuQUFncnREQ1ZSa3U5MWVCM0xZLXdvZEp6eUQ3bEFiejhxSkxUalk5WVMzZmJXR0Q0WEVXb3hBbVFFVTBTeDNMRTExUnA4Q0pZWm9uanZYNjlfbk5HN3d0dXNXNVl6Qmxmek5pakdQWnRCUmM2bmdqSWdPeE5BZDlYY2taNUFTbGVWbC1IUEQ0QnRJYnBKTDExM3ViT29Sak9pMi1GZE42Y1JKVExvcXF2RmlFZFJVZF9YNTByMWhrQzZRQjc1d1UteGhM?oc=5",
       "date": "2026-07-22",
@@ -1201,18 +1208,11 @@
       "desc": "Tres personas murieron por hantavirus en el noreste de Venezuela&nbsp;&nbsp;Infobae"
     },
     {
-      "title": "Experto descarta brote masivo de hantavirus: “No se transmite de persona a persona” - El Nacional",
+      "title": "Julio Castro descarta brote masivo de hantavirus: “No se transmite de persona a persona” - El Nacional",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTkpwa3ZmdmN3OGlGYm51YllGdjAwdlRoUHpzM3R3SmFZT0JvQ21sUkx5VTBYazdxZWlMQXAxemtDMURNc2RNdll2TmVEWWRud2dmb2pLMnZ3d0dQVVUtblBFR2F4SUtmWV94Z3EzNUdBd3I5V0NCX1ZFMjMzRG03X2prb0pCM1Q1bTdKWUppUGdtSmdaUWY1MlR0cHJnZnB3Y3dzc251djdmNV84bjBKWHNZTnR2ckk?oc=5",
       "date": "2026-07-22",
       "source": "Google News ES",
-      "desc": "Experto descarta brote masivo de hantavirus: “No se transmite de persona a persona”&nbsp;&nbsp;El Nacional"
-    },
-    {
-      "title": "Julio Castro: El riesgo de un brote masivo de hantavirus en Venezuela es extremadamente bajo - Comunicación Continua",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRGlzRl9SQ0FKbEZvTGxHWngtdWtnV09jRWpTWjVSUnFDU29PM29uSXVfQjFMeU9VUFM1aXVFOHl4N193QnZOS09Hb19nREFwdFBIMnlCSlBFdEFYMzJoVzg1RkhuZU0wd0UzTDhBSkp1emJXYlhpSXl1TzJYeGFPcFVUTy12VkpSLU52WmFESHU3aUUzcGx2Xy1KVGRJam4xcklqVWl3cjFQU2RoTXgtRWF6aVItVGxmMWd2dWNWbGVHLUE?oc=5",
-      "date": "2026-07-22",
-      "source": "Google News ES",
-      "desc": "Julio Castro: El riesgo de un brote masivo de hantavirus en Venezuela es extremadamente bajo&nbsp;&nbsp;Comunicación Continua"
+      "desc": "Julio Castro descarta brote masivo de hantavirus: “No se transmite de persona a persona”&nbsp;&nbsp;El Nacional"
     },
     {
       "title": "Venezuela confirma muertes por hantavirus. - Vietnam.vn",
@@ -1222,11 +1222,11 @@
       "desc": "Venezuela confirma muertes por hantavirus.&nbsp;&nbsp;Vietnam.vn"
     },
     {
-      "title": "What is Hantavirus and what are the symptoms? All you need to know as three dead in Venezuela - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRlRKZms1eTNGLUxMQ1hjUXFuZE9MRHJyR1gtYmQweHJRdEJWZHFkMl8yVkVnVDZ3bktaUTVaRXNURkprRHZ4Z21OSXBVRHIySE4yb08tTC1jcUc0ZHg5R2pkLWpjaDZSMGFNX2ExNjhCblJndmxWZll2VkRfdFBPTl91eGpfVkxFY3poX1hDMXR6OVNlOFBob1N6N2s2aWdfZG5RT0V6SHlRbjg?oc=5",
+      "title": "US Passengers Describe Their Days in Hantavirus Quarantine - Newser",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaUlOOE9GdlNYTzlPN2pGR3VBUVRkcFhqaDV5ZU1xcGdmZE9PYkFZTmNiV3RQdDUtSXlJd25QYUY2cWVrT3JBc2xBNTA2d2tTTlVTR2ZpcHU4bTlOUk43WWJjdHJzbUZmWnJNS0pRWVlyejBVUjdPakhFYWFvcF9kNWhKUGJxZEZpcHhJV0xQbjdsSW1RRm5uRWVUbEZnZjJVQTdN?oc=5",
       "date": "2026-07-22",
       "source": "Google News EN",
-      "desc": "What is Hantavirus and what are the symptoms? All you need to know as three dead in Venezuela&nbsp;&nbsp;The Independent"
+      "desc": "US Passengers Describe Their Days in Hantavirus Quarantine&nbsp;&nbsp;Newser"
     },
     {
       "title": "Hantavirus kills three in Venezuela - ABS-CBN",
@@ -1236,18 +1236,18 @@
       "desc": "Hantavirus kills three in Venezuela&nbsp;&nbsp;ABS-CBN"
     },
     {
-      "title": "US Passengers Describe Their Days in Hantavirus Quarantine - Newser",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaUlOOE9GdlNYTzlPN2pGR3VBUVRkcFhqaDV5ZU1xcGdmZE9PYkFZTmNiV3RQdDUtSXlJd25QYUY2cWVrT3JBc2xBNTA2d2tTTlVTR2ZpcHU4bTlOUk43WWJjdHJzbUZmWnJNS0pRWVlyejBVUjdPakhFYWFvcF9kNWhKUGJxZEZpcHhJV0xQbjdsSW1RRm5uRWVUbEZnZjJVQTdN?oc=5",
-      "date": "2026-07-22",
-      "source": "Google News EN",
-      "desc": "US Passengers Describe Their Days in Hantavirus Quarantine&nbsp;&nbsp;Newser"
-    },
-    {
       "title": "Eighteen Americans were isolated for weeks in a Nebraska quarantine facility after being exposed to a deadly hantavirus on a cruise ship. Many found the experience traumatic. https://nyti.ms/4wR3zeI - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSFBJTFowckJ4b1NqRTZJbmtDcGoyNThCQm54eVZXMGR2UUdkU19VY01POERWc25icU5rXy1aSkNsU0JRbHNRSmY2d2FCQkwtOXE4ZXVlMXA0X0l3MUpPSUYwYWdON0tDbEtZcXRsUGZZUW1ucHJLdzItaDRHODFMbDVhVU0yQWtjZE0tTmRtSFpVV1A2NnI1RlJMaldVMDBneDNydXV4LTQxTE5qUG9OSHdMTlE2b2QzNlFwRzV3M2tXTjV4ZDVSWGNpU0VkWFd4MGZ0YQ?oc=5",
       "date": "2026-07-22",
       "source": "Google News EN",
       "desc": "Eighteen Americans were isolated for weeks in a Nebraska quarantine facility after being exposed to a deadly hantavirus on a cruise ship. Many found the experience traumatic. https://nyti.ms/4wR3zeI&nbsp;&nbsp;facebook.com"
+    },
+    {
+      "title": "3 killed by hantavirus in Venezuela - BNO News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53MHJCUXp6OXowSUpOaW1JTXJnQUhUV2NWYVhtRVdfUW9NNWtnNDRsWVdFQXRlaUJyRTZyWUVqYkt3cDBoSllIYW5KcS1xeXota3ViN1JkYUpnU1ZUdHl2dzRtQmNkOGtUSzdiT2NhWjBrcWMwRnRaTGZqWVluYzg?oc=5",
+      "date": "2026-07-22",
+      "source": "Google News EN",
+      "desc": "3 killed by hantavirus in Venezuela&nbsp;&nbsp;BNO News"
     }
   ],
   "countries": [
