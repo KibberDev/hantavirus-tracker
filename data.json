@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-07-22 13:00 UTC"
+    "updated": "2026-07-22 15:10 UTC"
   },
   "current": {
     "cases": 13,
@@ -1152,13 +1152,6 @@
       "desc": "Venezuela confirma la muerte de tres personas por hantavirus mientras investiga otros dos casos en el país&nbsp;&nbsp;consalud.es"
     },
     {
-      "title": "Venezuela registra tres muertes por hantavirus en el nordeste del país - La Voz de Galicia",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVUlTX1ZfMWpOa3JmSFVhTmZEa2toV241Yk1OTzd5djRuT1BKbl9fN0FMam1Ic1pCZGdQUzhaVWhjZk1kaUhRWnJnVVlnU2ROYlhCNlZJMVFiT3I1eUR0UXJvcm0zSFo4UllCTC1yNlIxdEJWY0d2WlpIcEtEb2VCVWw2eFZ5RFlIc0pWWWpnMlRVRHc0bG9HWDJaWU1rNGx1bHo4UktySWtkTVZEXzdiaEkzLVlzSGZPNXYzbXBEeHJtVHctT1dvRUo0TmNlcE1xbFVkdFZkR1DSAfQBQVVfeXFMTXZQeE9ndHVsV0lUQk5JZjlBcmk5dGJMX2dlVVE5U0YzbldXU3YwNERUT1VIRzhVVHZuMU5lcXZFMVgtc3B2MHB0cXBfRTg4Z1AtaXk1QkhseDRoSnY1NHNvY3RvQ0h6MmdFV3liZWRKXzVHWFRFekVpc25hRHRTZjdNZWQ5NkpzWXo5emppRFRLVWptbS0zR1JxaEJzNGFoemJZUmtGaUJEVUx6MVJSdFdqVnFwZHlPUW16Q1I2eDFFVlg0UHYzTkZ0VW5uX3ZFbWkyV0MyZHY3aTFVM2lYQzNRejlEUm15TU1SUGk4SG1RckptQg?oc=5",
-      "date": "2026-07-22",
-      "source": "Google News ES",
-      "desc": "Venezuela registra tres muertes por hantavirus en el nordeste del país&nbsp;&nbsp;La Voz de Galicia"
-    },
-    {
       "title": "Venezuela confirmó tres muertes por hantavirus: el comunicado del Ministerio de Salud - Infobae",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVHFUaTRCVHFoa01BWTBVZ2trdjMyZnJNaEI5aW9NMVN4T05zcHVFN0g0b0NuT19FV2VHWlp6Q19WOFpIYkE5YVI3dnpLdGFuRDNieWpHanBHUXpEbllXX1ZjRTdMLTYwampqdXRDVXZZMWVMTFpuSGtlZFZ0SWhWLXlLbjRFTThERGFKZzk1Z0hKeTRnUmZaRVJsalp5NlF2dVl6dlpGLTlRTmtIbXUxbnJLMU1KX1ltYUFyQVpkc3ZGR3Ix0gHfAUFVX3lxTE1fcU5hZC01TkFpSFFyN2ZldFpxeDdHQ2hzS19wS3JnTi1OaFZYczRMVFNNREVMT085a0p0cVg2anAwSldCcWZIbE93cGJ6T2dIdVNFWFdOYkM1dk9UVUE2cm9LX3NVZ2FVMDJWTjNaR3JfaDgwejBTUjBfN0xzMDR2VkZRbnJvcm1rU0xYQ2plSmlNSXVaS3czWDRmNk05WnN1ZUNxUXBURmtZaHdoYll5eEluMy1oUTc4alpfWTZrcDBjUFBBV3ZTSkp4V2xkaldFR3JueUhpRkt3dWl3Z2c?oc=5",
       "date": "2026-07-22",
@@ -1192,6 +1185,13 @@
       "date": "2026-07-22",
       "source": "Google News ES",
       "desc": "Venezuela confirma tres muertes por hantavirus y asegura que los casos están controlados&nbsp;&nbsp;El Pespunte"
+    },
+    {
+      "title": "Experto descarta brote masivo de hantavirus: “No se transmite de persona a persona” - El Nacional",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTkpwa3ZmdmN3OGlGYm51YllGdjAwdlRoUHpzM3R3SmFZT0JvQ21sUkx5VTBYazdxZWlMQXAxemtDMURNc2RNdll2TmVEWWRud2dmb2pLMnZ3d0dQVVUtblBFR2F4SUtmWV94Z3EzNUdBd3I5V0NCX1ZFMjMzRG03X2prb0pCM1Q1bTdKWUppUGdtSmdaUWY1MlR0cHJnZnB3Y3dzc251djdmNV84bjBKWHNZTnR2ckk?oc=5",
+      "date": "2026-07-22",
+      "source": "Google News ES",
+      "desc": "Experto descarta brote masivo de hantavirus: “No se transmite de persona a persona”&nbsp;&nbsp;El Nacional"
     },
     {
       "title": "Tres personas murieron por hantavirus en el noreste de Venezuela - Infobae",
@@ -1243,11 +1243,11 @@
       "desc": "Venezuela confirms 3 hantavirus deaths&nbsp;&nbsp;Türkiye Today"
     },
     {
-      "title": "Venezuela confirms three hantavirus deaths, rules out human-to-human transmission - Qazinform",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTnJTbE43d0lyVlNBTk45MU5tcU5oUlZPNERnWnlJVG05aElKbkxiSUR6anI3OFR4TGJXdE9zdU9rUE1WNkNZTm85bG9XR0tzYXp5YUZYZXJ3QXJOd0tFZTVmU05VUGNjbzRiRzJtbno3Y1ZhbEpPaE5VbDJ6b1VjSW90cDVGcFJDNHZVZ0plYktjTGZUN2NmeGpZVGo4dlZ6bVRPYy1wMFc5OGQyS1NHQUotUGzSAbQBQVVfeXFMT2pkSGV5SzRwbFZGU1I0TDVCdnFqazZKZmFWaXBIZTF6ZDZCSmc0dHZ2dkxjMUNrUVQyTFN3X0g4cEF1XzJGVUxpVUlyY0wwQUJCeWZ3cjBPa3I1OTBidGY5cnB0R2VvX2pBaDhuV0doU2MwRVYwYllISF9yY0ZVNFlzMzFSZTFZWFBqUWV6aGtPUmY0NWJaVVFUcVdFdjRVTVRVRDU0TlROWXFZUi0wSTAtNW5f?oc=5",
+      "title": "Cruise Ship Passengers Describe Hantavirus Quarantine: 'Prison' - Newser",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaUlOOE9GdlNYTzlPN2pGR3VBUVRkcFhqaDV5ZU1xcGdmZE9PYkFZTmNiV3RQdDUtSXlJd25QYUY2cWVrT3JBc2xBNTA2d2tTTlVTR2ZpcHU4bTlOUk43WWJjdHJzbUZmWnJNS0pRWVlyejBVUjdPakhFYWFvcF9kNWhKUGJxZEZpcHhJV0xQbjdsSW1RRm5uRWVUbEZnZjJVQTdN?oc=5",
       "date": "2026-07-22",
       "source": "Google News EN",
-      "desc": "Venezuela confirms three hantavirus deaths, rules out human-to-human transmission&nbsp;&nbsp;Qazinform"
+      "desc": "Cruise Ship Passengers Describe Hantavirus Quarantine: 'Prison'&nbsp;&nbsp;Newser"
     }
   ],
   "countries": [
