@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-07-24 20:22 UTC"
+    "updated": "2026-07-24 21:37 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,6 +1124,13 @@
   ],
   "news": [
     {
+      "title": "Hantavirus in Venezuela: What It Means, and What It Doesn't - Caracas Chronicles",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTnpjazNyRm5UNGlJQld5V0JlUi1VaFF0REJUbVQwUzdiMVNHeGc0U3k1VERnQUxTSjhqTjVnaU9kRlJJWkxEMVE0aHRnNGZOejF5c1hsSXE0NnU0cGlzRFotN1BPSlpqZndkSVZnNWtiTmpqa083eTVjOHRudklHN3J0dDlnc1JnNnB0d0h0TnYzVUpJVkNHRlhGTzluTDJZWUlNRA?oc=5",
+      "date": "2026-07-24",
+      "source": "Google News EN",
+      "desc": "Hantavirus in Venezuela: What It Means, and What It Doesn't&nbsp;&nbsp;Caracas Chronicles"
+    },
+    {
       "title": "Mónica García no corrige el vacío: España sigue sin vigilancia y protocolos frente al hantavirus - OkDiario",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWmVxSTAxNlVITlJnNzhfWnh4Y1h5YWU4WlhZMDJxME5IUHJLalpvZjNRQzB3MERTbTJPOGVQdUEyM3ZuaXZsdFlnX3FLZHh1VzJqRmZabVAtUnI3ZkJ4YUozUzA4clVHb25lVjRzOFM0dTNqWjBLZWxBakhaZGFYNnZoeFF6d2ZvYmRqb1ZhSWRXN3QzcVBvclRrNTczeUpXeDB4Ql94cnFUaGFsRThMMkwwaVVhVEJfRGZibWVFYVnSAcYBQVVfeXFMTkxHUDBqUXVPektrQXRqTmNXUDhIa0tKYzl3UHJhQnJLWEx1eW5iR0VkbjRzbWtUdjF3N1FvdFRwcEdGWHBQZUZtWURVaHpmQkdGQjFQZS16ZHI0bm1KV1JYSEJWVnk0OGl1QlJrcGVKZVg1SVBWRTR4d3N2d3F2bzVCU2luN3FmaU93R3hwXzkybUpIQ0R4U0ZMMTE1eFFrT0lldjN1T0U1ZUZxRFR1N0ZySGl4TXFYWVZpYW00Q3lKMjBsNGJ3?oc=5",
       "date": "2026-07-23",
@@ -1159,13 +1166,6 @@
       "desc": "Este es el tipo de hantavirus que se confirmó en Venezuela: ¿puede transmitirse entre personas?&nbsp;&nbsp;Noticias Caracol"
     },
     {
-      "title": "Hantavirus : qu'est-ce que c'est et pourquoi cela redevient tendance après plusieurs décès au Venezuela - Demócrata",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMGlJSmFobFA0VTZEZ1VCSEY1ZnI0VGM4MXF6VEs4UnVadnBtaWV3dzVqRVFLRko1UFJlRWdpc3ZoUnpCOXJ0UmNGYUI1bGh1RDNWcXVZYTNncEd5V2kwVU5pRVZkQ0dKUHl0UjRmZ04wMnM3TFZfLVVJc2RlMUlpVkJaZFVxck51bDdBNHJXSEgyVld4S2pmdm1MUkEwTkFhUUdVVzNna1dHNEJSa3J2N0NrWDJmYkFGNFNpX29wQWpPRkl5bWfSAcsBQVVfeXFMTTJDMnNHeDk3MG5QZURvSlVfTG5xVnlneWZ1N3FnU1JRZlNvRWhlME5fdDVQVEV1VDZkMVh2T0NUbTk0aWh5SzlIUTlZMTNpUW14TEVMQkJmRVVxX1dYMExDTDV3Ynd2NDhRZkNHOVpHSGxkS3Rjc1gzZ1MyUXEyWlpaRVZrS09PYzVuVmloOUZTYkdUbzRoWWJzU1Q2bUtHWHVXMjdYbHpjX0ZtYzRKVlNsSmhNUVd6Y2dOQVhITVg5WjVrdVAtdDNCV2M?oc=5",
-      "date": "2026-07-23",
-      "source": "Google News ES",
-      "desc": "Hantavirus : qu'est-ce que c'est et pourquoi cela redevient tendance après plusieurs décès au Venezuela&nbsp;&nbsp;Demócrata"
-    },
-    {
       "title": "Venezuela confirma la muerte de tres personas por hantavirus - 20Minutos",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaXVlMUV3VTEwbEdNVWgtcG95ZHRGYW1EWFRWTGlfQ1FsYmtpNUZwYVZLWDNsRjFQWm1Mb3c4Vjl2UVc5dl9yUGo5M3RQZlExNjNRNTQtZkd6VlpEV2tKdHczTFJCTE9fX1pXZFVvcTJPSUVWdlJSQ3JlTmtnRXBXbm9WaXVrcmdRUWttODJIekRQWU9Qcl9vdkFDVGRmc0o1bkhsS2VMNldMVlhP0gGyAUFVX3lxTFA0WUlKNlRPS1Q3akQ4NzZDZ2QteHhYb3l5cXNHZ2tXMm5EVnNIMnNJNk1PNEw5MVJYbkFHX0dYYmYwZ3J6RFNSMEdya2tyVlE2MWUyT3JhNGJYbHR1NUV5RXNubkdOUmVwZm9uaTRibnpCbV9kSWZLUXN5TDFEMWdoY29IaWFsVFN4bmtVbG5Tby1tTlNPSFViU1RKREVxdFgzX0NEdXc3WU5Fb0huTkJzWFE?oc=5",
       "date": "2026-07-22",
@@ -1173,11 +1173,11 @@
       "desc": "Venezuela confirma la muerte de tres personas por hantavirus&nbsp;&nbsp;20Minutos"
     },
     {
-      "title": "Vuelve el hantavirus: tres nuevos fallecidos - Diario Sur",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS0puMEpYdUZBUXo2X3l1c3Q3RnRRMGU3eTQ2T25ZUmhhYzdLME9KNEgzbnVIdjRCdWJkWGp3dzllOXhfQkYtMGwtZHVaNWhNSXBsQmhiSVc3S0M5OXFOUkpMaThKSWIzNWxvUlN3a0lUekotSXhzNWtvbUdsUTJGZ1ZiYUJFbFNKMW5JdHBRRVZidWNvcmNGLV9RR1JCZ9IBowFBVV95cUxQMWtBeGQ5TnRsbmdGdHFQOW1nQkRrUjA5Q0wtZ0E3eXFZREhQN29DYzhodlN0MUlmd05zakhwb0dQWEc3WkVjRGpOTzNnS0duY3A1S3JLamZGYWFLVW1hVWdzSXEyRjEwQWlwSnQwM0lzcVFsYV9qbmxSOTBhaUxGcTdmLXhaUV9aakVUTDBBWnRUcDdoZFF5MjZsQ0NoblBVdHBJ?oc=5",
+      "title": "Venezuela confirma tres fallecimientos por hantavirus e investiga la muerte de dos sanitarios - Gaceta Médica",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ2R0RHBPQlF3SFNteWlVSnU2X1VMOGRDQThoV2VXckFVbTRhOFpJbmVKNGVlS0NEdjlGWkl3SHZ6MllGYmxrTFhkU3Q1WUZNQVpjOGgyYndBZDhHdjRpWXhNS3RtZktydkVpZnpvV0N5ZHhmQkpoOG5GNmlvNnpLT0MxaVRqUE5EdXBWd3MwLS0xZjRLdkRFcFc0cFNic2VKdXY0V19fdjlkeG03V0FCMFltYXhsTmhzV1dybm9R?oc=5",
       "date": "2026-07-22",
       "source": "Google News ES",
-      "desc": "Vuelve el hantavirus: tres nuevos fallecidos&nbsp;&nbsp;Diario SurVenezuela confirma tres fallecimientos por hantavirus e investiga la muerte de dos sanitarios&nbsp;&nbsp;Gaceta MédicaEl Gobierno venezolano confirma tres muertes por hantavi"
+      "desc": "Venezuela confirma tres fallecimientos por hantavirus e investiga la muerte de dos sanitarios&nbsp;&nbsp;Gaceta MédicaVuelve el hantavirus: tres nuevos fallecidos&nbsp;&nbsp;Diario SurEl Gobierno venezolano confirma tres muertes por hantavi"
     },
     {
       "title": "Venezuela confirma tres muertes por hantavirus en su territorio e investiga el fallecimiento de dos sanitarios - LaSexta",
