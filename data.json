@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-07-25 02:53 UTC"
+    "updated": "2026-07-25 05:45 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,18 +1124,18 @@
   ],
   "news": [
     {
-      "title": "Hantavirus in Venezuela: What It Means, and What It Doesn't - Caracas Chronicles",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTnpjazNyRm5UNGlJQld5V0JlUi1VaFF0REJUbVQwUzdiMVNHeGc0U3k1VERnQUxTSjhqTjVnaU9kRlJJWkxEMVE0aHRnNGZOejF5c1hsSXE0NnU0cGlzRFotN1BPSlpqZndkSVZnNWtiTmpqa083eTVjOHRudklHN3J0dDlnc1JnNnB0d0h0TnYzVUpJVkNHRlhGTzluTDJZWUlNRA?oc=5",
-      "date": "2026-07-24",
-      "source": "Google News EN",
-      "desc": "Hantavirus in Venezuela: What It Means, and What It Doesn't&nbsp;&nbsp;Caracas Chronicles"
-    },
-    {
       "title": "Ukraine: Lviv man contracts hantavirus after vacationing in Croatia - Outbreak News Today",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTG1TejhVemw1OWNFRV9sLTZEWjNTNUtfQ1NMOGExU0hxREEtSjFxT1dUaWQ3U2JoOGFFeTZMR0FKRW5LLTQ2T1lLSXJOTG1oYUI2TG5IejM1OGdsbnJkU1ZGdHRDdjI3b3BHX0xJLTBxSGVManZRc194ZFVBUjU5UW05Yk4?oc=5",
       "date": "2026-07-24",
       "source": "Google News EN",
       "desc": "Ukraine: Lviv man contracts hantavirus after vacationing in Croatia&nbsp;&nbsp;Outbreak News Today"
+    },
+    {
+      "title": "Hantavirus in Venezuela: What It Means, and What It Doesn't - Caracas Chronicles",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTnpjazNyRm5UNGlJQld5V0JlUi1VaFF0REJUbVQwUzdiMVNHeGc0U3k1VERnQUxTSjhqTjVnaU9kRlJJWkxEMVE0aHRnNGZOejF5c1hsSXE0NnU0cGlzRFotN1BPSlpqZndkSVZnNWtiTmpqa083eTVjOHRudklHN3J0dDlnc1JnNnB0d0h0TnYzVUpJVkNHRlhGTzluTDJZWUlNRA?oc=5",
+      "date": "2026-07-24",
+      "source": "Google News EN",
+      "desc": "Hantavirus in Venezuela: What It Means, and What It Doesn't&nbsp;&nbsp;Caracas Chronicles"
     },
     {
       "title": "Mónica García no corrige el vacío: España sigue sin vigilancia y protocolos frente al hantavirus - OkDiario",
@@ -1150,13 +1150,6 @@
       "date": "2026-07-23",
       "source": "Google News ES",
       "desc": "Hantavirus en Venezuela: Academia de Ciencias aclara que no existe evidencia de contagio entre humanos&nbsp;&nbsp;La Web de la Salud"
-    },
-    {
-      "title": "Hantavirus en un crucero por la naturaleza y el riesgo de una pandemia - Gestión y Economía de la Salud",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdW81d1pmWEM0dkxpUVhKeGtLNkpqeUw3SnJHb21PeG9kYno5LWctQk0xWUJubDlhNUVhMmI2N2dkX09pRE5wS2tUSC02YTJXMWgzbUh1Y0JyVjdELXpEVHNYbjZ6UTVUR0NJVTJsMGlKSEVtRDJsZ3BXamt3M0M5UW82dWNMdHRYd0w5VDJPQnJPUTU4X1Q5ZTRNNVAxSnlEQVdjOXR6WjRFdw?oc=5",
-      "date": "2026-07-23",
-      "source": "Google News ES",
-      "desc": "Hantavirus en un crucero por la naturaleza y el riesgo de una pandemia&nbsp;&nbsp;Gestión y Economía de la Salud"
     },
     {
       "title": "Hantavirus en Venezuela: qué se sabe de los casos confirmados y la alerta en Barinas - Bloomberg Línea",
@@ -1248,6 +1241,13 @@
       "date": "2026-07-22",
       "source": "Google News EN",
       "desc": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected&nbsp;&nbsp;AP News"
+    },
+    {
+      "title": "US Passengers Describe Their Days in Hantavirus Quarantine - Newser",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaUlOOE9GdlNYTzlPN2pGR3VBUVRkcFhqaDV5ZU1xcGdmZE9PYkFZTmNiV3RQdDUtSXlJd25QYUY2cWVrT3JBc2xBNTA2d2tTTlVTR2ZpcHU4bTlOUk43WWJjdHJzbUZmWnJNS0pRWVlyejBVUjdPakhFYWFvcF9kNWhKUGJxZEZpcHhJV0xQbjdsSW1RRm5uRWVUbEZnZjJVQTdN?oc=5",
+      "date": "2026-07-22",
+      "source": "Google News EN",
+      "desc": "US Passengers Describe Their Days in Hantavirus Quarantine&nbsp;&nbsp;Newser"
     }
   ],
   "countries": [
