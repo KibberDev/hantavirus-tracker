@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-07-26 17:44 UTC"
+    "updated": "2026-07-26 18:45 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,13 +1124,6 @@
   ],
   "news": [
     {
-      "title": "Joven madre se mantiene conectada a ventilación mecánica en Concepción tras contagiarse de Hantavirus en Los Lagos - Meganoticias",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZmVscGtncVBEdzBjWkNUWjJONHBoQV92V25vSnU1R1F4bll3b0xmY3VqVlhIRENaUFZQOXdlSnhDWVNoMnJ0dWg3TTlWeXRZOXR5a09MdzJlazZJUnMxNkV2N3MyaG1vaXgxdlc5cmNHangtbzU3SlBpWlROMGFvdGtMTHgxWW8weGY0Y0RUXzZwRUM1c3NHYkp4cXFVLWRPQXVIU25JR0pHVlFldXloMXhRT1NzTVFuZzBNRzRSMGNJQm5vRnJWUl9Ec0LSAdIBQVVfeXFMUFlWbEs3V0FZdzRWOGUxN3E0a1RLSFFhMnE3LXRvMGoxbnBVYTliSG9DTkVhZ2RuNHV1algtaXlueGIzWE5PSC1pbTEzRkYtaVU4anhLN2h3UnFibzlPVHd1bFdKV1ZOeFlrbFppSmxLRnZGeXhsVTNaLUxjM2d6d1F6NWx5T0R0SlcwblZqenZfWEN5Y0tIbVJhQ0lGeXJYSC1hM2xKejI4dGNwNGxRMTBoTTlYMDhNd1hSTjdMNlpZUG9IY09GZFhiZlg3aWRTblJn?oc=5",
-      "date": "2026-07-26",
-      "source": "Google News ES",
-      "desc": "Joven madre se mantiene conectada a ventilación mecánica en Concepción tras contagiarse de Hantavirus en Los Lagos&nbsp;&nbsp;Meganoticias"
-    },
-    {
       "title": "As Hantavirus Spreads, Climate and Health Research Faces a Funding Crisis - peninsulapress.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUnd0RG5oQURMQThCRVdPdHRzci05dnpaTWxZS3VGZ3NoSTY1V1hLRktuWnJGMmY5eGxtRmFjdHJjYnhGOVl1ZmZZTjZXdWdXN3NVM3FJeFBhY0VpT1h1cVd2UFZ3THRjdWN5dHE2WU9mNEZtQ3NYYldlX3h1Qm5pNEMzckNHQ1ptYW5nWFhxRVZrUkxMQnpYalMwV1pPMThKdEZwS1huWjJyX2xreXBGQQ?oc=5",
       "date": "2026-07-25",
@@ -1248,6 +1241,13 @@
       "date": "2026-07-22",
       "source": "Google News EN",
       "desc": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected&nbsp;&nbsp;AP News"
+    },
+    {
+      "title": "3 killed by hantavirus in Venezuela - BNO News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53MHJCUXp6OXowSUpOaW1JTXJnQUhUV2NWYVhtRVdfUW9NNWtnNDRsWVdFQXRlaUJyRTZyWUVqYkt3cDBoSllIYW5KcS1xeXota3ViN1JkYUpnU1ZUdHl2dzRtQmNkOGtUSzdiT2NhWjBrcWMwRnRaTGZqWVluYzg?oc=5",
+      "date": "2026-07-22",
+      "source": "Google News EN",
+      "desc": "3 killed by hantavirus in Venezuela&nbsp;&nbsp;BNO News"
     }
   ],
   "countries": [
