@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-07-27 08:02 UTC"
+    "updated": "2026-07-27 11:41 UTC"
   },
   "current": {
     "cases": 13,
@@ -1131,13 +1131,6 @@
       "desc": "Mujer permanece grave por Hantavirus y autoridades investigan el origen del contagio&nbsp;&nbsp;auroranoticias.cl"
     },
     {
-      "title": "Murió mujer contagiada por hantavirus en Los Lagos - Cooperativa",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOWNfWU1lWU9OdDVaeS03RVNsbm95b29DRjBzemQweUJ4OTJVLW9XRGtpMldhZ3JuVXF3cDZSRXJCVGV0dmRSMm9yVkwzQ1c0U2ZSbV8zNXNBRnlCZE05bDJkUllPMXRvSnJ5dlhFR2QzUGxQSUZ4aS1WQ1ljRUVuMzdHcWw1eXUyRmhEdVZfU1gtSEtwR0JvMi1HV2xXYkhVd1ZQQ3d6bm5WNkk4Y3FqSzloTlMwX0FBOG1FWNIBjAFBVV95cUxOcTVKMzZIN1QydERTbGlnX1ItUURBLXVBaFhsVHdaZkRKWmsxQlF2dnZYZllxZ0pCV3lMcTVjZlBCTEtOdEJYMUZWQnV3M0lKcFFFN2l0SjZWZWR5cGxqMTZYNmgxRkFTSGtCQzM0cnV3MXVKM1hqMEJNaU43TlU4SF9IUnpLVzhIc0JIVQ?oc=5",
-      "date": "2026-07-27",
-      "source": "Google News ES",
-      "desc": "Murió mujer contagiada por hantavirus en Los Lagos&nbsp;&nbsp;Cooperativa"
-    },
-    {
       "title": "Ukraine: Lviv man contracts hantavirus after vacationing in Croatia - Outbreak News Today",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTG1TejhVemw1OWNFRV9sLTZEWjNTNUtfQ1NMOGExU0hxREEtSjFxT1dUaWQ3U2JoOGFFeTZMR0FKRW5LLTQ2T1lLSXJOTG1oYUI2TG5IejM1OGdsbnJkU1ZGdHRDdjI3b3BHX0xJLTBxSGVManZRc194ZFVBUjU5UW05Yk4?oc=5",
       "date": "2026-07-24",
@@ -1157,6 +1150,13 @@
       "date": "2026-07-23",
       "source": "Google News ES",
       "desc": "Hantavirus en Venezuela: Academia de Ciencias aclara que no existe evidencia de contagio entre humanos&nbsp;&nbsp;La Web de la Salud"
+    },
+    {
+      "title": "Mónica García no corrige el vacío: España sigue sin vigilancia y protocolos frente al hantavirus - OkDiario",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWmVxSTAxNlVITlJnNzhfWnh4Y1h5YWU4WlhZMDJxME5IUHJLalpvZjNRQzB3MERTbTJPOGVQdUEyM3ZuaXZsdFlnX3FLZHh1VzJqRmZabVAtUnI3ZkJ4YUozUzA4clVHb25lVjRzOFM0dTNqWjBLZWxBakhaZGFYNnZoeFF6d2ZvYmRqb1ZhSWRXN3QzcVBvclRrNTczeUpXeDB4Ql94cnFUaGFsRThMMkwwaVVhVEJfRGZibWVFYVnSAcYBQVVfeXFMTkxHUDBqUXVPektrQXRqTmNXUDhIa0tKYzl3UHJhQnJLWEx1eW5iR0VkbjRzbWtUdjF3N1FvdFRwcEdGWHBQZUZtWURVaHpmQkdGQjFQZS16ZHI0bm1KV1JYSEJWVnk0OGl1QlJrcGVKZVg1SVBWRTR4d3N2d3F2bzVCU2luN3FmaU93R3hwXzkybUpIQ0R4U0ZMMTE1eFFrT0lldjN1T0U1ZUZxRFR1N0ZySGl4TXFYWVZpYW00Q3lKMjBsNGJ3?oc=5",
+      "date": "2026-07-23",
+      "source": "Google News ES",
+      "desc": "Mónica García no corrige el vacío: España sigue sin vigilancia y protocolos frente al hantavirus&nbsp;&nbsp;OkDiario"
     },
     {
       "title": "Hantavirus en un crucero por la naturaleza y el riesgo de una pandemia - Gestión y Economía de la Salud",
@@ -1222,18 +1222,18 @@
       "desc": "Venezuela registra tres muertes por hantavirus en el nordeste del país&nbsp;&nbsp;La Voz de Galicia"
     },
     {
-      "title": "Venezuela confirmó tres muertes por hantavirus: el comunicado del Ministerio de Salud - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVHFUaTRCVHFoa01BWTBVZ2trdjMyZnJNaEI5aW9NMVN4T05zcHVFN0g0b0NuT19FV2VHWlp6Q19WOFpIYkE5YVI3dnpLdGFuRDNieWpHanBHUXpEbllXX1ZjRTdMLTYwampqdXRDVXZZMWVMTFpuSGtlZFZ0SWhWLXlLbjRFTThERGFKZzk1Z0hKeTRnUmZaRVJsalp5NlF2dVl6dlpGLTlRTmtIbXUxbnJLMU1KX1ltYUFyQVpkc3ZGR3Ix0gHfAUFVX3lxTE1fcU5hZC01TkFpSFFyN2ZldFpxeDdHQ2hzS19wS3JnTi1OaFZYczRMVFNNREVMT085a0p0cVg2anAwSldCcWZIbE93cGJ6T2dIdVNFWFdOYkM1dk9UVUE2cm9LX3NVZ2FVMDJWTjNaR3JfaDgwejBTUjBfN0xzMDR2VkZRbnJvcm1rU0xYQ2plSmlNSXVaS3czWDRmNk05WnN1ZUNxUXBURmtZaHdoYll5eEluMy1oUTc4alpfWTZrcDBjUFBBV3ZTSkp4V2xkaldFR3JueUhpRkt3dWl3Z2c?oc=5",
-      "date": "2026-07-22",
-      "source": "Google News ES",
-      "desc": "Venezuela confirmó tres muertes por hantavirus: el comunicado del Ministerio de Salud&nbsp;&nbsp;Infobae"
-    },
-    {
       "title": "Venezuela confirma tres muertes por hantavirus en Anzoátegui - سانا",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5fT1ZHU04zeVc0dDFfX0kwMmxfWXhaSG0wRjhacWZySDNodXIzYnJWUjRwQ0ZtSjJjRlpGbFlIRlI0MEtCSlprQw?oc=5",
       "date": "2026-07-22",
       "source": "Google News ES",
       "desc": "Venezuela confirma tres muertes por hantavirus en Anzoátegui&nbsp;&nbsp;سانا"
+    },
+    {
+      "title": "Venezuela confirmó tres muertes por hantavirus: el comunicado del Ministerio de Salud - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVHFUaTRCVHFoa01BWTBVZ2trdjMyZnJNaEI5aW9NMVN4T05zcHVFN0g0b0NuT19FV2VHWlp6Q19WOFpIYkE5YVI3dnpLdGFuRDNieWpHanBHUXpEbllXX1ZjRTdMLTYwampqdXRDVXZZMWVMTFpuSGtlZFZ0SWhWLXlLbjRFTThERGFKZzk1Z0hKeTRnUmZaRVJsalp5NlF2dVl6dlpGLTlRTmtIbXUxbnJLMU1KX1ltYUFyQVpkc3ZGR3Ix0gHfAUFVX3lxTE1fcU5hZC01TkFpSFFyN2ZldFpxeDdHQ2hzS19wS3JnTi1OaFZYczRMVFNNREVMT085a0p0cVg2anAwSldCcWZIbE93cGJ6T2dIdVNFWFdOYkM1dk9UVUE2cm9LX3NVZ2FVMDJWTjNaR3JfaDgwejBTUjBfN0xzMDR2VkZRbnJvcm1rU0xYQ2plSmlNSXVaS3czWDRmNk05WnN1ZUNxUXBURmtZaHdoYll5eEluMy1oUTc4alpfWTZrcDBjUFBBV3ZTSkp4V2xkaldFR3JueUhpRkt3dWl3Z2c?oc=5",
+      "date": "2026-07-22",
+      "source": "Google News ES",
+      "desc": "Venezuela confirmó tres muertes por hantavirus: el comunicado del Ministerio de Salud&nbsp;&nbsp;Infobae"
     },
     {
       "title": "Venezuela confirma tres muertes por hantavirus y pone bajo investigación el fallecimiento de dos sanitarios - Artículo 14",
