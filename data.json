@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-07-27 13:59 UTC"
+    "updated": "2026-07-27 16:29 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,13 +1124,6 @@
   ],
   "news": [
     {
-      "title": "Mujer permanece grave por Hantavirus y autoridades investigan el origen del contagio - auroranoticias.cl",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUzNCSlhtaWYyamJjMGpXSWpnNWF3dXlOSTV6UnV2NmNBaTVsazMyTDcyMVFOc2dzSHk4MXY3REx0NW1iUnkxcjlHV2VmbU1VOWI5WG9ob3dpckRGRHdLMVlmVW5kcGN1ajMwdWUwczFfQm5USzVSMFNURzJqQ3FaY2dRQU5DaHN4REFQbFBMZVppODN3NnI2X2ZqMG9QMTlSRnZrZTZrbC1DNUtjUHNCdDhOcmFncmZDMWRF?oc=5",
-      "date": "2026-07-27",
-      "source": "Google News ES",
-      "desc": "Mujer permanece grave por Hantavirus y autoridades investigan el origen del contagio&nbsp;&nbsp;auroranoticias.cl"
-    },
-    {
       "title": "Ukraine: Lviv man contracts hantavirus after vacationing in Croatia - Outbreak News Today",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTG1TejhVemw1OWNFRV9sLTZEWjNTNUtfQ1NMOGExU0hxREEtSjFxT1dUaWQ3U2JoOGFFeTZMR0FKRW5LLTQ2T1lLSXJOTG1oYUI2TG5IejM1OGdsbnJkU1ZGdHRDdjI3b3BHX0xJLTBxSGVManZRc194ZFVBUjU5UW05Yk4?oc=5",
       "date": "2026-07-24",
@@ -1248,6 +1241,13 @@
       "date": "2026-07-21",
       "source": "Antena 3",
       "desc": "Venezuela confirma tres muertes por hantavirus&nbsp;&nbsp;antena3.com"
+    },
+    {
+      "title": "Se aislarán todas las zonas implicadas en el desembarco del crucero con hantavirus para evitar contagios - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fYnluVDlVc3ZOX1RsOFVZcEtvdlA1bXNDUDN2V1k1Rmk1Q09LZUtTNmt6MGVXaHdaUldaT1NmWnR0QnJ5NEVJeFFoZmFIODdRMUU2d3NB?oc=5",
+      "date": "2026-07-21",
+      "source": "El País",
+      "desc": "Se aislarán todas las zonas implicadas en el desembarco del crucero con hantavirus para evitar contagios&nbsp;&nbsp;EL PAÍS"
     }
   ],
   "countries": [
