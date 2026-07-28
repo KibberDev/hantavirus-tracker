@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-07-28 18:46 UTC"
+    "updated": "2026-07-28 20:17 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,6 +1124,13 @@
   ],
   "news": [
     {
+      "title": "Chile declara por primera vez alerta sanitaria por hantavirus en 13 regiones - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTlFrX2tUSFljVVEwdGIyRE9WMndSRlNnTk9YR0FuVy1WVVJ4MjhpTFJuMVBiSkwwMC1EUFlyZWhicGlTTVFFZjhsQW4wcXczSFlzYUtPTzcydmFiZUxrcEk2TWpBZFJTeUI0amQ3dE9GMl9pRzd3VEVxaGZWd2FSN2VjVFUwcE9zRlpzV0JmZ0xiNkNrWm5jcDEyV2NJb3dEUll5TXRBbFE2akkyVjg5bkhfb3VHRE1U0gHMAUFVX3lxTE0zNEIzOEVXQzhsSDdubDZPT1FmZjJtOXk0R29MRXVkR2ZmaW5ESFlaN0xjRm9DNE1QMzVaOWlKeWFpb0Q2Z0sxNGhieG5lV1JlZk12WTFzUnhEN1lLTmhEVElqZkhBWWRxU3JWajc4S1lJT0VGRkdOS2RIQl9pZjNNcWpIRXc1LTUyeWFhS0tQRjZ5bzVmX2JFc3hsYzFIa2h5YkszZ2FkcFZoR3h5aWNOcGoxVlo4cFlpX0NCc2EyaDdLdnFPN0IzM01TTw?oc=5",
+      "date": "2026-07-28",
+      "source": "El País",
+      "desc": "Chile declara por primera vez alerta sanitaria por hantavirus en 13 regiones&nbsp;&nbsp;EL PAÍS"
+    },
+    {
       "title": "Chile declara la alerta sanitaria por hantavirus en 13 de sus 16 regiones - Diario de Santiago",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd2REX3dZcDRQdE4ydGFfYldCU2pCbm00bnBIUFNCLWF1T1lBbXNKdGI5eGtGWU9fY0drY0NWcWlFNUU5Z1htdGRHaDdCaFVtLWFnUkgxSEZCSHh5R1dhRl9EQ3dLUUpabjZwWmJ6N00zZjZKemNUUGxCSTl6ajRONDNZMkN4SW52Qnp5ZjhYZlp5Yk53dUFFWTJFckx2YkVkNDhMdUNVSmtHT0FMZTByVEhR?oc=5",
       "date": "2026-07-28",
@@ -1159,6 +1166,13 @@
       "desc": "Ministerio de Salud declara Alerta Sanitaria por hantavirus desde Atacama hasta Magallanes&nbsp;&nbsp;El Periodista"
     },
     {
+      "title": "Minsal declara alerta sanitaria por hantavirus desde Atacama a Magallanes - Teletrece",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdWEzVXhRMHc0WW5Sd2hjYS1DZHRvTU9kRnllYVc5QjJiRHFDSEtsOXhBWWw4WHh1dGZWbDBVRzlxOUg5VkVZMHBsaHRIVjJPaEpvUkliVHlpTjZYUnN5c0ZfQllZaXpQQ3ZhRjduZEd0dV9tTEtULUZvZjZheU1SLTRGSGpIWEIwRDZQU3NyU3ljS3NXQXNlQklTbjRycEx2ZFkwMTZfQ3VOdk1FSnp2RlBISDdXVWhm?oc=5",
+      "date": "2026-07-28",
+      "source": "Google News ES",
+      "desc": "Minsal declara alerta sanitaria por hantavirus desde Atacama a Magallanes&nbsp;&nbsp;Teletrece"
+    },
+    {
       "title": "Minsal declara alerta sanitaria por hantavirus desde Atacama hasta Magallanes - auroranoticias.cl",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV1Rfd2J4dHUyTnY0ejFrbWI2Sm5mQnlJd3NReXcwc3ktbmFrTzlOWWwyV18za1FRTnZSaEJfMFpLcjVueWtyT2tLcGhoTUNqQ1ptejIxXzAzWVJMQlN0SVN5b2VuX3FiZF9CUW9NT1ZGVzhNY013aG5zaWZ1YVFEMGpydVhSYlUxajF2SmFMc3NjUk56VUxYclNkQTlSTUcxeFBTa1RQeUk4V1ItUDVkNkZ0Z0tXQQ?oc=5",
       "date": "2026-07-28",
@@ -1173,25 +1187,18 @@
       "desc": "Minsal decreta por primera vez alerta sanitaria por hantavirus entre Atacama y Magallanes&nbsp;&nbsp;Publimetro"
     },
     {
-      "title": "Minsal declara por primera vez alerta sanitaria por hantavirus entre Atacama y Magallanes - lacuarta.com",
+      "title": "Minsal declara por primera vez alerta sanitaria por hantavirus entre Atacama y Magallanes - La Cuarta",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS2N2dXdYY05EUmoxbnNQRkRmdDFHWWp4QzJpbnE0M3MtVzdmSERLNEZkNUFjcmJ2ckNJLW1xb2JQcGQzM25naWE1MHd4NDlYWHAtZ1dYU1J2aVhNdmY1Q3VOd2pPUHVCNlJkS2VTYXFrenM5amhrdmsyeHdvME1TRzBYcU9ReEJ0Nk9ZVlI3TFc1Y2tZYzg1MHNNTjAxQlczVklWdkZ1ZFR5cVFxZENfNzFPd3UxdnVYQlZxaWVEQmZFNGYxa2dTWNIB6gFBVV95cUxQVUxnc1B2eW1uT2F6Y0VWVGwzRVhRU0JTbnVQd3dyRHQzRlA4ZG9DZXJoWV9mUGpXcXVmM3A5cmtJcXNRWElYZzM1NVFTWTNNSUVLZ0htVklpYTRRYV81MEZWWElkVFZnUDRTaDZ2M3J6WVAzbUVQMGV1cmU4eV9HR09YdU1QVDJXRTVMNjY4R0RHNW1sWkFpYmhtdkUzSDl1bkJKdzN6UGlaelFPMGJIMkg0Zm5TdjBoUGNRcVNSc2ZqTkZQR1lQaTJuRVQtenlSWUozQ2t1ZHNCVms5TGx1N2doTVVwVHRHMFE?oc=5",
       "date": "2026-07-28",
       "source": "Google News ES",
-      "desc": "Minsal declara por primera vez alerta sanitaria por hantavirus entre Atacama y Magallanes&nbsp;&nbsp;lacuarta.com"
+      "desc": "Minsal declara por primera vez alerta sanitaria por hantavirus entre Atacama y Magallanes&nbsp;&nbsp;La Cuarta"
     },
     {
-      "title": "Minsal declara alerta sanitaria por hantavirus: Estará vigente hasta 2027 entre Atacama y Magallanes - Meganoticias",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRTZHREU4ZHNMeFNEY3hjRzRUd01mRVQ0ZkwxanVQeFdzeEFSV2xZLVdVanpDTnhfM240UTNSVXg2VTVveGoxRVBOckdHTzctY0tva0otMjdZT2o5Q3V1M2QzdGNaOGhtYnNrbEw4WW9FM01VNm5hbzd3c09VeFZEMG1KX1NpOXRIUk1xMDZnTVU3SEtOb0VYb1d0QWpjU1hSU1JqeU1PNlhWOHJJdWpZZkJCS1VPLTRyMnAwXzMzWWZNV2RZc1VSVHZWMNIB0AFBVV95cUxPUlRWSmU4Q1Q5WjFiMnl4a0k1Vk5mZVplMWtvT3lFejVyWU5Nd3JZUTFiRzE3NExaUkZQQUdFNm1VRGtvMXJYX0VKLTlwUTFtUHNQYUZLR2xXNkJENlhtSzBJUWpYaUIxb1pfT3M0OUtlVTc5ek03bUI1NlliOUtSTTQ5bmJ5cUp2M3laUjJoRkxHcFE4Uk1DMl8zWXVxaTJCdzNiV09ZX1JZV3hUeVFBYktJRlVfT2cwU0ZUTnhCczhZdmxmNU5TNXA5UTFNYWRB?oc=5",
+      "title": "Ministerio de Salud declara inédita Alerta Sanitaria por hantavirus con alcance en la Región de Atacama - NOSTÁLGICA cl",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObmxnSGRSYU1Qdk1TVngwSjU0S1RNSmN5bTBicmFxSDhjUVhjQV9BUWZfRUMyc1hKZGRCLUlVeWNLSkFnRTJ2V3ZMYXhfVmdWbGhfT3hrVG41V05pY2doaGtPVXpMN3BOWktlakZVUWkwYUVFNHFNV1g2aHhpNmlER19TckF3NGJ3MXl1QUpHZDRORzRHZjhpUmFFWXZVMVBpaGN1QnVuRWlNLWpJTzd0ZllQUjItU2tlUUZJQjBLSlREbWxsQW5raGpR?oc=5",
       "date": "2026-07-28",
       "source": "Google News ES",
-      "desc": "Minsal declara alerta sanitaria por hantavirus: Estará vigente hasta 2027 entre Atacama y Magallanes&nbsp;&nbsp;Meganoticias"
-    },
-    {
-      "title": "Minsal declara alerta sanitaria por hantavirus desde Atacama a Magallanes - Teletrece",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdWEzVXhRMHc0WW5Sd2hjYS1DZHRvTU9kRnllYVc5QjJiRHFDSEtsOXhBWWw4WHh1dGZWbDBVRzlxOUg5VkVZMHBsaHRIVjJPaEpvUkliVHlpTjZYUnN5c0ZfQllZaXpQQ3ZhRjduZEd0dV9tTEtULUZvZjZheU1SLTRGSGpIWEIwRDZQU3NyU3ljS3NXQXNlQklTbjRycEx2ZFkwMTZfQ3VOdk1FSnp2RlBISDdXVWhm?oc=5",
-      "date": "2026-07-28",
-      "source": "Google News ES",
-      "desc": "Minsal declara alerta sanitaria por hantavirus desde Atacama a Magallanes&nbsp;&nbsp;Teletrece"
+      "desc": "Ministerio de Salud declara inédita Alerta Sanitaria por hantavirus con alcance en la Región de Atacama&nbsp;&nbsp;NOSTÁLGICA cl"
     },
     {
       "title": "Salud decreta alerta sanitaria por hantavirus desde Atacama hasta Magallanes - Canal 9 Bío Bío Televisión",
@@ -1199,6 +1206,20 @@
       "date": "2026-07-28",
       "source": "Google News ES",
       "desc": "Salud decreta alerta sanitaria por hantavirus desde Atacama hasta Magallanes&nbsp;&nbsp;Canal 9 Bío Bío Televisión"
+    },
+    {
+      "title": "Chile declara alerta sanitaria por hantavirus tras aumento de letalidad - Imagen Poblana",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRm9ueXN5SkdtNTFlc3lVTDZ1Y2huRjFQdFRVa1BxMVFicGpmNGVmdlVpang4STY4OGkzQUhjcFdFVVdmanVZTjA2Q000dzZTMm1tNWtGdjgzV0g4QnI0bnpqQkVMLURFcXFnMTBnbDNPYlNqT0RQQ2piRnR6YURIWDVmZkQzdnBFLTFvTkYwN1pRc2NTSXlLUmphVDZtYVZiYlM0T3A2akc2dw?oc=5",
+      "date": "2026-07-28",
+      "source": "Google News ES",
+      "desc": "Chile declara alerta sanitaria por hantavirus tras aumento de letalidad&nbsp;&nbsp;Imagen Poblana"
+    },
+    {
+      "title": "Minsal activa alerta sanitaria por hantavirus desde la región de Atacama a Magallanes - Diario El Centro",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYmVQaFpEa0M1RVB2czhEY0R2Z0VrMjQ5OGZSS0lxN21hUWpieHZONnc1U2them5aNmZMMmhXZ2E4bFA1QlRfRURXd0U1MWYzZURuWVZNblZGOGRNQ3QxMWFhN1JWVFdwTnhTZUxtQm43OFhUZXZWMHN3WEpFYXFwdWRMektmaTZKWERab1BmS2dTYlEzOVZNVGx4QS1saUJ1NGhxUFQ0T1VGWHIteEU2OElERTUycjV5R2c0c2s2cUxIOGJlR0E?oc=5",
+      "date": "2026-07-28",
+      "source": "Google News ES",
+      "desc": "Minsal activa alerta sanitaria por hantavirus desde la región de Atacama a Magallanes&nbsp;&nbsp;Diario El Centro"
     },
     {
       "title": "Hantavirus en Venezuela: Academia de Ciencias aclara que no existe evidencia de contagio entre humanos - La Web de la Salud",
@@ -1227,27 +1248,6 @@
       "date": "2026-07-22",
       "source": "20 Minutos",
       "desc": "Venezuela confirma la muerte de tres personas por hantavirus&nbsp;&nbsp;20Minutos"
-    },
-    {
-      "title": "Venezuela confirma tres fallecimientos por hantavirus e investiga la muerte de dos sanitarios - Gaceta Médica",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ2R0RHBPQlF3SFNteWlVSnU2X1VMOGRDQThoV2VXckFVbTRhOFpJbmVKNGVlS0NEdjlGWkl3SHZ6MllGYmxrTFhkU3Q1WUZNQVpjOGgyYndBZDhHdjRpWXhNS3RtZktydkVpZnpvV0N5ZHhmQkpoOG5GNmlvNnpLT0MxaVRqUE5EdXBWd3MwLS0xZjRLdkRFcFc0cFNic2VKdXY0V19fdjlkeG03V0FCMFltYXhsTmhzV1dybm9R?oc=5",
-      "date": "2026-07-22",
-      "source": "Google News ES",
-      "desc": "Venezuela confirma tres fallecimientos por hantavirus e investiga la muerte de dos sanitarios&nbsp;&nbsp;Gaceta Médica"
-    },
-    {
-      "title": "Venezuela confirma tres muertes por hantavirus en su territorio e investiga el fallecimiento de dos sanitarios - LaSexta",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOQ0RjRVZoblNCN3Q5UWlUVUh0SHU2MmU1d2ZBMDdJeVBTdjgwSDJiemlVUzFyUTRJM081TGJrcjd1X1k5eUtDMGhGT19iWFhkTGNvU0N3YURzRERqRmU4d0JhZmRMOUxianQ1Z2JzbUg4MUwycmVudHFRQ2lvLTcwYWZGNm42eGpiWUhoOWJTaGZjekJ4dGY4SHZIZGZWRHNEOXdKelUxZ0pQR19ZNFUxREk5LWJiMm13REZORmd4emYtTUVEaW9kTUVyN3VFQjVJbVcwa2pPd3c0NEhzQm1rM2ZHSU4yTktuTy1jeHlGdGtPV1ZhY2QxcUFOMlpMQVZsWVFlWFdRZUbSAYgCQVVfeXFMTjFiclhuZGpBS0k1czluX3RZMnpfanJDYzhfSkhYUmx6YVRaMmVDMzNtbFoyN1h0NEVOMDZCaUJ6YndSUURFM0ZsUjF0dlFkVGZpczVPTGJCcFVrWXJfNW1lLUxBaDFmWWlhUVJPcVVseHRYR3VVbzdOUE9fMi1SQklxR3ktMVJsV0x0Nk82UnFpUW1ncGRySkRPbHdjcFduVm03WG5kWktnbnVWQWx1cjZOU3hwZ3dtQndLeGVVS1gxc2hKS3N6OGl5OEFzb0kyaUJqSjVMWTgzOEk4MU1mdXM0QXhTNVdZSkV2V05BT2xYN0VRcGFTVVBsdTRjeWN2ZDhXNEY2YjA4?oc=5",
-      "date": "2026-07-22",
-      "source": "Google News ES",
-      "desc": "Venezuela confirma tres muertes por hantavirus en su territorio e investiga el fallecimiento de dos sanitarios&nbsp;&nbsp;LaSexta"
-    },
-    {
-      "title": "Hantavirus: qué es y por qué vuelve a ser tendencia tras varias muertes en Venezuela - Demócrata",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOHNCVjNHYVZWdUpWSy12V01SNlZnOTFYWXg4MjBMWUR1TFdPVFk5Nm12OWM4VDI0U2NZMThYem8ycGhoV1VpTndLRy1RcFZUUmlZT2ppYjhwMF9wOVd6QUx5Njc1TTJsSXFwMGFBLXBDRkw4OFJCRi10bWhMUGNOdFVuQS3SAYoBQVVfeXFMTzhGR1VIbFFhMzZkQkJTQi1LU1lJekhwc1pUV1VRYk9iVzlEdXJ5TDY5bElDX3Nma2lqenpYT3ZXRGI5cVA3LXRiRW9UeWxiNWQzbWZhTWEyQTBhbXEyQllYYzhmbFN1V0t2ZkdPUkhOY2hTYlBmZ0VRM2ptVGZZdTZhdl9LaEwtWXh3?oc=5",
-      "date": "2026-07-22",
-      "source": "Google News ES",
-      "desc": "Hantavirus: qué es y por qué vuelve a ser tendencia tras varias muertes en Venezuela&nbsp;&nbsp;Demócrata"
     }
   ],
   "countries": [
