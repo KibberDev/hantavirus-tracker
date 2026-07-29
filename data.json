@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-07-29 04:32 UTC"
+    "updated": "2026-07-29 07:31 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,11 +1124,11 @@
   ],
   "news": [
     {
-      "title": "Ante alta tasa de letalidad y contagios, Chile decreta por alerta sanitaria por hantavirus - Nación321",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbll2RmJmcDJwVUVKNEVZQVFJVmpKQUVsRnEwRksxa0ZFTXVsWTVINng2RDJaeTRGM2Z5VGg1Ny1CcDNfQkJyUVp0VjFpQW9zNWJXVkJqczFJS2dBNzJQTWJwWUtWdUJhQ3NrN3BsaTlNanBjRngyLVd1YlM3dmNkY3Bvb0h0dVpFT08xZUlvS2taREE1ajl4YjJsYTJfRG5odzRGRmxoaXhHcDIycV9Bd1pad1BrSVBreDlLR1FENDhQNGJSWlBjMU9YYzdRVFhDNVg2b05IaGU?oc=5",
+      "title": "Chile decreta por primera vez alerta sanitaria por hantavirus, pero niega epidemia - El Informador",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZExpYUhhc0c4dHhXRXpwTE5kTXNjMlpFRzE3aldjM0FIV3p1bVg4S0txX3lvdHIxMEc1VnE0NlVvRC1TbFE2X0NCbjNQdWxqRTgyNGx2Q3Q2YS1kZFMtb2IwMWhPOFVEdHFXMGRscW54Nkd1eWdROWxiRUpIRVh0UlFtU09QZUNIUEJxeUx1R3UzSWhtYUszY1lKeW05b3RiZkR2ektRcS1hVms3Zmt4c0ZKelZkTG9kU3RnZVRVeGhiNlBRdlJnMUlxRVE4eENJMlNxbnNia9IB3AFBVV95cUxNN0JvVjRsVllUZXZ1a20xT1VEaUhKSjhJQU9weUpmQ2R1cTZnTlBSVEZhS2JJMW9NN1ZCOXdISldyZjBqbUFSQ0k4bjgyTWpMdWNIV3RhUDN1TU13blVxVnRwNEdURWItdlBuYlJQTTBJX0UtTU1HeW1lcVNKY1pzak1JZTk5UUNnTTJWakNMbjRvT0VVMXJ0eS1sTmZ1OHB5THhIT2l4TG9FUjZDeGNOTlFHZFlOakhpZGl1d2ZnWHRSSXlqRlB3dEFMY1JVbURHS241MFpNZFR6ZTJ1?oc=5",
       "date": "2026-07-29",
       "source": "Google News ES",
-      "desc": "Ante alta tasa de letalidad y contagios, Chile decreta por alerta sanitaria por hantavirus&nbsp;&nbsp;Nación321"
+      "desc": "Chile decreta por primera vez alerta sanitaria por hantavirus, pero niega epidemia&nbsp;&nbsp;El Informador"
     },
     {
       "title": "Salud. Chile declaró una alerta sanitaria preventiva por hantavirus tras el aumento de casos - La Voz del Interior",
@@ -1215,6 +1215,13 @@
       "desc": "Declarada la alerta sanitaria por hantavirus en 13 de las 16 regiones de Chile&nbsp;&nbsp;Noticias Venevisión"
     },
     {
+      "title": "Los primeros síntomas más y menos comunes del virus hanta: se pueden confundir con otras enfermedades - BioBioChile",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNV2xRMVNEUzUzOUpUb3F3X0U0OHhSRERwYThGN3R3TlVTWGx5eGxxZllSUEU1cm14V3cyb1U3aXpIcU1ONFplOWV5eTBHQXZHLVdYQ2dPR2lqYk1sdnU2RFJuM2ExbUhpeExiNFJxNUN6emhDT3d4bXhqbE5fU1JEbXpQZ1VpNTlqVDRLeFVBSTZZU1VQbW9tOWpKSE1JdWV4MTlHeUxlb2VXQXN4VzljTHRwMVBtcUpzMVhudVhDVnp6NXVrVFhIOWN6b0RJaGo3ZFktNy1GcEFZSW5VWEVWc1YzbVc2bW5QUjNfT194MkN5S1pkMzZlT0tQYWR3ZHNDYzFZLUlmajNKZw?oc=5",
+      "date": "2026-07-28",
+      "source": "Google News ES",
+      "desc": "Los primeros síntomas más y menos comunes del virus hanta: se pueden confundir con otras enfermedades&nbsp;&nbsp;BioBioChile"
+    },
+    {
       "title": "Chile declaró alerta sanitaria por hantavirus tras el aumento de muertes - MDZ Online",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdWp3d1lqY2ZGVFVqVkRWMEU1OXRnWVc2c2F4XzUzMGR5aTAzeDkwRHFrbkZXT0EwckMyd2ZMWDBwOVF1SENSamFJUkpsR1VwUUQ4ZG9RY3dMdW9NeUNYZWNrbk9OY3pDaVZkOS0yX0pySFIxODlNYjAtNE1HVk1qZnhrZ09KQkE2bHZHdC1VVWl6cVZFLUNrMFBSSHhNZ9IBowFBVV95cUxQNEduZWJ6Skw5cGNjRVBtOHBXTmt0SkdBeVIwNjd0NmdfaW9va2tkNERCX0V3LU5ibFNfRGFidk1JVk92VzlXTHFvZFdQYmpGc3ctMGkwQndpQndiQVdWMFdhUEJOMGhoN3NRc2YyYVJTcG5DYlR5QUtDUnVKbldCUkk2LUVyR1ZERE1kLTFUZkltWmxTX1lzRG0tWVE0NDNSOFBZ?oc=5",
       "date": "2026-07-28",
@@ -1241,13 +1248,6 @@
       "date": "2026-07-28",
       "source": "Google News ES",
       "desc": "Chile declaró la alerta sanitaria en todo el país por un brote de hantavirus&nbsp;&nbsp;La Nación"
-    },
-    {
-      "title": "Minsal declara alerta sanitaria por hantavirus desde Atacama hasta Magallanes - auroranoticias.cl",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV1Rfd2J4dHUyTnY0ejFrbWI2Sm5mQnlJd3NReXcwc3ktbmFrTzlOWWwyV18za1FRTnZSaEJfMFpLcjVueWtyT2tLcGhoTUNqQ1ptejIxXzAzWVJMQlN0SVN5b2VuX3FiZF9CUW9NT1ZGVzhNY013aG5zaWZ1YVFEMGpydVhSYlUxajF2SmFMc3NjUk56VUxYclNkQTlSTUcxeFBTa1RQeUk4V1ItUDVkNkZ0Z0tXQQ?oc=5",
-      "date": "2026-07-28",
-      "source": "Google News ES",
-      "desc": "Minsal declara alerta sanitaria por hantavirus desde Atacama hasta Magallanes&nbsp;&nbsp;auroranoticias.cl"
     }
   ],
   "countries": [
