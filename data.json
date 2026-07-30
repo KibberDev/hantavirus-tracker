@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-07-30 13:16 UTC"
+    "updated": "2026-07-30 15:32 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,11 +1124,46 @@
   ],
   "news": [
     {
-      "title": "“No es necesario ver al ratón”: las actividades cotidianas con mayor riesgo de contagio por hantavirus - La Tercera",
+      "title": "Chile declara por primera vez la Alerta Sanitaria por hantavirus, con un 21% más de letalidad que el año anterior - Las Provincias",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWERBcjlSdV9sSHdOMTc1cnlaZkd0YUpPZGd0dlFwVHI3a2ZEdGp4VHJjNENTVkxIOGpjZ1VfUFN4b1R0QnJuVEE1cjNfUG1UMHg3YWVHMjlZeFRKR3Z2azdMZTM1VWdrRktKc0hJWGZlVnlVMlQyV2FvSmdXcllZSFZqWnBDV2dEcFdTTmgxYWREeVFXcmgwbmdveVNnTlc4M3JBSloxcGl1LXVYOFZWTENGTkNwNFhCSXVsd3gyZjk4dmdPVXVNcGZ6T3BpTG_SAdQBQVVfeXFMTkpINnUxdzQyUmdEdVZXTXVLQjVBRWFFdmJ0NGxQX2swZXl2VFR1Qi1pcWEzb3otbzF2VHJXdktudEZfX3pBUlhwb01YZjh2YTg0TTJZdkVsR2Z1VnJiMUs0VTdQZUpuOVhrTWNKRGQyRFBiaUphRExjZ3VQeWRfVHI5X2g5dW9OWnQ3VnZTU3J4LWF1M2ZEVzZJNThGUVJ3N0FXZ28zcXhWNU81dm1WYTlhQ0I4cE5SejJYS0E1b3FMOWU3Qlh2UnZJdmJSdjBkeUpHRFA?oc=5",
+      "date": "2026-07-30",
+      "source": "Google News ES",
+      "desc": "Chile declara por primera vez la Alerta Sanitaria por hantavirus, con un 21% más de letalidad que el año anterior&nbsp;&nbsp;Las Provincias"
+    },
+    {
+      "title": "“No es necesario ver al ratón”: las actividades cotidianas con mayor riesgo de contagio por hantavirus - latercera.com",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWmxyTS1aOGNKcXh0RmJNTklNNmh6WFJVS2RhLTMtMnJoRS1YUzJyd1dEdnhELUZnYW5nT19ZX0RNel9Bcl9IaHg4dXBNazdpY2NlLW9lRHFvb1FIVm55b3dOMk16TWhmYkxSV1lsUDZhY1JNeVJJWGlteTNKdElYZGlicUZxbWlTU2VtTndrS1BwdHlTcEhyRkpUR29QOW93Wm1YZG5RNTJ6ZUJhR2NyMXBQVmxvRGVkUUh4QVNrNDNwMC10eXhvZWozbndjVmVoeGxxLVpJNVRoeEIwMWfSAf8BQVVfeXFMTlVTVEVXNVY0ZVZsX05LTFF2T1k3TmFzSEJ5enRHVnJQQXBOZXZzdmJlOHAyRUVieHZsZDU5ekhOcXhseG5YVDAydkRCU0JWS2toTVdKWVRYbEZhd2U0R3MzbHlkaTR0YnM1azFoWHk5ODFiUHl1bkRXbE93Z2dQbk1LdU50NHRDTkRJWGNtN2tvUlZFQ2ltTUhWRWFFTVpKVkNwQy02M05NMklkcWw3cmlONDhwZkk3SGVzR2F3QmJVQ1JxYnlUNHpRaEJwTzNiQWdyLVI3bUZaRnV6cWZfNmdFdEYzNVNZaVdwckw3WUE3cDZGdlExeTBWMk5uOE1N?oc=5",
       "date": "2026-07-30",
       "source": "Google News ES",
-      "desc": "“No es necesario ver al ratón”: las actividades cotidianas con mayor riesgo de contagio por hantavirus&nbsp;&nbsp;La Tercera"
+      "desc": "“No es necesario ver al ratón”: las actividades cotidianas con mayor riesgo de contagio por hantavirus&nbsp;&nbsp;latercera.com"
+    },
+    {
+      "title": "Hantavirus: experta llama a reforzar las medidas preventivas y consultar precozmente ante síntomas compatibles - G5noticias",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTEgtVXZrYjFYM3QzenVkZVVPd3gxTERjbC1sQm5qcTFwb214YlVkVHI2VjBNQ2RCWTJMREJGSFYwX3RaM2tmMHJLaUJibjZUUTd0U2JjVjRCQkYxX1ZHQVloaVVaS25ZSWVUOUpQOElFakd2M204NmdFMU11b1pEWTZwOFd3UE9rTTFIZXRUQlA2dkRDaUxacnZtVG90ck9PalBkdWdFLXRjX3o2RG0tRnMyV2lyX3N6a3A5c2cxNDd1ajFqOFVXRmZ1RFVkVGw1S3BzbEh0emY1cHM?oc=5",
+      "date": "2026-07-30",
+      "source": "Google News ES",
+      "desc": "Hantavirus: experta llama a reforzar las medidas preventivas y consultar precozmente ante síntomas compatibles&nbsp;&nbsp;G5noticias"
+    },
+    {
+      "title": "Alerta sanitaria por hantavirus en Chile: los síntomas y qué hacer con un ratón de cola larga muerto - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOdlo0dkxGendJVU1uLWRxcDlrcTVpZllrS3ZjUHFkSTZkRGpHSTVXdFRZazZ1WXV2UVQ3Z2k2NGZ1T2l4bTUwSFVuLUZQVUhuWTVxUlByOTFwMDhzVURjRkNqZHBlb0xKTGZ1UVZWcy1PM1RERDIzQW01Tm8ycW9JdXlEVVU2UjlLLXFWVWxrQ3Z5bklJVEQ0c1REUVJHb01laXV2LXk5dm5nSGt3TWtaRmlSQUw0cXBjZEF4T2xETklqVjI3SThQcDV5S2h3YURaQVl6NGVPN250RWpCUGNrWkF1MENvLWgxUDlRcFo5QdIBigJBVV95cUxPSTZzYzZ5eFRjR2gwYkpOd0pDY1dEXzlUWXJLbTJRd19mR0FySldQMjg1ZUJscWJkSWY4ZXUzZHB0VXozeml2NVFaRDZ3RjVSV0R3d1BNcVV0d1ZLTjZlMkwzMkt0ajRiZUtGVmFOQ0tjRXRJWGhKQzFrcDlsbjhQZlBwaTFXT0FMY1dDNnByWXFScEtwUTEyME0tbjFuX3FCeEViZDR6V0tGRjlZZm1DbHZMSndBcVBrWXVuQUtxOTdSRUtsMjBId0JKSk4tWFFLY25hbXJrd1dWOUlFalFSZnh6N053R1NoZXFicHp1bVRKcWNwZXUtTjJCamczMWw4V1ZwU2tnaXN3dw?oc=5",
+      "date": "2026-07-30",
+      "source": "Google News ES",
+      "desc": "Alerta sanitaria por hantavirus en Chile: los síntomas y qué hacer con un ratón de cola larga muerto&nbsp;&nbsp;Infobae"
+    },
+    {
+      "title": "Chile declaró Alerta Sanitaria por hantavirus ante el incremento de contagios y muertes - El Esquiu",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNjRQa0NKZkpmS3g2T1FDYUVLSVV1Wk9pMmRzSk1Ib25oenpWMkRPb0xubmZrOEttSWFtTGNBVnhFMFB6TjZpVWVYRzY0SHB3Z0FXVVlicnkxYVBKd1ozT3ZjZ1BURlcyVEx2d3M4LWhNcU9ncE9mbUR6N1M3cXJLc1U3bkx4T3BBS21WWGEtN0I4VGh3OEVxTnZGNTAtOGtUNHpVUlNUb1NjbENoRXhESHRZa0lIYmFpNTR0Z2tMNFRvek5DSDhweXZVM01kcnlzcHQ2UlFCbU02R0tiMGtTd2ZiN0I?oc=5",
+      "date": "2026-07-30",
+      "source": "Google News ES",
+      "desc": "Chile declaró Alerta Sanitaria por hantavirus ante el incremento de contagios y muertes&nbsp;&nbsp;El Esquiu"
+    },
+    {
+      "title": "Alerta por hantavirus: expertos piden reforzar medidas y consulta oportuna - septimapaginanoticias.cl",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbExFSGl2UGhXSnJvOWV5YVpxc25VN1M2c2tfaFRxak1KUjNUUktVNDhvdnpiRC1ydS0wb0lfc19zc2VZUG5FTnluNW55ckItejFUbmx3YnpkSzNSSjZKRzBLd3BFNjRPbmFzVEwzT0FHWWhxVElhdU1Pak05aDN3cUFfTFF3SmtwX2hLQ0wzbDA0cUJnRnExTFk0aC1NcGNyOVBXVWlVM1hNcTNHSWRj?oc=5",
+      "date": "2026-07-30",
+      "source": "Google News ES",
+      "desc": "Alerta por hantavirus: expertos piden reforzar medidas y consulta oportuna&nbsp;&nbsp;septimapaginanoticias.cl"
     },
     {
       "title": "Gobierno de Chile decreta alerta sanitaria preventiva por hantavirus - sipse.com",
@@ -1138,11 +1173,25 @@
       "desc": "Gobierno de Chile decreta alerta sanitaria preventiva por hantavirus&nbsp;&nbsp;sipse.com"
     },
     {
+      "title": "Chile issues first-ever preventive hantavirus health alert - upi.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeGE2Si1GNHNLLWFuN3Q3Vk9Fd3BWY3c5Z01KY2RpdDBBMU41aDZNLWZWdDR0MTY4MlBtejM5VktMQkRSaktLaWJiRkhfVDgtQmlRQUNsWGFObUlPbS1ra21FdEtQOWcxZzc1OUxPME92Q2pKVk1Bc2NwYi01LUNaVjIzeWdrODVzNVJCTkZYRHM4VUZQd3pSZkNn0gGfAUFVX3lxTE1oa2QwclIwcFRWY1BlVmE0Qko2N3pkVW84RlNpczhrRThwMHl4X3RfZHVrQlozOGpXWnoyS1dSUjRMQlFDQndmY2hmOU1pLXN6amc4dHB1WXBlbjNMOHFOTDd5Q3UybkJRTXFhR2h2SEFtQ1psWVdscE0wS1NCTXFYQ0JDUmY0UUtTcncwTjUxNzc1ems0enVuaUJHY1Z1Zw?oc=5",
+      "date": "2026-07-30",
+      "source": "Google News EN",
+      "desc": "Chile issues first-ever preventive hantavirus health alert&nbsp;&nbsp;upi.com"
+    },
+    {
       "title": "Chile declares health alert over Hantavirus fatality rate - Myanmar International TV",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQejFldXhIeVQySmF6STFSemMwd3BKWEdjVFpaR2FBNThMZnd1N3V6eEJsVjBIY29XbGtXdkxadlo2RUNYT3BWWWdhYkJUcTNUUVNxY2ktWmtNLUZfWUlfb0RBMHhqa1o5MUREVzlya2w3cmp0WDRRQ3VRUEFKYjNXM2w5T3k1TTlqRnNubWRvYi1GRVU?oc=5",
       "date": "2026-07-30",
       "source": "Google News EN",
       "desc": "Chile declares health alert over Hantavirus fatality rate&nbsp;&nbsp;Myanmar International TV"
+    },
+    {
+      "title": "Las autoridades chilenas declararon alerta sanitaria por hantavirus en casi todo el país - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeGpnMlRYUHZZdTNQc2xnR01xOWd0NzIwMTVYQTBTcWpyQkk1VE91bkhROE9iNk1rZWl1WllXbXlkXzBuWDB0WkhTWWhDYjd6Z0NYaTkyVVJUbF9Vb1JzU09IdU5ua2lYRHBpenpGOWRYSWRFV2RZRFZiajNGWG9FdzQwU3BnVkR3VGtJUzNQZGNMU2YxWTkycmxUWjR4ZXhLYUtLbjBEdmNLMTJ1c2dPdnJoLTRqcVRBUndjdnN0eUJkeE02RTBYZkY2MEQtSlNSa3hSX1dUcE8xWW9TU2pFMTI3ZXVXOXFLV0lJQXRNRdIBigJBVV95cUxNNk1WY0FpZnc5dG1HdzNETmxOTUVJSEs1YkEtUG9uczU1cUdPWnotTnpTSXBULTJSRnFvX2l3QWZVa3A2ZHJSUkdMdGlnMDc2RmMxYVlwbmxLNjFra0tkRGh0QkNNNXFtUnY1UEh2TV9hS2tnZEdya2xmS0N3cHVoX1Nnb1AwZXJOd05CYm96ajBYSHpxT1ZMQVlfakNFbFJFWGYzLWh3VzRSS2tNTzEzQTYtRjljRXhwbXBqN3BHcmdIWkptSTN0OUJnczUxZUZxMm90MXoyQlo3T20yaEx2QlBuUXNLLW5BRVZSVnJLSUtJR0tENF9NWkxBSEgzY2xER29jQ21OUmdZdw?oc=5",
+      "date": "2026-07-29",
+      "source": "Google News ES",
+      "desc": "Las autoridades chilenas declararon alerta sanitaria por hantavirus en casi todo el país&nbsp;&nbsp;Infobae"
     },
     {
       "title": "Alerta sanitaria en Chile por hantavirus: cuáles son las nuevas medidas del Ministerio de Salud - Infobae",
@@ -1159,60 +1208,18 @@
       "desc": "Reactivan la alerta por hantavirus: el país que preocupa por el fuerte aumento de la letalidad&nbsp;&nbsp;consalud.es"
     },
     {
-      "title": "Chile declaró una alerta sanitaria por la letalidad del hantavirus | 29 de julio de 2026 - Hoy Día Córdoba",
+      "title": "Chile declaró una alerta sanitaria por la letalidad del hantavirus | 29 de julio de 2026 - hoydia.com.ar",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWUpqMzhTUW82UHBaQ05zQ1hlV1B1dTBqcFBHSlNzWmJVZWl6am1vSzFqclFLUUQyS0xkRFJPZTc3akxGdHpwaGNMMHdoSHZiSGVCZmU5ckhuREtVdGU3M2d2ZTdUWUdkVHNpckhTcUcxcldRVlZ6WVVERlc0QVNFUGNqVjNhd0k3WHJEUUVnb3JvS1pwWDdKX2FZY9IBoAFBVV95cUxQNzJUd0VIY05jU21LMUFqUElPbzZ5M0c4cGNxcUhlWXRTY1QwVVc1dEhfaTJrN3lMZjFmd1N4a0ZQR09lUVdwcFBzOHlWQ0JPTG9DVGNUYVZwOTh5RkQ4dnRDMllSRFpFM2xldUZTcW5yamE0aEpJUnlxQ1g1TDVkMHVvMHNGakQydUxkR0hNRlN5U2p1ZGUyN25YT0x4bHNn?oc=5",
       "date": "2026-07-29",
       "source": "Google News ES",
-      "desc": "Chile declaró una alerta sanitaria por la letalidad del hantavirus | 29 de julio de 2026&nbsp;&nbsp;Hoy Día Córdoba"
+      "desc": "Chile declaró una alerta sanitaria por la letalidad del hantavirus | 29 de julio de 2026&nbsp;&nbsp;hoydia.com.ar"
     },
     {
-      "title": "Chile declara alerta sanitaria por hantavirus tras el aumento de muertes - expreso.ec",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX0VvWEpXcGl1QV9kZFdzZVFOMnhZNGV5ay1DOGdqU3lrTU9iVl9mQXdDY1gxdjl6UFNIM1ZkOU81NlpBMDZLOTNDZ1lQS24tWU8yeWxWY3UxR0Y3azJUeE1OY1FKOGhmeTN0ZE9WRXRSWW9LZFdVM3NZajBtR250aDhRS0NJSTZVMlM0cjdVQTFMMl9RYzdFWDVLRW1mWU44dWVqdzRyLWphUQ?oc=5",
-      "date": "2026-07-29",
-      "source": "Google News ES",
-      "desc": "Chile declara alerta sanitaria por hantavirus tras el aumento de muertes&nbsp;&nbsp;expreso.ec"
-    },
-    {
-      "title": "Hantavirus: experta llama a reforzar las medidas preventivas y consultar precozmente ante síntomas compatibles - portalredsalud.cl",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNc3E2MDRFT2dHYUllV21xRXdWaEU3MmlFRHA5WnIxRGxwZnVEVDFwNk9hWkowNGJiYUJLU0NsWXI5TC1ib1Y4SVp2SzZCNWRMSW1LV2RVRUVkcmYyYjhsZkJUV0g5WGdVNW9tYnR5NlVjQlhJLVBKMGh2UW92ZFJnR2FILWRtNTI4N3pNcWV6UlMtVEpGM2lhTUtlWXE1THR5VmlsbXVydEdrdmg3VDdoNTZoZTBtcmpfRVAySVp2OHVYRnVxUVpMSUc5Y1p2d3p4anhySUo2QXdvOE9yZmoxWg?oc=5",
-      "date": "2026-07-29",
-      "source": "Google News ES",
-      "desc": "Hantavirus: experta llama a reforzar las medidas preventivas y consultar precozmente ante síntomas compatibles&nbsp;&nbsp;portalredsalud.cl"
-    },
-    {
-      "title": "Chile declaró un alerta sanitaria por hantavirus y refuerza medidas - Mendoza Post",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWlhybll5WlBfQVFNV3NYeGZSeGFnLTZuWVZNWG40MlpPTU42T2hQMnNjd0dQRlZIclYwOW9xY0lzSy02MTJXeVFTckpjbXdfY0N2YmpkSkNLR2tkbV9YR1pfU3plVGVDUlk4TG1UeG1UTE80dDlwRFQwRGFKcGlUMXRHR2pwR1N4WTh30gGLAUFVX3lxTE5aWHJuWXlaUF9BUU1Xc1h4ZlJ4YWctNm5ZVk1YbjQyWk9NTjZPaFAyc2N3R1BGVkhyVjA5b3FjSXNLLTYxMld5UVNySmNtd19jQ3ZiamRKQ0tHa2RtX1hHWl9TemVUZUNSWThMbVR4bVRMTzR0OXBEVDBEYUpwaVQxdEdHanBHU3hZOHc?oc=5",
-      "date": "2026-07-29",
-      "source": "Google News ES",
-      "desc": "Chile declaró un alerta sanitaria por hantavirus y refuerza medidas&nbsp;&nbsp;Mendoza Post"
-    },
-    {
-      "title": "Casi todo Chile está en alerta sanitaria por hantavirus - comercioyjusticia.info",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ1hnTTEtcDJ1VmEzVzlkbExRTVROQ1JoZzB0ZU1aWjR4WFlSbkxLMFFHLW9LSlVXZXp5QzlTM3hOS25vUGNYSXJNdFBCTkVOeWxBa3VVUFVUYTJxQ2ZncEZQazd3eDJiR3lEOUktc2lRUldqSHBjMVczeDFINHB5TU9HSTY3V1FORFBia3JUWkJHZ3MwT2ZWaQ?oc=5",
-      "date": "2026-07-29",
-      "source": "Google News ES",
-      "desc": "Casi todo Chile está en alerta sanitaria por hantavirus&nbsp;&nbsp;comercioyjusticia.info"
-    },
-    {
-      "title": "Chile activa una alerta sanitaria contra el hantavirus - Ambito",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa2kzRnN3M1MzdnQwY3FNdTNVQVhqVzlOSVZDZ0lGaGJ0WDlWTUJ1czJlallZc0IwRHgyWXUybWN1VkhDN2Fka2tVTHlXbmNxNzV1cC14bjYza2F1ZGVMYXNoUXFMSURGS2FCQTJqemxtd0h4MzhwcXFKY1o5dk1yMzZsZXJaeUhMdVZnbkZ5OWE5U01yLUV30gGcAUFVX3lxTFB1R2d3Q0xZYnB3eXN3UVRQbEtyRjVtQ1ZFQnhzeXJEbm96cXFvUjVYZmtKd3RLV1ZNNDg3SVllREduV2U1WXd2VnQ2dVFzeUk5eUlRN3RwWHBpaWstRFVUc3dYeXpiMk9pb2V0TlhoY08yVmdjdEJkQVNHRjktQmlrLUZaSnVaQm5tbzJXdGtMbDBCR2hTdEMyOGtZNA?oc=5",
-      "date": "2026-07-29",
-      "source": "Google News ES",
-      "desc": "Chile activa una alerta sanitaria contra el hantavirus&nbsp;&nbsp;Ambito"
-    },
-    {
-      "title": "¿Se puede transmitir entre personas? Experta entrega seis recomendaciones para prevenir contagio con hantavirus - Teletrece",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcVJTNm1zb0pzZnF4b0lHZGVHSlN6OEZPbV9yWUNXVmpZTksxVkw1aURQYUtxSGFxa3NmeWZiS0Yzc0NtWmQ0Sy1HUkpBNVNSQ092LXM0RXpGN3RROTRHd1pBd0hoYnlIQ0pDOFpqeXVXaVZBeWdnXzM1OURud0hhaHZMbUFnZ092R2xaRVp0dVZrTnpGMjg4MUZxcHp4bnFWZ2M2V2NjdkJrTU9nTnc0SzVTSGFpb2FTdGZ3?oc=5",
-      "date": "2026-07-29",
-      "source": "Google News ES",
-      "desc": "¿Se puede transmitir entre personas? Experta entrega seis recomendaciones para prevenir contagio con hantavirus&nbsp;&nbsp;Teletrece"
-    },
-    {
-      "title": "Chile declares 1st hantavirus health alert after 18 deaths this year - BNO News",
+      "title": "Chile declares 1st hantavirus health alert after 18 deaths this year - bnonews.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUllGb1RmX1RyWUl0eDBtWEpTOXQ2UFV0d1puX0ZGX1M2SjhjZy1TMF84YmhRZ29XSTFtYlVTUFQ3eUVOZHljNzJsRjVPU1NrMnJ5eTlFdHZQVlo2UjktQ1lBTk1PdEtzX1FhTjNZZTF2SjhBUG4wczFxN19Wbm5qVnRXeGFJN1JQU2NITmxnWm1MLXlpTEdubzZYWFRfeE53VDl3WTh2Z3RWS00?oc=5",
       "date": "2026-07-29",
       "source": "Google News EN",
-      "desc": "Chile declares 1st hantavirus health alert after 18 deaths this year&nbsp;&nbsp;BNO News"
+      "desc": "Chile declares 1st hantavirus health alert after 18 deaths this year&nbsp;&nbsp;bnonews.com"
     },
     {
       "title": "Hantavirus Can Affect the Brain and Nerves in Rare Cases, a New Review of the Literature Finds - Medical Daily",
@@ -1229,18 +1236,11 @@
       "desc": "Chile Declares Health Alert Over Hantavirus Fatality Rate&nbsp;&nbsp;teleSUR English"
     },
     {
-      "title": "Chile declara por primera vez alerta sanitaria por hantavirus en 13 regiones - EL PAÍS",
+      "title": "Chile declara por primera vez alerta sanitaria por hantavirus en 13 regiones - elpais.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTlFrX2tUSFljVVEwdGIyRE9WMndSRlNnTk9YR0FuVy1WVVJ4MjhpTFJuMVBiSkwwMC1EUFlyZWhicGlTTVFFZjhsQW4wcXczSFlzYUtPTzcydmFiZUxrcEk2TWpBZFJTeUI0amQ3dE9GMl9pRzd3VEVxaGZWd2FSN2VjVFUwcE9zRlpzV0JmZ0xiNkNrWm5jcDEyV2NJb3dEUll5TXRBbFE2akkyVjg5bkhfb3VHRE1U0gHMAUFVX3lxTE0zNEIzOEVXQzhsSDdubDZPT1FmZjJtOXk0R29MRXVkR2ZmaW5ESFlaN0xjRm9DNE1QMzVaOWlKeWFpb0Q2Z0sxNGhieG5lV1JlZk12WTFzUnhEN1lLTmhEVElqZkhBWWRxU3JWajc4S1lJT0VGRkdOS2RIQl9pZjNNcWpIRXc1LTUyeWFhS0tQRjZ5bzVmX2JFc3hsYzFIa2h5YkszZ2FkcFZoR3h5aWNOcGoxVlo4cFlpX0NCc2EyaDdLdnFPN0IzM01TTw?oc=5",
       "date": "2026-07-28",
       "source": "El País",
-      "desc": "Chile declara por primera vez alerta sanitaria por hantavirus en 13 regiones&nbsp;&nbsp;EL PAÍS"
-    },
-    {
-      "title": "Ministerio de Salud declara Alerta Sanitaria por hantavirus desde Atacama a Magallanes - Ministerio de Salud de Chile",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc1NvTmQwekk2WFhTUE5CZV9QRXJ5N2R6S3VuMkpySjRxVXlLd2x5Qkd5YjhjaG1YdkRRMmh6dkowa1pSbXFyQld6eVVSYUpFRF9OZ3p0anJ2N3NwY2VtVDJEY2FWLUFmTWlxRC1QNFZtb3F4ZXdmdmxJUHRUTUE2a0t2aWxKeVR1MDZ5RndBY1dKSFZPTEJiNXJXbEpzMXpQN0xKZjFDLUY0MUxhOUE?oc=5",
-      "date": "2026-07-28",
-      "source": "Google News ES",
-      "desc": "Ministerio de Salud declara Alerta Sanitaria por hantavirus desde Atacama a Magallanes&nbsp;&nbsp;Ministerio de Salud de Chile"
+      "desc": "Chile declara por primera vez alerta sanitaria por hantavirus en 13 regiones&nbsp;&nbsp;elpais.com"
     },
     {
       "title": "Chile declara alerta sanitaria por hantavirus - ANSA Latina",
