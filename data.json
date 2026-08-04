@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-08-04 20:44 UTC"
+    "updated": "2026-08-04 21:58 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,18 +1124,18 @@
   ],
   "news": [
     {
+      "title": "Doctor Alexis Kalergis advierte alta letalidad y cambios en la circulación del hantavirus - g5noticias.cl",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaGZxcElTU3ItUmVGcTFJMHF0clBXcWlMYWpFQ3Z6Tm1QTEVrOHRGOV9HOFluRHo0dHJYU3kzcEkxWEJoZFVMQlBVRkhfak9SX281LTVSdHh6Vi02b0Z1WWxqZGF6RWZFTU5teHRjOWxwVUF1N1RybjRSSXZXSmpvUEMyQkYzUHktTnZqakx2UTUza3pvYWpJSWNwNmw4b3d1TmZiMU1YTU1JclZNOEVCMHdoYVRoYzBwVVdCTUx0cHE?oc=5",
+      "date": "2026-08-04",
+      "source": "Google News ES",
+      "desc": "Doctor Alexis Kalergis advierte alta letalidad y cambios en la circulación del hantavirus&nbsp;&nbsp;g5noticias.cl"
+    },
+    {
       "title": "Especialistas U. de Chile advierten sobre las implicancias de la alerta sanitaria por hantavirus - Universidad de Chile",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOXy1HNnQwY3BVQUcwWGRxUGJYY2Q1WUVhYTh3Z2gyNXoyNE5yVFBsbkx2c0FzTVBFNkFwSFlDWlhvanJxMU1uMjdGb2VLTjUyb2VQNGFhUXBTaEttTVp2Tk5CNUVIY0x4UlVJcGFxRUtrT0kwcVItTHF3RHl6Mmd0VDJzMlZuVG9KR3pUbkxQX0o0cWc1NV9zNFZUd2xCRldsbUQzcA?oc=5",
       "date": "2026-08-04",
       "source": "Google News ES",
       "desc": "Especialistas U. de Chile advierten sobre las implicancias de la alerta sanitaria por hantavirus&nbsp;&nbsp;Universidad de Chile"
-    },
-    {
-      "title": "Doctor Alexis Kalergis advierte alta letalidad y cambios en la circulación del hantavirus - G5noticias",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaGZxcElTU3ItUmVGcTFJMHF0clBXcWlMYWpFQ3Z6Tm1QTEVrOHRGOV9HOFluRHo0dHJYU3kzcEkxWEJoZFVMQlBVRkhfak9SX281LTVSdHh6Vi02b0Z1WWxqZGF6RWZFTU5teHRjOWxwVUF1N1RybjRSSXZXSmpvUEMyQkYzUHktTnZqakx2UTUza3pvYWpJSWNwNmw4b3d1TmZiMU1YTU1JclZNOEVCMHdoYVRoYzBwVVdCTUx0cHE?oc=5",
-      "date": "2026-08-04",
-      "source": "Google News ES",
-      "desc": "Doctor Alexis Kalergis advierte alta letalidad y cambios en la circulación del hantavirus&nbsp;&nbsp;G5noticias"
     },
     {
       "title": "Registran en Chile otros dos casos sospechosos de hantavirus - Prensa Latina",
@@ -1152,11 +1152,18 @@
       "desc": "Alerta sanitaria por hantavirus: expertos explican quiénes están más expuestos y cuándo acudir a urgencias&nbsp;&nbsp;tuopinas.cl"
     },
     {
-      "title": "Seremi de Salud de Valparaíso por hantavirus: “Los síntomas son muy similares a una infección respiratoria común” - puranoticia.pnt.cl",
+      "title": "Derivan a Concepción a pacientes sospechosas de hantavirus tras vuelo aeromédico desde Coyhaique - Sabes.cl",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZWdidTFweU1GeG96RW9rcFMwUkZYdVQ3OHNPUlloQ2xyN3NDaGZvSVNoaU1ZMXpPdkNJeEl0UjUtdXEzTDRRcmNzaC1qYmxKQ01GalRvWGdjVUIweWFseVNDTDllai1Cb0lpQmVhNlV6V0RDU2hWZmY2X2tvU1Q3c1ZRYmVRVFpIdVFna0FGQ3pZU0lsZEpDei1QTWZySXlsakU5OG5QTnUxWkdGd3hjeF85M0k5Y2NGVmZKczIwN3g3MVE?oc=5",
+      "date": "2026-08-04",
+      "source": "Google News ES",
+      "desc": "Derivan a Concepción a pacientes sospechosas de hantavirus tras vuelo aeromédico desde Coyhaique&nbsp;&nbsp;Sabes.cl"
+    },
+    {
+      "title": "Seremi de Salud de Valparaíso por hantavirus: “Los síntomas son muy similares a una infección respiratoria común” - Puranoticia.cl",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbElsYVJocl8yYTlnODRvWTlqRmRiaEhzNENaMjB6NW5tOTVoUVdEendpa0F4UUU0VzgwX2xRMnpJWVNxSFdSNFNTQi05bWlTNS1HejV0eVlaLWJYTUlwWHFOcnlCSlNDTzNoOHdaTkVGOTEwcjRSa19KbktTekpWNGxSQUExN1Y5dlVxUFd6OERhWjBsOGlxaS13UGFmWTg?oc=5",
       "date": "2026-08-04",
       "source": "Google News ES",
-      "desc": "Seremi de Salud de Valparaíso por hantavirus: “Los síntomas son muy similares a una infección respiratoria común”&nbsp;&nbsp;puranoticia.pnt.cl"
+      "desc": "Seremi de Salud de Valparaíso por hantavirus: “Los síntomas son muy similares a una infección respiratoria común”&nbsp;&nbsp;Puranoticia.cl"
     },
     {
       "title": "Concretan traslado aéreo de dirigenta y nieta con sospecha de hantavirus al hospital de Concepción - Diario Regional Aysén",
@@ -1180,11 +1187,11 @@
       "desc": "Alerta en América por hantavirus: expertos piden reforzar medidas y consulta oportuna&nbsp;&nbsp;novaciencia.es"
     },
     {
-      "title": "Alejandra Pizarro, subsecretaria de Salud Pública, sobre la alerta sanitaria por hantavirus en Chile: \"Estamos muy preocupados porque la letalidad ha aumentado\" - La República",
+      "title": "Alejandra Pizarro, subsecretaria de Salud Pública, sobre la alerta sanitaria por hantavirus en Chile: \"Estamos muy preocupados porque la letalidad ha aumentado\" - larepublica.pe",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSkgzWjJxT0JqX2hway02UlNlWUV6YVJLZjZLcXpoUG5xYnpOZUR0RkUtOElPY3lnSWNsUDNtaTlzQ3YyQ1FqVjVEaEtiWFlfNHk5MUNvR1FpUzVDSXRkcV9xTWFEVjhhNHZzRkZNYUktYlpSc0tEWFNBTmI2QVhjRXU2RFRoZ3E4YzFaWThsVjBtd0dPb2Z4SXFMbXZqcS15eGc1cHdrMTNhdDQyZkpISzk4SVE2dGMxTTh0b003eFhXT1FNUUh1RUxXSmZJUlEtU2hQQ0RIUkdaaEFOY1JFSEJFUVpTV3JBckHSAe8BQVVfeXFMUHhJZUN3THFOdVlhOEJERkI2UTMwbkkyTlBlMmVLSGJ1djNielcxSkNGQkRMdUhzZE85QkNCbXpPNGM3UVB6NG5tVTFKMG5lQUtQTk5peU9MeUgxaDlmdU1GV2Fjb2R5X2xnemFvYzB4M25Tc3JXS2lCa1B1S0RjTFd4MVlPZS10T2ctczNudUFOZXBiN2RjV1lnX2tiMlJwVjF3T3BPcjBYRTZXSDVjbkM1bUF1eVZyZldVQ2dvcFFOXzF6dUZKODNzRjlBSnZoNlBpSmdGUnBaMFVKMmVWdENHZnhRVUg4QW1yTVY2ZXM?oc=5",
       "date": "2026-08-02",
       "source": "Google News ES",
-      "desc": "Alejandra Pizarro, subsecretaria de Salud Pública, sobre la alerta sanitaria por hantavirus en Chile: \"Estamos muy preocupados porque la letalidad ha aumentado\"&nbsp;&nbsp;La República"
+      "desc": "Alejandra Pizarro, subsecretaria de Salud Pública, sobre la alerta sanitaria por hantavirus en Chile: \"Estamos muy preocupados porque la letalidad ha aumentado\"&nbsp;&nbsp;larepublica.pe"
     },
     {
       "title": "Chile declares health alert for hantavirus - Outbreak News Today",
@@ -1241,13 +1248,6 @@
       "date": "2026-07-29",
       "source": "Google News ES",
       "desc": "Alerta sanitaria en Chile por hantavirus: cuáles son las nuevas medidas del Ministerio de Salud&nbsp;&nbsp;Infobae"
-    },
-    {
-      "title": "Las autoridades chilenas declararon alerta sanitaria por hantavirus en casi todo el país - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeGpnMlRYUHZZdTNQc2xnR01xOWd0NzIwMTVYQTBTcWpyQkk1VE91bkhROE9iNk1rZWl1WllXbXlkXzBuWDB0WkhTWWhDYjd6Z0NYaTkyVVJUbF9Vb1JzU09IdU5ua2lYRHBpenpGOWRYSWRFV2RZRFZiajNGWG9FdzQwU3BnVkR3VGtJUzNQZGNMU2YxWTkycmxUWjR4ZXhLYUtLbjBEdmNLMTJ1c2dPdnJoLTRqcVRBUndjdnN0eUJkeE02RTBYZkY2MEQtSlNSa3hSX1dUcE8xWW9TU2pFMTI3ZXVXOXFLV0lJQXRNRdIBigJBVV95cUxNNk1WY0FpZnc5dG1HdzNETmxOTUVJSEs1YkEtUG9uczU1cUdPWnotTnpTSXBULTJSRnFvX2l3QWZVa3A2ZHJSUkdMdGlnMDc2RmMxYVlwbmxLNjFra0tkRGh0QkNNNXFtUnY1UEh2TV9hS2tnZEdya2xmS0N3cHVoX1Nnb1AwZXJOd05CYm96ajBYSHpxT1ZMQVlfakNFbFJFWGYzLWh3VzRSS2tNTzEzQTYtRjljRXhwbXBqN3BHcmdIWkptSTN0OUJnczUxZUZxMm90MXoyQlo3T20yaEx2QlBuUXNLLW5BRVZSVnJLSUtJR0tENF9NWkxBSEgzY2xER29jQ21OUmdZdw?oc=5",
-      "date": "2026-07-29",
-      "source": "Google News ES",
-      "desc": "Las autoridades chilenas declararon alerta sanitaria por hantavirus en casi todo el país&nbsp;&nbsp;Infobae"
     }
   ],
   "countries": [
