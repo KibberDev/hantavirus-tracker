@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-08-08 22:49 UTC"
+    "updated": "2026-08-08 23:31 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,6 +1124,13 @@
   ],
   "news": [
     {
+      "title": "El turista con hantavirus que está en Galicia pudo ser contagioso del 18 al 28 de julio - La Voz de Galicia",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWHp3OGxGSm9xTDFpNkZ0eGprLU5qRGp3MjktRGRvX0pieWJxLTRrNHlvdkJkMU1XUnJhckN6OXBTMTMxa0w1Wk5RNzhmblpkUDBWZGNjRHhBTndmUktvdk9Pb19HU0xmTVlQeU43M1lodkQ5eUtSUXhaWU5udG96bjZVMmotYlRXRk5ockNSSFBzWUhYMXNpS0ZjelRSczlBa1hPTkVmVFZVTjkyNjNHRTJ0bngzT19qRkFNOVJYOTlEUVZTMk1ZNjV4djVHb3pmSTBSMFpzMNIB8wFBVV95cUxNTWstVVdKZElGbEFRZ3BJTTQ3UjkyUndCTFhwRi1qTnNqdVdPT1Y2T0ExZlJ0cHZjZ09teWlBSXhoSHA5WlMzRkc1dVF0YXV5U0xBRjRfeFNneXlZbzFuYTNLY2ViSTlrLUs5R2t0UE1jQ0NqZWlOZXJwQjlBbWtxOVpoM012YlBFMnlpbFJQSEVrUXpRb1cxYWtNYkJJLWFqeno1N1hJWVlycGlxX3pXMGE2R0J4LXNtbElpTVB6S0hYQUhfWUVLdjFGRTEtdXN4dEJaejZQbExoU0otMkx4NUVZWk5sLWs0LXB5QWVIdGNrZjg?oc=5",
+      "date": "2026-08-08",
+      "source": "Google News ES",
+      "desc": "El turista con hantavirus que está en Galicia pudo ser contagioso del 18 al 28 de julio&nbsp;&nbsp;La Voz de Galicia"
+    },
+    {
       "title": "Dos contactos del turista francoargentino con hantavirus se suman al aislamiento en España - Noticias Venevisión",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQkp6T1llbDFnbHhRaG9RODhhbDc0WlZNX09aZHFwNHpsaEZxMjBvQUhralhSX1MtaDZkN2xwTTdFRWNuLS12NEdDS0sxeXQtR1BnVTAycUFJaEZEcm9xTk5TNGlfV284NVY3bm1KcGthaFpXYjNIUWxuaXZzaFYzUWdnbTctWWJoS2h5UDk3SFEzekRTNXRoSWZidWRaSk1DYkVVMXJ3cWUzNFhWWUY0RWtTLVZnR1NodS1JWm9TalZSRk93V0cyYkFrRG93aTR3Ymc?oc=5",
       "date": "2026-08-08",
@@ -1136,6 +1143,13 @@
       "date": "2026-08-07",
       "source": "Antena 3",
       "desc": "El turista contagiado de hantavirus aislado en España pudo ser contagioso del 18 al 28 de julio&nbsp;&nbsp;antena3.com"
+    },
+    {
+      "title": "🦠😷 Un turista franco-argentino está aislado junto a dos miembros de su familia en Galicia tras dar positivo en hantavirus - stories.antena3.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yek15bnFYY2lybjZSQWI4aG4xU0lsVG5yTUJOVThmNENSQWFPaVgwVUtDd1JrNXY4TUNBZS1YLVU2Sm1HY29JY0hnTmFfRVZ4NWdHYmFaSEdXUHE0aFNxaDJjajVmdjRST3dXWFVQQWZBcGxfVk81eEF6NWtvNm8?oc=5",
+      "date": "2026-08-07",
+      "source": "Antena 3",
+      "desc": "🦠😷 Un turista franco-argentino está aislado junto a dos miembros de su familia en Galicia tras dar positivo en hantavirus&nbsp;&nbsp;stories.antena3.com"
     },
     {
       "title": "🦠 Nuevo caso de hantavirus en España. - stories.rtve.es",
@@ -1173,11 +1187,11 @@
       "desc": "El ciudadano franco-argentino contagiado de hantavirus está aislado en un domicilio de Galicia junto a dos contactos&nbsp;&nbsp;20Minutos"
     },
     {
-      "title": "Aislado en Galicia junto a su familia un turista positivo por hantavirus - lavozdegalicia.es",
+      "title": "Aislado en Galicia junto a su familia un turista positivo por hantavirus - La Voz de Galicia",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZTRFQkx0SDBLb0JlZWtMTnk3eEZycVM4VWxsd1owbmNSSEc3c1lZM2FGdTV6Y1EzNTZaWEVwSGV3UlhGX0hwQS1WZm9lay1VR25NTFNqQTl6dVY1SlpnejdXT0k4Q0JnSjh0eHA1clZUZVNuZXJnVG9CazdrUGRCVTRRSE5VQnFDUDBWYlhXVVl1Y3NidHFndE42MmEtZzRJdS1sSkwwWGoyMEE4Y0FHTU9GVTVoekdQemZpQ3VOcWRSLUlsUWV6U0hFRW9KVXljY0tRRjhGWDVIWW5Za0Z3VnNHb9IB_wFBVV95cUxNdTJOMFpBYzhZN2RFTUt5ei1lSDdYTC1xWkN6bTN0dDI3TTV2LS13Zm11U2l3SkExWldSZnFPT0dJUFlBcTc0a01qQXNoT3hDLVRxZEh2SzJScGZfdGs3UkZCOF9xa2E2alRYYTFYNDFBTnV6bHlUZ20wVWxqZjdzVm54blBpN1NlQlVQYTFJTTUzM1ZnT0lYei14UGs4U2N6VWZRdFJQSm5GRzNhRjRCWXJuRVFnY1IyVS1WMWdTQWs2UDU4Mk5ETG1lZlc5YUI0eEgtcDRJNTRVYTh1R0RRNmVGcThNdEJ2TThrMHN2VnZFWHN4ak1PQkVVN3BRNHM?oc=5",
       "date": "2026-08-07",
       "source": "Google News ES",
-      "desc": "Aislado en Galicia junto a su familia un turista positivo por hantavirus&nbsp;&nbsp;lavozdegalicia.esEl turista con hantavirus que está en Galicia pudo ser contagioso del 18 al 28 de julio&nbsp;&nbsp;Faro de VigoFrancia recomienda aislamien"
+      "desc": "Aislado en Galicia junto a su familia un turista positivo por hantavirus&nbsp;&nbsp;La Voz de GaliciaEl turista con hantavirus que está en Galicia pudo ser contagioso del 18 al 28 de julio&nbsp;&nbsp;Faro de VigoFrancia recomienda aislamien"
     },
     {
       "title": "Hantavirus: qué es, síntomas y cómo se puede contagiar entre personas - El Periódico",
@@ -1185,13 +1199,6 @@
       "date": "2026-08-07",
       "source": "Google News ES",
       "desc": "Hantavirus: qué es, síntomas y cómo se puede contagiar entre personas&nbsp;&nbsp;El Periódico"
-    },
-    {
-      "title": "El turista con hantavirus que está en Galicia pudo ser contagioso del 18 al 28 de julio - lavozdegalicia.es",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWHp3OGxGSm9xTDFpNkZ0eGprLU5qRGp3MjktRGRvX0pieWJxLTRrNHlvdkJkMU1XUnJhckN6OXBTMTMxa0w1Wk5RNzhmblpkUDBWZGNjRHhBTndmUktvdk9Pb19HU0xmTVlQeU43M1lodkQ5eUtSUXhaWU5udG96bjZVMmotYlRXRk5ockNSSFBzWUhYMXNpS0ZjelRSczlBa1hPTkVmVFZVTjkyNjNHRTJ0bngzT19qRkFNOVJYOTlEUVZTMk1ZNjV4djVHb3pmSTBSMFpzMNIB8wFBVV95cUxNTWstVVdKZElGbEFRZ3BJTTQ3UjkyUndCTFhwRi1qTnNqdVdPT1Y2T0ExZlJ0cHZjZ09teWlBSXhoSHA5WlMzRkc1dVF0YXV5U0xBRjRfeFNneXlZbzFuYTNLY2ViSTlrLUs5R2t0UE1jQ0NqZWlOZXJwQjlBbWtxOVpoM012YlBFMnlpbFJQSEVrUXpRb1cxYWtNYkJJLWFqeno1N1hJWVlycGlxX3pXMGE2R0J4LXNtbElpTVB6S0hYQUhfWUVLdjFGRTEtdXN4dEJaejZQbExoU0otMkx4NUVZWk5sLWs0LXB5QWVIdGNrZjg?oc=5",
-      "date": "2026-08-07",
-      "source": "Google News ES",
-      "desc": "El turista con hantavirus que está en Galicia pudo ser contagioso del 18 al 28 de julio&nbsp;&nbsp;lavozdegalicia.es"
     },
     {
       "title": "La Xunta informa de que el caso de hantavirus permanece aislado en Galicia y sin síntomas - Xunta de Galicia",
@@ -1208,18 +1215,18 @@
       "desc": "En aislamiento un turista franco-argentino en Galicia por positivo en hantavirus&nbsp;&nbsp;iSanidad"
     },
     {
-      "title": "Los tres aislados en Galicia por hantavirus son asintomáticos - lavozdegalicia.es",
+      "title": "Los tres aislados en Galicia por hantavirus son asintomáticos - La Voz de Galicia",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONFFVTGhtZ2FLQ21kb0oyeUxRRndwaURFcVNRYzdtc1F3U0NDUlVLR3YxaENBRnMxVm1FSFdSYnowSXJxUGJobS1wNm9CM0dXYzlMX2FQNnRodGZZb3BsUFFCUFNIaEJZMVhXSmdkNFRKcEJoZnZ5YmZuXzluN1U4Q1I1MDRmS19EVXNCT2s2cW1qMTMxcXJIYm9mSEdhTjZ0MXF4S2VxNnJqTVVyVi1aNjY3aVRYY2wxRF95MWpHc2dHdWFrVk9FWkg4R08?oc=5",
       "date": "2026-08-07",
       "source": "Google News ES",
-      "desc": "Los tres aislados en Galicia por hantavirus son asintomáticos&nbsp;&nbsp;lavozdegalicia.es"
+      "desc": "Los tres aislados en Galicia por hantavirus son asintomáticos&nbsp;&nbsp;La Voz de Galicia"
     },
     {
-      "title": "Aislado en España un turista franco-argentino tras dar positivo en hantavirus Andes - gacetamedica.com",
+      "title": "Aislado en España un turista franco-argentino tras dar positivo en hantavirus Andes - Gaceta Médica",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWWdqVHNDMkxNbXlRc0o5U25jTzBmb2RlUTdLek9YN3BhajRyaTdVdm1VaFkwZDZDTTQ4R3ZwUDFvTmxwVnI0NjBMQTdsc0ptQXJ2NzMyTUVhXzJORkFIajJUeC1lRXYxeTRlUHhEQ2RQcUJxcGpITVhVcGFhUGJra0pLTEhRZTNsd1NFd3ZtUVBuQVN1TUdGY2hWLXFZaXMwazBmYkJxcjVPNTFPcVBheUVFYkRyQ3JaeVBvTnQxdng?oc=5",
       "date": "2026-08-07",
       "source": "Google News ES",
-      "desc": "Aislado en España un turista franco-argentino tras dar positivo en hantavirus Andes&nbsp;&nbsp;gacetamedica.com"
+      "desc": "Aislado en España un turista franco-argentino tras dar positivo en hantavirus Andes&nbsp;&nbsp;Gaceta Médica"
     },
     {
       "title": "Galicia descarta más contactos en la comunidad, mientras el positivo en hantavirus guarda cuarentena junto a dos familiares - iSanidad",
@@ -1241,13 +1248,6 @@
       "date": "2026-08-07",
       "source": "Google News EN",
       "desc": "Rare hantavirus case confirmed after visit to France&nbsp;&nbsp;The Connexion"
-    },
-    {
-      "title": "Health officials say new hantavirus patient in Spain may have been contagious for 10 days - Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWVhHSWhBM0FIeVVILUZqNFM0N2s4MUhweWhQREJab2hLRGlyemwwT2NSZG9jb1JHd093c0w2UXRCZ0VpWm83Tkc5SmZSbjZBS1VPTEMwODNXcnJOamNVZll4bTBHNUU5WERwZHdpME5yQWYxaG1CaGdwLXNpbmp0djhfcmp6Sm1OUS1mZ09mTmNwVHZEclJEdV9Vb0hKa044R1lEVEE2ODVaSnN0NG5rSlBVd01UTjdxeTdtT25tQnJmaVhWcFBzYQ?oc=5",
-      "date": "2026-08-07",
-      "source": "Google News EN",
-      "desc": "Health officials say new hantavirus patient in Spain may have been contagious for 10 days&nbsp;&nbsp;Anadolu Ajansı"
     }
   ],
   "countries": [
