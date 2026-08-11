@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-08-11 13:23 UTC"
+    "updated": "2026-08-11 14:36 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,6 +1124,13 @@
   ],
   "news": [
     {
+      "title": "Sanidad limita a \"muy bajo\" el riesgo de contagio de hantavirus entre sanitarios - Redacción médica",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUWpsak95US1yTURaLVNWNDkzOFZmeEZhbUdCNk1pNjJmZ1FQanQ1TFZqQ3FCRW9TZ1NHYzdCeDJ6cUE3dXE0MWIwWnNyNHpHSVg5OFFDQ3hWR25JTGVURHFJdXVlT2pMZWUwUi0yTzNSckRWU1lPZkEzbElRc2NfUzVzaC15SW55Z25oT2kzSmxvWkVMTk1mVGNDU2s1c3ZaSEZBWWgwandGbEhTd0U5YUd3czBMemNMUEZVSUJLU1NVeDdYckZRaTU5SDFvd1NNN3lXVHc1cEVTNHlr0gHiAUFVX3lxTE5tRUhGUWJhWlVyQTRFZ19nV0JZWXlqNVhZd0VuSHJSRG5BbGZKblhWZEtyUUhDak1maUN1Sm9RTndVU0x0bC05eVBDX0R2eXBXMXdYaHlkY3ZIM0RSbUZaazZTVzBHM2JaaUdZMXJRdjkycEJWSkJyRkJqNWVpX3dRbzhBVnNhZG00ampwN1NvVk5pWVhSd2ZLN0NYa0xCcUtEQzNIR19XSHBNYzZucEJBcEFuMUU0U2pMNUc0NldkVjQ4dHFydmlRX2VhLWtiSmdseWNOY3FNZDRVcnJTWGw3OEE?oc=5",
+      "date": "2026-08-11",
+      "source": "Google News ES",
+      "desc": "Sanidad limita a \"muy bajo\" el riesgo de contagio de hantavirus entre sanitarios&nbsp;&nbsp;Redacción médicaEl turista contagiado de hantavirus recibe el alta y regresa a su domicilio tras dar negativo en PCR&nbsp;&nbsp;La VanguardiaUna per"
+    },
+    {
       "title": "Sanidad vigila seis contactos tras el caso importado de hantavirus Andes - Gaceta Médica",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObUI3N29YMVBQeEM4RWlUeTBPOXBORUN1aTktZ2VkNzQ4QTZpQzJQWmVETUROcDdiTkNYMEFmNEtrZzVUNWxTV0lBdTUxUWw0M0VOMC1FTHhJSjFXTnRQQ1lLZG5maE5uWkdBcktENkVxQUZLMFdwZkhNb1Bjcm9QTHN3a2Q2RE1WRkY1UDEyYURCREJzUVFISWVpWmJNOEZEUjh4cnQ4SmNHMmZ3VXJDMXVR?oc=5",
       "date": "2026-08-11",
@@ -1131,25 +1138,11 @@
       "desc": "Sanidad vigila seis contactos tras el caso importado de hantavirus Andes&nbsp;&nbsp;Gaceta Médica"
     },
     {
-      "title": "El paciente contagiado de hantavirus regresa a Francia pero sus contactos continúan la cuarentena en Galicia - Redacción médica",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNMDZLOWZlMXcyLWR3ZkdDMjNZa1N3UXliNE9hQ1h6S1drMzFuSlRFdGFOTlpzTURmVVdTY2g1V2Rkc2VHQ0NZRnI2UkQxMG0yTnVaN01nUHVSS3NzZGdIclUwMmtnd2piWWNlcVpMR1BvR3pVY1VLM2U3U2t0Rllpb2dKOVlaTFIyRmdIdmUxRl9nQ1FIT3VPTTM2LUlzNGFVWGdXY0hiRmdsLXU5QmlES2VWYTBMSlpYUXhUVzdxMkFqWG5SeGFSYmtlaWl3dTRWUUU1WXFGWXpXa29OMU9Ca2lYSTBWWjBHRWRxZHRJUU5laGxiVER4ZGRVUFo3bWxSVWU2b2NFclY1SkRX0gGSAkFVX3lxTE5heFBzN01WcEUwdlJ1ZlhJbEtPRE93UXdQUEZ5Z2EtTGlXeWRPZHJaOURySThWc2RFSWs1MDd2dFFEV2N5RWpmZU1QR3dqa3lUSnFLMmkyQVV6cEhMc1dwb0ppLUwtMUlmbXBKTmFPMWtaaW13SHhMQW5Xb3o0dkl3OWlaaXBubnhrejJockxtb0xjdDlqMzdYM1JwUzF6eU9kWWdYdl9NLUtyYWwxbGU5TURpbmt2Z1RZQkozTlQyTGNGRjNDYW9iZGswSVdfOURoMktfR3lnNEdkTVN1NFFNdGQxNkM2ckVMcW9RYmFCbzZheVBoTkFoQ3pkM01Ec3UxdkU2dkFvak9ZRVBoRFJOa0E?oc=5",
+      "title": "Aíslan en Catalunya a dos contactos por hantavirus - Diari de Tarragona",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMEplZXRzcXlPUTA3S1JNaXk2YU1PWkdYd3E3RkFmNU9vT0hUa3dWYUxXQTZiNGpjcElHTkNzbGlQMU5ORnFuWTRockZWWEJrQTlsems5WXVKSENsMUE4aGwxVjAtZ0RrdkpLcjI4a3BsUmNtVlY1QUs2d2dRQ0VVYWVPelZMTzd1cm9kcFlsQ0pfMXI5cTR1WEhXZTdXX0hVVVV4a1NqVGdMR0c5M1HSAbMBQVVfeXFMTW1NRlhab2U0WFVvNTFOdlA3RjNDWGZ0T0dzTWxiNGVVNjdCd1hQX3hROGxJcG95OThkSGFCZ203UzhVSmN2ZUYwY3VpdnllWGY0cHNsZFl3ZmlyMHBQVHBDM1N2dEhmQ1FPZDF6aXF1eTZpS1FoZGNndzIweDRRQ2x0X09QaWZ6am05WTRmTnl3NC1uMjJsbExUQkpfdnMtdEZmN2s1S1ROeHQzeE5jUklUSVk?oc=5",
       "date": "2026-08-11",
       "source": "Google News ES",
-      "desc": "El paciente contagiado de hantavirus regresa a Francia pero sus contactos continúan la cuarentena en Galicia&nbsp;&nbsp;Redacción médicaAíslan en Catalunya a dos contactos por hantavirus&nbsp;&nbsp;Diari de TarragonaSanidad limita a \"muy ba"
-    },
-    {
-      "title": "Sanidad identifica dos nuevos contactos del ciudadano afectado por hantavirus y eleva a seis los sospechosos - consalud.es",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdlBLRS1OUExJa2xEc0NFdDR2WDlURk51YmVoVTFRelpKeEJZZ04zZExjOC1QVG9CR1NnZEZ1V2xRS01SNjJQdWx1WXpndEo5UnB5bHlJcS1SYkRnMWdCSWNKR3NYamhpRUVHY05Yb25EdzJWcFR3dExoZ2R5RU1aWDMzR2FfbFJnaGtBLW15bUFhVVBLSC1odi00ZkNVY285QUQ5eTFveDlCaHpITExJczI3RWU5ZHg1WWtPMmxUb3Q4SlpObWtwVG8ybGdCRl9zWnkyU0xWVkxpdWVhZmNPXw?oc=5",
-      "date": "2026-08-11",
-      "source": "Google News ES",
-      "desc": "Sanidad identifica dos nuevos contactos del ciudadano afectado por hantavirus y eleva a seis los sospechosos&nbsp;&nbsp;consalud.es"
-    },
-    {
-      "title": "El paciente con hantavirus aislado en Galicia recibe el alta tras dar negativo en PCR - Gaceta Médica",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeTdTWEE0NXN2NUxTZ2YxdV9RV015VldKX2ZDbHg2N283dUx5MVpUeEx6MXpxLTY1d3hDeHpENVhFRjhrdEIwSzBXLVA3WXQ1SEE1MW9ObzRqUUNOd3Y4SEpYU042d3VrNlFqdnZjV0w4b0UyY2xzdnl4LVByTHpiSDlPdm1ETEZWVWt1MmZoVUNReXdmWmNmR2R3Y3JHajBfbXc?oc=5",
-      "date": "2026-08-11",
-      "source": "Google News ES",
-      "desc": "El paciente con hantavirus aislado en Galicia recibe el alta tras dar negativo en PCR&nbsp;&nbsp;Gaceta Médica"
+      "desc": "Aíslan en Catalunya a dos contactos por hantavirus&nbsp;&nbsp;Diari de Tarragona"
     },
     {
       "title": "Cuatro contactos del caso de hantavirus que se confinó en Galicia, aislados en tres comunidades - La Voz de Galicia",
@@ -1159,6 +1152,13 @@
       "desc": "Cuatro contactos del caso de hantavirus que se confinó en Galicia, aislados en tres comunidades&nbsp;&nbsp;La Voz de Galicia"
     },
     {
+      "title": "Sanidad identifica dos nuevos contactos del ciudadano afectado por hantavirus y eleva a seis los sospechosos - consalud.es",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdlBLRS1OUExJa2xEc0NFdDR2WDlURk51YmVoVTFRelpKeEJZZ04zZExjOC1QVG9CR1NnZEZ1V2xRS01SNjJQdWx1WXpndEo5UnB5bHlJcS1SYkRnMWdCSWNKR3NYamhpRUVHY05Yb25EdzJWcFR3dExoZ2R5RU1aWDMzR2FfbFJnaGtBLW15bUFhVVBLSC1odi00ZkNVY285QUQ5eTFveDlCaHpITExJczI3RWU5ZHg1WWtPMmxUb3Q4SlpObWtwVG8ybGdCRl9zWnkyU0xWVkxpdWVhZmNPXw?oc=5",
+      "date": "2026-08-11",
+      "source": "Google News ES",
+      "desc": "Sanidad identifica dos nuevos contactos del ciudadano afectado por hantavirus y eleva a seis los sospechosos&nbsp;&nbsp;consalud.es"
+    },
+    {
       "title": "Sanidad eleva a seis los contactos en seguimiento por el caso del ciudadano franco-argentino afectado por hantavirus - infosalus.com",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdENCakFndkkxcUVjVklKR29ZMFVPUlV3Q2l6TkZMd0NiMkhWS05fR2cxam9sN2FFanpwYkFyUzNhZ21sS2pTN0txRVh2YzhGZGlNWEtMQXBhcE03MFQtMnV5TGlyLUpvanZza2tWZEIwU1N0WWxkeDl6NWdneEpPbzBheVQ5NVVVdWhVQ1hvZ04yaWMyYnd2RUlJVi1uamNRMVFUMnNvVng2NFZKYl96ZzhraWg5YTlkNE5fZ0lzUVpXdjkwOFFYeVFZdHpaSHVOcXlZQXk2MU9RcjRqQU92NndqSXNMRXFHa1plLXZ3?oc=5",
       "date": "2026-08-11",
@@ -1166,25 +1166,32 @@
       "desc": "Sanidad eleva a seis los contactos en seguimiento por el caso del ciudadano franco-argentino afectado por hantavirus&nbsp;&nbsp;infosalus.com"
     },
     {
-      "title": "Cuatro contactos del turista franco argentino con hantavirus, aislados en tres comunidades - Diario Médico",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMEIwYnRXemN6eEtOcGt2TmFlNjZ5cmpjWlRIakUzVkc4QU14a0JFZk42XzI3RXc4QTZIYUtzcUlzeTFOOGNubDh6LTVhY1RNY2JPNnVVOWRsdDF5LWF0X2ZDN1Y0dC1HWHE0alJRSVUzcnlQOHc4SmlqeENpUzZVREQtSDdVclBtX0FoQjNJM0hkdVY4VDdvUnZjd1l2dktrS0R3SDh2T2swNjJoZVJlZlZDd2lFT2g0ZkEyeHFoamROQjRNY2FtZW81enk5RmE2T3VreEpGV3lJWXc0QlVn?oc=5",
+      "title": "Aislados cuatro contactos de un turista con hantavirus en España - Diari ARA",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ1I0cjFoYXFudXFfekhOYWlaYU1hVnBQc0JKNmppQWlxNUFMalBVTFdvVDkxSkhVSkkwUGxTa0lDS3pWWWxKeklIQXBzSXBldDREbkhneWtmdEVIb3gxUDhXLTRLS1gxYmlsc0ZVVk5VejJzRUpCay1BTFN4QVg5c1pEelhLRWppTWlUTTliLU9oa29TTFhTZlRGUzk4ejV0WUxj0gGoAUFVX3lxTE9PcHZXVWdsWlZ1VG91QVZ6Nmo4T2d3NmVKSnpiNVpMTEQxWGwyTjA4WlVwRXBydThTeldPUE43cUdJUWNiWFBVdENadTI5NkNDY3dEU1dSQk1BWklzMW1zbDFuVUg3dzl1NVN3VzI2ZkVrRkpVUG1RWGZCNVNyWkZ4NkhIc3B5b2R5ckVfY2xGSnEzTERKaHNMUzQ4NGJiM1NmbEt3Q1h1bg?oc=5",
       "date": "2026-08-11",
       "source": "Google News ES",
-      "desc": "Cuatro contactos del turista franco argentino con hantavirus, aislados en tres comunidades&nbsp;&nbsp;Diario Médico"
+      "desc": "Aislados cuatro contactos de un turista con hantavirus en España&nbsp;&nbsp;Diari ARA"
     },
     {
-      "title": "Una persona residente en Castilla y León, en cuarentena por ser contacto del positivo en hantavirus detectado en Francia - El Español",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOR0xCUllzQzZlYmd6UVVsREVtSFZhNlZKVngybjhSTjI4b0E3cWkxVGhVR2FqODZ6REl3QW56eGVyZjFEWlBnZnZoZm41QmlYOWRDTGNWVlIwakdmRGZENG1MT091LW12ZW96dU05NHA4U0FnaFg0Um4yMHZCTldrOFVVdnBwUEZndGtSUHNzSHpqUk9ueV9wLWhYTlhoUjBMWVJlX0N2QXNHbVFVaXdqeHh2OGJ2eElRQkpkTnl4X3RnT2M5RjM0eE5EOE52Z2ZuREt0X0h5b2VXNzBpLTdDcDFBSjZaeFlZamRVLUhzZUo5ZWpQS0dDNjNqWTg0SWVlY1ZrY2t4alNtd9IBjwJBVV95cUxPejdadG9laEtUOGJxRXo3c1RCMl95VWl2MnNOemp1Q1dWSGZHRHVPa0IzNjhMVDh3UUN4T0tLLWx4LXlCdlRGdjgwTUJtNXc5UXRwU0hBaVYtRzFNekZKeGE1ZHFGSkY3aDN6ZmktVElTQllBNF9hOUdPOERJR2lDNU52UlFjY1NseVdOc0kybnZ5WjFfQ2pQWGRRa19PZmdiX29LZ3NOLTlDZ21FaGNrVERrTzhoR05YQ0psbUNTOUhzdVQ0TUF3bXBKbklveFNpMHdsMVlhNmlCOWViQ3M3V3hDM3Vfc0pPNFZ3bk9MeXpkRXMtbVFMalUxTUZSN3hwSVZCRnJGcUt3eVY5OHNj?oc=5",
+      "title": "El paciente con hantavirus aislado en Galicia recibe el alta tras dar negativo en PCR - Gaceta Médica",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeTdTWEE0NXN2NUxTZ2YxdV9RV015VldKX2ZDbHg2N283dUx5MVpUeEx6MXpxLTY1d3hDeHpENVhFRjhrdEIwSzBXLVA3WXQ1SEE1MW9ObzRqUUNOd3Y4SEpYU042d3VrNlFqdnZjV0w4b0UyY2xzdnl4LVByTHpiSDlPdm1ETEZWVWt1MmZoVUNReXdmWmNmR2R3Y3JHajBfbXc?oc=5",
       "date": "2026-08-11",
       "source": "Google News ES",
-      "desc": "Una persona residente en Castilla y León, en cuarentena por ser contacto del positivo en hantavirus detectado en Francia&nbsp;&nbsp;El Español"
+      "desc": "El paciente con hantavirus aislado en Galicia recibe el alta tras dar negativo en PCR&nbsp;&nbsp;Gaceta Médica"
     },
     {
-      "title": "Castilla y León mantiene en cuarentena a un contacto del caso de hantavirus detectado en Francia - Tribuna de Salamanca.",
+      "title": "El paciente contagiado de hantavirus regresa a Francia pero sus contactos continúan la cuarentena en Galicia - Redacción médica",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNMDZLOWZlMXcyLWR3ZkdDMjNZa1N3UXliNE9hQ1h6S1drMzFuSlRFdGFOTlpzTURmVVdTY2g1V2Rkc2VHQ0NZRnI2UkQxMG0yTnVaN01nUHVSS3NzZGdIclUwMmtnd2piWWNlcVpMR1BvR3pVY1VLM2U3U2t0Rllpb2dKOVlaTFIyRmdIdmUxRl9nQ1FIT3VPTTM2LUlzNGFVWGdXY0hiRmdsLXU5QmlES2VWYTBMSlpYUXhUVzdxMkFqWG5SeGFSYmtlaWl3dTRWUUU1WXFGWXpXa29OMU9Ca2lYSTBWWjBHRWRxZHRJUU5laGxiVER4ZGRVUFo3bWxSVWU2b2NFclY1SkRX0gGSAkFVX3lxTE5heFBzN01WcEUwdlJ1ZlhJbEtPRE93UXdQUEZ5Z2EtTGlXeWRPZHJaOURySThWc2RFSWs1MDd2dFFEV2N5RWpmZU1QR3dqa3lUSnFLMmkyQVV6cEhMc1dwb0ppLUwtMUlmbXBKTmFPMWtaaW13SHhMQW5Xb3o0dkl3OWlaaXBubnhrejJockxtb0xjdDlqMzdYM1JwUzF6eU9kWWdYdl9NLUtyYWwxbGU5TURpbmt2Z1RZQkozTlQyTGNGRjNDYW9iZGswSVdfOURoMktfR3lnNEdkTVN1NFFNdGQxNkM2ckVMcW9RYmFCbzZheVBoTkFoQ3pkM01Ec3UxdkU2dkFvak9ZRVBoRFJOa0E?oc=5",
+      "date": "2026-08-11",
+      "source": "Google News ES",
+      "desc": "El paciente contagiado de hantavirus regresa a Francia pero sus contactos continúan la cuarentena en Galicia&nbsp;&nbsp;Redacción médica"
+    },
+    {
+      "title": "Castilla y León mantiene en cuarentena a un contacto del caso de hantavirus detectado en Francia - tribunasalamanca.com",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdHoxeDlFMS02c2l3WGN5RXhlbkFFUHp6VWx4bnp0NmJjYzFoRHkyTDh4UXN1cVpYVzBFZFZ2VWlZRHlWUnRvd3YxWF9sLXo4c2Uzc1dtcWNlcmhwaC1BbktFRFkyeThldUx4SC1sZTZ4dHRKSnJaTmVITy1RczYxdExVampXUGYwNklraGQ3WmwyQi1RcW9hendudVZFWVA2U0hBMUNLUm5IemVsYWdJc3R0Wjk1S3NZN3JZUmNiNnp3ak0tLXpYMlMwYV9Ra1BPVkN1TkFHZWxvd09RNmc?oc=5",
       "date": "2026-08-11",
       "source": "Google News ES",
-      "desc": "Castilla y León mantiene en cuarentena a un contacto del caso de hantavirus detectado en Francia&nbsp;&nbsp;Tribuna de Salamanca."
+      "desc": "Castilla y León mantiene en cuarentena a un contacto del caso de hantavirus detectado en Francia&nbsp;&nbsp;tribunasalamanca.com"
     },
     {
       "title": "Turista franco-argentino con hantavirus en Francia - ANSA Latina",
@@ -1192,13 +1199,6 @@
       "date": "2026-08-11",
       "source": "Google News ES",
       "desc": "Turista franco-argentino con hantavirus en Francia&nbsp;&nbsp;ANSA Latina"
-    },
-    {
-      "title": "Un residente en CyL, en cuarentena por ser contacto del ciudadano franco-argentino afectado por hantavirus - Europa Press",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQS1JWSHFaOVU0cHp2SEZiamlVbjZYaDlOUVJNU3Y1MDJmRjhQOVVxemtsV05QQTdwZUtLZnVDblBSMnRFN3Bwd29GRmpfOXBtejBEOGZndFNyQU4zWnlaNFM3UXRQR285OElYN0RZTW9ENmJ1MHJHMlYwbE9oZEhvZGhocERaZTlya05tQTZRTlp2aGRMR044cDhXRmhQdDNMd3hGT19QcWp6bng3RHlyV2pfeEJ0TGNBSTVhQlFBTU9LM2dFZjRHdWp6NFJUOG5qOHZyQUpnS084MUZhdVdDRmJibU9LMVNnX2JR?oc=5",
-      "date": "2026-08-11",
-      "source": "Google News ES",
-      "desc": "Un residente en CyL, en cuarentena por ser contacto del ciudadano franco-argentino afectado por hantavirus&nbsp;&nbsp;Europa Press"
     },
     {
       "title": "Cuatro contactos del turista francoargentino con hantavirus permanecen aislados - Diario de Santiago",
@@ -1215,32 +1215,25 @@
       "desc": "El turista contagiado de hantavirus recibe el alta y regresa a su domicilio tras dar negativo en PCR&nbsp;&nbsp;La Vanguardia"
     },
     {
-      "title": "El ciudadano franco-argentino contagiado de hantavirus recibe el alta y regresa a su domicilio tras dar negativo en PCR - 20minutos.es",
+      "title": "El ciudadano franco-argentino contagiado de hantavirus recibe el alta y regresa a su domicilio tras dar negativo en PCR - 20Minutos",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQREZibTRHNllhY3BYU0V3S1pqQ1pPMTNNTHUzVzk5TjZ1YUtzNElHeW0tbmtCd2x1aXBlNHEySEFnS0pDbGlxNGhxeGdrM2JRNTBEbjJ2Y2U5c1JfNGx5LVpyWGRVVW8zWXhyejNOOVJLU3paelVCRThfSWtZNFJ3SHJKaWE0RVVJX01SV0oyX1pveDR3UWxta3FWZmZRc2JvNWNWMU03ckRDYVFRd0FBOXNrTU1RaHNpNVhWMVIzOUVBVm9wYWtRM3RiUVBncU5FSjFBUERGbFpkTUZtRjM2d2gzZDlHUQ?oc=5",
       "date": "2026-08-10",
       "source": "20 Minutos",
-      "desc": "El ciudadano franco-argentino contagiado de hantavirus recibe el alta y regresa a su domicilio tras dar negativo en PCR&nbsp;&nbsp;20minutos.es"
+      "desc": "El ciudadano franco-argentino contagiado de hantavirus recibe el alta y regresa a su domicilio tras dar negativo en PCR&nbsp;&nbsp;20Minutos"
     },
     {
-      "title": "Hantavirus en Galicia: ¿cubre el seguro de viaje una cuarentena de 42 días? Esto dicen las agencias de viajes - COPE",
+      "title": "Hantavirus en Galicia: ¿cubre el seguro de viaje una cuarentena de 42 días? Esto dicen las agencias de viajes - cope.es",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOUo5Ynl1LXZ3clBZRjBqRDBSM2d0ZVE2WUczaTk3R1dyZE9BOEYwblFBbU1raG9pZ1JxQ2hxcXE5ZHJhTHNqWHNnVWZLYUpJWVEzLVd2OGd5OER5U3B2Y2VWWFE2WFE2RWZMTW01R09wTzVISElpM0dydENDdi00MG1jbWVUNmtDT1RqX1lqYXJpTHVfeTlkd0UydXpMZGg3Y0RGNXpEYnZlOWZnVFEyWDY2dUJZcWxxQlZBcUxrblFaVl84aW96MF9TeDQ3dFVxVjhsajRIakY3QjdReEg3dmNiOUtxd9IB6wFBVV95cUxNUk1HTDNqcWNHQnNpVmc4WlUtU3ltV09rQWpxNFc2VXlFYkhTQUd5TVdoN1pEU2phMGd5WUt3MEtvZUNwMFN4WWpWcFhGM0t0dTBSQzRTMXBGc1Y4YnduWTBQdkJfS3RGdWpla0dDRHI5eFJTWVQzRldpcXB5THpKd09DT3dld3U4bWctOTlYWDhUMkpXVmFrWmxjVjY2c0xwdjBOdjU5bVhRaTBqeE5qS21qSWRoLXRCejZsNm9NQTh6TWZpbjNtc2g1b05JMzdZOXN6dVB3b1dLbEhHV3VEdDZtUUxaM1lZTUpJ?oc=5",
       "date": "2026-08-10",
       "source": "Google News ES",
-      "desc": "Hantavirus en Galicia: ¿cubre el seguro de viaje una cuarentena de 42 días? Esto dicen las agencias de viajes&nbsp;&nbsp;COPE"
+      "desc": "Hantavirus en Galicia: ¿cubre el seguro de viaje una cuarentena de 42 días? Esto dicen las agencias de viajes&nbsp;&nbsp;cope.es"
     },
     {
-      "title": "Caso importado de hantavirus Andes en España: Sanidad considera \"extremadamente bajo\" el riesgo para la población - diarioveterinario.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeldjVlp4RkhOeEhZR3lYZjZoOFFaSWo5Z0xaZml5QnRSMmIwSUJnaXFnTGVnVC1XSDBaeUVUYkp1VVZMZkkzVmZUWXd6MTVTVmp3aGdZWGwxQ2Yzd3ZUV0Fva0MyX2lxNGozMDY1VlB6cWgyQVJuajE3eGZqY0V2WGhNeDdNZ2g1QTZKMUFObDJ2QmJOLV8yeGhwbkdyQUNkZGNxb1NPZHhjTEtJWEt2M3RlRlBZMkNJRG92c0czTnYzTXRWdXduYWQza19nMU0yY1JF?oc=5",
+      "title": "Recibe el alta con PCR negativa el turista contagiado de hantavirus que estaba aislado en Galicia - iSanidad",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZzFIT2JqTEVKektOdkhqcVhDY3B3S25fdWc0VURxZkhWck91S0Fab2FrV0dYZVFMMjhmRFA0SG9XandvMDNKbU1KdzZLZWJqRnFSWkxiWVNXQzFvZmlxTE9pVlNmRC1heXA2WVFrdWJkck5oa0VtWEg3Q1pIVjhnamw3cGh4UE5wdUFpTFZZMWJSb3JlV0dSMl85RE1iTXVTZzJBSUhLMW5HTzRza3FjTVFud3RiYlQ1WDYzSXotSzYxYVAz?oc=5",
       "date": "2026-08-10",
       "source": "Google News ES",
-      "desc": "Caso importado de hantavirus Andes en España: Sanidad considera \"extremadamente bajo\" el riesgo para la población&nbsp;&nbsp;diarioveterinario.com"
-    },
-    {
-      "title": "PCR negativa en Hantavirus el turista que permanecía aislado en Galicia y que ya emprende el regreso a casa - galiciapress.es",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVUQ2dmxsQlI1c1FsYzAtaVpZWDZiSkROczBCdWxDRUx1azRHeDVVY2VDcHo2eE5RR1BDNnYwd09HTmJaMElabWYwLTdLYmdrdDJRN2liODZLOW9RUEdQeHZnYTNLZ0ZPQTkyLU14Z1pQRk9IYXNtaHotQTZQS3ZoTE1nTENfQW5sam9HVkhxS18zb2Q1Z1phNDY3SEltQnRmRzYtX2M3ZWU1LVRrS2lTUklTM1BkRVRHRWFYNDBWVGhMUWN5d3ZfdmNvSW5CdnY3cDhpU2pQVVZGWlBx?oc=5",
-      "date": "2026-08-10",
-      "source": "Google News ES",
-      "desc": "PCR negativa en Hantavirus el turista que permanecía aislado en Galicia y que ya emprende el regreso a casa&nbsp;&nbsp;galiciapress.es"
+      "desc": "Recibe el alta con PCR negativa el turista contagiado de hantavirus que estaba aislado en Galicia&nbsp;&nbsp;iSanidad"
     },
     {
       "title": "El turista con hantavirus que está en Galicia pudo ser contagioso del 18 al 28 de julio - La Voz de Galicia",
@@ -1248,6 +1241,13 @@
       "date": "2026-08-08",
       "source": "Google News ES",
       "desc": "El turista con hantavirus que está en Galicia pudo ser contagioso del 18 al 28 de julio&nbsp;&nbsp;La Voz de Galicia"
+    },
+    {
+      "title": "El turista contagiado de hantavirus aislado en España pudo ser contagioso del 18 al 28 de julio - antena3.com",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNmNrd3Jxb1EzZnltdW93SlBXNEh2TEpTRmNDUUZGRHFSWnUySFA3cTl4WjY1XzFlOG41cFdsQU5DZkNNMW5OaXViTWNYcE1hVC1TNXhCWTVQS0NDVmF1V2tSRE9iNHNoOHpBZmZUU2doa2xTZE9kZnJ4NlVxRXZoY1NwclNBdURIZkwyZEloa3c2TElocE5pc0xRbVctWGJfRE5EbVdfUk9SaWhRVW1VMHBHemk1dkFoaVhWSU1QV1Z6emRoV2gxako2YkZjRmEyWEtEN2JER2RTdW9pNkNUWjhFX0NOMmNlQ0ZaVNIB7AFBVV95cUxNVlYtZ29YZlFxQ1pfclZVM3NvY05QTkNpY1o4Ul80eVNzM0pHLU8zeGJLUHFZdlpBTE1VUl9HQWYybVZNcG1Na3hlQW5lal9rM2VRMHBhelhRUmtMT2ozYWc3ZnJfWkd4cVFxSmhCS19YbjFGRUxMdnJ1czIzQmNVblE3ZElocGVnUmhrejZPeE94YzU3MEI5cW1Nd3FKLW0yOHh6dW5MRkoxTll0TTNzMGV6OG1YVXBYd3ppRHgxRldHRDRCajh3OEhnamlab3NFdnhmOG1KTlNCeUZ3UW93LXYwb3UwS25lbmpFVQ?oc=5",
+      "date": "2026-08-07",
+      "source": "Antena 3",
+      "desc": "El turista contagiado de hantavirus aislado en España pudo ser contagioso del 18 al 28 de julio&nbsp;&nbsp;antena3.com"
     }
   ],
   "countries": [
