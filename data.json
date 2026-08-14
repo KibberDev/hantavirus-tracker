@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-08-14 06:01 UTC"
+    "updated": "2026-08-14 07:51 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,6 +1124,20 @@
   ],
   "news": [
     {
+      "title": "Aislan a un vecino de un pueblo de Cuenca por contacto con un caso de hantavirus - ENCLM",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVGZtdlVfVng4S1BicFNpYkJnOWtxVDBJc2o3eHFqbi1XbGxZZzFja2NQa2FVTjlmaEhTbnVQYnJOQVpYNzUtOFB2Y0stZFdjT2E0Q1lGWEpWM0I2MlVWdWFpQ3ByN1Rpd3JZWU83WjBLUXl4ZUtaamszRjRQOFpzOHl3ZlhCMzdHOWhWWXkwZDdheHAtdm1LdzBKd2I2U0Zxb2t0bXZfRjdaeFV3TmVYWkFVQWI4SFhmUWVDbGtpdmhJdG11Smc?oc=5",
+      "date": "2026-08-14",
+      "source": "Google News ES",
+      "desc": "Aislan a un vecino de un pueblo de Cuenca por contacto con un caso de hantavirus&nbsp;&nbsp;ENCLM"
+    },
+    {
+      "title": "Dermatologists Highlight Cutaneous Signs of Hantavirus Infections - Medscape",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYXRudndVUWs4YVJtTnJqTW5KOElvQWlkUHJlclZ4VnZFVkVCNUVDZ1pINUQ4ZklJYnR6emltblZlbTFYZ1lOOEtQV0tZRWxRSTF1aGZ6MVlEOW5Na0RvdzBxZWItaW00RVl5ZVN0Yjk2OXBLWmhwZ3RTd3MydDJNcEVkQ0lvUEQ0Z0lpeE5sWjBlV0E0MW82dG5MU3NMcXVEN1g0?oc=5",
+      "date": "2026-08-14",
+      "source": "Google News EN",
+      "desc": "Dermatologists Highlight Cutaneous Signs of Hantavirus Infections&nbsp;&nbsp;Medscape"
+    },
+    {
       "title": "Los cuatro contactos del turista con hantavirus continúan guardando cuarentena en Madrid, Castilla y León y Cataluña - El Mundo",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fUkFnODFZb3lvSFlMdlNQMDZNUzZQRi0wOVFURC1YUnJqMlpaNXJPb0RJYXhUTVV1V3lEZ2NxMHA0R2ZkQmxBeVotWFFsTjkzWjVCX3N3RzZMVEdYcXA5VzVHdnZWZHIxb3hlX1M4YXI1NWpWMGhhZ9IBeEFVX3lxTE5fUkFnODFZb3lvSFlMdlNQMDZNUzZQRi0wOVFURC1YUnJqMlpaNXJPb0RJYXhUTVV1V3lEZ2NxMHA0R2ZkQmxBeVotWFFsTjkzWjVCX3N3RzZMVEdYcXA5VzVHdnZWZHIxb3hlX1M4YXI1NWpWMGhhZw?oc=5",
       "date": "2026-08-13",
@@ -1131,11 +1145,11 @@
       "desc": "Los cuatro contactos del turista con hantavirus continúan guardando cuarentena en Madrid, Castilla y León y Cataluña&nbsp;&nbsp;El Mundo"
     },
     {
-      "title": "La persona aislada en San Lorenzo de la Parrilla por contacto con un caso de hantavirus da negativo en las pruebas - 20Minutos",
+      "title": "La persona aislada en San Lorenzo de la Parrilla por contacto con un caso de hantavirus da negativo en las pruebas - 20minutos.es",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMTZFLUFyQTJHNWtZbXRjWEF0UGFyVkdHS0duRnJZX1VSQWJRNkZ4UUVVNlZoQ0trWHRRRkdnUHhxYXJEbDM1SFAxQWkya1M4T3g0dVhuVGkxYk0xQUtZTHF1R2stY1JPc3d5dW5OZWFNSHRMLTA2TlBzU1ZMWDRKSzljNDZMWmdLZUNZdkNNOE1tTHV1anZWUnpHeE9Hc2pTTFBLOGk5bGlCTWZWbWZxdU50ODBRSDNKaTVsdGpReUs4ZF84VmNMaGt2TDVXUEh1M2d4Q3dKcW1hdFdoOGt0UVViQm5reklOV20yYmdyeGhCOXAw?oc=5",
       "date": "2026-08-13",
       "source": "20 Minutos",
-      "desc": "La persona aislada en San Lorenzo de la Parrilla por contacto con un caso de hantavirus da negativo en las pruebas&nbsp;&nbsp;20Minutos"
+      "desc": "La persona aislada en San Lorenzo de la Parrilla por contacto con un caso de hantavirus da negativo en las pruebas&nbsp;&nbsp;20minutos.es"
     },
     {
       "title": "Un vecino de San Lorenzo de la Parrilla en contacto con un caso de hantavirus da negativo en las pruebas - Voces de Cuenca",
@@ -1166,11 +1180,11 @@
       "desc": "En cuarentena en Madrid uno de los contactos del turista francoargentino con hantavirus&nbsp;&nbsp;TelemadridEn cuarentena en Palencia un contacto del caso de hantavirus detectado en Francia&nbsp;&nbsp;El Norte de CastillaAislados cuatro co"
     },
     {
-      "title": "Sanidad eleva a seis los contactos en seguimiento por el caso de hantavirus detectado en España - 20Minutos",
+      "title": "Sanidad eleva a seis los contactos en seguimiento por el caso de hantavirus detectado en España - 20minutos.es",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSWR5WFhZTjBzYmk0RHdJbm5jZGxXdllwdGVITHNPR2VIRTVRZUttck1hU0hJeUc0SXpYM2dvZXd1eURVQkNqeGFfSk9vbGo1ZWN2YVN4TnZtRkc0aVJGWlAyNmZFUWI3TERrTkVuSll5VTc4WU1xWDl0dWhpMjJWOE9QWDZpenpVem1nYXhxOU1sZzd2WElWLU5MU2NZVERFVFNmNWhSQmtYVHRISEhaOV85MzUxM1Rsa2ZpcGJ1V0ZoZjBYZU1ZUVN30gHPAUFVX3lxTE9jOFRLbUQzeDZza0F5LXoydTZLMEk3ZkJBdVlPZ1ZJX3VGRXY5clhvZnY5TDQzWmhvUVE4UHJvd3ViSnJIUW5KS0ZwWG5oa3J4YWhHR2VabDBWbU5qdUdIejNjUUdiWVlQT3N3S1dldUItRGFSaGZoOTMwVzVJQ0pWSTJGbnZPVXR3dW1PaW9xcTNYbndHRWM4MkE4TjBsUDFTMThJcEExaUp5UUh4WUZlcW1DbkJaMzhVSEM3aW5yT184VWt2Mng5dVVmR2VfQQ?oc=5",
       "date": "2026-08-11",
       "source": "20 Minutos",
-      "desc": "Sanidad eleva a seis los contactos en seguimiento por el caso de hantavirus detectado en España&nbsp;&nbsp;20Minutos"
+      "desc": "Sanidad eleva a seis los contactos en seguimiento por el caso de hantavirus detectado en España&nbsp;&nbsp;20minutos.es"
     },
     {
       "title": "Cuatro contactos del turista franco argentino con hantavirus, aislados en tres comunidades - Diario Médico",
@@ -1234,20 +1248,6 @@
       "date": "2026-08-11",
       "source": "Google News ES",
       "desc": "Sanidad identifica dos nuevos contactos del ciudadano afectado por hantavirus y eleva a seis los sospechosos&nbsp;&nbsp;consalud.es"
-    },
-    {
-      "title": "El turista contagiado de hantavirus recibe el alta y regresa a su domicilio tras dar negativo en PCR - La Vanguardia",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTlZrNFc0UlRvRHZaTXNVeWhndGg2SVpsdGhXNG5xejhYN3FJR2tiWVkzUkQtdkdpVEEwRTRmeWdmMEFHRW5uc3hIMjhvVEVMOTZCX3FGYjNGNmZmS3pyeldSc0VOVm5LQjhGQTdpNG5OaXE4UnU5a1BIYW84YnByYzY5bklZaGx4dUlvNjR4VHpqMTEwS1RiOHlBb0lOQ0I2YWw5eWN3UXJYd0VNNW5YMzhJMEF6Tnk0X0xCX3RBTkxqY0JXM2xfT2YzMUFVUdIB0wFBVV95cUxPNDVKZkRzNHlWVkc1RnBQLWFrMlhHU2tJU0pxeXJQazQ0U0k5a2VOME9ZaC1zaU5aUnJ6TXliTnFSdnlPNWw5Ri1sY2NvQ0ZydXFPcUJvRVdBOG43QUpQNU9ySWk4NFdmaUNacGdvOE1zU1BFSDFsdDNCU0RSb2s3c2JHZFEySHJGdlduX3l3Y01XeTdFbHg3a1JIT3lYWmNmREh0dHBsOFpMTVFIVkViM3Z6dDRheHJWQ1dQcDJ6dGhpR3U4YnBKRTlZeVRpTnFiOTI4?oc=5",
-      "date": "2026-08-10",
-      "source": "La Vanguardia",
-      "desc": "El turista contagiado de hantavirus recibe el alta y regresa a su domicilio tras dar negativo en PCR&nbsp;&nbsp;La Vanguardia"
-    },
-    {
-      "title": "El ciudadano franco-argentino contagiado de hantavirus recibe el alta y regresa a su domicilio tras dar negativo en PCR - 20Minutos",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQREZibTRHNllhY3BYU0V3S1pqQ1pPMTNNTHUzVzk5TjZ1YUtzNElHeW0tbmtCd2x1aXBlNHEySEFnS0pDbGlxNGhxeGdrM2JRNTBEbjJ2Y2U5c1JfNGx5LVpyWGRVVW8zWXhyejNOOVJLU3paelVCRThfSWtZNFJ3SHJKaWE0RVVJX01SV0oyX1pveDR3UWxta3FWZmZRc2JvNWNWMU03ckRDYVFRd0FBOXNrTU1RaHNpNVhWMVIzOUVBVm9wYWtRM3RiUVBncU5FSjFBUERGbFpkTUZtRjM2d2gzZDlHUQ?oc=5",
-      "date": "2026-08-10",
-      "source": "20 Minutos",
-      "desc": "El ciudadano franco-argentino contagiado de hantavirus recibe el alta y regresa a su domicilio tras dar negativo en PCR&nbsp;&nbsp;20Minutos"
     }
   ],
   "countries": [
