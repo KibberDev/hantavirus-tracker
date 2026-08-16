@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-08-15 23:46 UTC"
+    "updated": "2026-08-16 01:32 UTC"
   },
   "current": {
     "cases": 13,
@@ -1173,18 +1173,11 @@
       "desc": "Sanidad transmite \"tranquilidad\" por el caso de hantavirus en Cuenca: el paciente sigue sin síntomas&nbsp;&nbsp;El Español"
     },
     {
-      "title": "Identifican dos contactos estrechos del caso positivo de hantavirus de Galicia - es.ara.cat",
+      "title": "Identifican dos contactos estrechos del caso positivo de hantavirus de Galicia - Diari ARA",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOFpxcXIwUHQwdXB0TjZkRnNtbFhWc204Y0VJZmJlMW1iVktxZGpTRjYwM1FNOHpZSnl5Y0RnaDR1dkhZTVRueWNmbS1KdmFGUHdyYnVFalg2RkpLQ1lEYzdpNmVzT3dvdWtjMWZYNWxQaWI4ZEJQaDh6bzVNZVZiWjNla0xLempUWUQ1SDFYT1U4T0dERVR0UWd1ek01RmI1bXhzQXZ6N2FxZTBOT0ZWeEhUMGFKemPSAbwBQVVfeXFMUFFINzU0STNOQXM0REJLTHI2cnVjLW5hQVZoaWxYQjJ0RF9YZm56Z04xRTk1ajM2d3NIUUpRckhvOEFlY25wb0RIVEhuUW5iUVBUazZxSnNBek4xejR0SGlxUnZzNGp6eTJXamF0cThIX3ctdC0tdWkxSEFLblJWbTItZS1mcEVXV3BUX0NreFpFa1A4MU5GV0ZhQmdLQlQ5U2UzUWVLajF6LUVtODBBbFpRZHlySU9xaWdrSVA?oc=5",
       "date": "2026-08-14",
       "source": "Google News ES",
-      "desc": "Identifican dos contactos estrechos del caso positivo de hantavirus de Galicia&nbsp;&nbsp;es.ara.cat"
-    },
-    {
-      "title": "Cataluña vigila los contactos del paciente infectado de hantavirus Andes - consalud.es",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSGJLZ2hpU0F6bHJNNmRfWi14NlhEb19xd21EYWNNY1VDV1FSZVZyNGNrZ3pZNXdhYVZPTmE3SFdZdzFlNEVtVmxMdVNNSWpTb0pyR25ZcS15Zy1RVTlRbDM5MFdJTmZnSkVrVVZlb21hRkxVdHVaYTZKcE9EM0ZuV3cxR0IwUjcxc2hGQV8tN3lPT0ZvVkdPTlBuWEhpdUY1NlJwWGVMcUpHQ1dPS1dWdlpQYkF1Zl83ajk4NVZn?oc=5",
-      "date": "2026-08-14",
-      "source": "Google News ES",
-      "desc": "Cataluña vigila los contactos del paciente infectado de hantavirus Andes&nbsp;&nbsp;consalud.es"
+      "desc": "Identifican dos contactos estrechos del caso positivo de hantavirus de Galicia&nbsp;&nbsp;Diari ARA"
     },
     {
       "title": "Alerta preventiva: Cataluña sigue la pista del hantavirus Andes tras un caso importado procedente de Argent... - OkDiario",
@@ -1192,6 +1185,13 @@
       "date": "2026-08-14",
       "source": "Google News ES",
       "desc": "Alerta preventiva: Cataluña sigue la pista del hantavirus Andes tras un caso importado procedente de Argent...&nbsp;&nbsp;OkDiario"
+    },
+    {
+      "title": "Tres personas en cuarentena preventiva en Cataluña tras estar en contacto con un positivo por hantavirus Andes - Telecinco",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYTJKdWxvcTRKeTNGVE44QVlkT1dlS0xJMUpGX19LMGpzendjT09ReTQ3R1M3LVEwN1VzTXBodGs1cFFRMmRweHhRT1FCQkRySExaOEZ4STFmUzBjUFFiMFF3b3B4bnJNMDVmWFVRTWo0ZmMzdW1uWTJCaWtYWmRzQXpHUzk1VDVHRXNUcHNXbmxJcWxYRHh1YmVMdmxBQnJqM3Vudkk4MnlJVUxpOFEteXNGLThGcVpxMVhZY1BhZFhJQ2FTY3RIOV9waTB6bVg2?oc=5",
+      "date": "2026-08-14",
+      "source": "Google News ES",
+      "desc": "Tres personas en cuarentena preventiva en Cataluña tras estar en contacto con un positivo por hantavirus Andes&nbsp;&nbsp;Telecinco"
     },
     {
       "title": "Catalunya mantiene el seguimiento preventivo de contactos del caso importado de hantavirus Andes - Europa Press",
@@ -1236,11 +1236,11 @@
       "desc": "La persona aislada en San Lorenzo de la Parrilla por contacto con un caso de hantavirus da negativo en las pruebas&nbsp;&nbsp;20Minutos"
     },
     {
-      "title": "En cuarentena en Palencia un contacto del caso de hantavirus detectado en Francia - El Norte de Castilla",
+      "title": "En cuarentena en Palencia un contacto del caso de hantavirus detectado en Francia - elnortedecastilla.es",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU3FfOFp3WW5GWWJfRkg0OVZEMVdZbVBpZnJZTmpUZFY2cTU2M1lYSXNXTXpKczc3TkJScUF4SmJ3LUJhbUt5YnZXRkdwb3NkbmNRVllQcXZSTFctRnNyYk9PRWIxOEZsVDlRcGRhaXNUMU1nQnNTM25oRXlicGFlMEN5aGNfS0tqTTM3NGd3WmtCaFRrZEVVOHF3MUpzMDB1OGFKazlwYzdFZGR6OWtXcU5zUXBmcktndEJtUmoxNNIBxAFBVV95cUxNb1BGdk9jOGIxa1FtM0J4SFBhNHB6dVZsZzFCYXg5a1ByR1NkbHNFU1prMnJ4VkozalZPdE1OT1ltRkZPX2pDalBXY1FNOGdhanFQelJ3NEZpQ0cxQzN2b0FWTnlkTFNFY1h6X2gtVkpkanhDZEI2VEU3cFpERFExUDE5OFBDZWF6Vkg3TTV2SmFGMmdSb0VMd0JmbWFXOHZtUGdDajJPSDNDeVdwOGxfelBXVXhvcTJ1bXpxV2xWM2ptUnlS?oc=5",
       "date": "2026-08-12",
       "source": "Google News ES",
-      "desc": "En cuarentena en Palencia un contacto del caso de hantavirus detectado en Francia&nbsp;&nbsp;El Norte de Castilla"
+      "desc": "En cuarentena en Palencia un contacto del caso de hantavirus detectado en Francia&nbsp;&nbsp;elnortedecastilla.es"
     },
     {
       "title": "Sanidad eleva a seis los contactos en seguimiento por el caso de hantavirus detectado en España - 20Minutos",
