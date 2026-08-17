@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-08-17 20:57 UTC"
+    "updated": "2026-08-17 21:32 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,11 +1124,18 @@
   ],
   "news": [
     {
-      "title": "Cataluña mantiene bajo vigilancia a tres contactos estrechos del turista con hantavirus - abc.es",
+      "title": "La conclusión de Mikel Herrán sobre las pandemias, de la peste negra al hantavirus: \"En vez de culpar a las minorías, escuchemos a los profesionales\" - LaSexta",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPV2JFSFY5bjYwV0JubVFxV0d6TG91M0lrZC1zLThCZ1NNNHJCZFFIbGdkdXhxaWE5M0NBSGplOFlDU1lmUzJhVlBqLXhnRm1OWDZXa0drSm9UeWF3SFp4R09IbjktMjRSWE1Gd0E5c0puSXRKenhBdkYtYU1rcnYwSFlkbGRiMVJPdm5CMFh4R0wxUzJ5TGdvUGo1X1JkQzF2bVlBRmRlRXdZQ2xLSmFfX3UyNmxCWnNfdC05N1NVMWc1bm5YbHV4Tk1YaXJqZHB3RHVRX1dPWEJQNzJDVmZIYjBtZ1dMWXBiUWZVczdfNV9LZi11Y3pNcjA1RVZlNTlwakt4Uzh3QUVra2RlMFRhMUlGeWhfQdIBlgJBVV95cUxNdEZ4MXNxUmZ6TG8yOE1QNmtsYWVyTl9JRHhXaldlN2ppMUJUQ0U3WXNWc1VSQVl6akxyV2pLWVlyNDF1SGhMbzNXdXlzUm9UT2Z0aEJaSjBGV3d3LWd4UVd4Y1EyYVpqY2NYampqcGZZQzBkSjNIc2Y2bkNBa0xyQktKd3VLNWJnWnBzd0lhZkxiM0hkVmZmbFJJY3loSmlQNm1pY1VFanlkQ1Bjd193TWZKWDV2TGlEX2o5dDJzYjJPVENiUFdlZlV6MTI5V1U0c3FHX1lGSGdTSWZQcUVGMm1rdkp5eFdXb0d1U2o1eklkS0Rjc1d0dm9TTy1uX0k4OVpiYklSNWFxNnVieEVTOGRET3hldw?oc=5",
+      "date": "2026-08-17",
+      "source": "Google News ES",
+      "desc": "La conclusión de Mikel Herrán sobre las pandemias, de la peste negra al hantavirus: \"En vez de culpar a las minorías, escuchemos a los profesionales\"&nbsp;&nbsp;LaSexta"
+    },
+    {
+      "title": "Cataluña mantiene bajo vigilancia a tres contactos estrechos del turista con hantavirus - ABC",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTTF4Zi1wVEZKN0dndzhNTkpSTlV6eGl5N3pRVFQxQWxCMTRfeDN6aVZkd25lMUg4bjU1QW9CamxLLXc3RXpya3RhSmNPRlNTWHpzT1RiRXluOFlYb2Z1MmZzUjhNOE41QlllYkctVmc4VmhNOS1EdU5ILVcwR0kxZjN0cVpqYlZUTHN1dEdmcUZYa0xqeUtEYTBPNnpxTWxyTG01aWl4QVFzZw?oc=5",
       "date": "2026-08-14",
       "source": "ABC",
-      "desc": "Cataluña mantiene bajo vigilancia a tres contactos estrechos del turista con hantavirus&nbsp;&nbsp;abc.es"
+      "desc": "Cataluña mantiene bajo vigilancia a tres contactos estrechos del turista con hantavirus&nbsp;&nbsp;ABC"
     },
     {
       "title": "Cataluña descarta que los tres contactos de hantavirus en la comunidad se hayan infectado - 20Minutos",
@@ -1201,6 +1208,13 @@
       "desc": "Cataluña mantiene en aislamiento domiciliario preventivo a 3 contactos del caso positivo de hantavirus en Galicia&nbsp;&nbsp;Redacción médica"
     },
     {
+      "title": "Sanidad transmite \"tranquilidad\" por el caso de hantavirus en Cuenca: el paciente sigue sin síntomas - El Español",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNS3NXN3FQZzhIREhtSlJOTDNsMHAyVTFMY0plOExOV3p1MUNaYmdEdEp3X3JyT2pOMzhmWFpXNy1KQ0tkUGFSamVzSlBjYlZlMnVwTU1RWEZodkt6dldjakwwSVRzdUwwSEJqUnFGaGEyUDdRcHphb3ExQTlvRERCWFRYOHBzdDdlQTNLMmhhNjNNM0NoUUpWYWVacWViSUpjbXNXVzhCNXYwOWtiVGhMSnc2N1FYNUJTSW1ScWhBNVZTRFlzZjBjQTFoNVp1WWJ4QnR0SkU3ZlpIcURSTWRBNVo1ZHo4d0hKNXNaWW9CQ085T2VGNWZfeEw5R0ZlU0pNNHpMN0trWWFTdnFN0gGSAkFVX3lxTFBXdmNBem1aLUpSbG9Sd01xZ1BhSzlLV2piX2Y2T09tYUt4X09YSE1qTjB3UzFSNk1ENlJQZUx3TUMxLUNfb0NIYU5XdTlTcm1KdkZUMmZrOWh5YUlhSlBsZFBOUG5zd3EwNzdFeFB6ZDNrYXkwYzdCMzhwMEFtcFdGcG1tV1pMS0pUUHF1bHNxMk1vQzgxSlFhN1BjWWhWb0tkeFZ1eEthajhEejh2VXdBSG9KblJCVDV2c3F4UzY0MTk4S3NlZTR5aXJjUWlmZXVOXzc1YkdRT19rOXRaWVBkeEwtWHBOa3lpNldZQ3RCZ2x3Z3prSVp5YWp6MnpLTnEtdVM3QVpCZ0FzUDdqR2l5Q3c?oc=5",
+      "date": "2026-08-14",
+      "source": "Google News ES",
+      "desc": "Sanidad transmite \"tranquilidad\" por el caso de hantavirus en Cuenca: el paciente sigue sin síntomas&nbsp;&nbsp;El Español"
+    },
+    {
       "title": "Salut vigila tres contactos estrechos de un caso de hantavirus en Barcelona y Badalona - El Nacional.cat",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTjFKNHYxMVFpWFBIQjFGeWJxOTBFSUdJRFA0YkNoTUMwcWVCUmNfT2FLZmlFVW55ZjczVGVtOVJyS3I2REVORmhJTUR1Z1RLRjZiR014d3lUY3ZIbzNjT1cxMmE3OHNPYXd0SDR2ZlRYdGRHclh0WUx1UXF6TldpV01UOFAtSmhDTi1fNk1JRFdDRXlzQllfNmk5OEFaUFNENGFaVEY1eHIwS3NDblV6RnFSYVV5amZkV014ZnNkak9hRm8?oc=5",
       "date": "2026-08-14",
@@ -1234,20 +1248,6 @@
       "date": "2026-08-13",
       "source": "El Mundo",
       "desc": "Los cuatro contactos del turista con hantavirus continúan guardando cuarentena en Madrid, Castilla y León y Cataluña&nbsp;&nbsp;El Mundo"
-    },
-    {
-      "title": "La persona aislada en San Lorenzo de la Parrilla por contacto con un caso de hantavirus da negativo en las pruebas - 20Minutos",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMTZFLUFyQTJHNWtZbXRjWEF0UGFyVkdHS0duRnJZX1VSQWJRNkZ4UUVVNlZoQ0trWHRRRkdnUHhxYXJEbDM1SFAxQWkya1M4T3g0dVhuVGkxYk0xQUtZTHF1R2stY1JPc3d5dW5OZWFNSHRMLTA2TlBzU1ZMWDRKSzljNDZMWmdLZUNZdkNNOE1tTHV1anZWUnpHeE9Hc2pTTFBLOGk5bGlCTWZWbWZxdU50ODBRSDNKaTVsdGpReUs4ZF84VmNMaGt2TDVXUEh1M2d4Q3dKcW1hdFdoOGt0UVViQm5reklOV20yYmdyeGhCOXAw?oc=5",
-      "date": "2026-08-13",
-      "source": "20 Minutos",
-      "desc": "La persona aislada en San Lorenzo de la Parrilla por contacto con un caso de hantavirus da negativo en las pruebas&nbsp;&nbsp;20Minutos"
-    },
-    {
-      "title": "El vecino de un pueblo de Cuenca aislado por contacto con un caso de hantavirus en Francia da negativo - El Español",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNTENhS1pFaGdTZW5QS3d1ZVNJUm84V1hXM3R4bjQ3M2tRUU02LWZJZlUyc0RGdVlXWTlSSHRDTFRMUEhRT1NuMUhoUGFnTmExTDdsS0VDTVp2N1ltcnE3ME1qd0drTFhSYTYtTl9Da1gtM25YdlZIVzdQNkE0Rkh4aFg4bjRFYUZ4UDZzVHo0Q042R2toWFcxNk9JX015WXFFck9WTmtGUGNibGoydDQ5VUYzZl80MEV6dnFWVk1BNnVZTEZGeHp4aHRnMHE0Zm04dk1idG01ekFySVBrZ3gxdnFwLVZpRFBKR2k2WTZHbXhzMUNxRTlyNGZnamZLUdIBgwJBVV95cUxPd1dCaFJiYmJIUS1xc2tPU2VtdU9iTnpRRjhaNFFKdC1jWDc1WG8xdDRlMFlWTjV3SUdYTk9iUXJselFqUklJczZNS1hJeFR1TFZkTU5WT2h4dWZNcU5CQkdsUVA3enVHZ0ptUElKSnFBTUJYR2ZIYmc5UVhwXzZHZHJSM0RtOXJiRldCbGhrSEZQNC0zYy1wRFhTWU51S1B2dUVJZllDUXVmZlV5eG8zajBEMXJXNmxsUVZTS0xTNkVxVkd1ci12bUNaamdVQVFlQ3FlZUZpWjl3QVZhTVdZSE41azJubzM0VUYyUlBIbnJVeXdrVFg4aTJlQU9WaGZYVzNF?oc=5",
-      "date": "2026-08-13",
-      "source": "Google News ES",
-      "desc": "El vecino de un pueblo de Cuenca aislado por contacto con un caso de hantavirus en Francia da negativo&nbsp;&nbsp;El Español"
     }
   ],
   "countries": [
