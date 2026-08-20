@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-08-20 16:52 UTC"
+    "updated": "2026-08-20 17:32 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,13 +1124,6 @@
   ],
   "news": [
     {
-      "title": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaVFxQTZQbEFJdm9jTU5qVFFlbUh1Z2tCRDhCZHBlY3NneVhwN0VEV1lJOUlZVjVoNUxfMGVsbmVpcGkwVTF6TWVRWTlhb0xSamJaZU5QMFJoZ0lNME1BT0FoRlJCSmNnWW81cXN0QVBqb2RhSWhJTDRmYWE4eW4tcUdMVlFjcTBVVTVCMGFKOF9RMjhUX2ZJTFRnTzVyLW0zbk930gGoAUFVX3lxTE50VnEwRi1SSDJvaTZ0Z2VjVjZaNWlrZGlZa3BneElvZjJzcUZoRWlIZ0hXTzV4QW1TY21oVVRuMVRGZHB5X09fU3NFVWhtVVpNN3Q2aWR3UkpUM3lOamItODI2R2VWdnhjRnhQNC1ub1hqQzhmUUVRVG5idWt1Q0VIcVQ2NzRVWUF4N1NWclk4ZVZqSEF4RHBFYUpzNnl5SHZMbDhYdHlRMw?oc=5",
-      "date": "2026-08-19",
-      "source": "Google News EN",
-      "desc": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos"
-    },
-    {
       "title": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US - ABC News - Breaking News, Latest News and Videos",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFY0UEluMmNRVzc0a0NhZ25Cd19EMFAwNzI5NjZHZm13SXlla3VnQ0FfdmZ6X3BwcVRvbThMRTdFbjR0MXBEQ2Z5OXA0MkNuaUhvcVhlYWtTenlKUlRydTVWYU53NE1XaV9JejM5dVVzMkk0bUo4RlBQMHQwMlFpdDEzOXBBNzFxWVBqcng1c2pqSF9yU1R3RUhBaVJVdXU3RkxIUtIBqgFBVV95cUxQQnVZbl9jc0NZM3otVGpTclk1TXpJMGIyTm4wVHFOQ2hZSmktdzR4S1duNzc3QnBWLTRlbTFLVTNhaXhtcWptZXA5UWViVUwtc2d6QXNLNmxCZEhtMGdjMllHZUNRclJwb3F3SE03alFDWHlwbUxpTGJvTThqeWRycEdWTUNXMHRYSEpZeE9NQ1dlblhVYVZNQ05oWExuU0hrd1U0ci1oem9Wdw?oc=5",
       "date": "2026-08-18",
@@ -1159,18 +1152,18 @@
       "desc": "Cataluña mantiene bajo vigilancia a tres contactos estrechos del turista con hantavirus&nbsp;&nbsp;ABC"
     },
     {
-      "title": "Cataluña descarta que los tres contactos de hantavirus en la comunidad se hayan infectado - 20Minutos",
+      "title": "Cataluña descarta que los tres contactos de hantavirus en la comunidad se hayan infectado - 20minutos.es",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN1lUbnQxUWFEWGpUMlhsTWlXa0ZiUlFuUlFGRHJtc1M0S3BWTmV5clYxRG1LSGRxVEZvblczVGstVm4xUjdHZzdaUmlfMHFNazJZX3pKbm54cERiSVBqUFE0UnRwRlVfWi1IdS10TGtWc0dQZUhTdVByLWEzbjhteGM2S1FXRjNTdmtjZjR6N1ZCUGJadzg5NHNMeS1DUDV6VGJnazNFZ0xsNW42Mjh5azZvREVNQnNTcWJqRWVkRXB5ZlVoQVM3Sg?oc=5",
       "date": "2026-08-14",
       "source": "20 Minutos",
-      "desc": "Cataluña descarta que los tres contactos de hantavirus en la comunidad se hayan infectado&nbsp;&nbsp;20Minutos"
+      "desc": "Cataluña descarta que los tres contactos de hantavirus en la comunidad se hayan infectado&nbsp;&nbsp;20minutos.es"
     },
     {
-      "title": "Catalunya identifica tres contactos estrechos de un caso de infección de hantavirus detectado en Galicia - 20Minutos",
+      "title": "Catalunya identifica tres contactos estrechos de un caso de infección de hantavirus detectado en Galicia - 20minutos.es",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQN0poY245N0Q3OWt3VXJwRGN5ME9DR2Y3SElvTGNtaUdCUURIMTcyS2hKT25NUi1UN2tLVndIU1pJMGs3bnVveEp3VDdadTVuUGN0Q0RBMzFrNE95Tzk5QTJWUjE4d3VERmpJcTRhdkFORkxfZWFwWGNsbVpDRU1LQ3I2a3djQ01ZVXRkNnRBT0RDaVZjWkhrWVlpLXFmdFVSVFVZTW41MUxfVHR3UnpqaWp0X0JWalpnOS1qRXQzQ09ZbFpUdzRiUUl5c2FzaVh6V2RMNFFPaXM?oc=5",
       "date": "2026-08-14",
       "source": "20 Minutos",
-      "desc": "Catalunya identifica tres contactos estrechos de un caso de infección de hantavirus detectado en Galicia&nbsp;&nbsp;20Minutos"
+      "desc": "Catalunya identifica tres contactos estrechos de un caso de infección de hantavirus detectado en Galicia&nbsp;&nbsp;20minutos.es"
     },
     {
       "title": "Catalunya confina en sus domicilios de Badalona y Barcelona por hantavirus a tres contactos del caso positivo aislado en Galicia - El Periódico",
@@ -1215,11 +1208,11 @@
       "desc": "Los cuatro contactos del turista con hantavirus continúan guardando cuarentena en Madrid, Castilla y León y Cataluña&nbsp;&nbsp;El Mundo"
     },
     {
-      "title": "La persona aislada en San Lorenzo de la Parrilla por contacto con un caso de hantavirus da negativo en las pruebas - 20Minutos",
+      "title": "La persona aislada en San Lorenzo de la Parrilla por contacto con un caso de hantavirus da negativo en las pruebas - 20minutos.es",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMTZFLUFyQTJHNWtZbXRjWEF0UGFyVkdHS0duRnJZX1VSQWJRNkZ4UUVVNlZoQ0trWHRRRkdnUHhxYXJEbDM1SFAxQWkya1M4T3g0dVhuVGkxYk0xQUtZTHF1R2stY1JPc3d5dW5OZWFNSHRMLTA2TlBzU1ZMWDRKSzljNDZMWmdLZUNZdkNNOE1tTHV1anZWUnpHeE9Hc2pTTFBLOGk5bGlCTWZWbWZxdU50ODBRSDNKaTVsdGpReUs4ZF84VmNMaGt2TDVXUEh1M2d4Q3dKcW1hdFdoOGt0UVViQm5reklOV20yYmdyeGhCOXAw?oc=5",
       "date": "2026-08-13",
       "source": "20 Minutos",
-      "desc": "La persona aislada en San Lorenzo de la Parrilla por contacto con un caso de hantavirus da negativo en las pruebas&nbsp;&nbsp;20Minutos"
+      "desc": "La persona aislada en San Lorenzo de la Parrilla por contacto con un caso de hantavirus da negativo en las pruebas&nbsp;&nbsp;20minutos.es"
     },
     {
       "title": "El turista contagiado de hantavirus recibe el alta y regresa a su domicilio tras dar negativo en PCR - La Vanguardia",
@@ -1248,6 +1241,13 @@
       "date": "2026-08-07",
       "source": "El Mundo",
       "desc": "El turista con hantavirus está aislado con dos contactos estrechos, todos asintomáticos&nbsp;&nbsp;El Mundo"
+    },
+    {
+      "title": "Francia recomienda aislamiento domicliario para los contactos del turista con Hantavirus en cuarentena en España - La Vanguardia",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTTJWYWlFQ1lvX0R1S2FRZEpRZDdCZ0UyVVdKeUVVNEtPWTNiYlRvTndwVTE2YjF0eFJrelZnX1NiNUdBWXNIMlZveXRyX09EMWFBc3k0OGY4T010aHd0Wng1ZHJIdlRXWnJlSDBYbUd1Zm1nV2pra1A2MWx3THNFc3ZmbHlnU3k4cTNramZMckJvQjBVajlOMVdyUWJRX3NrS3hjbFFleGtZVFdfdURGV3ZPSGxVTU9iZXU5TjRsaTJaMk5MalE3bDlPM3kzbGNDbmhFX3ZsTU1nSmhta1FJ0gHkAUFVX3lxTE5ORDQ4UHA5bjJYVkk3NnIxRWJJWDVqNWI0V2ZvYzVpdktQV01QYnc4eXVCRmc3Q1p2LUNWak8xYVJUaGNITGdMdHlBSUNGVllVdWZLMjZvZzE3S3hJNW9IaTBtRVdLeFZLWi1zaDFvUGFpWk1RemdWcUs4aTFpRU1vMzFwbVVHZ0lGWmpEdVJocXoxWE5kczF1blFLRjhNWTdieXU1ZG5Fc0ZEbVVZeWhyMFh4TTc1VlNDeDlLbVFCT2dyazdzWUtVY01YSUxjay14MHhJWnBZVjBHTEhpamJrNERRbA?oc=5",
+      "date": "2026-08-07",
+      "source": "La Vanguardia",
+      "desc": "Francia recomienda aislamiento domicliario para los contactos del turista con Hantavirus en cuarentena en España&nbsp;&nbsp;La Vanguardia"
     }
   ],
   "countries": [
