@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-08-20 22:02 UTC"
+    "updated": "2026-08-20 22:45 UTC"
   },
   "current": {
     "cases": 13,
@@ -1173,13 +1173,6 @@
       "desc": "Catalunya confina en sus domicilios de Badalona y Barcelona por hantavirus a tres contactos del caso positivo aislado en Galicia&nbsp;&nbsp;El Periódico"
     },
     {
-      "title": "Sanidad mantendrá el aislamiento y los controles al vecino de La Parrilla (Cuenca) que tuvo contacto con un contagiado con hantavirus - Cadena SER",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRko2LVEtMWRmN3FKb3dMT0lYLXlZeXkwa3IyT3d2TXFpYTR2MWx0b2h2dGZvTXIxb3FCVmVrdm9kODdfNGItN2hoS0ZtU0FnSl93NTd3T1NQVks2WUVscHlJWmZZejlJR3dUeXhybUpROUpoN05LeGVOV3VPUjByVDdUamNSdnFKblFMWnBXSlJvRHpXUjBfWE9VN3ZCMG5CQWNvUFNGT0dkYndjcldfanFuQk55b2M5Vld1el9QcVR3bVRweUh4TlJvVXpENXdBVTlqU2tWS2JzSVY5SzBSdXBqSzl2d1hlQ3NfdndFOEJ4VjJfbi1UWVhJd0wyQW5i0gGUAkFVX3lxTE1WWHdndlktdVZLdFJEaXkxOWhQUzBScEV4SWtVSnc2R2ZudVNzWUlZZ2V2bHQtR1Bvbi1hTzZWMGlueFF1d0x0ck52N3JucDdhdm5na0ttTHBYbFZqMVBzVWl1M3RMLW96TkVZNmNaY2lRdDh6b0dDME91bW5Fd3VxRVppclRDYnJ4dF9xeGdpSFUxVDVsV1NmaWYtcDJidml0VFlTLVhrV0RiSUVfS0E2SmNYVlc5VmdWY3dVS2lzd0swbUZvaTBVQXlocElkeVExcTItbWxjOENTWE9iZ0lPUUpFY1owMTRqUGdVRlNhMzBRODBFUzVoWE9vU29QSThGLTRDeTlwZ1FCUndDRGNGaklPTA?oc=5",
-      "date": "2026-08-14",
-      "source": "Google News ES",
-      "desc": "Sanidad mantendrá el aislamiento y los controles al vecino de La Parrilla (Cuenca) que tuvo contacto con un contagiado con hantavirus&nbsp;&nbsp;Cadena SER"
-    },
-    {
       "title": "Cataluña descarta que los tres contactos del caso de hantavirus que se aisló en Galicia se hayan infectado - La Voz de Galicia",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSy1BZUloSzdkV09DaVYyOHZHQmFwWjh2NG1uaHl2bWsxZG1QbE1Cb0U3NnZYaXExUUNKRUo5dHpQUm9na1F2SUZOMGJjSDVfRjJXWm1OUUVkXzJHUjJ4bTZMV2R6bDZmeThsdkNmejN4RmNrTFZSYTh3NmJSWnJQT3NSMjhSSV9BX3hGeVVyOXJQVm5GbWpnV3Jfd1c0YmNPU3p2VzBsR3JhenNTbm9BTm5RdlhHY0ZoY3pvcWRlbUdlb3pSam5fSjlxRWh4S2xkbFkxWU1VTlVuUHVfdWhCMUpwc21nN3ZBa3U3RjlEMXDSAYwCQVVfeXFMTXZZQlE4cElScnUteWd5SkRjQmhTYWVMOE9aZ1NjaFBLVkk5dThOMGc4alJlb3FmR1Yyc1NiZzRQaWQ5NWdHbVluUG45MzhWcUV2ZnNkUDUtUWQyRFlBVnpjVVFTY0NFRDc2T0dESmVDWlpyQXhzNGhiNW00cDNrQmNRUHVzQk9PdEoyVVNEeS1fTXVLU3UxSWpSNXRRSERSR0xueTJyajE2aThnZnJUSDgwZFFpV2pkeno4bW5xczBMLU4yVUhnVVFDNHJHUFFQc2w3MktXY2ZtZmI2MW1RY1Y1elpocVY1VXlnbG9KTGZzb1M3bEZjVVZKN2ZaVkVodkYzMF83aWxmY3JvQw?oc=5",
       "date": "2026-08-14",
@@ -1187,11 +1180,11 @@
       "desc": "Cataluña descarta que los tres contactos del caso de hantavirus que se aisló en Galicia se hayan infectado&nbsp;&nbsp;La Voz de Galicia"
     },
     {
-      "title": "Alerta preventiva: Cataluña sigue la pista del hantavirus Andes tras un caso importado procedente de Argent... - OkDiario",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQkl1YzN4a3JTN2tYSjk1MjR6MkFDR3d1NWpvcXQ3a2NWOXAxTl9CUTJIZEFzcXQ3NHNiUmpHUDVmb090N25rbHR6VWFhZk4zZ0tVSEdIWUprR0hoVlJQdG9SMUtWSjRTQkJfRnNRQWJiQXZvSVRIT0ZIVEhaal9qUUpYUHVIeVp5RXdJejAzR1lXYmZ1d21NbzdHT1g2SFUxNkNaeHBRT2o0MUo5NDNWMmRxcmNLTklOYlplVXhIQXVrVlRhQzNhMXR4ONIB0AFBVV95cUxNMlFDd3pUZ2pjMjlWcWNxMXhrLUVxSXY5cHVsXzI3ZDRnTERzNDVWNHFCd3VfSlc2ZWlxcXZfS2lidzFhZTFDdlNNazA1RHRtUURKZGNOZEhpLUJFZG96bWlUbXNidThQd0lnaVlkTllsTElUWThfSHlqOC02VjZWam10bGFWX2QzYjBEcmxzVmI1SVJ2SkVDUG9VMWlJbFAtbzJJOUhxSkxhbzJPQ3gyTEpNMTZ0cXh4SzVmVGg5b1kyWkNhSlB0amd3NmhZb2E0?oc=5",
+      "title": "Sanidad mantendrá el aislamiento y los controles al vecino de La Parrilla (Cuenca) que tuvo contacto con un contagiado con hantavirus - Cadena SER",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRko2LVEtMWRmN3FKb3dMT0lYLXlZeXkwa3IyT3d2TXFpYTR2MWx0b2h2dGZvTXIxb3FCVmVrdm9kODdfNGItN2hoS0ZtU0FnSl93NTd3T1NQVks2WUVscHlJWmZZejlJR3dUeXhybUpROUpoN05LeGVOV3VPUjByVDdUamNSdnFKblFMWnBXSlJvRHpXUjBfWE9VN3ZCMG5CQWNvUFNGT0dkYndjcldfanFuQk55b2M5Vld1el9QcVR3bVRweUh4TlJvVXpENXdBVTlqU2tWS2JzSVY5SzBSdXBqSzl2d1hlQ3NfdndFOEJ4VjJfbi1UWVhJd0wyQW5i0gGUAkFVX3lxTE1WWHdndlktdVZLdFJEaXkxOWhQUzBScEV4SWtVSnc2R2ZudVNzWUlZZ2V2bHQtR1Bvbi1hTzZWMGlueFF1d0x0ck52N3JucDdhdm5na0ttTHBYbFZqMVBzVWl1M3RMLW96TkVZNmNaY2lRdDh6b0dDME91bW5Fd3VxRVppclRDYnJ4dF9xeGdpSFUxVDVsV1NmaWYtcDJidml0VFlTLVhrV0RiSUVfS0E2SmNYVlc5VmdWY3dVS2lzd0swbUZvaTBVQXlocElkeVExcTItbWxjOENTWE9iZ0lPUUpFY1owMTRqUGdVRlNhMzBRODBFUzVoWE9vU29QSThGLTRDeTlwZ1FCUndDRGNGaklPTA?oc=5",
       "date": "2026-08-14",
       "source": "Google News ES",
-      "desc": "Alerta preventiva: Cataluña sigue la pista del hantavirus Andes tras un caso importado procedente de Argent...&nbsp;&nbsp;OkDiario"
+      "desc": "Sanidad mantendrá el aislamiento y los controles al vecino de La Parrilla (Cuenca) que tuvo contacto con un contagiado con hantavirus&nbsp;&nbsp;Cadena SER"
     },
     {
       "title": "Los cuatro contactos del turista con hantavirus continúan guardando cuarentena en Madrid, Castilla y León y Cataluña - El Mundo",
@@ -1199,13 +1192,6 @@
       "date": "2026-08-13",
       "source": "El Mundo",
       "desc": "Los cuatro contactos del turista con hantavirus continúan guardando cuarentena en Madrid, Castilla y León y Cataluña&nbsp;&nbsp;El Mundo"
-    },
-    {
-      "title": "La persona aislada en San Lorenzo de la Parrilla por contacto con un caso de hantavirus da negativo en las pruebas - 20Minutos",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMTZFLUFyQTJHNWtZbXRjWEF0UGFyVkdHS0duRnJZX1VSQWJRNkZ4UUVVNlZoQ0trWHRRRkdnUHhxYXJEbDM1SFAxQWkya1M4T3g0dVhuVGkxYk0xQUtZTHF1R2stY1JPc3d5dW5OZWFNSHRMLTA2TlBzU1ZMWDRKSzljNDZMWmdLZUNZdkNNOE1tTHV1anZWUnpHeE9Hc2pTTFBLOGk5bGlCTWZWbWZxdU50ODBRSDNKaTVsdGpReUs4ZF84VmNMaGt2TDVXUEh1M2d4Q3dKcW1hdFdoOGt0UVViQm5reklOV20yYmdyeGhCOXAw?oc=5",
-      "date": "2026-08-13",
-      "source": "20 Minutos",
-      "desc": "La persona aislada en San Lorenzo de la Parrilla por contacto con un caso de hantavirus da negativo en las pruebas&nbsp;&nbsp;20Minutos"
     },
     {
       "title": "El turista contagiado de hantavirus recibe el alta y regresa a su domicilio tras dar negativo en PCR - La Vanguardia",
@@ -1248,6 +1234,20 @@
       "date": "2026-08-07",
       "source": "ABC",
       "desc": "El contagiado de Hantavirus aislado junto a dos contactos estrechos, todos asintomáticos&nbsp;&nbsp;ABC"
+    },
+    {
+      "title": "La Xunta informa de que el caso de hantavirus permanece aislado en Galicia y sin síntomas - Xunta de Galicia",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMTdPN3BPc0w3QWhUaGJWaFJrUndHUkFWMTAxV2pMeHVGVWhDcVpmY2d6UTc1bzNla1o2enhwZUZMTW9wSHFuZ2dBV0otUHB3MmgxRmNHbTBCOW9KRC0xNmJyS0tkd3h0YUthU1VKQ2RxWkRyNUVVQU5TMDgwTTQzWlN2bzNXeGM5SkxYd05wdU1WU2luSlpDLTliRThwQTFlOU5DNzhJNms3bEpOYnhQc2RzZkE1NmZKYlFfTE1JaTFBZ3MwRnc?oc=5",
+      "date": "2026-08-07",
+      "source": "Google News ES",
+      "desc": "La Xunta informa de que el caso de hantavirus permanece aislado en Galicia y sin síntomas&nbsp;&nbsp;Xunta de Galicia"
+    },
+    {
+      "title": "Un turista franco-argentino da positivo en hantavirus Andes mientras recorre Galicia y Sanidad rastrea posibles contactos - Faro de Vigo",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUjMyVTE2QXNPY1V2T2JROTVlOHlVUmkxS21EckZPMG51RDNZMmJKY1JBeDJDYzA4eXhmRXhyYjJFWTRBZTdhRmZhTXFFRDBoWmJ6Sm1fdURmLWEtdG1qTHRBQnluSlBxcm4xaUpRS0JWWG80R1ljUUk3SXJFS1lOWXpkMHV1VmdMdl9Fc3cwWFVBSzFEY3QtQWhDR1nSAaIBQVVfeXFMTWx4UlcwWkpsek9zUkNXb1BtVUd2TXZsa1llRURTRVBUN095TE1oUTVqN1I5dWk1eElLOHVWY1N1WjQyTl9BTmM0ZTFadU1oaGxlNGNjSUJwdzU5NUZ5NmYtUXZVcllzSkY2VV9yUlpHcjJNNEJvc3hTenNBYUhIWGxzaUFmNVA1RHN6bW5GYWNJdUpHRVpXM0tENDZodHhaYk1R?oc=5",
+      "date": "2026-08-07",
+      "source": "Google News ES",
+      "desc": "Un turista franco-argentino da positivo en hantavirus Andes mientras recorre Galicia y Sanidad rastrea posibles contactos&nbsp;&nbsp;Faro de Vigo"
     }
   ],
   "countries": [
