@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-08-21 19:42 UTC"
+    "updated": "2026-08-21 20:00 UTC"
   },
   "current": {
     "cases": 13,
@@ -1173,13 +1173,6 @@
       "desc": "Cataluña mantiene bajo vigilancia a tres contactos estrechos del turista con hantavirus&nbsp;&nbsp;ABC"
     },
     {
-      "title": "Cataluña mantiene bajo vigilancia a los tres contactos del caso importado de hantavirus Andes - Gaceta Médica",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ3BsSzRnZDlIX05EemdZekZEOFo3bEtPaFAzVExfZWF2X2I1VnhEeEJGZU45RTVXT1NYLXI5dWR2akJ4TTBzT19iVzg3R2tUZF9mVnBVNG5peS1mV1pXYWcyU2sybG9WV04yd2JMTkxRb2xDMHpERHRTQ3lianI5WGYwN2N5RGJ1b3hwZy1mc0pVcHlEMTRlM1U0MEJ0c0t4Ujd5RS1GcEFidw?oc=5",
-      "date": "2026-08-14",
-      "source": "Google News ES",
-      "desc": "Cataluña mantiene bajo vigilancia a los tres contactos del caso importado de hantavirus Andes&nbsp;&nbsp;Gaceta Médica"
-    },
-    {
       "title": "Los cuatro contactos del turista con hantavirus continúan guardando cuarentena en Madrid, Castilla y León y Cataluña - El Mundo",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYcHlpYjg4WXNVMXhQSmU5MmVvckJzYzQtUWlENjA5NFJRTUlTY3VEckR3MlR3M1ZfM1phdVUwM0d2RjlxRWNHaEd3VFpTLXh0ZVZUSmVoaXBiZm9XYmJWYzl6dnFQY3Vuc1J2d09oRjNZZzdjUGY5SdIBeEFVX3lxTE5fUkFnODFZb3lvSFlMdlNQMDZNUzZQRi0wOVFURC1YUnJqMlpaNXJPb0RJYXhUTVV1V3lEZ2NxMHA0R2ZkQmxBeVotWFFsTjkzWjVCX3N3RzZMVEdYcXA5VzVHdnZWZHIxb3hlX1M4YXI1NWpWMGhhZw?oc=5",
       "date": "2026-08-13",
@@ -1248,6 +1241,13 @@
       "date": "2026-08-07",
       "source": "Google News ES",
       "desc": "Hantavirus: qué es, síntomas y cómo se puede contagiar entre personas&nbsp;&nbsp;El Periódico"
+    },
+    {
+      "title": "Aislado en España un turista tras dar positivo en hantavirus - antena3.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd0tSMzk4UVA5c29FWmQ5MVllNXVDMXlReGoyc3ZRdW5zRDJ4dHZWWVU1VlBUWWdFVXRoMExKOG5iREVGSjNtRnEtaTZjQWdzajVla1QwcEwydXBVS0dEVDRKMlp0S3VwWXY5NWtJNFI2MFdLU3NjbFFzNWp0YnJ1NHdQLVRzUDJ1VXA3dTV3RGlZemYwTFhFWmFLbzlJTzhYQTgtTjhOLXpwOUdLcjhEV0VtUWkyQVFYUWZZOG5UNFRxNFVX0gHEAUFVX3lxTE1qc0gzaWE3dnZ4Q01wVGlaTXVoc2RubjEtRGtoZ0NUSXlHMUVWVTBiUTVxTmVrOFlHWE9aRzBIcFcwZjVDZmRPdnBWbzRscGJ3VzBJVjNzV3lDZzZ4NUtiYkI2eFluTEo0VW9oQUZVS01XVGZRTlE0eGFRT3BVRlF0bDgwWEJUcEZma3JZVzNjUzhSQzFXUUJ3QlZ4SWtaMzlVc05NdTd1Uzg2TVRlWE52ZVU2THVlZkQxak9NcVk3Tkh0NnQ?oc=5",
+      "date": "2026-08-06",
+      "source": "Antena 3",
+      "desc": "Aislado en España un turista tras dar positivo en hantavirus&nbsp;&nbsp;antena3.com"
     }
   ],
   "countries": [
