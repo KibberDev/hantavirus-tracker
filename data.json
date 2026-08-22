@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-08-22 17:23 UTC"
+    "updated": "2026-08-22 17:48 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,6 +1124,13 @@
   ],
   "news": [
     {
+      "title": "Pasajeros del crucero \"Hantavirus\" en Tenerife: ¿pérdida o ganancia de imagen? - Teneriffa News",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbEdYMkduQjhUVzc1Zk83cG90a01mdzgwWUFhaUFnalJDdWhSTS0wYzVmUUg0VV84cnZoUjlLQ3hmT3BFVldVVlllNUI5RGZDYncteUhmTU1GVkVSdmhUSjI4TTBLR1ZCTno5ckkxQlZValRGLU95Tm9XazNwUnVsWHdfRWNVWEx4QkFIX2ZWRlRfQUppcUxFV1RkT0ZvWjNiSG8ySFVlYVRNbTRvdURSYnRtcDhaWVJSaWltUGZsbW53UVloSFRTY2ViN2xwbDdLU1pLR3Q0cGtfT2g0dmFoa3d3?oc=5",
+      "date": "2026-08-22",
+      "source": "Google News ES",
+      "desc": "Pasajeros del crucero \"Hantavirus\" en Tenerife: ¿pérdida o ganancia de imagen?&nbsp;&nbsp;Teneriffa News"
+    },
+    {
       "title": "Muere Patricio Segura, periodista y referente de la defensa de la Patagonia, tras contagiarse de hantavirus - Austerra Society",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMXVWMVJFNEVUQklrbVpTclJDa1EzcldiMXc3bktHX2pDVmdxZGQ0cWxvdkE0SnBQMnJDZFR2bWRNOVNvcU54SXZINnVJUU5ZY0QtSXkyRml1WG9VcnNKdFpwSlMwYnVtS3Nqdi1EeWU2UUI5aWgyUGtFc0pieUhQY1RnamlCLXBOYXY3dk5kLTRPb2Uya2Ew?oc=5",
       "date": "2026-08-22",
@@ -1145,18 +1152,18 @@
       "desc": "The Lancet destacó la respuesta de Argentina al brote de hantavirus en el crucero MV Hondius&nbsp;&nbsp;Infobae"
     },
     {
-      "title": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions - KOTA Territory News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN1RtRzhHNXp1cHRxem1PSk8wSHZVZW1OMERKWU9FcXpKbUR6VURMQ2pHLTJFUlJNOEc3S1RIeDVZajVMZGNZX1l6cGxpeWZuTFQ1Z2IzMHpVaG9wVmNYN01zR3JlMUtfaHVHQzc4b1NiUTlOVGhMellFSlpNWGkwcmhkYUdyc1Z3VUduZGktdGdkTjJVVThpaERsNTNwLWtWdUtkNWRzNNIBuwFBVV95cUxOUF9pUmJLdkt3ZUZLSnBvakN1VFhkcENaXzJBZm1ZUTZMTGVZSEgtN1BaWjVDY3ZXeV9QOGs0ZXpuWldoQ3c0T1hLRHFxYzNXZ200dDNmQ0ZwUkV6UGdVaklWdmNLM3VjNFFlc2U2Vjl1Umh0M3FMRjhsRWNXTXdSY3R1ZmtjSGVBNkNNdW1kTEhRZS1heGpRbVRDN3V5LUUtcXkzUDI2MDI3clZUQVNiclFxMmdWNTJxaDZz?oc=5",
-      "date": "2026-08-21",
-      "source": "Google News EN",
-      "desc": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions&nbsp;&nbsp;KOTA Territory News"
-    },
-    {
       "title": "Health Secretary RFK Jr. visits Nebraska, praises UNMC's Hantavirus response - KETV",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1bWl1bVkxdzRUQXpmLUlJQWJYa25TVG5BQ2JlT3drN0xjRFpLV1R4UlZ5TExWcDdkUjBuLWFRMkdjUk9ObWt0Z29BX1hXZ09USkFqZlkwSnBzWk9VaVBmTGtCN3ZIT0U?oc=5",
       "date": "2026-08-21",
       "source": "Google News EN",
       "desc": "Health Secretary RFK Jr. visits Nebraska, praises UNMC's Hantavirus response&nbsp;&nbsp;KETV"
+    },
+    {
+      "title": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions - KOTA Territory News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN1RtRzhHNXp1cHRxem1PSk8wSHZVZW1OMERKWU9FcXpKbUR6VURMQ2pHLTJFUlJNOEc3S1RIeDVZajVMZGNZX1l6cGxpeWZuTFQ1Z2IzMHpVaG9wVmNYN01zR3JlMUtfaHVHQzc4b1NiUTlOVGhMellFSlpNWGkwcmhkYUdyc1Z3VUduZGktdGdkTjJVVThpaERsNTNwLWtWdUtkNWRzNNIBuwFBVV95cUxOUF9pUmJLdkt3ZUZLSnBvakN1VFhkcENaXzJBZm1ZUTZMTGVZSEgtN1BaWjVDY3ZXeV9QOGs0ZXpuWldoQ3c0T1hLRHFxYzNXZ200dDNmQ0ZwUkV6UGdVaklWdmNLM3VjNFFlc2U2Vjl1Umh0M3FMRjhsRWNXTXdSY3R1ZmtjSGVBNkNNdW1kTEhRZS1heGpRbVRDN3V5LUUtcXkzUDI2MDI3clZUQVNiclFxMmdWNTJxaDZz?oc=5",
+      "date": "2026-08-21",
+      "source": "Google News EN",
+      "desc": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions&nbsp;&nbsp;KOTA Territory News"
     },
     {
       "title": "HHS Secretary RFK Jr. visits Nebraska to praise hantavirus operation at UNMC - Nebraska Examiner",
@@ -1241,13 +1248,6 @@
       "date": "2026-08-07",
       "source": "Google News ES",
       "desc": "La Xunta informa de que el caso de hantavirus permanece aislado en Galicia y sin síntomas&nbsp;&nbsp;Xunta de Galicia"
-    },
-    {
-      "title": "Un turista franco-argentino da positivo en hantavirus Andes mientras recorre Galicia y Sanidad rastrea posibles contactos - Faro de Vigo",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUjMyVTE2QXNPY1V2T2JROTVlOHlVUmkxS21EckZPMG51RDNZMmJKY1JBeDJDYzA4eXhmRXhyYjJFWTRBZTdhRmZhTXFFRDBoWmJ6Sm1fdURmLWEtdG1qTHRBQnluSlBxcm4xaUpRS0JWWG80R1ljUUk3SXJFS1lOWXpkMHV1VmdMdl9Fc3cwWFVBSzFEY3QtQWhDR1nSAaIBQVVfeXFMTWx4UlcwWkpsek9zUkNXb1BtVUd2TXZsa1llRURTRVBUN095TE1oUTVqN1I5dWk1eElLOHVWY1N1WjQyTl9BTmM0ZTFadU1oaGxlNGNjSUJwdzU5NUZ5NmYtUXZVcllzSkY2VV9yUlpHcjJNNEJvc3hTenNBYUhIWGxzaUFmNVA1RHN6bW5GYWNJdUpHRVpXM0tENDZodHhaYk1R?oc=5",
-      "date": "2026-08-07",
-      "source": "Google News ES",
-      "desc": "Un turista franco-argentino da positivo en hantavirus Andes mientras recorre Galicia y Sanidad rastrea posibles contactos&nbsp;&nbsp;Faro de Vigo"
     }
   ],
   "countries": [
