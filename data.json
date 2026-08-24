@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-08-24 03:56 UTC"
+    "updated": "2026-08-24 04:52 UTC"
   },
   "current": {
     "cases": 13,
@@ -1215,13 +1215,6 @@
       "desc": "Francia recomienda aislamiento domicliario para los contactos del turista con Hantavirus en cuarentena en España&nbsp;&nbsp;La Vanguardia"
     },
     {
-      "title": "El contagiado de Hantavirus aislado junto a dos contactos estrechos, todos asintomáticos - ABC",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMnlsZDBDazFQaDBMZklKV3Y1TE1hdEQ0dHFEQ0xMN3c5T3pCa1lOTHlRVW1lLW04ZnJRV0xHZWxlNmtuMlFhMWZ5ckxRaE1VZlVpNGRHU2FZc1pndGVoSTFqRWhRZGduNmlrLWJnTjdHQTNYQUd2MVVZUExSTTlqRHZKRF8xYmFQUW5ZRUlsRVN3ek4wWF9yV2M5TlVHOVpucV9kQjZOTWhQaUcyZ1Fz?oc=5",
-      "date": "2026-08-07",
-      "source": "ABC",
-      "desc": "El contagiado de Hantavirus aislado junto a dos contactos estrechos, todos asintomáticos&nbsp;&nbsp;ABC"
-    },
-    {
       "title": "La Xunta informa de que el caso de hantavirus permanece aislado en Galicia y sin síntomas - Xunta de Galicia",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMTdPN3BPc0w3QWhUaGJWaFJrUndHUkFWMTAxV2pMeHVGVWhDcVpmY2d6UTc1bzNla1o2enhwZUZMTW9wSHFuZ2dBV0otUHB3MmgxRmNHbTBCOW9KRC0xNmJyS0tkd3h0YUthU1VKQ2RxWkRyNUVVQU5TMDgwTTQzWlN2bzNXeGM5SkxYd05wdU1WU2luSlpDLTliRThwQTFlOU5DNzhJNms3bEpOYnhQc2RzZkE1NmZKYlFfTE1JaTFBZ3MwRnc?oc=5",
       "date": "2026-08-07",
@@ -1248,6 +1241,13 @@
       "date": "2026-08-07",
       "source": "Google News ES",
       "desc": "El turista con hantavirus que está en Galicia pudo ser contagioso del 18 al 28 de julio&nbsp;&nbsp;La Voz de Galicia"
+    },
+    {
+      "title": "El turista con hantavirus está aislado en Galicia con dos contactos estrechos - La Razón",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVFpXdjRjYXNuQkl3QWJBeU1mcEJreTF3N1J5TkhqOVZmU1pERGNoWjU5dTlMclNvRUVDbkhac0FTRWd6TG9ycnlwdXk2cnNLSTVIMGl2Wlp1SURISE0tVy1pWm1feXpnUU84VlY1eEF5Ti14dXBmX3pSNUZtR2ZZbDc5TlQ2aFpBc2VjRFRsenc4Z0hMVHVYV1NVbVJrTjQxaExPQ09lRUVDeUVMM0FWZFpyaWtjYVA3T3lNS0dnWTdoWFgtRXVoYk9TTWRZQdIB4gFBVV95cUxNY3ZybHFObFhHRGVUT0hNcldCOXNPT2ZiMzJaSDRZMi1YdFpTVzlwdldZUV9zZkNOM3RLRFNMcUNhTkd6QXZaT280Ymh6dHk3ZG9lUkxPcjRJdGRtNWVrYnFaVUtHWHlzY0FCdXpzLVV5SEF4Q0VmLThmNkR6cFZVcVotVWJBQTN0R0lOOW1iaXlTOFEtWE5OenJlMU5VT1Z6cW40QVdPRTlEQ0c3V1c4RXZ4RkJDeVYwcVJVWDJja09MQ2dVTWNCMHBtUkdEVk55MzNZYVhnanRndWxzQ3Buc0pn?oc=5",
+      "date": "2026-08-07",
+      "source": "Google News ES",
+      "desc": "El turista con hantavirus está aislado en Galicia con dos contactos estrechos&nbsp;&nbsp;La Razón"
     }
   ],
   "countries": [
