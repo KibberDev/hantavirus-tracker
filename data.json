@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-08-25 15:06 UTC"
+    "updated": "2026-08-25 16:01 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,6 +1124,20 @@
   ],
   "news": [
     {
+      "title": "Hantavirus: una publicación en The Lancet destaca la respuesta argentina ante el brote del crucero - La Nación",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUUI0RnJzVTdXTzFFa3pqQzg2RGdNMFBjbk5YZDZya1VtdnBOTTdoeXExODMyQ1lzOTRWeGZZRk9Ma0RyVzN4UFY0dk9vckIwUnJYMm9nM21FR1F2ZnYxNG1rUzdxdm9qVl9rak0xTTdid3phcU1nR0Q2VDlQYndQUXlSdG40dm5IdjZTZ21xMmJoYjFoNHVfV1R3MWlrRlFrNnIwejQ3RmE3aWM4bzUtX3hXb1NGdWx3NWFlTjJxdzgzTUNlN0lITFhNVXBvcUVWaGVUOEpTZmlQNzFWMnFlQw?oc=5",
+      "date": "2026-08-25",
+      "source": "Google News ES",
+      "desc": "Hantavirus: una publicación en The Lancet destaca la respuesta argentina ante el brote del crucero&nbsp;&nbsp;La Nación"
+    },
+    {
+      "title": "Video Hantavirus: el Gobierno destacó el trabajo del Malbrán y defendió la salida de la OMS - Clarin.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOHpSSGg0NnZUX0VRakk2V0E1QUxQVFZGLU5XeTJTU2dKR09zdFhGR1BSSUROcDhjaVBRTTdCNjRoVXBHWDJXeGZwdlhVd0YtcGxZbXZheDUxdm4zYTA1andhN2JRQl9fZ2xBZEVEWXY5T0RYTml4OWRseFJub1lkazRQME5SYU93aVBYU0ZVTHREOHhPdzQxZDRDWTRMMkZCU29UVlJ1TEczYWVNcHZZOQ?oc=5",
+      "date": "2026-08-25",
+      "source": "Google News ES",
+      "desc": "Video Hantavirus: el Gobierno destacó el trabajo del Malbrán y defendió la salida de la OMS&nbsp;&nbsp;Clarin.com"
+    },
+    {
       "title": "Hantavirus Found on Pine Ridge Indian Reservation – KCSR / KBPY - chadronradio.com",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mMFVPU2ZWUVRvN25xRzJqS0NtWF9DY2FuYzFtSDV2c1Y4UkM2WTB1b0RPa2JXYmcwU2VDMFhJTVJNUk91eUdnajZScHBjcGpfVEpUbGV6YXBmdV9SaGc?oc=5",
       "date": "2026-08-24",
@@ -1187,13 +1201,6 @@
       "desc": "Los cuatro contactos del turista con hantavirus continúan guardando cuarentena en Madrid, Castilla y León y Cataluña&nbsp;&nbsp;El Mundo"
     },
     {
-      "title": "Aíslan en Catalunya a dos contactos por hantavirus - Diari de Tarragona",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMEplZXRzcXlPUTA3S1JNaXk2YU1PWkdYd3E3RkFmNU9vT0hUa3dWYUxXQTZiNGpjcElHTkNzbGlQMU5ORnFuWTRockZWWEJrQTlsems5WXVKSENsMUE4aGwxVjAtZ0RrdkpLcjI4a3BsUmNtVlY1QUs2d2dRQ0VVYWVPelZMTzd1cm9kcFlsQ0pfMXI5cTR1WEhXZTdXX0hVVVV4a1NqVGdMR0c5M1HSAbMBQVVfeXFMTW1NRlhab2U0WFVvNTFOdlA3RjNDWGZ0T0dzTWxiNGVVNjdCd1hQX3hROGxJcG95OThkSGFCZ203UzhVSmN2ZUYwY3VpdnllWGY0cHNsZFl3ZmlyMHBQVHBDM1N2dEhmQ1FPZDF6aXF1eTZpS1FoZGNndzIweDRRQ2x0X09QaWZ6am05WTRmTnl3NC1uMjJsbExUQkpfdnMtdEZmN2s1S1ROeHQzeE5jUklUSVk?oc=5",
-      "date": "2026-08-11",
-      "source": "Google News ES",
-      "desc": "Aíslan en Catalunya a dos contactos por hantavirus&nbsp;&nbsp;Diari de Tarragona"
-    },
-    {
       "title": "El turista contagiado de hantavirus recibe el alta y regresa a su domicilio tras dar negativo en PCR - La Vanguardia",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTlZrNFc0UlRvRHZaTXNVeWhndGg2SVpsdGhXNG5xejhYN3FJR2tiWVkzUkQtdkdpVEEwRTRmeWdmMEFHRW5uc3hIMjhvVEVMOTZCX3FGYjNGNmZmS3pyeldSc0VOVm5LQjhGQTdpNG5OaXE4UnU5a1BIYW84YnByYzY5bklZaGx4dUlvNjR4VHpqMTEwS1RiOHlBb0lOQ0I2YWw5eWN3UXJYd0VNNW5YMzhJMEF6Tnk0X0xCX3RBTkxqY0JXM2xfT2YzMUFVUdIB0wFBVV95cUxPNDVKZkRzNHlWVkc1RnBQLWFrMlhHU2tJU0pxeXJQazQ0U0k5a2VOME9ZaC1zaU5aUnJ6TXliTnFSdnlPNWw5Ri1sY2NvQ0ZydXFPcUJvRVdBOG43QUpQNU9ySWk4NFdmaUNacGdvOE1zU1BFSDFsdDNCU0RSb2s3c2JHZFEySHJGdlduX3l3Y01XeTdFbHg3a1JIT3lYWmNmREh0dHBsOFpMTVFIVkViM3Z6dDRheHJWQ1dQcDJ6dGhpR3U4YnBKRTlZeVRpTnFiOTI4?oc=5",
       "date": "2026-08-10",
@@ -1241,13 +1248,6 @@
       "date": "2026-08-07",
       "source": "Google News ES",
       "desc": "Un turista franco-argentino da positivo en hantavirus Andes mientras recorre Galicia y Sanidad rastrea posibles contactos&nbsp;&nbsp;Faro de Vigo"
-    },
-    {
-      "title": "Hantavirus: qué es, síntomas y cómo se puede contagiar entre personas - El Periódico",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbENaYlBCelQ2QU51bS1tRGZrRTJ5TXBnRmo2WkxJSG1YNU9mRGpzeDhMbkRDaGhvQkRyQ3NzT1phV3FyeXd1WFZyWFZXaU9BVThIVmxvTlNjeVBhUWF2M0xrQzZSVm03Um01U1FxOWxtaUhWUVdvaFI1RzZnNERaUVUtcTJiaHpLUVVfeFg4LURteGI2Tkh2TnpCcmxyR0lG0gGgAUFVX3lxTFAxN2lKNFBoRXg0bGZndFA3dER5ZmhVdDBMNGFsYzFDVVNWX0VieFVaVTRWT3hxY1hUOGpLRVJLcEs0SXBZWVIxVmRjYU1uXzFQQUEwbXRITl9ySEllaE43NzFKaVo2TGRYeWRBSEVCTkt5cFJ5RThVR1gxdUVNUHVVVmw1Zm16YzhlZV9LcVBhLXZXMG5wcFE3V3hvZndHMVo?oc=5",
-      "date": "2026-08-07",
-      "source": "Google News ES",
-      "desc": "Hantavirus: qué es, síntomas y cómo se puede contagiar entre personas&nbsp;&nbsp;El Periódico"
     }
   ],
   "countries": [
