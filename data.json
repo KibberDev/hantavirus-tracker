@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-08-25 18:04 UTC"
+    "updated": "2026-08-25 18:57 UTC"
   },
   "current": {
     "cases": 13,
@@ -1222,13 +1222,6 @@
       "desc": "Francia recomienda aislamiento domicliario para los contactos del turista con Hantavirus en cuarentena en España&nbsp;&nbsp;La Vanguardia"
     },
     {
-      "title": "El contagiado de Hantavirus aislado junto a dos contactos estrechos, todos asintomáticos - ABC",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMnlsZDBDazFQaDBMZklKV3Y1TE1hdEQ0dHFEQ0xMN3c5T3pCa1lOTHlRVW1lLW04ZnJRV0xHZWxlNmtuMlFhMWZ5ckxRaE1VZlVpNGRHU2FZc1pndGVoSTFqRWhRZGduNmlrLWJnTjdHQTNYQUd2MVVZUExSTTlqRHZKRF8xYmFQUW5ZRUlsRVN3ek4wWF9yV2M5TlVHOVpucV9kQjZOTWhQaUcyZ1Fz?oc=5",
-      "date": "2026-08-07",
-      "source": "ABC",
-      "desc": "El contagiado de Hantavirus aislado junto a dos contactos estrechos, todos asintomáticos&nbsp;&nbsp;ABC"
-    },
-    {
       "title": "La Xunta informa de que el caso de hantavirus permanece aislado en Galicia y sin síntomas - Xunta de Galicia",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMTdPN3BPc0w3QWhUaGJWaFJrUndHUkFWMTAxV2pMeHVGVWhDcVpmY2d6UTc1bzNla1o2enhwZUZMTW9wSHFuZ2dBV0otUHB3MmgxRmNHbTBCOW9KRC0xNmJyS0tkd3h0YUthU1VKQ2RxWkRyNUVVQU5TMDgwTTQzWlN2bzNXeGM5SkxYd05wdU1WU2luSlpDLTliRThwQTFlOU5DNzhJNms3bEpOYnhQc2RzZkE1NmZKYlFfTE1JaTFBZ3MwRnc?oc=5",
       "date": "2026-08-07",
@@ -1248,6 +1241,13 @@
       "date": "2026-08-07",
       "source": "Google News ES",
       "desc": "Hantavirus: qué es, síntomas y cómo se puede contagiar entre personas&nbsp;&nbsp;El Periódico"
+    },
+    {
+      "title": "El turista con hantavirus que está en Galicia pudo ser contagioso del 18 al 28 de julio - La Voz de Galicia",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWHp3OGxGSm9xTDFpNkZ0eGprLU5qRGp3MjktRGRvX0pieWJxLTRrNHlvdkJkMU1XUnJhckN6OXBTMTMxa0w1Wk5RNzhmblpkUDBWZGNjRHhBTndmUktvdk9Pb19HU0xmTVlQeU43M1lodkQ5eUtSUXhaWU5udG96bjZVMmotYlRXRk5ockNSSFBzWUhYMXNpS0ZjelRSczlBa1hPTkVmVFZVTjkyNjNHRTJ0bngzT19qRkFNOVJYOTlEUVZTMk1ZNjV4djVHb3pmSTBSMFpzMNIB8wFBVV95cUxNTWstVVdKZElGbEFRZ3BJTTQ3UjkyUndCTFhwRi1qTnNqdVdPT1Y2T0ExZlJ0cHZjZ09teWlBSXhoSHA5WlMzRkc1dVF0YXV5U0xBRjRfeFNneXlZbzFuYTNLY2ViSTlrLUs5R2t0UE1jQ0NqZWlOZXJwQjlBbWtxOVpoM012YlBFMnlpbFJQSEVrUXpRb1cxYWtNYkJJLWFqeno1N1hJWVlycGlxX3pXMGE2R0J4LXNtbElpTVB6S0hYQUhfWUVLdjFGRTEtdXN4dEJaejZQbExoU0otMkx4NUVZWk5sLWs0LXB5QWVIdGNrZjg?oc=5",
+      "date": "2026-08-07",
+      "source": "Google News ES",
+      "desc": "El turista con hantavirus que está en Galicia pudo ser contagioso del 18 al 28 de julio&nbsp;&nbsp;La Voz de Galicia"
     }
   ],
   "countries": [
