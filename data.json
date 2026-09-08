@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-09-08 06:23 UTC"
+    "updated": "2026-09-08 11:38 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,6 +1124,13 @@
   ],
   "news": [
     {
+      "title": "45 quarantined in France after teenager diagnosed with hantavirus - Türkiye Today",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRW5GRUV4RW1ZQ0xydWNHV3A2VDdCcWZKdUhnSk5HTmpsa2tJV3c5dzNZbkRYSE9zYTJQLU05ZFdGYk1YYTVJZEJnZVdYV1I4cWlGYnlFMG9lRVM3dEV6ZFJxMGI2THNWTGFRNXVpYmdXenR4VW04Y0FmWF9rU2VTSzlKS0MzZUs3dmxCN0Nrem1nbEt5OXdYNE0tdi1lNFpVRGNaMG1Wby1PdjZrX2c?oc=5",
+      "date": "2026-09-08",
+      "source": "Google News EN",
+      "desc": "45 quarantined in France after teenager diagnosed with hantavirus&nbsp;&nbsp;Türkiye Today"
+    },
+    {
       "title": "45 people quarantined after hantavirus case detected in France - Anadolu Ajansı",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV0tFdm9OZ3pNRk5HTVdkbWlsNUpaSUttVElHeDJsNS15aVp6S214YldocjZkZjJ4VWxub05JTGpTZHpaOU56aFJrRHotek9LWUk4d3hldzBYeFlGMzcyek5LLVg5VVlsU0FxVUJiSW43N3JyaDhEWF9teUQ2a1otWE5IODBINzVNQ2VidkhEVXVjMWNydm9pTWdic0hTRDY5c1JVM2lR?oc=5",
       "date": "2026-09-07",
@@ -1138,18 +1145,11 @@
       "desc": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos"
     },
     {
-      "title": "Gripe, peste, hantavirus, COVID y otras pandemias históricas - RTVE.es",
+      "title": "Gripe, peste, hantavirus, COVID y otras pandemias históricas - rtve.es",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVlhkdnNxZ21BWWYzUERvRkF1S0dWbE9GWGdMUnd1RWVpN2d3LUJlNDk2RjZzQmYxT1NmcUxnekxIZE10aldPaWhhLUpUV3pfd1lyWm85QTZqTGVEdU9oWWY0ZV8xa21tYVVGUi1rZ1JaTXBRUkZxLTFfbTFVSmF0dzFDeVItblAzZ01pVkFkVEV5Q0NwanBHdTh2c2FjQ3Bac0p1eFpwdw?oc=5",
       "date": "2026-09-03",
       "source": "RTVE",
-      "desc": "Gripe, peste, hantavirus, COVID y otras pandemias históricas&nbsp;&nbsp;RTVE.es"
-    },
-    {
-      "title": "Neuquén confirmó un segundo caso de hantavirus y detectó transmisión humana - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbEJDa21jVEpBSkd1bDhGYUUybDlpV1RINXR3alp2YmpjcGlFejFENER2ZV9vdkVvN0dmVXdNblhfNzdFR21uanlKbm1HY1pPM0Z1U1lSOTdTcGJzTzNSMkNveGNJaXRrQUZfUUdtdE5oOE1GRkFGSkYxSGVPeFQxZl9QT1lPU0JJbXJwM2kxMEY2RzZHLTU1bkEzRTZQS29mUHVTZ21FWHZfUHZLa2l1R3B6aUpnR1g30gHTAUFVX3lxTE5PVTVEdm1haTJaWnQ2SEo5TVJFdGcyRHZoRXBEeFNYVHFDSnJsVFNIa054Qk53ekl0dHlOcWVwaXV1UVF4TWZtTGgyR3d5aHItdzNxaWFVRFo0V0lzWTVCbWR4OFY1MnIxTHZpYWU0b000Z0t6X3E0bEphNnlaRTFmc25mYWlDVkxKNFEyTU9LSzBXSG5XTEZWclBldG4zOWdLYzQ0Q19iZUxrNGhnYWtEWDRLVklMc0paQXczVHZzQWROQ1ptbUdxN0RTcEFIbzhXQjg?oc=5",
-      "date": "2026-09-03",
-      "source": "Google News ES",
-      "desc": "Neuquén confirmó un segundo caso de hantavirus y detectó transmisión humana&nbsp;&nbsp;Infobae"
+      "desc": "Gripe, peste, hantavirus, COVID y otras pandemias históricas&nbsp;&nbsp;rtve.es"
     },
     {
       "title": "Patricio Segura, journalist who defended Patagonia’s rivers, died of hantavirus, aged 54 - news - Mongabay",
@@ -1159,18 +1159,18 @@
       "desc": "Patricio Segura, journalist who defended Patagonia’s rivers, died of hantavirus, aged 54&nbsp;&nbsp;news - Mongabay"
     },
     {
-      "title": "Logran reconstruir el genoma completo del único hantavirus con contagio en humanos - Redacción médica",
+      "title": "Logran reconstruir el genoma completo del único hantavirus con contagio en humanos - redaccionmedica.com",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdkVfMmI1bnlIRF9OMVR4M1MzS29zQ1hYSlhweTh6VUNLaGU4RWpVYXhNaFFySmo1RWpxdEEwNEFYSl81YUpvc05TamxXT2xzbzRScHMySm12eFJiRmVwTTZGOEJrRU9SbVFSVjVtMkNVdXpDUlhhMmVkTFVYUjNBbHNnSW1CeDJ5eVUzbHpMbUNFNndfU2RyMW9FbDFMZGhJZ0wwUDZHT1dDSzFfRDgzSmNaX1VQd3M3dGlCVDdmOE1jLVhEOFVWamRWakdXR1FobmJTNzhrVnM2clBERHdrcFhyME42eTZCRXdZdjZBV05mZ9IB9wFBVV95cUxPUEFPODdfakdFNVozMEdZbW1pbE9qTjlhM1dNNlI3VF9oTVZtQzhsRVFvdnI1V2lManVJZW1Jck4wM3pybFpVMEpIMDlfQzNBdHN2YTJQemV5RXhrLTVFSERPZnZ2MmJzekNfWmNrZlhIRGNQMDNDeWpqdTRtTjZ2VjM3UjJPd1lfOWxHY2dJZ1hVY0tKUng0ejlXdW9yUHd1MjBsYXU4MXNESmI4QnlaWGV4cjZKZTNhZFA2TEhQQTNYUzVuUkNyaGx3QmJqRWRzcmt4czJyZ3VpN2JQN1RGbVhKQzFHd3YtTDU5VUUwRlBUb05JSTA4?oc=5",
       "date": "2026-08-21",
       "source": "Google News ES",
-      "desc": "Logran reconstruir el genoma completo del único hantavirus con contagio en humanos&nbsp;&nbsp;Redacción médica"
+      "desc": "Logran reconstruir el genoma completo del único hantavirus con contagio en humanos&nbsp;&nbsp;redaccionmedica.com"
     },
     {
-      "title": "The Lancet destacó la respuesta de Argentina al brote de hantavirus en el crucero MV Hondius - Infobae",
+      "title": "The Lancet destacó la respuesta de Argentina al brote de hantavirus en el crucero MV Hondius - infobae.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPamlUUF9NTWRZX1JXVHBqLTRrdlNCLUp5eHh0cklWQ1dobTlXdFdfOGlDT2ZReGVGNkM0ME50a3N3eUlNUHhNZm5QNDctNU9IRE9Bb0tndDFNQ3hnVVlPQ1R2ejFEbXIzSDVSU2JPWWp6bnB1RW5KNTlycUVON2hjdW1XSXJ0TVF2dnk4enhWWjFkM2hrMEp6SnNaeVBSQVE5WlhQOXhwbHFGSGg5dWZ4LVFPZ1lVbmtLaEh0dF91WWx0MnhDd05nZldmY091ZTNaUkFaTW1takZDQdIB9AFBVV95cUxNSENzVzRDeFg4X0tsX2kyMWZ0N0ZyUWtfaWJHdGlySXoxUWR6Q1FocFItbTVra0J2YzJQNFdRQ192bWM4dnBnREI2OTZWU0lGeW9aSGVZbENlSlUyRVZsNVMyQ1M3Y0k2TllIZjlEWngzbEFLWDVjbzJWeHZfcWJXX21ETjFoSWpFaG1YMXNVejhleTBfRlJoSUxLVnpxQWdPbjRwVHZsUWxzZ2REN1VmNkh1Ulh4U056RzlNcl8ydFRCYVpOcVJvWEpsaDRpTUxjWWQ2QWRzWGtoQ3ppMlh1dkloZERzeUFuN1Vkb0lrYy1MUzcy?oc=5",
       "date": "2026-08-21",
       "source": "Google News ES",
-      "desc": "The Lancet destacó la respuesta de Argentina al brote de hantavirus en el crucero MV Hondius&nbsp;&nbsp;Infobae"
+      "desc": "The Lancet destacó la respuesta de Argentina al brote de hantavirus en el crucero MV Hondius&nbsp;&nbsp;infobae.com"
     },
     {
       "title": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions - KOTA Territory News",
@@ -1180,11 +1180,11 @@
       "desc": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions&nbsp;&nbsp;KOTA Territory News"
     },
     {
-      "title": "Aïllen tres contactes pel cas d'infecció d'hantavirus a Galícia - RTVE.es",
+      "title": "Aïllen tres contactes pel cas d'infecció d'hantavirus a Galícia - rtve.es",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWnR3MUpMbHAyaW80MHNaWk85RWpYWUl2ZWRkY29kTXZHQVlPdFlnWnFoaFBLd0dxdWY3LWZad19hQmVDbnJOcUlFbVp4QnFQNDJsOWFpVFVteEp3UnNEYnBaNG83Y0VYWW1XOUZ0VFZYUk9OdHJtWFdQQkRvRm9OcmE1X3E4TF9xemhoS1NqeWNPMUI0YjNsNHNkbV9MNjhOY2R5UDNaeURIa0ViRkY2NWhSVE1QZlZPSHdsZ2Zua1VTQQ?oc=5",
       "date": "2026-08-14",
       "source": "RTVE",
-      "desc": "Aïllen tres contactes pel cas d'infecció d'hantavirus a Galícia&nbsp;&nbsp;RTVE.es"
+      "desc": "Aïllen tres contactes pel cas d'infecció d'hantavirus a Galícia&nbsp;&nbsp;rtve.es"
     },
     {
       "title": "Cataluña mantiene bajo vigilancia a tres contactos estrechos del turista con hantavirus - ABC",
@@ -1208,11 +1208,11 @@
       "desc": "Sanidad mantendrá el aislamiento y los controles al vecino de La Parrilla (Cuenca) que tuvo contacto con un contagiado con hantavirus&nbsp;&nbsp;Cadena SER"
     },
     {
-      "title": "Cataluña descarta que los tres contactos del caso de hantavirus que se aisló en Galicia se hayan infectado - La Voz de Galicia",
+      "title": "Cataluña descarta que los tres contactos del caso de hantavirus que se aisló en Galicia se hayan infectado - lavozdegalicia.es",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSy1BZUloSzdkV09DaVYyOHZHQmFwWjh2NG1uaHl2bWsxZG1QbE1Cb0U3NnZYaXExUUNKRUo5dHpQUm9na1F2SUZOMGJjSDVfRjJXWm1OUUVkXzJHUjJ4bTZMV2R6bDZmeThsdkNmejN4RmNrTFZSYTh3NmJSWnJQT3NSMjhSSV9BX3hGeVVyOXJQVm5GbWpnV3Jfd1c0YmNPU3p2VzBsR3JhenNTbm9BTm5RdlhHY0ZoY3pvcWRlbUdlb3pSam5fSjlxRWh4S2xkbFkxWU1VTlVuUHVfdWhCMUpwc21nN3ZBa3U3RjlEMXDSAYwCQVVfeXFMTXZZQlE4cElScnUteWd5SkRjQmhTYWVMOE9aZ1NjaFBLVkk5dThOMGc4alJlb3FmR1Yyc1NiZzRQaWQ5NWdHbVluUG45MzhWcUV2ZnNkUDUtUWQyRFlBVnpjVVFTY0NFRDc2T0dESmVDWlpyQXhzNGhiNW00cDNrQmNRUHVzQk9PdEoyVVNEeS1fTXVLU3UxSWpSNXRRSERSR0xueTJyajE2aThnZnJUSDgwZFFpV2pkeno4bW5xczBMLU4yVUhnVVFDNHJHUFFQc2w3MktXY2ZtZmI2MW1RY1Y1elpocVY1VXlnbG9KTGZzb1M3bEZjVVZKN2ZaVkVodkYzMF83aWxmY3JvQw?oc=5",
       "date": "2026-08-14",
       "source": "Google News ES",
-      "desc": "Cataluña descarta que los tres contactos del caso de hantavirus que se aisló en Galicia se hayan infectado&nbsp;&nbsp;La Voz de Galicia"
+      "desc": "Cataluña descarta que los tres contactos del caso de hantavirus que se aisló en Galicia se hayan infectado&nbsp;&nbsp;lavozdegalicia.es"
     },
     {
       "title": "Los cuatro contactos del turista con hantavirus continúan guardando cuarentena en Madrid, Castilla y León y Cataluña - El Mundo",
