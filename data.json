@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-09-14 05:19 UTC"
+    "updated": "2026-09-14 10:55 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,11 +1124,18 @@
   ],
   "news": [
     {
-      "title": "WHO declares cruise ship hantavirus outbreak over - trtworld.com",
+      "title": "Estas son las recomendaciones del ECDC para gestionar los contactos de casos importados de hantavirus - Gaceta Médica",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR25PdENuOUZUZlJ1a1FvZDFKbTMzMDEwc3pxazVYem9mczJZSEo2bHJTMS1HNm14ZFNyYmhraXV5QnNGVlNqbEtuTV92RXRCT3RsbVZYemhKRmRUd1VLejJ1SWtzRnlSVXZVQWZhWDhwS3ljYkhRb0Z2bzJZbV8xcWd6SG5oRm9zdUc0NjAyWldhaUd3RlBDSW8yeHd5am1ZR1JWcWFsekI3Vk80?oc=5",
+      "date": "2026-09-11",
+      "source": "Google News ES",
+      "desc": "Estas son las recomendaciones del ECDC para gestionar los contactos de casos importados de hantavirus&nbsp;&nbsp;Gaceta Médica"
+    },
+    {
+      "title": "WHO declares cruise ship hantavirus outbreak over - TRT World",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9laFZWU01nbjB1a1VnekVveTlfbEJRcmduYlhsVnZVb2R3VUhxT3ZnX0c3ODBMYXhJZnU1bGQzamlUSHcwQjJYWWVBSE9rVnl2RFlUX001Z2M?oc=5",
       "date": "2026-09-06",
       "source": "Google News EN",
-      "desc": "WHO declares cruise ship hantavirus outbreak over&nbsp;&nbsp;trtworld.com"
+      "desc": "WHO declares cruise ship hantavirus outbreak over&nbsp;&nbsp;TRT World"
     },
     {
       "title": "Gripe, peste, hantavirus, COVID y otras pandemias históricas - RTVE.es",
@@ -1241,13 +1248,6 @@
       "date": "2026-08-07",
       "source": "Google News ES",
       "desc": "Hantavirus: qué es, síntomas y cómo se puede contagiar entre personas&nbsp;&nbsp;El Periódico"
-    },
-    {
-      "title": "Francia recomienda aislamiento domicliario para los contactos del turista con Hantavirus en cuarentena en España - La Vanguardia",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTTJWYWlFQ1lvX0R1S2FRZEpRZDdCZ0UyVVdKeUVVNEtPWTNiYlRvTndwVTE2YjF0eFJrelZnX1NiNUdBWXNIMlZveXRyX09EMWFBc3k0OGY4T010aHd0Wng1ZHJIdlRXWnJlSDBYbUd1Zm1nV2pra1A2MWx3THNFc3ZmbHlnU3k4cTNramZMckJvQjBVajlOMVdyUWJRX3NrS3hjbFFleGtZVFdfdURGV3ZPSGxVTU9iZXU5TjRsaTJaMk5MalE3bDlPM3kzbGNDbmhFX3ZsTU1nSmhta1FJ0gHkAUFVX3lxTE5ORDQ4UHA5bjJYVkk3NnIxRWJJWDVqNWI0V2ZvYzVpdktQV01QYnc4eXVCRmc3Q1p2LUNWak8xYVJUaGNITGdMdHlBSUNGVllVdWZLMjZvZzE3S3hJNW9IaTBtRVdLeFZLWi1zaDFvUGFpWk1RemdWcUs4aTFpRU1vMzFwbVVHZ0lGWmpEdVJocXoxWE5kczF1blFLRjhNWTdieXU1ZG5Fc0ZEbVVZeWhyMFh4TTc1VlNDeDlLbVFCT2dyazdzWUtVY01YSUxjay14MHhJWnBZVjBHTEhpamJrNERRbA?oc=5",
-      "date": "2026-08-07",
-      "source": "Google News ES",
-      "desc": "Francia recomienda aislamiento domicliario para los contactos del turista con Hantavirus en cuarentena en España&nbsp;&nbsp;La Vanguardia"
     }
   ],
   "countries": [
