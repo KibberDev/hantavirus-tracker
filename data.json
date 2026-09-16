@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-09-16 12:08 UTC"
+    "updated": "2026-09-16 16:58 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,18 +1124,11 @@
   ],
   "news": [
     {
-      "title": "Investigación por el crucero Hondius: confirman por primera vez la presencia de hantavirus en la provincia de Catamarca - La Nación",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZEQyQ3ctaWtlUUYxNjd5eDdLUVBTTXdJVlF4MWgyb1RwUGJJb2prNW1obEdpei1SWHlLSGwzTlpJQUFjeTFkVGtfMW15QVBTQmpSNks3TS1iOV9uTEpNb0ZBc0tVWkZpVi00aTlhZzRzT0JXU3RhMy1XaGZhdjdUcU9rdC04ZkY4MXQwYjFJZ2xRZEJOOFNBYm9KSE1ScjJZS21RV1RlZTZuWWdCSnpzcmZQSURaS1N4VDdBNXdYZWx5Z0lIUU5IcXRHaHB6WTFyOURoRmtpbjhTYWtlLWc?oc=5",
-      "date": "2026-09-15",
+      "title": "Por primera vez, detectaron en Catamarca roedores portadores de hantavirus - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORFp2UWViaGt1R3JTY1J5Qm5DelBRSUJuQy1uLXRzd2ltLURsSEJTSjJsR1FoUU9tXzhhTlFMR1FjV1RjX1hmdzVaVjJpMlBBOWZJYk13S2VDMVBlZEdNMnRTYlJUMnJrV1lzc3JRdXRNTDROQjhTUElkazl0MG5hRm1vMEFWTEFNN1FyZHN6aGQwT25CeU51QS0ySWNvZ0N3OFRfbm5FVUpha1IxQmdtZW9IeUFMR3lwVFRwMTdrSmPSAdsBQVVfeXFMT1lUZllsbmVSR2hPTGZpdVhaVzRKUmxPN1Z6czlrZGxNS1hzTFB0MFQtZmJXYktoeFRCZjY0NFY0eVdob0l0OXI5WEx2S3N1LUtTamZyT1lsNzdXWVRlNkNTckRKYXlpWkZ0RTZnSk1tc3BkTURXTVZnV3ljdWs4cjc4b1kyckFHVld6c2pDUVhOTHpwZ01NUTlFN3BlbndLN3F0SWRwVXpYMUZKUWUtaGI1U0J0ektOVy1adGtDOWZJOU9ZMFlOYVRGSVU0QTdZR2pLMmxJZ0g5anNJ?oc=5",
+      "date": "2026-09-16",
       "source": "Google News ES",
-      "desc": "Investigación por el crucero Hondius: confirman por primera vez la presencia de hantavirus en la provincia de Catamarca&nbsp;&nbsp;La Nación"
-    },
-    {
-      "title": "Estas son las recomendaciones del ECDC para gestionar los contactos de casos importados de hantavirus - Gaceta Médica",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR25PdENuOUZUZlJ1a1FvZDFKbTMzMDEwc3pxazVYem9mczJZSEo2bHJTMS1HNm14ZFNyYmhraXV5QnNGVlNqbEtuTV92RXRCT3RsbVZYemhKRmRUd1VLejJ1SWtzRnlSVXZVQWZhWDhwS3ljYkhRb0Z2bzJZbV8xcWd6SG5oRm9zdUc0NjAyWldhaUd3RlBDSW8yeHd5am1ZR1JWcWFsekI3Vk80?oc=5",
-      "date": "2026-09-11",
-      "source": "Google News ES",
-      "desc": "Estas son las recomendaciones del ECDC para gestionar los contactos de casos importados de hantavirus&nbsp;&nbsp;Gaceta Médica"
+      "desc": "Por primera vez, detectaron en Catamarca roedores portadores de hantavirus&nbsp;&nbsp;Infobae"
     },
     {
       "title": "Gripe, peste, hantavirus, COVID y otras pandemias históricas - RTVE.es",
@@ -1143,6 +1136,13 @@
       "date": "2026-09-03",
       "source": "RTVE",
       "desc": "Gripe, peste, hantavirus, COVID y otras pandemias históricas&nbsp;&nbsp;RTVE.es"
+    },
+    {
+      "title": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia - theconversation.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUG1Vcjd6WHZDN3hyOFdlWnNYVlozWldfT2U1bEhCMXFtTVNCQUxZa1BQa1EzcWVnanFYZ0JHNDdseXEyQzgyWnBSLUJqUGJ3aVFOUFM4UUs0dnJlWDBkanNONVI4WkRnQnFROWk0d01tcWh3OGZibE55RnZJUFFWZHY1U3lIRHc5ZlZTWHlUVTNRdDBqdk1IMElrTzZRNFB2RGtJMmVwYkFfdFNtOWkzMWVHclludVFU?oc=5",
+      "date": "2026-08-26",
+      "source": "Google News EN",
+      "desc": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia&nbsp;&nbsp;theconversation.com"
     },
     {
       "title": "Logran reconstruir el genoma completo del único hantavirus con contagio en humanos - Redacción médica",
@@ -1185,13 +1185,6 @@
       "date": "2026-08-07",
       "source": "El Mundo",
       "desc": "El turista con hantavirus está aislado con dos contactos estrechos, todos asintomáticos&nbsp;&nbsp;El Mundo"
-    },
-    {
-      "title": "El contagiado de Hantavirus aislado junto a dos contactos estrechos, todos asintomáticos - ABC",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMnlsZDBDazFQaDBMZklKV3Y1TE1hdEQ0dHFEQ0xMN3c5T3pCa1lOTHlRVW1lLW04ZnJRV0xHZWxlNmtuMlFhMWZ5ckxRaE1VZlVpNGRHU2FZc1pndGVoSTFqRWhRZGduNmlrLWJnTjdHQTNYQUd2MVVZUExSTTlqRHZKRF8xYmFQUW5ZRUlsRVN3ek4wWF9yV2M5TlVHOVpucV9kQjZOTWhQaUcyZ1Fz?oc=5",
-      "date": "2026-08-07",
-      "source": "ABC",
-      "desc": "El contagiado de Hantavirus aislado junto a dos contactos estrechos, todos asintomáticos&nbsp;&nbsp;ABC"
     },
     {
       "title": "La Xunta informa de que el caso de hantavirus permanece aislado en Galicia y sin síntomas - Xunta de Galicia",
@@ -1241,6 +1234,13 @@
       "date": "2026-07-30",
       "source": "El País",
       "desc": "Alerta sanitaria por hantavirus en Chile: qué significa, cuáles son los síntomas y cómo prevenir la enfermedad&nbsp;&nbsp;EL PAÍS"
+    },
+    {
+      "title": "Venezuela confirma tres fallecimientos por hantavirus e investiga la muerte de dos sanitarios - gacetamedica.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ2R0RHBPQlF3SFNteWlVSnU2X1VMOGRDQThoV2VXckFVbTRhOFpJbmVKNGVlS0NEdjlGWkl3SHZ6MllGYmxrTFhkU3Q1WUZNQVpjOGgyYndBZDhHdjRpWXhNS3RtZktydkVpZnpvV0N5ZHhmQkpoOG5GNmlvNnpLT0MxaVRqUE5EdXBWd3MwLS0xZjRLdkRFcFc0cFNic2VKdXY0V19fdjlkeG03V0FCMFltYXhsTmhzV1dybm9R?oc=5",
+      "date": "2026-07-22",
+      "source": "Google News ES",
+      "desc": "Venezuela confirma tres fallecimientos por hantavirus e investiga la muerte de dos sanitarios&nbsp;&nbsp;gacetamedica.com"
     },
     {
       "title": "After cruise ship outbreak, review examines how hantavirus affects the brain - CIDRAP",
