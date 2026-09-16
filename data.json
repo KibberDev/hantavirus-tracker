@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-09-15 23:07 UTC"
+    "updated": "2026-09-16 01:27 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,11 +1124,18 @@
   ],
   "news": [
     {
-      "title": "Estas son las recomendaciones del ECDC para gestionar los contactos de casos importados de hantavirus - Gaceta Médica",
+      "title": "Investigación por el crucero Hondius: confirman por primera vez la presencia de hantavirus en la provincia de Catamarca - La Nación",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZEQyQ3ctaWtlUUYxNjd5eDdLUVBTTXdJVlF4MWgyb1RwUGJJb2prNW1obEdpei1SWHlLSGwzTlpJQUFjeTFkVGtfMW15QVBTQmpSNks3TS1iOV9uTEpNb0ZBc0tVWkZpVi00aTlhZzRzT0JXU3RhMy1XaGZhdjdUcU9rdC04ZkY4MXQwYjFJZ2xRZEJOOFNBYm9KSE1ScjJZS21RV1RlZTZuWWdCSnpzcmZQSURaS1N4VDdBNXdYZWx5Z0lIUU5IcXRHaHB6WTFyOURoRmtpbjhTYWtlLWc?oc=5",
+      "date": "2026-09-15",
+      "source": "Google News ES",
+      "desc": "Investigación por el crucero Hondius: confirman por primera vez la presencia de hantavirus en la provincia de Catamarca&nbsp;&nbsp;La Nación"
+    },
+    {
+      "title": "Estas son las recomendaciones del ECDC para gestionar los contactos de casos importados de hantavirus - gacetamedica.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR25PdENuOUZUZlJ1a1FvZDFKbTMzMDEwc3pxazVYem9mczJZSEo2bHJTMS1HNm14ZFNyYmhraXV5QnNGVlNqbEtuTV92RXRCT3RsbVZYemhKRmRUd1VLejJ1SWtzRnlSVXZVQWZhWDhwS3ljYkhRb0Z2bzJZbV8xcWd6SG5oRm9zdUc0NjAyWldhaUd3RlBDSW8yeHd5am1ZR1JWcWFsekI3Vk80?oc=5",
       "date": "2026-09-11",
       "source": "Google News ES",
-      "desc": "Estas son las recomendaciones del ECDC para gestionar los contactos de casos importados de hantavirus&nbsp;&nbsp;Gaceta Médica"
+      "desc": "Estas son las recomendaciones del ECDC para gestionar los contactos de casos importados de hantavirus&nbsp;&nbsp;gacetamedica.com"
     },
     {
       "title": "Gripe, peste, hantavirus, COVID y otras pandemias históricas - RTVE.es",
@@ -1138,18 +1145,11 @@
       "desc": "Gripe, peste, hantavirus, COVID y otras pandemias históricas&nbsp;&nbsp;RTVE.es"
     },
     {
-      "title": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia - The Conversation",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUG1Vcjd6WHZDN3hyOFdlWnNYVlozWldfT2U1bEhCMXFtTVNCQUxZa1BQa1EzcWVnanFYZ0JHNDdseXEyQzgyWnBSLUJqUGJ3aVFOUFM4UUs0dnJlWDBkanNONVI4WkRnQnFROWk0d01tcWh3OGZibE55RnZJUFFWZHY1U3lIRHc5ZlZTWHlUVTNRdDBqdk1IMElrTzZRNFB2RGtJMmVwYkFfdFNtOWkzMWVHclludVFU?oc=5",
-      "date": "2026-08-26",
-      "source": "Google News EN",
-      "desc": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia&nbsp;&nbsp;The Conversation"
-    },
-    {
-      "title": "Logran reconstruir el genoma completo del único hantavirus con contagio en humanos - Redacción médica",
+      "title": "Logran reconstruir el genoma completo del único hantavirus con contagio en humanos - redaccionmedica.com",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdkVfMmI1bnlIRF9OMVR4M1MzS29zQ1hYSlhweTh6VUNLaGU4RWpVYXhNaFFySmo1RWpxdEEwNEFYSl81YUpvc05TamxXT2xzbzRScHMySm12eFJiRmVwTTZGOEJrRU9SbVFSVjVtMkNVdXpDUlhhMmVkTFVYUjNBbHNnSW1CeDJ5eVUzbHpMbUNFNndfU2RyMW9FbDFMZGhJZ0wwUDZHT1dDSzFfRDgzSmNaX1VQd3M3dGlCVDdmOE1jLVhEOFVWamRWakdXR1FobmJTNzhrVnM2clBERHdrcFhyME42eTZCRXdZdjZBV05mZ9IB9wFBVV95cUxPUEFPODdfakdFNVozMEdZbW1pbE9qTjlhM1dNNlI3VF9oTVZtQzhsRVFvdnI1V2lManVJZW1Jck4wM3pybFpVMEpIMDlfQzNBdHN2YTJQemV5RXhrLTVFSERPZnZ2MmJzekNfWmNrZlhIRGNQMDNDeWpqdTRtTjZ2VjM3UjJPd1lfOWxHY2dJZ1hVY0tKUng0ejlXdW9yUHd1MjBsYXU4MXNESmI4QnlaWGV4cjZKZTNhZFA2TEhQQTNYUzVuUkNyaGx3QmJqRWRzcmt4czJyZ3VpN2JQN1RGbVhKQzFHd3YtTDU5VUUwRlBUb05JSTA4?oc=5",
       "date": "2026-08-21",
       "source": "Google News ES",
-      "desc": "Logran reconstruir el genoma completo del único hantavirus con contagio en humanos&nbsp;&nbsp;Redacción médica"
+      "desc": "Logran reconstruir el genoma completo del único hantavirus con contagio en humanos&nbsp;&nbsp;redaccionmedica.com"
     },
     {
       "title": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions - KOTA Territory News",
@@ -1246,7 +1246,7 @@
       "title": "Alerta sanitaria por hantavirus en Chile: qué significa, cuáles son los síntomas y cómo prevenir la enfermedad - EL PAÍS",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOc0RPOG1CU09Eam9CelhKTGxmQ08zanJ6M3ZxckI4aENpR3dSQWVlcXRpSEZjX3dfbnpXeHEweVY2a0NhSWhEclhOSC1SblE3QmU5V0xsbHRIM09ZZTJPVDAwM3p4M0NXSUdxR010TVQ2VTFDWFR1VjdEMmhSV3MwanVIWnMwRVpHNGRHR3NINC1PUFhpZTZPNXFVOVBRRkxOQWNNeXdQMF9GaDdrckpya21UdTNxWTFCWHJsMTN3SWFBQ2Y2WmlXRUNjbWd0anBtY3lRUlpIWjQ1QlN5NVFzYmFXNNIB9wFBVV95cUxNbXE3NDhsVHJRR0NXNmUwUGRjeFNGSE9GTXBjajRCWERUNjk0Zng1dFZBdWRJM1NfSl9FYXcycG5NT0FvbFFOT25MMWxyLXNzMXdLMHRmQUxJdmxQNG9sU1VINW9LVWtPdFc5ME9IV2FXUFlyWUN0Z2NRcF8xU2l3V3pHcDlfcXl1WGh6U3p1cE5QWVNkSGdFNWFJaGllU0tRR2ZsSW9JaEdaRkVkMHhFbTM3UkNNd3dydXhYMkhTd1lRWHI1SDNyYmxwYTlLRFZKV3Vpb0l0TGV1T1JDMC1HQ0FNWnZMVnVfNFgtTzVJU1EydVhUTGQw?oc=5",
       "date": "2026-07-30",
-      "source": "El País",
+      "source": "Google News ES",
       "desc": "Alerta sanitaria por hantavirus en Chile: qué significa, cuáles son los síntomas y cómo prevenir la enfermedad&nbsp;&nbsp;EL PAÍS"
     }
   ],
