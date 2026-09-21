@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-09-21 18:56 UTC"
+    "updated": "2026-09-21 22:31 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,6 +1124,13 @@
   ],
   "news": [
     {
+      "title": "Hantavirus: una enfermedad que vuelve a poner a prueba la respuesta sanitaria en Chile - academia.cl",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMXBTemdJaUozbXRwTktKdHlMcDhrcmllSWN3MkJzWktKcmY3MFpOVmNCWXNGMFBwVmZjcDNxUVVTeUxxSHlIUlRBajFkeVUtbDl2MkRlZEtqS3RzVjEybUxzQnFHNlliV0Q0REJyMHUydjRoYXRzWEYyeVlRSllZZVNGaFdYdHowSlo4c3g1TEIzVDM3a3Z0SEpuby1jSXVhNnlrTTRZR2xVaVpzc0ZR?oc=5",
+      "date": "2026-09-21",
+      "source": "Google News ES",
+      "desc": "Hantavirus: una enfermedad que vuelve a poner a prueba la respuesta sanitaria en Chile&nbsp;&nbsp;academia.cl"
+    },
+    {
       "title": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaVFxQTZQbEFJdm9jTU5qVFFlbUh1Z2tCRDhCZHBlY3NneVhwN0VEV1lJOUlZVjVoNUxfMGVsbmVpcGkwVTF6TWVRWTlhb0xSamJaZU5QMFJoZ0lNME1BT0FoRlJCSmNnWW81cXN0QVBqb2RhSWhJTDRmYWE4eW4tcUdMVlFjcTBVVTVCMGFKOF9RMjhUX2ZJTFRnTzVyLW0zbk930gGoAUFVX3lxTE50VnEwRi1SSDJvaTZ0Z2VjVjZaNWlrZGlZa3BneElvZjJzcUZoRWlIZ0hXTzV4QW1TY21oVVRuMVRGZHB5X09fU3NFVWhtVVpNN3Q2aWR3UkpUM3lOamItODI2R2VWdnhjRnhQNC1ub1hqQzhmUUVRVG5idWt1Q0VIcVQ2NzRVWUF4N1NWclk4ZVZqSEF4RHBFYUpzNnl5SHZMbDhYdHlRMw?oc=5",
       "date": "2026-09-21",
@@ -1131,11 +1138,11 @@
       "desc": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos"
     },
     {
-      "title": "Virginia Tech researchers studying Hantavirus impacts in the Commonwealth - WFXRtv",
+      "title": "Virginia Tech researchers studying Hantavirus impacts in the Commonwealth - wfxrtv.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTnYtaFlYZHBCMEZ0U0tQU0k5eFBRYUxfb05lREFRZWxzcENwWnY0ZFRydDdxZ2xVYWxkZGRlWDlITkI0ZXlHTzlKRHNyS1NzbVBWUFFKRXVRQWZYZU9VcEVieDVPN0JtdjVaQTJVZUZXc1RPQzV4QlVWRURyRmJUVGRhNG9VNnkwSnpUb0ZCOXhYZHlUd3FBdTgwWTNWRnJtRFhpYXVDSm5MeFFHQlptbG9R0gG3AUFVX3lxTE9BQnZQOWpNSjR4QzJrUk5FSVE4RmhIYnJGNHlXNmZ4ejlUOWNNaTJyU3BGTlpSMDFBWmpxbjRxbmpZREVoazFpcG5yRkhnaHdVeWJ4VEJrNVFEeHZVSzRMNGFsS3REN2NwS21zTE95V0tXMWFZZ2poYzlzQ2NYSFVUWXhhbjJGbjNfQ3JxS0llY0ktVkMyaUdGRUhtMUNMQThzTlVSN3pMSW05Ym5rS3hmWVBhenJwWQ?oc=5",
       "date": "2026-09-19",
       "source": "Google News EN",
-      "desc": "Virginia Tech researchers studying Hantavirus impacts in the Commonwealth&nbsp;&nbsp;WFXRtv"
+      "desc": "Virginia Tech researchers studying Hantavirus impacts in the Commonwealth&nbsp;&nbsp;wfxrtv.com"
     },
     {
       "title": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US - ABC News - Breaking News, Latest News and Videos",
@@ -1236,18 +1243,11 @@
       "desc": "Sanidad confirma en Galicia un caso de hantavirus en un turista procedente de Francia y descarta el riesgo de contagio&nbsp;&nbsp;RTVE.es"
     },
     {
-      "title": "Aislado en Galicia junto a su familia un turista positivo por hantavirus - La Voz de Galicia",
+      "title": "Aislado en Galicia junto a su familia un turista positivo por hantavirus - lavozdegalicia.es",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZTRFQkx0SDBLb0JlZWtMTnk3eEZycVM4VWxsd1owbmNSSEc3c1lZM2FGdTV6Y1EzNTZaWEVwSGV3UlhGX0hwQS1WZm9lay1VR25NTFNqQTl6dVY1SlpnejdXT0k4Q0JnSjh0eHA1clZUZVNuZXJnVG9CazdrUGRCVTRRSE5VQnFDUDBWYlhXVVl1Y3NidHFndE42MmEtZzRJdS1sSkwwWGoyMEE4Y0FHTU9GVTVoekdQemZpQ3VOcWRSLUlsUWV6U0hFRW9KVXljY0tRRjhGWDVIWW5Za0Z3VnNHb9IB_wFBVV95cUxNdTJOMFpBYzhZN2RFTUt5ei1lSDdYTC1xWkN6bTN0dDI3TTV2LS13Zm11U2l3SkExWldSZnFPT0dJUFlBcTc0a01qQXNoT3hDLVRxZEh2SzJScGZfdGs3UkZCOF9xa2E2alRYYTFYNDFBTnV6bHlUZ20wVWxqZjdzVm54blBpN1NlQlVQYTFJTTUzM1ZnT0lYei14UGs4U2N6VWZRdFJQSm5GRzNhRjRCWXJuRVFnY1IyVS1WMWdTQWs2UDU4Mk5ETG1lZlc5YUI0eEgtcDRJNTRVYTh1R0RRNmVGcThNdEJ2TThrMHN2VnZFWHN4ak1PQkVVN3BRNHM?oc=5",
       "date": "2026-08-06",
       "source": "Google News ES",
-      "desc": "Aislado en Galicia junto a su familia un turista positivo por hantavirus&nbsp;&nbsp;La Voz de Galicia"
-    },
-    {
-      "title": "Detectado un nuevo caso de hantavirus en España: aislado \"con su familia\" en Galicia un ciudadano que estuvo de viaje en Argentina - El Mundo",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GRGp0WGw1a2g0SXhzdnVWQ3FWN1RCZHQ3WENJN3NvS1lPZWVxUEtxM2pMbThNM2JoOVpxTmJJcmpSdm9KWkFMQWZGMFRGVEhVUXhIYXFnYVNwcFJ3N2V1aTZHbW54NGJwaTY0QlIyaWllWmhIajZwNtIBeEFVX3lxTE9LR1VCenBneTJMQVhpQmx1TjhpbktZWDdCUjZ6U3lFVDJtLWhib2taWFB6YVlCT2U4S2FVaWQxNEdZbmZxT3JYX0xrdkdfZ2ljR0dybG5ORXN1aWd0N2hfMlRVSnBDZmF6ZEZZck9aWVVLV0xmU0lXVQ?oc=5",
-      "date": "2026-08-06",
-      "source": "Google News ES",
-      "desc": "Detectado un nuevo caso de hantavirus en España: aislado \"con su familia\" en Galicia un ciudadano que estuvo de viaje en Argentina&nbsp;&nbsp;El Mundo"
+      "desc": "Aislado en Galicia junto a su familia un turista positivo por hantavirus&nbsp;&nbsp;lavozdegalicia.es"
     }
   ],
   "countries": [
