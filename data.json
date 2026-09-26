@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-09-26 14:13 UTC"
+    "updated": "2026-09-26 17:47 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,6 +1124,13 @@
   ],
   "news": [
     {
+      "title": "Hantavirus: segundo caso fatal del año - lamañana.uy",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRXgwUFoyV0FxOGJxNEZndkVwalhRbk52bXdPTmNyaXlqWGZJRm0tY3RaTzdUU284Tkg4cWhrMEpZUTdPQVRFc19NOTQyZF9wU1Y1MmstLW5PNHZ1V0doWUNoS3h2S2tVMUplMGhpWlBVT2NBM3VuemhHLWNpT0kwMnpERzdXY2s?oc=5",
+      "date": "2026-09-26",
+      "source": "Google News ES",
+      "desc": "Hantavirus: segundo caso fatal del año&nbsp;&nbsp;lamañana.uy"
+    },
+    {
       "title": "Of mice and men: Examining how hantavirus leaps from rodent to human - Virginia Tech News",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hVnFvUWlBSFowYVVoQjhwNm9xWXFpbFE1LWNsajZ6aHZweURiWmxyajFHYnVJbnFpOHNvd0p4dFc0czY2MXVZamZDTzdGT3BTX2ZYdWVJcFZpNW9mZkZod252cE10QTlEZDdwWmNibV8?oc=5",
       "date": "2026-09-24",
@@ -1138,25 +1145,11 @@
       "desc": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos"
     },
     {
-      "title": "Gripe, peste, hantavirus, COVID y otras pandemias históricas - RTVE.es",
+      "title": "Gripe, peste, hantavirus, COVID y otras pandemias históricas - rtve.es",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVlhkdnNxZ21BWWYzUERvRkF1S0dWbE9GWGdMUnd1RWVpN2d3LUJlNDk2RjZzQmYxT1NmcUxnekxIZE10aldPaWhhLUpUV3pfd1lyWm85QTZqTGVEdU9oWWY0ZV8xa21tYVVGUi1rZ1JaTXBRUkZxLTFfbTFVSmF0dzFDeVItblAzZ01pVkFkVEV5Q0NwanBHdTh2c2FjQ3Bac0p1eFpwdw?oc=5",
       "date": "2026-09-03",
       "source": "RTVE",
-      "desc": "Gripe, peste, hantavirus, COVID y otras pandemias históricas&nbsp;&nbsp;RTVE.es"
-    },
-    {
-      "title": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia - The Conversation",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUG1Vcjd6WHZDN3hyOFdlWnNYVlozWldfT2U1bEhCMXFtTVNCQUxZa1BQa1EzcWVnanFYZ0JHNDdseXEyQzgyWnBSLUJqUGJ3aVFOUFM4UUs0dnJlWDBkanNONVI4WkRnQnFROWk0d01tcWh3OGZibE55RnZJUFFWZHY1U3lIRHc5ZlZTWHlUVTNRdDBqdk1IMElrTzZRNFB2RGtJMmVwYkFfdFNtOWkzMWVHclludVFU?oc=5",
-      "date": "2026-08-26",
-      "source": "Google News EN",
-      "desc": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia&nbsp;&nbsp;The Conversation"
-    },
-    {
-      "title": "Patricio Segura, journalist who defended Patagonia’s rivers, died of hantavirus, aged 54 - news - Mongabay",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSWRILVdocU9fSGQwR0RZbFUtSU5nNmc1UUpzeC1zRHVPYUtBc0IyM0hwQnRKdkZJdXdsNzBUSzh6UTdvam5GdUo5NmNoblpJOUZmR2lHYlBNMTBvV055QjhYRlZXdnZqd0pQQ203N2JiNWlHNnR0cUtISXJGUXpHLW5rU00tLVA2TEl6b0lfZEVLS2ViNmxMXzNJcUZKd2NDOU43STJnV1RqNllIM1BQTlJNeHRoTUg1dC1faHczdHZFeDZWQ3c?oc=5",
-      "date": "2026-08-23",
-      "source": "Google News EN",
-      "desc": "Patricio Segura, journalist who defended Patagonia’s rivers, died of hantavirus, aged 54&nbsp;&nbsp;news - Mongabay"
+      "desc": "Gripe, peste, hantavirus, COVID y otras pandemias históricas&nbsp;&nbsp;rtve.es"
     },
     {
       "title": "Logran reconstruir el genoma completo del único hantavirus con contagio en humanos - Redacción médica",
@@ -1178,6 +1171,13 @@
       "date": "2026-08-19",
       "source": "Google News EN",
       "desc": "Climate change, rodent ecology, and the rising risk of hantavirus outbreaks: an alarming public health concern&nbsp;&nbsp;Frontiers"
+    },
+    {
+      "title": "Sanidad limita a \"muy bajo\" el riesgo de contagio de hantavirus entre sanitarios - Redacción médica",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUWpsak95US1yTURaLVNWNDkzOFZmeEZhbUdCNk1pNjJmZ1FQanQ1TFZqQ3FCRW9TZ1NHYzdCeDJ6cUE3dXE0MWIwWnNyNHpHSVg5OFFDQ3hWR25JTGVURHFJdXVlT2pMZWUwUi0yTzNSckRWU1lPZkEzbElRc2NfUzVzaC15SW55Z25oT2kzSmxvWkVMTk1mVGNDU2s1c3ZaSEZBWWgwandGbEhTd0U5YUd3czBMemNMUEZVSUJLU1NVeDdYckZRaTU5SDFvd1NNN3lXVHc1cEVTNHlr0gHiAUFVX3lxTE5tRUhGUWJhWlVyQTRFZ19nV0JZWXlqNVhZd0VuSHJSRG5BbGZKblhWZEtyUUhDak1maUN1Sm9RTndVU0x0bC05eVBDX0R2eXBXMXdYaHlkY3ZIM0RSbUZaazZTVzBHM2JaaUdZMXJRdjkycEJWSkJyRkJqNWVpX3dRbzhBVnNhZG00ampwN1NvVk5pWVhSd2ZLN0NYa0xCcUtEQzNIR19XSHBNYzZucEJBcEFuMUU0U2pMNUc0NldkVjQ4dHFydmlRX2VhLWtiSmdseWNOY3FNZDRVcnJTWGw3OEE?oc=5",
+      "date": "2026-08-11",
+      "source": "Google News ES",
+      "desc": "Sanidad limita a \"muy bajo\" el riesgo de contagio de hantavirus entre sanitarios&nbsp;&nbsp;Redacción médica"
     },
     {
       "title": "Sanidad vigila seis contactos tras el caso importado de hantavirus Andes - Gaceta Médica",
@@ -1236,11 +1236,11 @@
       "desc": "Detectado un nuevo caso de hantavirus en España: un turista que estuvo de viaje en Francia, aislado&nbsp;&nbsp;Cadena SER"
     },
     {
-      "title": "Sanidad confirma en Galicia un caso de hantavirus en un turista procedente de Francia y descarta el riesgo de contagio - RTVE.es",
+      "title": "Sanidad confirma en Galicia un caso de hantavirus en un turista procedente de Francia y descarta el riesgo de contagio - rtve.es",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTHNWa0hfLXRaM1NPMkFZTVpiUzNYbDNxM2tMcGlLXzdSUkszLTBGcTJFOTVmaDZoeEs3T2lCNWdtVEJmRTYzNTYtcEkzSWlZR1hjYmVUQWtBRUlNTTB5REJDRlpTa3Y2cDA4OGdhYXNfOVlGU2lyb2JXd1F0MXFxS3pwVWN2VjV2emN1YXNxRFdqZGtSTG14RDJKbUpHUkFkQXZOVko5YkVxRnJRVEYxSndOZl8wa0dqUThraTZ4czRoYUxyUEYwTE1ldHFOYjlRbkd6OXFiLXF5eUNrMkE?oc=5",
       "date": "2026-08-06",
       "source": "Google News ES",
-      "desc": "Sanidad confirma en Galicia un caso de hantavirus en un turista procedente de Francia y descarta el riesgo de contagio&nbsp;&nbsp;RTVE.es"
+      "desc": "Sanidad confirma en Galicia un caso de hantavirus en un turista procedente de Francia y descarta el riesgo de contagio&nbsp;&nbsp;rtve.es"
     },
     {
       "title": "Aislado en España con su familia un turista positivo de hantavirus que pasó por Francia - EL PAÍS",
