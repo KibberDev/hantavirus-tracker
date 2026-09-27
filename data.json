@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-09-27 07:08 UTC"
+    "updated": "2026-09-27 13:03 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,25 +1124,18 @@
   ],
   "news": [
     {
-      "title": "Hantavirus: segundo caso fatal del año - lamañana.uy",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRXgwUFoyV0FxOGJxNEZndkVwalhRbk52bXdPTmNyaXlqWGZJRm0tY3RaTzdUU284Tkg4cWhrMEpZUTdPQVRFc19NOTQyZF9wU1Y1MmstLW5PNHZ1V0doWUNoS3h2S2tVMUplMGhpWlBVT2NBM3VuemhHLWNpT0kwMnpERzdXY2s?oc=5",
-      "date": "2026-09-26",
-      "source": "Google News ES",
-      "desc": "Hantavirus: segundo caso fatal del año&nbsp;&nbsp;lamañana.uy"
-    },
-    {
-      "title": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFY0UEluMmNRVzc0a0NhZ25Cd19EMFAwNzI5NjZHZm13SXlla3VnQ0FfdmZ6X3BwcVRvbThMRTdFbjR0MXBEQ2Z5OXA0MkNuaUhvcVhlYWtTenlKUlRydTVWYU53NE1XaV9JejM5dVVzMkk0bUo4RlBQMHQwMlFpdDEzOXBBNzFxWVBqcng1c2pqSF9yU1R3RUhBaVJVdXU3RkxIUtIBqgFBVV95cUxQQnVZbl9jc0NZM3otVGpTclk1TXpJMGIyTm4wVHFOQ2hZSmktdzR4S1duNzc3QnBWLTRlbTFLVTNhaXhtcWptZXA5UWViVUwtc2d6QXNLNmxCZEhtMGdjMllHZUNRclJwb3F3SE03alFDWHlwbUxpTGJvTThqeWRycEdWTUNXMHRYSEpZeE9NQ1dlblhVYVZNQ05oWExuU0hrd1U0ci1oem9Wdw?oc=5",
-      "date": "2026-09-24",
-      "source": "Google News EN",
-      "desc": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos"
-    },
-    {
-      "title": "Of mice and men: Examining how hantavirus leaps from rodent to human - Virginia Tech News",
+      "title": "Of mice and men: Examining how hantavirus leaps from rodent to human - news.vt.edu",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hVnFvUWlBSFowYVVoQjhwNm9xWXFpbFE1LWNsajZ6aHZweURiWmxyajFHYnVJbnFpOHNvd0p4dFc0czY2MXVZamZDTzdGT3BTX2ZYdWVJcFZpNW9mZkZod252cE10QTlEZDdwWmNibV8?oc=5",
       "date": "2026-09-24",
       "source": "Google News EN",
-      "desc": "Of mice and men: Examining how hantavirus leaps from rodent to human&nbsp;&nbsp;Virginia Tech News"
+      "desc": "Of mice and men: Examining how hantavirus leaps from rodent to human&nbsp;&nbsp;news.vt.edu"
+    },
+    {
+      "title": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US - abcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFY0UEluMmNRVzc0a0NhZ25Cd19EMFAwNzI5NjZHZm13SXlla3VnQ0FfdmZ6X3BwcVRvbThMRTdFbjR0MXBEQ2Z5OXA0MkNuaUhvcVhlYWtTenlKUlRydTVWYU53NE1XaV9JejM5dVVzMkk0bUo4RlBQMHQwMlFpdDEzOXBBNzFxWVBqcng1c2pqSF9yU1R3RUhBaVJVdXU3RkxIUtIBqgFBVV95cUxQQnVZbl9jc0NZM3otVGpTclk1TXpJMGIyTm4wVHFOQ2hZSmktdzR4S1duNzc3QnBWLTRlbTFLVTNhaXhtcWptZXA5UWViVUwtc2d6QXNLNmxCZEhtMGdjMllHZUNRclJwb3F3SE03alFDWHlwbUxpTGJvTThqeWRycEdWTUNXMHRYSEpZeE9NQ1dlblhVYVZNQ05oWExuU0hrd1U0ci1oem9Wdw?oc=5",
+      "date": "2026-09-24",
+      "source": "Google News EN",
+      "desc": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US&nbsp;&nbsp;abcnews.com"
     },
     {
       "title": "CDC testing finds no confirmed hantavirus infection in Pine Ridge - KOTA Territory News",
@@ -1194,13 +1187,6 @@
       "desc": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions&nbsp;&nbsp;KOTA Territory News"
     },
     {
-      "title": "Climate change, rodent ecology, and the rising risk of hantavirus outbreaks: an alarming public health concern - Frontiers",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNm9MOXJIT201MWpSc0NWWW9tV3VSYWd3dmFqaWhZeGdMWVZ2aVdMNVpud04xNmFYYjJOeHFJaVB4Q191U0N1YW1sd245UEx2RFRUZzNFbVc5TDJRUWR6b0o1WUk5d2Z5ZDE5YUhMVTA3dlZCMmZZTUNhUVVtMWxMV1FaaWVLSUZqRHpLbDhwZnZDaHdv?oc=5",
-      "date": "2026-08-19",
-      "source": "Google News EN",
-      "desc": "Climate change, rodent ecology, and the rising risk of hantavirus outbreaks: an alarming public health concern&nbsp;&nbsp;Frontiers"
-    },
-    {
       "title": "Sanidad limita a \"muy bajo\" el riesgo de contagio de hantavirus entre sanitarios - Redacción médica",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUWpsak95US1yTURaLVNWNDkzOFZmeEZhbUdCNk1pNjJmZ1FQanQ1TFZqQ3FCRW9TZ1NHYzdCeDJ6cUE3dXE0MWIwWnNyNHpHSVg5OFFDQ3hWR25JTGVURHFJdXVlT2pMZWUwUi0yTzNSckRWU1lPZkEzbElRc2NfUzVzaC15SW55Z25oT2kzSmxvWkVMTk1mVGNDU2s1c3ZaSEZBWWgwandGbEhTd0U5YUd3czBMemNMUEZVSUJLU1NVeDdYckZRaTU5SDFvd1NNN3lXVHc1cEVTNHlr0gHiAUFVX3lxTE5tRUhGUWJhWlVyQTRFZ19nV0JZWXlqNVhZd0VuSHJSRG5BbGZKblhWZEtyUUhDak1maUN1Sm9RTndVU0x0bC05eVBDX0R2eXBXMXdYaHlkY3ZIM0RSbUZaazZTVzBHM2JaaUdZMXJRdjkycEJWSkJyRkJqNWVpX3dRbzhBVnNhZG00ampwN1NvVk5pWVhSd2ZLN0NYa0xCcUtEQzNIR19XSHBNYzZucEJBcEFuMUU0U2pMNUc0NldkVjQ4dHFydmlRX2VhLWtiSmdseWNOY3FNZDRVcnJTWGw3OEE?oc=5",
       "date": "2026-08-11",
@@ -1229,6 +1215,13 @@
       "desc": "El turista con hantavirus está aislado con dos contactos estrechos, todos asintomáticos&nbsp;&nbsp;El Mundo"
     },
     {
+      "title": "El contagiado de Hantavirus aislado junto a dos contactos estrechos, todos asintomáticos - ABC",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMnlsZDBDazFQaDBMZklKV3Y1TE1hdEQ0dHFEQ0xMN3c5T3pCa1lOTHlRVW1lLW04ZnJRV0xHZWxlNmtuMlFhMWZ5ckxRaE1VZlVpNGRHU2FZc1pndGVoSTFqRWhRZGduNmlrLWJnTjdHQTNYQUd2MVVZUExSTTlqRHZKRF8xYmFQUW5ZRUlsRVN3ek4wWF9yV2M5TlVHOVpucV9kQjZOTWhQaUcyZ1Fz?oc=5",
+      "date": "2026-08-07",
+      "source": "ABC",
+      "desc": "El contagiado de Hantavirus aislado junto a dos contactos estrechos, todos asintomáticos&nbsp;&nbsp;ABC"
+    },
+    {
       "title": "La Xunta informa de que el caso de hantavirus permanece aislado en Galicia y sin síntomas - Xunta de Galicia",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMTdPN3BPc0w3QWhUaGJWaFJrUndHUkFWMTAxV2pMeHVGVWhDcVpmY2d6UTc1bzNla1o2enhwZUZMTW9wSHFuZ2dBV0otUHB3MmgxRmNHbTBCOW9KRC0xNmJyS0tkd3h0YUthU1VKQ2RxWkRyNUVVQU5TMDgwTTQzWlN2bzNXeGM5SkxYd05wdU1WU2luSlpDLTliRThwQTFlOU5DNzhJNms3bEpOYnhQc2RzZkE1NmZKYlFfTE1JaTFBZ3MwRnc?oc=5",
       "date": "2026-08-07",
@@ -1248,6 +1241,13 @@
       "date": "2026-08-07",
       "source": "Google News ES",
       "desc": "Galicia descarta más contactos en la comunidad, mientras el positivo en hantavirus guarda cuarentena junto a dos familiares&nbsp;&nbsp;iSanidad"
+    },
+    {
+      "title": "Sanidad comunica el caso de un turista con hantavirus aislado en España - La Vanguardia",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTHFkSUQ5WWUwM2ZPWkMzMlpJdG5paG5HXzNHUG9IMTJqY0padTZTeDdVcG5GeUdhX1VpZ3NpSXZtRVJiNnoxenpGZHZ4S1daOU1ITThBSnhKYXpwWVV2c255X0JBVzdjNnFtekpiYUFjeGx3TVYtRmw5N3o0amFvcUlhTFIxYXozaUxTdHZTQVdLRmVycV9SZEJOVlhBU05WQU5tYkw3QldxV2VMRFhHS1B30gG3AUFVX3lxTFBKdHp2SExZcUJVZFhKOThOTVZNcDFFeEZkX1dCc25rNDNwQzZvYThMTV9kamc0dENMelJUeTRUZy0xQ3pkZEREU2ZXcXJuT1Y3TkdEUVRONzNSR2hMeF9qd09RcUZPeVFRSFdyWXpObkstUk9INjA3Y3RVMm5VREljbDdndThOdzBkaEFRNDFjRzlhMU1EZHlOY3Bub0JQcGhkWkZZOTd3TVFlZUFSeTJiNnlDOC1QOA?oc=5",
+      "date": "2026-08-06",
+      "source": "La Vanguardia",
+      "desc": "Sanidad comunica el caso de un turista con hantavirus aislado en España&nbsp;&nbsp;La Vanguardia"
     }
   ],
   "countries": [
