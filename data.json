@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-09-28 22:29 UTC"
+    "updated": "2026-09-29 02:14 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,11 +1124,11 @@
   ],
   "news": [
     {
-      "title": "Of mice and men: Examining how hantavirus leaps from rodent to human - Virginia Tech News",
+      "title": "Of mice and men: Examining how hantavirus leaps from rodent to human - news.vt.edu",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hVnFvUWlBSFowYVVoQjhwNm9xWXFpbFE1LWNsajZ6aHZweURiWmxyajFHYnVJbnFpOHNvd0p4dFc0czY2MXVZamZDTzdGT3BTX2ZYdWVJcFZpNW9mZkZod252cE10QTlEZDdwWmNibV8?oc=5",
       "date": "2026-09-24",
       "source": "Google News EN",
-      "desc": "Of mice and men: Examining how hantavirus leaps from rodent to human&nbsp;&nbsp;Virginia Tech News"
+      "desc": "Of mice and men: Examining how hantavirus leaps from rodent to human&nbsp;&nbsp;news.vt.edu"
     },
     {
       "title": "Gripe, peste, hantavirus, COVID y otras pandemias históricas - RTVE.es",
@@ -1159,11 +1159,11 @@
       "desc": "Logran reconstruir el genoma completo del único hantavirus con contagio en humanos&nbsp;&nbsp;Redacción médica"
     },
     {
-      "title": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions - kotatv.com",
+      "title": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions - KOTA Territory News",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN1RtRzhHNXp1cHRxem1PSk8wSHZVZW1OMERKWU9FcXpKbUR6VURMQ2pHLTJFUlJNOEc3S1RIeDVZajVMZGNZX1l6cGxpeWZuTFQ1Z2IzMHpVaG9wVmNYN01zR3JlMUtfaHVHQzc4b1NiUTlOVGhMellFSlpNWGkwcmhkYUdyc1Z3VUduZGktdGdkTjJVVThpaERsNTNwLWtWdUtkNWRzNNIBuwFBVV95cUxOUF9pUmJLdkt3ZUZLSnBvakN1VFhkcENaXzJBZm1ZUTZMTGVZSEgtN1BaWjVDY3ZXeV9QOGs0ZXpuWldoQ3c0T1hLRHFxYzNXZ200dDNmQ0ZwUkV6UGdVaklWdmNLM3VjNFFlc2U2Vjl1Umh0M3FMRjhsRWNXTXdSY3R1ZmtjSGVBNkNNdW1kTEhRZS1heGpRbVRDN3V5LUUtcXkzUDI2MDI3clZUQVNiclFxMmdWNTJxaDZz?oc=5",
       "date": "2026-08-21",
       "source": "Google News EN",
-      "desc": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions&nbsp;&nbsp;kotatv.com"
+      "desc": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions&nbsp;&nbsp;KOTA Territory News"
     },
     {
       "title": "Sanidad limita a \"muy bajo\" el riesgo de contagio de hantavirus entre sanitarios - Redacción médica",
@@ -1171,6 +1171,13 @@
       "date": "2026-08-11",
       "source": "Google News ES",
       "desc": "Sanidad limita a \"muy bajo\" el riesgo de contagio de hantavirus entre sanitarios&nbsp;&nbsp;Redacción médica"
+    },
+    {
+      "title": "Sanidad vigila seis contactos tras el caso importado de hantavirus Andes - Gaceta Médica",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObUI3N29YMVBQeEM4RWlUeTBPOXBORUN1aTktZ2VkNzQ4QTZpQzJQWmVETUROcDdiTkNYMEFmNEtrZzVUNWxTV0lBdTUxUWw0M0VOMC1FTHhJSjFXTnRQQ1lLZG5maE5uWkdBcktENkVxQUZLMFdwZkhNb1Bjcm9QTHN3a2Q2RE1WRkY1UDEyYURCREJzUVFISWVpWmJNOEZEUjh4cnQ4SmNHMmZ3VXJDMXVR?oc=5",
+      "date": "2026-08-11",
+      "source": "Google News ES",
+      "desc": "Sanidad vigila seis contactos tras el caso importado de hantavirus Andes&nbsp;&nbsp;Gaceta Médica"
     },
     {
       "title": "El turista contagiado de hantavirus recibe el alta y regresa a su domicilio tras dar negativo en PCR - La Vanguardia",
@@ -1187,11 +1194,11 @@
       "desc": "El turista con hantavirus está aislado con dos contactos estrechos, todos asintomáticos&nbsp;&nbsp;El Mundo"
     },
     {
-      "title": "El contagiado de Hantavirus aislado junto a dos contactos estrechos, todos asintomáticos - abc.es",
+      "title": "El contagiado de Hantavirus aislado junto a dos contactos estrechos, todos asintomáticos - ABC",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMnlsZDBDazFQaDBMZklKV3Y1TE1hdEQ0dHFEQ0xMN3c5T3pCa1lOTHlRVW1lLW04ZnJRV0xHZWxlNmtuMlFhMWZ5ckxRaE1VZlVpNGRHU2FZc1pndGVoSTFqRWhRZGduNmlrLWJnTjdHQTNYQUd2MVVZUExSTTlqRHZKRF8xYmFQUW5ZRUlsRVN3ek4wWF9yV2M5TlVHOVpucV9kQjZOTWhQaUcyZ1Fz?oc=5",
       "date": "2026-08-07",
       "source": "ABC",
-      "desc": "El contagiado de Hantavirus aislado junto a dos contactos estrechos, todos asintomáticos&nbsp;&nbsp;abc.es"
+      "desc": "El contagiado de Hantavirus aislado junto a dos contactos estrechos, todos asintomáticos&nbsp;&nbsp;ABC"
     },
     {
       "title": "La Xunta informa de que el caso de hantavirus permanece aislado en Galicia y sin síntomas - Xunta de Galicia",
@@ -1241,13 +1248,6 @@
       "date": "2026-08-06",
       "source": "Google News ES",
       "desc": "Aislado en España con su familia un turista positivo de hantavirus que pasó por Francia&nbsp;&nbsp;EL PAÍS"
-    },
-    {
-      "title": "Aislado en Galicia junto a su familia un turista positivo por hantavirus - La Voz de Galicia",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZTRFQkx0SDBLb0JlZWtMTnk3eEZycVM4VWxsd1owbmNSSEc3c1lZM2FGdTV6Y1EzNTZaWEVwSGV3UlhGX0hwQS1WZm9lay1VR25NTFNqQTl6dVY1SlpnejdXT0k4Q0JnSjh0eHA1clZUZVNuZXJnVG9CazdrUGRCVTRRSE5VQnFDUDBWYlhXVVl1Y3NidHFndE42MmEtZzRJdS1sSkwwWGoyMEE4Y0FHTU9GVTVoekdQemZpQ3VOcWRSLUlsUWV6U0hFRW9KVXljY0tRRjhGWDVIWW5Za0Z3VnNHb9IB_wFBVV95cUxNdTJOMFpBYzhZN2RFTUt5ei1lSDdYTC1xWkN6bTN0dDI3TTV2LS13Zm11U2l3SkExWldSZnFPT0dJUFlBcTc0a01qQXNoT3hDLVRxZEh2SzJScGZfdGs3UkZCOF9xa2E2alRYYTFYNDFBTnV6bHlUZ20wVWxqZjdzVm54blBpN1NlQlVQYTFJTTUzM1ZnT0lYei14UGs4U2N6VWZRdFJQSm5GRzNhRjRCWXJuRVFnY1IyVS1WMWdTQWs2UDU4Mk5ETG1lZlc5YUI0eEgtcDRJNTRVYTh1R0RRNmVGcThNdEJ2TThrMHN2VnZFWHN4ak1PQkVVN3BRNHM?oc=5",
-      "date": "2026-08-06",
-      "source": "Google News ES",
-      "desc": "Aislado en Galicia junto a su familia un turista positivo por hantavirus&nbsp;&nbsp;La Voz de Galicia"
     }
   ],
   "countries": [
