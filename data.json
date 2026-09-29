@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-09-29 19:59 UTC"
+    "updated": "2026-09-29 23:38 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,46 +1124,11 @@
   ],
   "news": [
     {
-      "title": "¿Qué es el hantavirus y por qué preocupa la segunda muerte en Colonia? - Caras y Caretas",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcTV0cnF1WnBONy15aGs3S2tYajZJZTZuZVlaTmFzRU9UXzhKUkhKWkRha3NqLVBOeVZvcVBpRHJSYUJTYWY0NzFGVnhlNlVoWUV3YjM2dXdBN3lMMEQxblR0WmpsQzNmQTVkcFhTR2xmOUJwVTRaSkk5WW13SWlsUXdWSkxqc290S0pVXzBSVU5URVFKNmZHSEQtRkVMMElrUS0tSXlCb3lnX0dQNFp30gG0AUFVX3lxTFBsT1R1UmF6LVpxTjg2Q3FFQkdmSURJMFowbktTUzRhelRUSjFEdE5JUGlraWFCbmZhZjVFS1RBWGpKMVhRTzlINW1GNG1qVDhsSVFlcDE3S0VhVFhFX3FhYnlPZTBKVUlkX1RNaGJGdWRkQWZkUDFPQ3NSc1NJRzhST0JpUEk3WTJnZjlrTDZkV1BGOC01WGJxa19zbTJKMVJ0ajdidGNfWUQ4d2huRnJnam5ocQ?oc=5",
-      "date": "2026-09-29",
-      "source": "Google News ES",
-      "desc": "¿Qué es el hantavirus y por qué preocupa la segunda muerte en Colonia?&nbsp;&nbsp;Caras y Caretas"
-    },
-    {
-      "title": "Call: Andes Virus and Hantavirus Research - fundsforngos.org",
+      "title": "Call: Andes Virus and Hantavirus Research - fundsforNGOs",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcWlWVlZsTWhOQ3RGblQ2eGlUMlU3a3lkUHRfRWdYSHZLTU9ET3FrQU1xcUk0cjNfaTZJNVZERjNqTmFMdkZfbmU0UjlQVVNsX2FYeklkOHM1dG51SmtaNnc3VWJiNzhrWEFoQWt1SVpFY0ZUaC1FcFZpYnM2MEZ1M3pjdFhaWFgzNDR4MVFTUGpqSHB3XzJKRlFycHZNYmNRT3RCamdyWU8tVU1iQnd4QTdR0gG3AUFVX3lxTFA0WE5SSTVKai1BRlhJczRBU2QteXVWMFlxMGZEWEIzMzF1MDc2bGhCZkk4UW83Z0l2eFVyLTVoRWFudTN3N1lwcDhVemtuejYzdlY0SVRqb1BYV25JZUsyZmJKSVlVcVBYZFNHMU83NGJMckp6MG9VUzZpSEZZMXUzYWIwcW1zamZ3Ym5QNGRpMHJ5SHMtOVpFSThNN0V6c3BBbG5CRVRjYlBnY09EeEhPRkFObTRxTQ?oc=5",
       "date": "2026-09-29",
       "source": "Google News EN",
-      "desc": "Call: Andes Virus and Hantavirus Research&nbsp;&nbsp;fundsforngos.org"
-    },
-    {
-      "title": "Hantavirus: segundo caso fatal del año - lamañana.uy",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRXgwUFoyV0FxOGJxNEZndkVwalhRbk52bXdPTmNyaXlqWGZJRm0tY3RaTzdUU284Tkg4cWhrMEpZUTdPQVRFc19NOTQyZF9wU1Y1MmstLW5PNHZ1V0doWUNoS3h2S2tVMUplMGhpWlBVT2NBM3VuemhHLWNpT0kwMnpERzdXY2s?oc=5",
-      "date": "2026-09-26",
-      "source": "Google News ES",
-      "desc": "Hantavirus: segundo caso fatal del año&nbsp;&nbsp;lamañana.uy"
-    },
-    {
-      "title": "Un hombre murió de hantavirus en Colonia: cuáles son los síntomas y cómo se contrae - Montevideo Portal",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOakFJXzRjb1kwU3VIYUJpTzNlaEFxcmJIRUY2ZUUxMUYzQUtKVUthM19KekdLcjdUTGJlZXp5NVJXUjlpenNzUnl3LVZWdjZLLTJSR1RXQlhoWjdGa01WWTBaelUxdjFKeGRaRWU1VTQyTHRyUjdEei1ZSFZhcU11RkwxbkpFYmFwZkYyd1FfSzJoaHp6Q0lqSlVLNGtka0JhNUFSdVVJdS03alA0WTRKU2hXZUx0Y1Z0WjZHdGl2YUZKaXlSRkc5ZVh30gHuAUFVX3lxTE1wTEozSWdRdlhabVpFbUpFemhXRm1sS0ZzTlBudGxZZEpDYWhseHp1QUVyeVpGLW4zTXV2bTF4bFN5cE5KUXlZMUExZVcwMjdzMTI0ZVFXODh1VUo3SzFTOFN4TG9KVy1ndUNSLWtZMXNhamwtSTQ2bXFvODBBQTJ2NW9qQ3dVWHlFeHktUXQ0UkVSUnhwRGZ6VHVaWjZKU1pKTEZ3SldaYzF0VGlnR00xLVBNZ0NTVHBDZWp2U2xXUkdqUjRlMktSeGo1cDl4XzYwejdnYkwya29IekY0eWdpS1E1NGduc0ZTNy03Z0E?oc=5",
-      "date": "2026-09-25",
-      "source": "Google News ES",
-      "desc": "Un hombre murió de hantavirus en Colonia: cuáles son los síntomas y cómo se contrae&nbsp;&nbsp;Montevideo Portal"
-    },
-    {
-      "title": "Científicos chilenos desarrollaron el primer test rápido del mundo para detectar el Hantavirus - Cooperativa Ciencia",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOGxreGRDZ0Q1MWJxSlY3X2lyQW5KbGdlYnhKNUNKRVhRYzA1VWViWmNkamMtbVFzZ2pEblFLdnV4aDdDbkNiREVpbVhPbnBBRS1HZGVQeHV1cmxxMnJqdE1XWFh4UjFYMVM1aWZpc0MwcFhROEY3SmJxc0ZtZWFSWk41YlZTRnZlaWtpelQyWFpEd3hXVUJ5TDVib1VfV1QwNTNJYjA0YlZ3dkVtaW5jQlJlSEc2ZW1xS3dZcFVKRGtjRUU2N1JTRWxocWNLdnAzUllRVVlpT0FPbnhJS2t3?oc=5",
-      "date": "2026-09-25",
-      "source": "Google News ES",
-      "desc": "Científicos chilenos desarrollaron el primer test rápido del mundo para detectar el Hantavirus&nbsp;&nbsp;Cooperativa Ciencia"
-    },
-    {
-      "title": "MSP confirmó muerte de un hombre por hantavirus en Colonia; el segundo caso en el departamento y en el país en 2026 - subrayado.com.uy",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSDBjZWpJX1o0MldoVmRGZGZYODVxU2hCS2V1bVFjUEVpQTFvN1VSRXFkYm9fR25Xd1FJMUdkdTdoTXVObU5ZRnN6VDNraXZMRXlRZjB6SHpCSVF3ZGphaS1GbmxfMWJ4eW5uM3dVUlc1SUhzMGFtTUpoMnVYZEpCdDd2RkRFV0xFRU9kdlhSRHJqdE9hR19fdVM5OWpjYjFvU29tTUxfNV9lWEs2VVQwMUtLeThPMXZDbnRSeG5lWDIwVUlsc3lDTDhpVUwwZ9IB0wFBVV95cUxQYjZxZExqaGxSakdwci1kQlRkSnZHTlk0dk00V3B3TE1sMlR1NG1jQjZvWlhrdG1nODhFRzBVWU9ZWHo4UEhIR3g1QzNZa2ZDdjM3VWNyNC03Z0tLdThKa3BRUTdxOW9TdnZ5YU9QbkJLaU9YdFBlOHVMUFFHNThheDdSVlo2VzRhdDU3cXBQQURNSkN5aElwTjgySWdEQUQ2SWVTN2RCQjExWVdBQlMyaW5KT1pCU0R3ZWRnTENiYm5pZlA3Rk9SOWM5NWdpMmt4NHVN?oc=5",
-      "date": "2026-09-25",
-      "source": "Google News ES",
-      "desc": "MSP confirmó muerte de un hombre por hantavirus en Colonia; el segundo caso en el departamento y en el país en 2026&nbsp;&nbsp;subrayado.com.uy"
+      "desc": "Call: Andes Virus and Hantavirus Research&nbsp;&nbsp;fundsforNGOs"
     },
     {
       "title": "Of mice and men: Examining how hantavirus leaps from rodent to human - Virginia Tech News",
@@ -1173,6 +1138,13 @@
       "desc": "Of mice and men: Examining how hantavirus leaps from rodent to human&nbsp;&nbsp;Virginia Tech News"
     },
     {
+      "title": "CDC testing finds no confirmed hantavirus infection in Pine Ridge - KOTA Territory News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWmoxM1RvNllOMThUM1BHYTRONThqaWF0VG1JWmF0RVZIRDNORjFraWpHa0NMRXd6LXdfNUJiMTc1YVBNLURuNFdEUGpyWTM1X0VNNE5pWDBwS0pmRFk5dmd2UWh0NHMwRTloLU5udVZPZmtGWl9OSTdJMzdFT2RleXBhM0IzOVJSTDBGZVhfMTlEempkY19OVGE4dkpSd9IBsgFBVV95cUxNM3p3RVR1Ym52WjhjTUhBQW12bTRobmRkOVUxd2x6NW1lSzJMcHF1bWt3OXdCTTBkeElGTDNYa29mdXNnZ1JPajlFZ05WdjdDUHdCb0I1TzltWTFhMW5GOVFFWVFFVm5hSVhnc3FuTlNud21meHRDTHlpdWgwYTgwNzRHazlGcFBvWlpTQUhmT1diNGlEeHhWUGJWLVJWTldqR2YyUHlLYW5JazV4NTc1NE1n?oc=5",
+      "date": "2026-09-23",
+      "source": "Google News EN",
+      "desc": "CDC testing finds no confirmed hantavirus infection in Pine Ridge&nbsp;&nbsp;KOTA Territory News"
+    },
+    {
       "title": "Gripe, peste, hantavirus, COVID y otras pandemias históricas - RTVE.es",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVlhkdnNxZ21BWWYzUERvRkF1S0dWbE9GWGdMUnd1RWVpN2d3LUJlNDk2RjZzQmYxT1NmcUxnekxIZE10aldPaWhhLUpUV3pfd1lyWm85QTZqTGVEdU9oWWY0ZV8xa21tYVVGUi1rZ1JaTXBRUkZxLTFfbTFVSmF0dzFDeVItblAzZ01pVkFkVEV5Q0NwanBHdTh2c2FjQ3Bac0p1eFpwdw?oc=5",
       "date": "2026-09-03",
@@ -1180,18 +1152,18 @@
       "desc": "Gripe, peste, hantavirus, COVID y otras pandemias históricas&nbsp;&nbsp;RTVE.es"
     },
     {
-      "title": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia - The Conversation",
+      "title": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia - theconversation.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUG1Vcjd6WHZDN3hyOFdlWnNYVlozWldfT2U1bEhCMXFtTVNCQUxZa1BQa1EzcWVnanFYZ0JHNDdseXEyQzgyWnBSLUJqUGJ3aVFOUFM4UUs0dnJlWDBkanNONVI4WkRnQnFROWk0d01tcWh3OGZibE55RnZJUFFWZHY1U3lIRHc5ZlZTWHlUVTNRdDBqdk1IMElrTzZRNFB2RGtJMmVwYkFfdFNtOWkzMWVHclludVFU?oc=5",
       "date": "2026-08-26",
       "source": "Google News EN",
-      "desc": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia&nbsp;&nbsp;The Conversation"
+      "desc": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia&nbsp;&nbsp;theconversation.com"
     },
     {
-      "title": "Patricio Segura, journalist who defended Patagonia’s rivers, died of hantavirus, aged 54 - news - Mongabay",
+      "title": "Patricio Segura, journalist who defended Patagonia’s rivers, died of hantavirus, aged 54 - news.mongabay.com",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSWRILVdocU9fSGQwR0RZbFUtSU5nNmc1UUpzeC1zRHVPYUtBc0IyM0hwQnRKdkZJdXdsNzBUSzh6UTdvam5GdUo5NmNoblpJOUZmR2lHYlBNMTBvV055QjhYRlZXdnZqd0pQQ203N2JiNWlHNnR0cUtISXJGUXpHLW5rU00tLVA2TEl6b0lfZEVLS2ViNmxMXzNJcUZKd2NDOU43STJnV1RqNllIM1BQTlJNeHRoTUg1dC1faHczdHZFeDZWQ3c?oc=5",
       "date": "2026-08-23",
       "source": "Google News EN",
-      "desc": "Patricio Segura, journalist who defended Patagonia’s rivers, died of hantavirus, aged 54&nbsp;&nbsp;news - Mongabay"
+      "desc": "Patricio Segura, journalist who defended Patagonia’s rivers, died of hantavirus, aged 54&nbsp;&nbsp;news.mongabay.com"
     },
     {
       "title": "Logran reconstruir el genoma completo del único hantavirus con contagio en humanos - Redacción médica",
@@ -1206,13 +1178,6 @@
       "date": "2026-08-21",
       "source": "Google News EN",
       "desc": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions&nbsp;&nbsp;KOTA Territory News"
-    },
-    {
-      "title": "Sanidad vigila seis contactos tras el caso importado de hantavirus Andes - Gaceta Médica",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObUI3N29YMVBQeEM4RWlUeTBPOXBORUN1aTktZ2VkNzQ4QTZpQzJQWmVETUROcDdiTkNYMEFmNEtrZzVUNWxTV0lBdTUxUWw0M0VOMC1FTHhJSjFXTnRQQ1lLZG5maE5uWkdBcktENkVxQUZLMFdwZkhNb1Bjcm9QTHN3a2Q2RE1WRkY1UDEyYURCREJzUVFISWVpWmJNOEZEUjh4cnQ4SmNHMmZ3VXJDMXVR?oc=5",
-      "date": "2026-08-11",
-      "source": "Google News ES",
-      "desc": "Sanidad vigila seis contactos tras el caso importado de hantavirus Andes&nbsp;&nbsp;Gaceta Médica"
     },
     {
       "title": "Sanidad limita a \"muy bajo\" el riesgo de contagio de hantavirus entre sanitarios - Redacción médica",
@@ -1248,6 +1213,41 @@
       "date": "2026-08-07",
       "source": "Google News ES",
       "desc": "La Xunta informa de que el caso de hantavirus permanece aislado en Galicia y sin síntomas&nbsp;&nbsp;Xunta de Galicia"
+    },
+    {
+      "title": "Hantavirus: qué es, síntomas y cómo se puede contagiar entre personas - El Periódico",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbENaYlBCelQ2QU51bS1tRGZrRTJ5TXBnRmo2WkxJSG1YNU9mRGpzeDhMbkRDaGhvQkRyQ3NzT1phV3FyeXd1WFZyWFZXaU9BVThIVmxvTlNjeVBhUWF2M0xrQzZSVm03Um01U1FxOWxtaUhWUVdvaFI1RzZnNERaUVUtcTJiaHpLUVVfeFg4LURteGI2Tkh2TnpCcmxyR0lG0gGgAUFVX3lxTFAxN2lKNFBoRXg0bGZndFA3dER5ZmhVdDBMNGFsYzFDVVNWX0VieFVaVTRWT3hxY1hUOGpLRVJLcEs0SXBZWVIxVmRjYU1uXzFQQUEwbXRITl9ySEllaE43NzFKaVo2TGRYeWRBSEVCTkt5cFJ5RThVR1gxdUVNUHVVVmw1Zm16YzhlZV9LcVBhLXZXMG5wcFE3V3hvZndHMVo?oc=5",
+      "date": "2026-08-07",
+      "source": "Google News ES",
+      "desc": "Hantavirus: qué es, síntomas y cómo se puede contagiar entre personas&nbsp;&nbsp;El Periódico"
+    },
+    {
+      "title": "Galicia descarta más contactos en la comunidad, mientras el positivo en hantavirus guarda cuarentena junto a dos familiares - iSanidad",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdGJiZGZBZ3oybDYxaC1hRXdEZ3Nma0stTm0zbEZHM3Zxci1QWDhQNkZ5SlVpSWxBSXV2RnlXZGdlc1JLcW9SU0xmN0lBOFhZOHNPRUN2cG1Xdloya0JUWTloSjdTTVdGR3RsNm1BVWVkQ18tRGpXeVpzRFF2MDg1NEdVTkJsN2VRc2Z1ajlNT2NoajkwNml6NEowN3lmeVZwTDdrQzNKQVNHMUlCcW5jY0RnRUx0anpjbkR4bGFxQXluVDlqZm45Q0NERGRkUmg5RG9FWlVzSy1FUHVxSFlwaFRYWlMwZw?oc=5",
+      "date": "2026-08-07",
+      "source": "Google News ES",
+      "desc": "Galicia descarta más contactos en la comunidad, mientras el positivo en hantavirus guarda cuarentena junto a dos familiares&nbsp;&nbsp;iSanidad"
+    },
+    {
+      "title": "Sanidad comunica el caso de un turista con hantavirus aislado en España - La Vanguardia",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTHFkSUQ5WWUwM2ZPWkMzMlpJdG5paG5HXzNHUG9IMTJqY0padTZTeDdVcG5GeUdhX1VpZ3NpSXZtRVJiNnoxenpGZHZ4S1daOU1ITThBSnhKYXpwWVV2c255X0JBVzdjNnFtekpiYUFjeGx3TVYtRmw5N3o0amFvcUlhTFIxYXozaUxTdHZTQVdLRmVycV9SZEJOVlhBU05WQU5tYkw3QldxV2VMRFhHS1B30gG3AUFVX3lxTFBKdHp2SExZcUJVZFhKOThOTVZNcDFFeEZkX1dCc25rNDNwQzZvYThMTV9kamc0dENMelJUeTRUZy0xQ3pkZEREU2ZXcXJuT1Y3TkdEUVRONzNSR2hMeF9qd09RcUZPeVFRSFdyWXpObkstUk9INjA3Y3RVMm5VREljbDdndThOdzBkaEFRNDFjRzlhMU1EZHlOY3Bub0JQcGhkWkZZOTd3TVFlZUFSeTJiNnlDOC1QOA?oc=5",
+      "date": "2026-08-06",
+      "source": "La Vanguardia",
+      "desc": "Sanidad comunica el caso de un turista con hantavirus aislado en España&nbsp;&nbsp;La Vanguardia"
+    },
+    {
+      "title": "Sanidad confirma en Galicia un caso de hantavirus en un turista procedente de Francia y descarta el riesgo de contagio - RTVE.es",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTHNWa0hfLXRaM1NPMkFZTVpiUzNYbDNxM2tMcGlLXzdSUkszLTBGcTJFOTVmaDZoeEs3T2lCNWdtVEJmRTYzNTYtcEkzSWlZR1hjYmVUQWtBRUlNTTB5REJDRlpTa3Y2cDA4OGdhYXNfOVlGU2lyb2JXd1F0MXFxS3pwVWN2VjV2emN1YXNxRFdqZGtSTG14RDJKbUpHUkFkQXZOVko5YkVxRnJRVEYxSndOZl8wa0dqUThraTZ4czRoYUxyUEYwTE1ldHFOYjlRbkd6OXFiLXF5eUNrMkE?oc=5",
+      "date": "2026-08-06",
+      "source": "Google News ES",
+      "desc": "Sanidad confirma en Galicia un caso de hantavirus en un turista procedente de Francia y descarta el riesgo de contagio&nbsp;&nbsp;RTVE.es"
+    },
+    {
+      "title": "Detectado un nuevo caso de hantavirus en España: un turista que estuvo de viaje en Francia, aislado - Cadena SER",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdFM1LTVLVk10bUdwMmhEUWRUYUJNMXRpMDJmeWpCTENubnBXU3l6bWh5OTh2NHZnZkFydXVJZ19zTDRDRGdVVFd0VlpiYTk4UUMtdTBNTl81M3ZKTjY2bEl5RjJhSEpHemhEZE1JZEduTk96bTdVcld3emV4aXVld05lQXM5d1lXN0NkendReXdFSy1ZWXZTVUVnaGJVLWJS0gG0AUFVX3lxTE92VDRCQmtfQWdoVV9EZDMtemtoVEdFeDludFdobTNrS0NGYzRTYy1WTUJNZC01alFwRUptS210Q3E0Qi1HUk9xci1rZGJQMGsxMXNwN2N5dlEyQVd1Um1XLUZoVUNCVTd5X2NXSlRabkRpX3F2a0xhdEJUX0RsWFpkLVBTQ2ttNm1OYlVhRXBXRk5LaFpYZ090S1JlR3NLSzVOQWx3dzUyZkJ3NnQ1MEc0S1MtVw?oc=5",
+      "date": "2026-08-06",
+      "source": "Google News ES",
+      "desc": "Detectado un nuevo caso de hantavirus en España: un turista que estuvo de viaje en Francia, aislado&nbsp;&nbsp;Cadena SER"
     }
   ],
   "countries": [
