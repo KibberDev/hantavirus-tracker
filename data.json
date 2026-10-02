@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-10-02 08:51 UTC"
+    "updated": "2026-10-02 15:32 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,6 +1124,13 @@
   ],
   "news": [
     {
+      "title": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFY0UEluMmNRVzc0a0NhZ25Cd19EMFAwNzI5NjZHZm13SXlla3VnQ0FfdmZ6X3BwcVRvbThMRTdFbjR0MXBEQ2Z5OXA0MkNuaUhvcVhlYWtTenlKUlRydTVWYU53NE1XaV9JejM5dVVzMkk0bUo4RlBQMHQwMlFpdDEzOXBBNzFxWVBqcng1c2pqSF9yU1R3RUhBaVJVdXU3RkxIUtIBqgFBVV95cUxQQnVZbl9jc0NZM3otVGpTclk1TXpJMGIyTm4wVHFOQ2hZSmktdzR4S1duNzc3QnBWLTRlbTFLVTNhaXhtcWptZXA5UWViVUwtc2d6QXNLNmxCZEhtMGdjMllHZUNRclJwb3F3SE03alFDWHlwbUxpTGJvTThqeWRycEdWTUNXMHRYSEpZeE9NQ1dlblhVYVZNQ05oWExuU0hrd1U0ci1oem9Wdw?oc=5",
+      "date": "2026-10-02",
+      "source": "Google News EN",
+      "desc": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos"
+    },
+    {
       "title": "Of mice and men: Examining how hantavirus leaps from rodent to human - Virginia Tech News",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hVnFvUWlBSFowYVVoQjhwNm9xWXFpbFE1LWNsajZ6aHZweURiWmxyajFHYnVJbnFpOHNvd0p4dFc0czY2MXVZamZDTzdGT3BTX2ZYdWVJcFZpNW9mZkZod252cE10QTlEZDdwWmNibV8?oc=5",
       "date": "2026-09-24",
@@ -1131,11 +1138,11 @@
       "desc": "Of mice and men: Examining how hantavirus leaps from rodent to human&nbsp;&nbsp;Virginia Tech News"
     },
     {
-      "title": "Gripe, peste, hantavirus, COVID y otras pandemias históricas - rtve.es",
+      "title": "Gripe, peste, hantavirus, COVID y otras pandemias históricas - RTVE.es",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVlhkdnNxZ21BWWYzUERvRkF1S0dWbE9GWGdMUnd1RWVpN2d3LUJlNDk2RjZzQmYxT1NmcUxnekxIZE10aldPaWhhLUpUV3pfd1lyWm85QTZqTGVEdU9oWWY0ZV8xa21tYVVGUi1rZ1JaTXBRUkZxLTFfbTFVSmF0dzFDeVItblAzZ01pVkFkVEV5Q0NwanBHdTh2c2FjQ3Bac0p1eFpwdw?oc=5",
       "date": "2026-09-03",
       "source": "RTVE",
-      "desc": "Gripe, peste, hantavirus, COVID y otras pandemias históricas&nbsp;&nbsp;rtve.es"
+      "desc": "Gripe, peste, hantavirus, COVID y otras pandemias históricas&nbsp;&nbsp;RTVE.es"
     },
     {
       "title": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia - The Conversation",
@@ -1145,11 +1152,18 @@
       "desc": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia&nbsp;&nbsp;The Conversation"
     },
     {
-      "title": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions - KOTA Territory News",
+      "title": "Patricio Segura, journalist who defended Patagonia’s rivers, died of hantavirus, aged 54 - Mongabay News",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSWRILVdocU9fSGQwR0RZbFUtSU5nNmc1UUpzeC1zRHVPYUtBc0IyM0hwQnRKdkZJdXdsNzBUSzh6UTdvam5GdUo5NmNoblpJOUZmR2lHYlBNMTBvV055QjhYRlZXdnZqd0pQQ203N2JiNWlHNnR0cUtISXJGUXpHLW5rU00tLVA2TEl6b0lfZEVLS2ViNmxMXzNJcUZKd2NDOU43STJnV1RqNllIM1BQTlJNeHRoTUg1dC1faHczdHZFeDZWQ3c?oc=5",
+      "date": "2026-08-23",
+      "source": "Google News EN",
+      "desc": "Patricio Segura, journalist who defended Patagonia’s rivers, died of hantavirus, aged 54&nbsp;&nbsp;Mongabay News"
+    },
+    {
+      "title": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions - kotatv.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN1RtRzhHNXp1cHRxem1PSk8wSHZVZW1OMERKWU9FcXpKbUR6VURMQ2pHLTJFUlJNOEc3S1RIeDVZajVMZGNZX1l6cGxpeWZuTFQ1Z2IzMHpVaG9wVmNYN01zR3JlMUtfaHVHQzc4b1NiUTlOVGhMellFSlpNWGkwcmhkYUdyc1Z3VUduZGktdGdkTjJVVThpaERsNTNwLWtWdUtkNWRzNNIBuwFBVV95cUxOUF9pUmJLdkt3ZUZLSnBvakN1VFhkcENaXzJBZm1ZUTZMTGVZSEgtN1BaWjVDY3ZXeV9QOGs0ZXpuWldoQ3c0T1hLRHFxYzNXZ200dDNmQ0ZwUkV6UGdVaklWdmNLM3VjNFFlc2U2Vjl1Umh0M3FMRjhsRWNXTXdSY3R1ZmtjSGVBNkNNdW1kTEhRZS1heGpRbVRDN3V5LUUtcXkzUDI2MDI3clZUQVNiclFxMmdWNTJxaDZz?oc=5",
       "date": "2026-08-21",
       "source": "Google News EN",
-      "desc": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions&nbsp;&nbsp;KOTA Territory News"
+      "desc": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions&nbsp;&nbsp;kotatv.com"
     },
     {
       "title": "Sanidad limita a \"muy bajo\" el riesgo de contagio de hantavirus entre sanitarios - Redacción médica",
@@ -1208,11 +1222,11 @@
       "desc": "Sanidad comunica el caso de un turista con hantavirus aislado en España&nbsp;&nbsp;La Vanguardia"
     },
     {
-      "title": "Sanidad confirma en Galicia un caso de hantavirus en un turista procedente de Francia y descarta el riesgo de contagio - rtve.es",
+      "title": "Sanidad confirma en Galicia un caso de hantavirus en un turista procedente de Francia y descarta el riesgo de contagio - RTVE.es",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTHNWa0hfLXRaM1NPMkFZTVpiUzNYbDNxM2tMcGlLXzdSUkszLTBGcTJFOTVmaDZoeEs3T2lCNWdtVEJmRTYzNTYtcEkzSWlZR1hjYmVUQWtBRUlNTTB5REJDRlpTa3Y2cDA4OGdhYXNfOVlGU2lyb2JXd1F0MXFxS3pwVWN2VjV2emN1YXNxRFdqZGtSTG14RDJKbUpHUkFkQXZOVko5YkVxRnJRVEYxSndOZl8wa0dqUThraTZ4czRoYUxyUEYwTE1ldHFOYjlRbkd6OXFiLXF5eUNrMkE?oc=5",
       "date": "2026-08-06",
       "source": "Google News ES",
-      "desc": "Sanidad confirma en Galicia un caso de hantavirus en un turista procedente de Francia y descarta el riesgo de contagio&nbsp;&nbsp;rtve.es"
+      "desc": "Sanidad confirma en Galicia un caso de hantavirus en un turista procedente de Francia y descarta el riesgo de contagio&nbsp;&nbsp;RTVE.es"
     },
     {
       "title": "Detectado un nuevo caso de hantavirus en España: un turista que estuvo de viaje en Francia, aislado - Cadena SER",
@@ -1222,32 +1236,18 @@
       "desc": "Detectado un nuevo caso de hantavirus en España: un turista que estuvo de viaje en Francia, aislado&nbsp;&nbsp;Cadena SER"
     },
     {
-      "title": "Aislado en España con su familia un turista positivo de hantavirus que pasó por Francia - elpais.com",
+      "title": "Aislado en España con su familia un turista positivo de hantavirus que pasó por Francia - EL PAÍS",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPc3ZkaEZNU0NydG91N3V1NHh1anBRRG1JVVhORlIwWFd3RVk2RnhyZ3NqbHo2V1BONTJETzJPYXNfS1QwZ2RtdmVQZmJtdnA1TzFDQmgtYnZSa2ZDZ0xYQUdFQlhrOUJyWUl4V1hfSXZtRVR4anBxQ0k5b1JmZ3llaXhGNTZiN3hzS1F5XzIwZUFsTTVSUjVUZHU4X1hXSnh1em5wR1FlcXI3RGp0WW1OMzBJWS1XSnRmaEVWYkRId29IcWwwaml1dTBWa9IB3wFBVV95cUxOQjF3b1pGdkgyc3djam42WEhKUDFrb0kwX3hBb1pKeFZtM2xvaDQ2WHhfRzdwM3lpS1J1bkdYaWQzWFRGNTNzMjM2UGNuQzgxZ2RvVDdyTmtBZVpscmE1LUlZUllDclV2eXRxNWt5RHdQdDJJdHF1TjZEQV92Nm9BSk91eS1NMzRoSFppcVZwd2cweDFiVkt2Mmg1V3BnT1cwZ2RjaUVjSjM4UEpGOThGTFhOQzZLMlJZVzFtRTRBcm5hWmp1X1ljZVlmeGQ4WF82UTBQZmlWQlhCNVJzSjRB?oc=5",
       "date": "2026-08-06",
       "source": "Google News ES",
-      "desc": "Aislado en España con su familia un turista positivo de hantavirus que pasó por Francia&nbsp;&nbsp;elpais.com"
+      "desc": "Aislado en España con su familia un turista positivo de hantavirus que pasó por Francia&nbsp;&nbsp;EL PAÍS"
     },
     {
-      "title": "Aislado en Galicia junto a su familia un turista positivo por hantavirus - lavozdegalicia.es",
+      "title": "Aislado en Galicia junto a su familia un turista positivo por hantavirus - La Voz de Galicia",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZTRFQkx0SDBLb0JlZWtMTnk3eEZycVM4VWxsd1owbmNSSEc3c1lZM2FGdTV6Y1EzNTZaWEVwSGV3UlhGX0hwQS1WZm9lay1VR25NTFNqQTl6dVY1SlpnejdXT0k4Q0JnSjh0eHA1clZUZVNuZXJnVG9CazdrUGRCVTRRSE5VQnFDUDBWYlhXVVl1Y3NidHFndE42MmEtZzRJdS1sSkwwWGoyMEE4Y0FHTU9GVTVoekdQemZpQ3VOcWRSLUlsUWV6U0hFRW9KVXljY0tRRjhGWDVIWW5Za0Z3VnNHb9IB_wFBVV95cUxNdTJOMFpBYzhZN2RFTUt5ei1lSDdYTC1xWkN6bTN0dDI3TTV2LS13Zm11U2l3SkExWldSZnFPT0dJUFlBcTc0a01qQXNoT3hDLVRxZEh2SzJScGZfdGs3UkZCOF9xa2E2alRYYTFYNDFBTnV6bHlUZ20wVWxqZjdzVm54blBpN1NlQlVQYTFJTTUzM1ZnT0lYei14UGs4U2N6VWZRdFJQSm5GRzNhRjRCWXJuRVFnY1IyVS1WMWdTQWs2UDU4Mk5ETG1lZlc5YUI0eEgtcDRJNTRVYTh1R0RRNmVGcThNdEJ2TThrMHN2VnZFWHN4ak1PQkVVN3BRNHM?oc=5",
       "date": "2026-08-06",
       "source": "Google News ES",
-      "desc": "Aislado en Galicia junto a su familia un turista positivo por hantavirus&nbsp;&nbsp;lavozdegalicia.es"
-    },
-    {
-      "title": "Un nuevo caso de hantavirus activa los protocolos y el rastreo de contactos de Sanidad - Redacción médica",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWktESWlsWUtZd25lQlF0ZTB4QmZabzdFRERwZlNtdXkxMmQyNzhWQUh0bjQ0S000em9HQVVuZHNLTXB4ZktuYzU4YzFiekd2TGNUUzlKMW9BakFNX1NLZmxxTjIxRk5JdDZjZlAtVjEyd1F4WHQ2RHpvRnI5ZDk4SHVQMEx3c0QwWVFBY09VS3dNU2k0aGZuTXJkWTBkaUFkLWtqYVRQc01sU2gzTnFGOHlqM1FvSjNTWW1aQjA0aGN4X19UczNRcU1zM0F0eDlyckNwUjd3bDRGVjh5bWQ2V0dMM0dFODdrbXfSAe8BQVVfeXFMUDhWYjhlaTVGc0V2bUFlbTFOYjRLZUZ2aElSbFZ5N0JpMjBpaXUxY3M2SUNfZzBhdk1tcmI2Ums2dG1yRzZzeFBpYzVZZFlWal9MTklwWjdqeS15MVdZNS1wQU1qRGhxeG4wTl9GZGxuWTM3ODVxRWN0RzhlWXh5WmMxaGZOcERPV28yXzRSSm1xWkpIV29pNWRveGE2SkpPR0JNQi1WRHBCSjNPZTVDbkt6Vy04VmZtSGhfcUNKd05VX3dNV2h2eWxFNkNHYUtnd2NwcDdVUTU4OUlvek9WQkxFd2dUdFB0RDlrNlkyRjQ?oc=5",
-      "date": "2026-08-06",
-      "source": "Google News ES",
-      "desc": "Un nuevo caso de hantavirus activa los protocolos y el rastreo de contactos de Sanidad&nbsp;&nbsp;Redacción médica"
-    },
-    {
-      "title": "Hantavirus en Galicia: un aislado tras dar positivo en su lugar de origen - galiciapress.es",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM3d1SkpIdUtZNFc0bUlyZGF6NlJmWGh3WnZGUEMzMUtEM0pIVm55RC13aUNnZU5nSDJxZ1NXbkVWMmRudFh5cTB4VjNEc1RtaHNuTHdtZnlzSjhFN01rZDhibjYxeG1rWl9Cc1dDQnNYSEN0TEVPWTJaMEhMTVZPT05TYXdwSGlleEVjNFlrWVAxTmJkUzdkaDZnVzZNdVVscFhacDgzdHRRVjhjVlF1eFV1QmFsSkVvS2xPeQ?oc=5",
-      "date": "2026-08-06",
-      "source": "Google News ES",
-      "desc": "Hantavirus en Galicia: un aislado tras dar positivo en su lugar de origen&nbsp;&nbsp;galiciapress.es"
+      "desc": "Aislado en Galicia junto a su familia un turista positivo por hantavirus&nbsp;&nbsp;La Voz de Galicia"
     }
   ],
   "countries": [
