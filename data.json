@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-10-03 14:43 UTC"
+    "updated": "2026-10-03 18:18 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,6 +1124,13 @@
   ],
   "news": [
     {
+      "title": "En medio de alerta sanitaria: así avanza test rápido para detectar hantavirus desarrollado desde UACH - BioBioChile",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOdzNjR29tU1JEclNpb0hIOXJ5SlNmMF9PQUczdENuTWYtZ041eEJ0QWlXWWY4UUg3cGFCSzBRRElGa2JtVDVWNDBlMkx3MTYyekpzTTJFUUFGMHlyN2FxM29uMGxvTGw0N1p6b21sWndvNlA1Vmp3UklfRUJZNUtkdlB0bktBUlRGTUpNSF9xNU4wS3k2T3o3ZEJqU1g2Y3dOY2c2aXhOdkFVZmdmTmFFMWNmcEpvS3RlNWN1ZnFNcmJOUm9INjFySVJTUkNWc2t6NU5UOGtDUE5GMTJ6dFpOUnNXLXMyU1NzajlDeTU3R3pDeldKMnhBc1JndnVnUFVDWkRmcWw3Z0s3eERpX2c?oc=5",
+      "date": "2026-10-03",
+      "source": "Google News ES",
+      "desc": "En medio de alerta sanitaria: así avanza test rápido para detectar hantavirus desarrollado desde UACH&nbsp;&nbsp;BioBioChile"
+    },
+    {
       "title": "Call: Andes Virus and Hantavirus Research - fundsforNGOs",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcWlWVlZsTWhOQ3RGblQ2eGlUMlU3a3lkUHRfRWdYSHZLTU9ET3FrQU1xcUk0cjNfaTZJNVZERjNqTmFMdkZfbmU0UjlQVVNsX2FYeklkOHM1dG51SmtaNnc3VWJiNzhrWEFoQWt1SVpFY0ZUaC1FcFZpYnM2MEZ1M3pjdFhaWFgzNDR4MVFTUGpqSHB3XzJKRlFycHZNYmNRT3RCamdyWU8tVU1iQnd4QTdR0gG3AUFVX3lxTFA0WE5SSTVKai1BRlhJczRBU2QteXVWMFlxMGZEWEIzMzF1MDc2bGhCZkk4UW83Z0l2eFVyLTVoRWFudTN3N1lwcDhVemtuejYzdlY0SVRqb1BYV25JZUsyZmJKSVlVcVBYZFNHMU83NGJMckp6MG9VUzZpSEZZMXUzYWIwcW1zamZ3Ym5QNGRpMHJ5SHMtOVpFSThNN0V6c3BBbG5CRVRjYlBnY09EeEhPRkFObTRxTQ?oc=5",
       "date": "2026-10-03",
@@ -1159,25 +1166,18 @@
       "desc": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia&nbsp;&nbsp;The Conversation"
     },
     {
-      "title": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions - kotatv.com",
+      "title": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions - KOTA Territory News",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN1RtRzhHNXp1cHRxem1PSk8wSHZVZW1OMERKWU9FcXpKbUR6VURMQ2pHLTJFUlJNOEc3S1RIeDVZajVMZGNZX1l6cGxpeWZuTFQ1Z2IzMHpVaG9wVmNYN01zR3JlMUtfaHVHQzc4b1NiUTlOVGhMellFSlpNWGkwcmhkYUdyc1Z3VUduZGktdGdkTjJVVThpaERsNTNwLWtWdUtkNWRzNNIBuwFBVV95cUxOUF9pUmJLdkt3ZUZLSnBvakN1VFhkcENaXzJBZm1ZUTZMTGVZSEgtN1BaWjVDY3ZXeV9QOGs0ZXpuWldoQ3c0T1hLRHFxYzNXZ200dDNmQ0ZwUkV6UGdVaklWdmNLM3VjNFFlc2U2Vjl1Umh0M3FMRjhsRWNXTXdSY3R1ZmtjSGVBNkNNdW1kTEhRZS1heGpRbVRDN3V5LUUtcXkzUDI2MDI3clZUQVNiclFxMmdWNTJxaDZz?oc=5",
       "date": "2026-08-21",
       "source": "Google News EN",
-      "desc": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions&nbsp;&nbsp;kotatv.com"
+      "desc": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions&nbsp;&nbsp;KOTA Territory News"
     },
     {
-      "title": "Sanidad limita a \"muy bajo\" el riesgo de contagio de hantavirus entre sanitarios - Redacción médica",
+      "title": "Sanidad limita a \"muy bajo\" el riesgo de contagio de hantavirus entre sanitarios - redaccionmedica.com",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUWpsak95US1yTURaLVNWNDkzOFZmeEZhbUdCNk1pNjJmZ1FQanQ1TFZqQ3FCRW9TZ1NHYzdCeDJ6cUE3dXE0MWIwWnNyNHpHSVg5OFFDQ3hWR25JTGVURHFJdXVlT2pMZWUwUi0yTzNSckRWU1lPZkEzbElRc2NfUzVzaC15SW55Z25oT2kzSmxvWkVMTk1mVGNDU2s1c3ZaSEZBWWgwandGbEhTd0U5YUd3czBMemNMUEZVSUJLU1NVeDdYckZRaTU5SDFvd1NNN3lXVHc1cEVTNHlr0gHiAUFVX3lxTE5tRUhGUWJhWlVyQTRFZ19nV0JZWXlqNVhZd0VuSHJSRG5BbGZKblhWZEtyUUhDak1maUN1Sm9RTndVU0x0bC05eVBDX0R2eXBXMXdYaHlkY3ZIM0RSbUZaazZTVzBHM2JaaUdZMXJRdjkycEJWSkJyRkJqNWVpX3dRbzhBVnNhZG00ampwN1NvVk5pWVhSd2ZLN0NYa0xCcUtEQzNIR19XSHBNYzZucEJBcEFuMUU0U2pMNUc0NldkVjQ4dHFydmlRX2VhLWtiSmdseWNOY3FNZDRVcnJTWGw3OEE?oc=5",
       "date": "2026-08-11",
       "source": "Google News ES",
-      "desc": "Sanidad limita a \"muy bajo\" el riesgo de contagio de hantavirus entre sanitarios&nbsp;&nbsp;Redacción médica"
-    },
-    {
-      "title": "Sanidad vigila seis contactos tras el caso importado de hantavirus Andes - gacetamedica.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObUI3N29YMVBQeEM4RWlUeTBPOXBORUN1aTktZ2VkNzQ4QTZpQzJQWmVETUROcDdiTkNYMEFmNEtrZzVUNWxTV0lBdTUxUWw0M0VOMC1FTHhJSjFXTnRQQ1lLZG5maE5uWkdBcktENkVxQUZLMFdwZkhNb1Bjcm9QTHN3a2Q2RE1WRkY1UDEyYURCREJzUVFISWVpWmJNOEZEUjh4cnQ4SmNHMmZ3VXJDMXVR?oc=5",
-      "date": "2026-08-11",
-      "source": "Google News ES",
-      "desc": "Sanidad vigila seis contactos tras el caso importado de hantavirus Andes&nbsp;&nbsp;gacetamedica.com"
+      "desc": "Sanidad limita a \"muy bajo\" el riesgo de contagio de hantavirus entre sanitarios&nbsp;&nbsp;redaccionmedica.com"
     },
     {
       "title": "El turista contagiado de hantavirus recibe el alta y regresa a su domicilio tras dar negativo en PCR - La Vanguardia",
@@ -1243,11 +1243,11 @@
       "desc": "Aislado en Galicia junto a su familia un turista positivo por hantavirus&nbsp;&nbsp;La Voz de Galicia"
     },
     {
-      "title": "Un nuevo caso de hantavirus activa los protocolos y el rastreo de contactos de Sanidad - Redacción médica",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWktESWlsWUtZd25lQlF0ZTB4QmZabzdFRERwZlNtdXkxMmQyNzhWQUh0bjQ0S000em9HQVVuZHNLTXB4ZktuYzU4YzFiekd2TGNUUzlKMW9BakFNX1NLZmxxTjIxRk5JdDZjZlAtVjEyd1F4WHQ2RHpvRnI5ZDk4SHVQMEx3c0QwWVFBY09VS3dNU2k0aGZuTXJkWTBkaUFkLWtqYVRQc01sU2gzTnFGOHlqM1FvSjNTWW1aQjA0aGN4X19UczNRcU1zM0F0eDlyckNwUjd3bDRGVjh5bWQ2V0dMM0dFODdrbXfSAe8BQVVfeXFMUDhWYjhlaTVGc0V2bUFlbTFOYjRLZUZ2aElSbFZ5N0JpMjBpaXUxY3M2SUNfZzBhdk1tcmI2Ums2dG1yRzZzeFBpYzVZZFlWal9MTklwWjdqeS15MVdZNS1wQU1qRGhxeG4wTl9GZGxuWTM3ODVxRWN0RzhlWXh5WmMxaGZOcERPV28yXzRSSm1xWkpIV29pNWRveGE2SkpPR0JNQi1WRHBCSjNPZTVDbkt6Vy04VmZtSGhfcUNKd05VX3dNV2h2eWxFNkNHYUtnd2NwcDdVUTU4OUlvek9WQkxFd2dUdFB0RDlrNlkyRjQ?oc=5",
+      "title": "Detectado un nuevo caso de hantavirus en España: aislado \"con su familia\" en Galicia un ciudadano que estuvo de viaje en Argentina - El Mundo",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GRGp0WGw1a2g0SXhzdnVWQ3FWN1RCZHQ3WENJN3NvS1lPZWVxUEtxM2pMbThNM2JoOVpxTmJJcmpSdm9KWkFMQWZGMFRGVEhVUXhIYXFnYVNwcFJ3N2V1aTZHbW54NGJwaTY0QlIyaWllWmhIajZwNtIBeEFVX3lxTE9LR1VCenBneTJMQVhpQmx1TjhpbktZWDdCUjZ6U3lFVDJtLWhib2taWFB6YVlCT2U4S2FVaWQxNEdZbmZxT3JYX0xrdkdfZ2ljR0dybG5ORXN1aWd0N2hfMlRVSnBDZmF6ZEZZck9aWVVLV0xmU0lXVQ?oc=5",
       "date": "2026-08-06",
       "source": "Google News ES",
-      "desc": "Un nuevo caso de hantavirus activa los protocolos y el rastreo de contactos de Sanidad&nbsp;&nbsp;Redacción médica"
+      "desc": "Detectado un nuevo caso de hantavirus en España: aislado \"con su familia\" en Galicia un ciudadano que estuvo de viaje en Argentina&nbsp;&nbsp;El Mundo"
     }
   ],
   "countries": [
