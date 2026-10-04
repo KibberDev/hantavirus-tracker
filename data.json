@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-10-04 05:56 UTC"
+    "updated": "2026-10-04 12:03 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,13 +1124,6 @@
   ],
   "news": [
     {
-      "title": "En medio de alerta sanitaria: así avanza test rápido para detectar hantavirus desarrollado desde UACH - BioBioChile",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOdzNjR29tU1JEclNpb0hIOXJ5SlNmMF9PQUczdENuTWYtZ041eEJ0QWlXWWY4UUg3cGFCSzBRRElGa2JtVDVWNDBlMkx3MTYyekpzTTJFUUFGMHlyN2FxM29uMGxvTGw0N1p6b21sWndvNlA1Vmp3UklfRUJZNUtkdlB0bktBUlRGTUpNSF9xNU4wS3k2T3o3ZEJqU1g2Y3dOY2c2aXhOdkFVZmdmTmFFMWNmcEpvS3RlNWN1ZnFNcmJOUm9INjFySVJTUkNWc2t6NU5UOGtDUE5GMTJ6dFpOUnNXLXMyU1NzajlDeTU3R3pDeldKMnhBc1JndnVnUFVDWkRmcWw3Z0s3eERpX2c?oc=5",
-      "date": "2026-10-03",
-      "source": "Google News ES",
-      "desc": "En medio de alerta sanitaria: así avanza test rápido para detectar hantavirus desarrollado desde UACH&nbsp;&nbsp;BioBioChile"
-    },
-    {
       "title": "Call: Andes Virus and Hantavirus Research - fundsforNGOs",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcWlWVlZsTWhOQ3RGblQ2eGlUMlU3a3lkUHRfRWdYSHZLTU9ET3FrQU1xcUk0cjNfaTZJNVZERjNqTmFMdkZfbmU0UjlQVVNsX2FYeklkOHM1dG51SmtaNnc3VWJiNzhrWEFoQWt1SVpFY0ZUaC1FcFZpYnM2MEZ1M3pjdFhaWFgzNDR4MVFTUGpqSHB3XzJKRlFycHZNYmNRT3RCamdyWU8tVU1iQnd4QTdR0gG3AUFVX3lxTFA0WE5SSTVKai1BRlhJczRBU2QteXVWMFlxMGZEWEIzMzF1MDc2bGhCZkk4UW83Z0l2eFVyLTVoRWFudTN3N1lwcDhVemtuejYzdlY0SVRqb1BYV25JZUsyZmJKSVlVcVBYZFNHMU83NGJMckp6MG9VUzZpSEZZMXUzYWIwcW1zamZ3Ym5QNGRpMHJ5SHMtOVpFSThNN0V6c3BBbG5CRVRjYlBnY09EeEhPRkFObTRxTQ?oc=5",
       "date": "2026-10-03",
@@ -1138,25 +1131,25 @@
       "desc": "Call: Andes Virus and Hantavirus Research&nbsp;&nbsp;fundsforNGOs"
     },
     {
-      "title": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
+      "title": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - abcnews.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaVFxQTZQbEFJdm9jTU5qVFFlbUh1Z2tCRDhCZHBlY3NneVhwN0VEV1lJOUlZVjVoNUxfMGVsbmVpcGkwVTF6TWVRWTlhb0xSamJaZU5QMFJoZ0lNME1BT0FoRlJCSmNnWW81cXN0QVBqb2RhSWhJTDRmYWE4eW4tcUdMVlFjcTBVVTVCMGFKOF9RMjhUX2ZJTFRnTzVyLW0zbk930gGoAUFVX3lxTE50VnEwRi1SSDJvaTZ0Z2VjVjZaNWlrZGlZa3BneElvZjJzcUZoRWlIZ0hXTzV4QW1TY21oVVRuMVRGZHB5X09fU3NFVWhtVVpNN3Q2aWR3UkpUM3lOamItODI2R2VWdnhjRnhQNC1ub1hqQzhmUUVRVG5idWt1Q0VIcVQ2NzRVWUF4N1NWclk4ZVZqSEF4RHBFYUpzNnl5SHZMbDhYdHlRMw?oc=5",
       "date": "2026-10-02",
       "source": "Google News EN",
-      "desc": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos"
+      "desc": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know&nbsp;&nbsp;abcnews.com"
     },
     {
-      "title": "Of mice and men: Examining how hantavirus leaps from rodent to human - news.vt.edu",
+      "title": "Of mice and men: Examining how hantavirus leaps from rodent to human - Virginia Tech News",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hVnFvUWlBSFowYVVoQjhwNm9xWXFpbFE1LWNsajZ6aHZweURiWmxyajFHYnVJbnFpOHNvd0p4dFc0czY2MXVZamZDTzdGT3BTX2ZYdWVJcFZpNW9mZkZod252cE10QTlEZDdwWmNibV8?oc=5",
       "date": "2026-09-24",
       "source": "Google News EN",
-      "desc": "Of mice and men: Examining how hantavirus leaps from rodent to human&nbsp;&nbsp;news.vt.edu"
+      "desc": "Of mice and men: Examining how hantavirus leaps from rodent to human&nbsp;&nbsp;Virginia Tech News"
     },
     {
-      "title": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia - The Conversation",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUG1Vcjd6WHZDN3hyOFdlWnNYVlozWldfT2U1bEhCMXFtTVNCQUxZa1BQa1EzcWVnanFYZ0JHNDdseXEyQzgyWnBSLUJqUGJ3aVFOUFM4UUs0dnJlWDBkanNONVI4WkRnQnFROWk0d01tcWh3OGZibE55RnZJUFFWZHY1U3lIRHc5ZlZTWHlUVTNRdDBqdk1IMElrTzZRNFB2RGtJMmVwYkFfdFNtOWkzMWVHclludVFU?oc=5",
+      "title": "Especialistas en dermatología destacan los signos cutáneos de infección por hantavirus - Medscape",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRlpDdHVUcTY1NlhMT2VzekxPczVSdzY2c1NrYndRMGVjYWVlZHlLc3Z0djVBQVFjNGhBR1lWLXNoako0aHZYekNDUkIta0hKT3VIVEtKcmpVN2dOTDRfbl9aUGdYbjVWLVlFeWVrZWZZRGtYanREYmVQM0F6amhIMk5qVXd1QlJnUW45S0laS04tUGo0X2YzTWJZRUlsVTh1Ynpn?oc=5",
       "date": "2026-08-26",
-      "source": "Google News EN",
-      "desc": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia&nbsp;&nbsp;The Conversation"
+      "source": "Google News ES",
+      "desc": "Especialistas en dermatología destacan los signos cutáneos de infección por hantavirus&nbsp;&nbsp;Medscape"
     },
     {
       "title": "Sanidad limita a \"muy bajo\" el riesgo de contagio de hantavirus entre sanitarios - Redacción médica",
@@ -1215,15 +1208,15 @@
       "desc": "Sanidad confirma en Galicia un caso de hantavirus en un turista procedente de Francia y descarta el riesgo de contagio&nbsp;&nbsp;RTVE.es"
     },
     {
-      "title": "Detectado un nuevo caso de hantavirus en España: un turista que estuvo de viaje en Francia, aislado - cadenaser.com",
+      "title": "Detectado un nuevo caso de hantavirus en España: un turista que estuvo de viaje en Francia, aislado - Cadena SER",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdFM1LTVLVk10bUdwMmhEUWRUYUJNMXRpMDJmeWpCTENubnBXU3l6bWh5OTh2NHZnZkFydXVJZ19zTDRDRGdVVFd0VlpiYTk4UUMtdTBNTl81M3ZKTjY2bEl5RjJhSEpHemhEZE1JZEduTk96bTdVcld3emV4aXVld05lQXM5d1lXN0NkendReXdFSy1ZWXZTVUVnaGJVLWJS0gG0AUFVX3lxTE92VDRCQmtfQWdoVV9EZDMtemtoVEdFeDludFdobTNrS0NGYzRTYy1WTUJNZC01alFwRUptS210Q3E0Qi1HUk9xci1rZGJQMGsxMXNwN2N5dlEyQVd1Um1XLUZoVUNCVTd5X2NXSlRabkRpX3F2a0xhdEJUX0RsWFpkLVBTQ2ttNm1OYlVhRXBXRk5LaFpYZ090S1JlR3NLSzVOQWx3dzUyZkJ3NnQ1MEc0S1MtVw?oc=5",
       "date": "2026-08-06",
       "source": "Google News ES",
-      "desc": "Detectado un nuevo caso de hantavirus en España: un turista que estuvo de viaje en Francia, aislado&nbsp;&nbsp;cadenaser.com"
+      "desc": "Detectado un nuevo caso de hantavirus en España: un turista que estuvo de viaje en Francia, aislado&nbsp;&nbsp;Cadena SER"
     },
     {
       "title": "Aislado en España con su familia un turista positivo de hantavirus que pasó por Francia - EL PAÍS",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPc3ZkaEZNU0NydG91N3V1NHh1anBRRG1JVVhORlIwWFd3RVk2RnhyZ3NqbHo2V1BONTJETzJPYXNfS1QwZ2RtdmVQZmJtdnA1TzFDQmgtYnZSa2ZDZ0xYQUdFQlhrOUJyWUl4V1hfSXZtRVR4anBxQ0k5b1JmZ3llaXhGNTZiN3hzS1F5XzIwZUFsTTVSUjVUZHU4X1hXSnh1em5wR1FlcXI3RGp0WW1OMzBJWS1XSnRmaEVWYkRId29IcWwwaml1dTBWa9IB3wFBVV95cUxOQjF3b1pGdkgyc3djam42WEhKUDFrb0kwX3hBb1pKeFZtM2xvaDQ2WHhfRzdwM3lpS1J1bkdYaWQzWFRGNTNzMjM2UGNuQzgxZ2RvVDdyTmtBZVpscmE1LUlZUllDclV2eXRxNWt5RHdQdDJJdHF1TjZEQV92Nm9BSk91eS1NMzRoSFppcVZwd2cweDFiVkt2Mmg1V3BnT1cwZ2RjaUVjSjM4UEpGOThGTFhOQzZLMlJZVzFtRTRBcm5hWmp1X1ljZVlmeGQ4WF82UTBQZmlWQlhCNVJzSjRB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPc3ZkaEZNU0NydG91N3V1NHh1anBRRG1JVVhORlIwWFd3RVk2RnhyZ3NqbHo2V1BONTJETzJPYXNfS1QwZ2RtdmVQZmJtdnA1TzFDQmgtYnZSa2ZDZ0xYQUdFQlhrOUJyWUl4V1hfSXZtRVR4anBxQ0k5b1JmZ3llaXhGNTZiN3hzS1F5XzIwZUFsTTVSUjVUZHU4X1hXSnh1em5wR1FlcXI3RGp0WW1OMzBJWS1XSnRmaEVWYkRId29IcWwwaml1dTBWaw?oc=5",
       "date": "2026-08-06",
       "source": "Google News ES",
       "desc": "Aislado en España con su familia un turista positivo de hantavirus que pasó por Francia&nbsp;&nbsp;EL PAÍS"
@@ -1248,6 +1241,13 @@
       "date": "2026-08-06",
       "source": "Google News ES",
       "desc": "Un nuevo caso de hantavirus activa los protocolos y el rastreo de contactos de Sanidad&nbsp;&nbsp;Redacción médica"
+    },
+    {
+      "title": "Hantavirus en Galicia: un aislado tras dar positivo en su lugar de origen - GaliciaPress",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM3d1SkpIdUtZNFc0bUlyZGF6NlJmWGh3WnZGUEMzMUtEM0pIVm55RC13aUNnZU5nSDJxZ1NXbkVWMmRudFh5cTB4VjNEc1RtaHNuTHdtZnlzSjhFN01rZDhibjYxeG1rWl9Cc1dDQnNYSEN0TEVPWTJaMEhMTVZPT05TYXdwSGlleEVjNFlrWVAxTmJkUzdkaDZnVzZNdVVscFhacDgzdHRRVjhjVlF1eFV1QmFsSkVvS2xPeQ?oc=5",
+      "date": "2026-08-06",
+      "source": "Google News ES",
+      "desc": "Hantavirus en Galicia: un aislado tras dar positivo en su lugar de origen&nbsp;&nbsp;GaliciaPress"
     }
   ],
   "countries": [
