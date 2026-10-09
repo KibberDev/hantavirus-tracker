@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-10-09 05:17 UTC"
+    "updated": "2026-10-09 12:02 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,11 +1124,18 @@
   ],
   "news": [
     {
-      "title": "Pedro Sánchez utiliza una revista científica para presumir de la gestión del hantavirus - ABC",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPemlWZmFpcjl0ellWcTRzUlRRSmpxYVBXMzdROVdNUnhkY2JObmNIdnV6WVFVd08zbXhaV1JWamtnRW5nRHFSaEpCY2tRbS1ISzh1VWZJRXpCY2NJNXM0R0VQTkhGUGY3OU9ucFQ2cDhPRjIwRWlEUnZWTGVLajdzZllQWm4yVHZwR0FrVWY0YnZCVGtKWkZpQ2pySDhkSl9uSDhIOExSb9IBrAFBVV95cUxQWjU3WnNBRy1MTEJ0VzlEMzZvSG0wM0FpLThsTUkyREZqOEN4X2dMNXJXVzdBbUZBZjNkaWhncTE2bGlmalpCRGZ2RmVfRTY1TFd3d2lKcG10VDVycUd0X0t3djZOaFNpajhCb2VRR2xjb3NuSkMxS1VVWS1ucDB2cjZRand3ZVFEN2pwYTdUZVFfMmx4NEFtVzZfT3VrdXBVcXBnWlBhTTRXTVlr?oc=5",
+      "title": "Polémica en la comunidad científica por la firma de Pedro Sánchez en un artículo sobre el hantavirus publicado en el NEJM - Gaceta Médica",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTm5Meko2bUZxYlNJN1ROTm5EajBjNm83R3RPVGFseE45LWZjN2hUVFM5UFI4dkhvdmdlY1lRU0dDVzI3aEJFMFZFMWJjandvS2w4MTJMaUlvTmJabjVaME1CdUxzdGQxQVE5NlhFZnAxWjFTZzRoenZyQzZlcFlzdlpRb0RBQ1BVdFhmZzRyQk81N1NkQ0IxVXZyTDNqUHhzNXBmUV9NdE1MSjNGMHc?oc=5",
+      "date": "2026-10-09",
+      "source": "Google News ES",
+      "desc": "Polémica en la comunidad científica por la firma de Pedro Sánchez en un artículo sobre el hantavirus publicado en el NEJM&nbsp;&nbsp;Gaceta Médica"
+    },
+    {
+      "title": "Pedro Sánchez presume de su gestión frente al brote de hantavirus en una prestigiosa revista científica - ABC",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWjU3WnNBRy1MTEJ0VzlEMzZvSG0wM0FpLThsTUkyREZqOEN4X2dMNXJXVzdBbUZBZjNkaWhncTE2bGlmalpCRGZ2RmVfRTY1TFd3d2lKcG10VDVycUd0X0t3djZOaFNpajhCb2VRR2xjb3NuSkMxS1VVWS1ucDB2cjZRand3ZVFEN2pwYTdUZVFfMmx4NEFtVzZfT3VrdXBVcXBnWlBhTTRXTVlr0gGsAUFVX3lxTFBaNTdac0FHLUxMQnRXOUQzNm9IbTAzQWktOGxNSTJERmo4Q3hfZ0w1cldXN0FtRkFmM2RpaGdxMTZsaWZqWkJEZnZGZV9FNjVMV3d3aUpwbXRUNXJxR3RfS3d2Nk5oU2lqOEJvZVFHbGNvc25KQzFLVVVZLW5wMHZyNlFqd3dlUUQ3anBhN1RlUV8ybHg0QW1XNl9PdWt1cFVxcGdaUGFNNFdNWWs?oc=5",
       "date": "2026-10-08",
       "source": "ABC",
-      "desc": "Pedro Sánchez utiliza una revista científica para presumir de la gestión del hantavirus&nbsp;&nbsp;ABC"
+      "desc": "Pedro Sánchez presume de su gestión frente al brote de hantavirus en una prestigiosa revista científica&nbsp;&nbsp;ABC"
     },
     {
       "title": "El clima y la genética podrían explicar por qué los hantavirus saltan de roedores a humanos - ConSalud",
@@ -1136,6 +1143,20 @@
       "date": "2026-10-08",
       "source": "Google News ES",
       "desc": "El clima y la genética podrían explicar por qué los hantavirus saltan de roedores a humanos&nbsp;&nbsp;ConSalud"
+    },
+    {
+      "title": "Pedro Sánchez utiliza una revista científica para presumir de la gestión del hantavirus - ABC",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPemlWZmFpcjl0ellWcTRzUlRRSmpxYVBXMzdROVdNUnhkY2JObmNIdnV6WVFVd08zbXhaV1JWamtnRW5nRHFSaEpCY2tRbS1ISzh1VWZJRXpCY2NJNXM0R0VQTkhGUGY3OU9ucFQ2cDhPRjIwRWlEUnZWTGVLajdzZllQWm4yVHZwR0FrVWY0YnZCVGtKWkZpQ2pySDhkSl9uSDhIOExSb9IBrAFBVV95cUxQWjU3WnNBRy1MTEJ0VzlEMzZvSG0wM0FpLThsTUkyREZqOEN4X2dMNXJXVzdBbUZBZjNkaWhncTE2bGlmalpCRGZ2RmVfRTY1TFd3d2lKcG10VDVycUd0X0t3djZOaFNpajhCb2VRR2xjb3NuSkMxS1VVWS1ucDB2cjZRand3ZVFEN2pwYTdUZVFfMmx4NEFtVzZfT3VrdXBVcXBnWlBhTTRXTVlr?oc=5",
+      "date": "2026-10-08",
+      "source": "Google News ES",
+      "desc": "Pedro Sánchez utiliza una revista científica para presumir de la gestión del hantavirus&nbsp;&nbsp;ABC"
+    },
+    {
+      "title": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaVFxQTZQbEFJdm9jTU5qVFFlbUh1Z2tCRDhCZHBlY3NneVhwN0VEV1lJOUlZVjVoNUxfMGVsbmVpcGkwVTF6TWVRWTlhb0xSamJaZU5QMFJoZ0lNME1BT0FoRlJCSmNnWW81cXN0QVBqb2RhSWhJTDRmYWE4eW4tcUdMVlFjcTBVVTVCMGFKOF9RMjhUX2ZJTFRnTzVyLW0zbk930gGoAUFVX3lxTE50VnEwRi1SSDJvaTZ0Z2VjVjZaNWlrZGlZa3BneElvZjJzcUZoRWlIZ0hXTzV4QW1TY21oVVRuMVRGZHB5X09fU3NFVWhtVVpNN3Q2aWR3UkpUM3lOamItODI2R2VWdnhjRnhQNC1ub1hqQzhmUUVRVG5idWt1Q0VIcVQ2NzRVWUF4N1NWclk4ZVZqSEF4RHBFYUpzNnl5SHZMbDhYdHlRMw?oc=5",
+      "date": "2026-10-08",
+      "source": "Google News EN",
+      "desc": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos"
     },
     {
       "title": "What is hantavirus? Symptoms, spread and prevention explained by an expert - The University of Utah",
@@ -1227,27 +1248,6 @@
       "date": "2026-08-07",
       "source": "Google News ES",
       "desc": "La Xunta informa de que el caso de hantavirus permanece aislado en Galicia y sin síntomas&nbsp;&nbsp;Xunta de Galicia"
-    },
-    {
-      "title": "Hantavirus: qué es, síntomas y cómo se puede contagiar entre personas - El Periódico",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbENaYlBCelQ2QU51bS1tRGZrRTJ5TXBnRmo2WkxJSG1YNU9mRGpzeDhMbkRDaGhvQkRyQ3NzT1phV3FyeXd1WFZyWFZXaU9BVThIVmxvTlNjeVBhUWF2M0xrQzZSVm03Um01U1FxOWxtaUhWUVdvaFI1RzZnNERaUVUtcTJiaHpLUVVfeFg4LURteGI2Tkh2TnpCcmxyR0lG0gGgAUFVX3lxTFAxN2lKNFBoRXg0bGZndFA3dER5ZmhVdDBMNGFsYzFDVVNWX0VieFVaVTRWT3hxY1hUOGpLRVJLcEs0SXBZWVIxVmRjYU1uXzFQQUEwbXRITl9ySEllaE43NzFKaVo2TGRYeWRBSEVCTkt5cFJ5RThVR1gxdUVNUHVVVmw1Zm16YzhlZV9LcVBhLXZXMG5wcFE3V3hvZndHMVo?oc=5",
-      "date": "2026-08-07",
-      "source": "Google News ES",
-      "desc": "Hantavirus: qué es, síntomas y cómo se puede contagiar entre personas&nbsp;&nbsp;El Periódico"
-    },
-    {
-      "title": "Aislado en España un turista franco-argentino tras dar positivo en hantavirus Andes - Gaceta Médica",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWWdqVHNDMkxNbXlRc0o5U25jTzBmb2RlUTdLek9YN3BhajRyaTdVdm1VaFkwZDZDTTQ4R3ZwUDFvTmxwVnI0NjBMQTdsc0ptQXJ2NzMyTUVhXzJORkFIajJUeC1lRXYxeTRlUHhEQ2RQcUJxcGpITVhVcGFhUGJra0pLTEhRZTNsd1NFd3ZtUVBuQVN1TUdGY2hWLXFZaXMwazBmYkJxcjVPNTFPcVBheUVFYkRyQ3JaeVBvTnQxdng?oc=5",
-      "date": "2026-08-07",
-      "source": "Google News ES",
-      "desc": "Aislado en España un turista franco-argentino tras dar positivo en hantavirus Andes&nbsp;&nbsp;Gaceta Médica"
-    },
-    {
-      "title": "Francia recomienda aislamiento domicliario para los contactos del turista con Hantavirus en cuarentena en España - La Vanguardia",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTTJWYWlFQ1lvX0R1S2FRZEpRZDdCZ0UyVVdKeUVVNEtPWTNiYlRvTndwVTE2YjF0eFJrelZnX1NiNUdBWXNIMlZveXRyX09EMWFBc3k0OGY4T010aHd0Wng1ZHJIdlRXWnJlSDBYbUd1Zm1nV2pra1A2MWx3THNFc3ZmbHlnU3k4cTNramZMckJvQjBVajlOMVdyUWJRX3NrS3hjbFFleGtZVFdfdURGV3ZPSGxVTU9iZXU5TjRsaTJaMk5MalE3bDlPM3kzbGNDbmhFX3ZsTU1nSmhta1FJ0gHkAUFVX3lxTE5ORDQ4UHA5bjJYVkk3NnIxRWJJWDVqNWI0V2ZvYzVpdktQV01QYnc4eXVCRmc3Q1p2LUNWak8xYVJUaGNITGdMdHlBSUNGVllVdWZLMjZvZzE3S3hJNW9IaTBtRVdLeFZLWi1zaDFvUGFpWk1RemdWcUs4aTFpRU1vMzFwbVVHZ0lGWmpEdVJocXoxWE5kczF1blFLRjhNWTdieXU1ZG5Fc0ZEbVVZeWhyMFh4TTc1VlNDeDlLbVFCT2dyazdzWUtVY01YSUxjay14MHhJWnBZVjBHTEhpamJrNERRbA?oc=5",
-      "date": "2026-08-07",
-      "source": "Google News ES",
-      "desc": "Francia recomienda aislamiento domicliario para los contactos del turista con Hantavirus en cuarentena en España&nbsp;&nbsp;La Vanguardia"
     }
   ],
   "countries": [
