@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-10-19 07:28 UTC"
+    "updated": "2026-10-19 14:55 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,32 +1124,11 @@
   ],
   "news": [
     {
-      "title": "Minsa aclara que no hay caso confirmado de hantavirus en Los Santos: paciente está estable - Telemetro",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVXRsZ2tZV3NtRnZfcUltaFJzZzlkakkydGwxM3c2eV9zRVoyWENuNU4zeWFPbFJiVGp0UzZ0YzdtOHlpYXZKTGFIX1BSd3JzVHVHRnpfWGtFT3BsV1l6WWN2VjR5R1N5djhVSnQ0T2NVMGthcjRNdEx3c3JGV3R5MDkzMGsyMnpRM3B1LXZoUFJlRmNLNXl6RjllWVNCUFUtTUxUVjNFQWtrVWJOLW9UV3hDUUdHdkpVY2pGMGRGNExxV0ZsbFczMdIBzgFBVV95cUxNdTk1Ri1rYm1HUjE2QjFWVkFIWXI2LThnRXZuLWZmTUpmZVVITFVJSUtXZVI5bkR5a2gwR0U3UklwWDBDVHB4ZXdYT25BREQyd0ZHQzdYZGhiTXFmMm1LaXBBRXdDVE5GaU5wbTZtOVQ1ZXIxSjdVTm43Y1JXVFhxdldQMlJSMHNOWm0wNlYxT0hmcTlTekNoQWFkQmFHQU5XM2JDcEdSYjV2UVRFYnpxbXJfYUwwVUE4RUpJYnFJSXRWWjc3V1FNaXkwR0Zvdw?oc=5",
-      "date": "2026-10-18",
-      "source": "Google News ES",
-      "desc": "Minsa aclara que no hay caso confirmado de hantavirus en Los Santos: paciente está estable&nbsp;&nbsp;Telemetro"
-    },
-    {
-      "title": "Minsa aclara que no hay caso confirmado de hantavirus en Los Santos y espera resultados del Gorgas - Destino Panamá",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTmV1a1VvUWFIZ2IzQzhvUGg5MXNHMEszTEpzR1E0QXE2U3FNMTBLNXd1VzNQUDRyYXdLeUxxRV9fLUNyVFc1bDJDbUZHclgwLVhFZVoxMHlpaDhtcDc0QVN1ZThfZ1dUWVlXZGNrWVE4Q1pQOHZmYko1WFFodTZIdUhBLWxDWG5ReGE0N1ZNYWpuU3VDbU0xbTIzUFdLUHFCZTJlRlcwWTB5M0lVNENGN3ZRLWxHOWF1ejUwQlAwcmRGMHpoVnZKenJ4TDRJcFdCNFE?oc=5",
-      "date": "2026-10-18",
-      "source": "Google News ES",
-      "desc": "Minsa aclara que no hay caso confirmado de hantavirus en Los Santos y espera resultados del Gorgas&nbsp;&nbsp;Destino Panamá"
-    },
-    {
-      "title": "Hantavirus - TalCual Digital",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNOXNrNktaYnFjSlMwelA5R2R3YnQwOEFNX3BzZHp6TDJiZDgwQnBVc3VXQ0RpM0VrSFJSQkdja1BkTG92Tk1Ra2JDVkNPN3QxX21zQmpNOS00UGo1Zk4yTHNTdnJhbm9OcVByZzJyUHZEUW5wem4xY1pidXY3c1djdl8xV3VBRHdtNUZFT0tNUk1uNWtqREI1QU9HYVBmanN4Skl3ZWdtY0d6X08wdWlqUWFFaTJnNmEwamJnX2F6Wk9nWHdlVmFtQU5Pcno3dXk4QnRTajZHdjZqemJj?oc=5",
-      "date": "2026-10-18",
-      "source": "Google News ES",
-      "desc": "Hantavirus&nbsp;&nbsp;TalCual Digital"
-    },
-    {
-      "title": "Minsa espera resultados para confirmar posible caso de hantavirus en Los Santos - Tvn Panamá",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSEhlTXZhV056dFZlcUlEU2I4eEZJWTZHSGpzb2RBalhXV29wMkFwZTVhUGw5Y0VSa1FnVi1LZngxQ3RxaVJZREMyemU4ZFJRTDgwMzNaV0I1Z2dfOVpYUE9TbmJtNWF5akVoeEM2M283ZnpGSHFGbXBKazlNWUlQd25qUVU4SjAtOWVRa25kRENsSXN6MHFUYnQ0S3FxMjlPTUJwRXpwWkxZT1VXbktVRlMwZERyMlF4b0hCMFRCZm1GNXVtdUxJb1F30gHPAUFVX3lxTFB4ZWJkeDZmNTVtLXBFRzlXMm9MaVFZX3Z4OVVrOF9HeXM0NWlfSDdpU0FjRkhsd20xTUhMSXFzcTZjYUQxSjFRbnhIWEU1VzBvYmJNSXdyczN0d3pPbXZCcEt4NkFlbFZrUnQ5Q1NOMUJmWGZVVmZpTTh0SzNMM01DVFhscnNOQ08wYlM0WUhCVldFa19UZEVLdkphS0RURTdQaVRwcWRmNExocWU1WXZydHFVQ2FEeVpadkxDNXJ2T3VjNXl1ZndzUXRScVlYMA?oc=5",
-      "date": "2026-10-18",
-      "source": "Google News ES",
-      "desc": "Minsa espera resultados para confirmar posible caso de hantavirus en Los Santos&nbsp;&nbsp;Tvn Panamá"
+      "title": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaVFxQTZQbEFJdm9jTU5qVFFlbUh1Z2tCRDhCZHBlY3NneVhwN0VEV1lJOUlZVjVoNUxfMGVsbmVpcGkwVTF6TWVRWTlhb0xSamJaZU5QMFJoZ0lNME1BT0FoRlJCSmNnWW81cXN0QVBqb2RhSWhJTDRmYWE4eW4tcUdMVlFjcTBVVTVCMGFKOF9RMjhUX2ZJTFRnTzVyLW0zbk930gGoAUFVX3lxTE50VnEwRi1SSDJvaTZ0Z2VjVjZaNWlrZGlZa3BneElvZjJzcUZoRWlIZ0hXTzV4QW1TY21oVVRuMVRGZHB5X09fU3NFVWhtVVpNN3Q2aWR3UkpUM3lOamItODI2R2VWdnhjRnhQNC1ub1hqQzhmUUVRVG5idWt1Q0VIcVQ2NzRVWUF4N1NWclk4ZVZqSEF4RHBFYUpzNnl5SHZMbDhYdHlRMw?oc=5",
+      "date": "2026-10-19",
+      "source": "Google News EN",
+      "desc": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos"
     },
     {
       "title": "Hantavirus, tuberculosis o mpox, las diez infecciones que pueden cambiar el mundo en una década: \"Van a venir con más rapidez\" - 20Minutos",
@@ -1229,25 +1208,46 @@
       "desc": "National Quarantine Unit (NQU) & Hantavirus Response&nbsp;&nbsp;National Emerging Special Pathogens Training & Education Center"
     },
     {
-      "title": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions - KOTA Territory News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN1RtRzhHNXp1cHRxem1PSk8wSHZVZW1OMERKWU9FcXpKbUR6VURMQ2pHLTJFUlJNOEc3S1RIeDVZajVMZGNZX1l6cGxpeWZuTFQ1Z2IzMHpVaG9wVmNYN01zR3JlMUtfaHVHQzc4b1NiUTlOVGhMellFSlpNWGkwcmhkYUdyc1Z3VUduZGktdGdkTjJVVThpaERsNTNwLWtWdUtkNWRzNNIBuwFBVV95cUxOUF9pUmJLdkt3ZUZLSnBvakN1VFhkcENaXzJBZm1ZUTZMTGVZSEgtN1BaWjVDY3ZXeV9QOGs0ZXpuWldoQ3c0T1hLRHFxYzNXZ200dDNmQ0ZwUkV6UGdVaklWdmNLM3VjNFFlc2U2Vjl1Umh0M3FMRjhsRWNXTXdSY3R1ZmtjSGVBNkNNdW1kTEhRZS1heGpRbVRDN3V5LUUtcXkzUDI2MDI3clZUQVNiclFxMmdWNTJxaDZz?oc=5",
-      "date": "2026-08-21",
-      "source": "Google News EN",
-      "desc": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions&nbsp;&nbsp;KOTA Territory News"
-    },
-    {
-      "title": "Catalunya confina en sus domicilios de Badalona y Barcelona por hantavirus a tres contactos del caso positivo aislado en Galicia - El Periódico",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZmQ5N3NXNnFKaUlEZlFBVTl3WllpQkMzNDFpazJFMV9VR0M5d2NBQWd3ZmJvaFlwcUdzTFFUclNUS2V5cjNUUTI4eDEzQV9NUkpBUkhsMVI3ZUNlTEhXckxjUUE0eXNtSUdKOWdVYmZHLU5WTXRnMUpJWVEyZXdYNkpNUHJFYUhKNGlLQk9odW5mM2tGMkZfRW52TjRhNnBNekZFYkdxN09TZjN1dXhGVHhlXzZCR2k0T2NJWlctc9IBvwFBVV95cUxNUEdxQkxvZ3Mzd2l5aTM3dUlOOWtnd0xENmJRWUFMaUxJZmlTVFFMMkdWT1JlMFZibzhVYkw5WmkyNUJaRVJWdEsxd201SlhPc1lMeVg3RUFzY3NCdTdKaUVyeVhWX3dGS1lSRHNqUWs4VXp5WmMyU3Uyc1JsLWM4bDVoMlBwSHQ1dnpQWmVZTEFGaVFGanpRdVRBWURCOEZDSF8zdEZfX2FTM29vRXFJc0tfc1RzQ0FmQ1pZMXZRbw?oc=5",
-      "date": "2026-08-14",
-      "source": "Google News ES",
-      "desc": "Catalunya confina en sus domicilios de Badalona y Barcelona por hantavirus a tres contactos del caso positivo aislado en Galicia&nbsp;&nbsp;El Periódico"
-    },
-    {
       "title": "Dermatologists Highlight Cutaneous Signs of Hantavirus Infections - Medscape",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYXRudndVUWs4YVJtTnJqTW5KOElvQWlkUHJlclZ4VnZFVkVCNUVDZ1pINUQ4ZklJYnR6emltblZlbTFYZ1lOOEtQV0tZRWxRSTF1aGZ6MVlEOW5Na0RvdzBxZWItaW00RVl5ZVN0Yjk2OXBLWmhwZ3RTd3MydDJNcEVkQ0lvUEQ0Z0lpeE5sWjBlV0E0MW82dG5MU3NMcXVEN1g0?oc=5",
       "date": "2026-08-14",
       "source": "Google News EN",
       "desc": "Dermatologists Highlight Cutaneous Signs of Hantavirus Infections&nbsp;&nbsp;Medscape"
+    },
+    {
+      "title": "Sanidad vigila seis contactos tras el caso importado de hantavirus Andes - Gaceta Médica",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObUI3N29YMVBQeEM4RWlUeTBPOXBORUN1aTktZ2VkNzQ4QTZpQzJQWmVETUROcDdiTkNYMEFmNEtrZzVUNWxTV0lBdTUxUWw0M0VOMC1FTHhJSjFXTnRQQ1lLZG5maE5uWkdBcktENkVxQUZLMFdwZkhNb1Bjcm9QTHN3a2Q2RE1WRkY1UDEyYURCREJzUVFISWVpWmJNOEZEUjh4cnQ4SmNHMmZ3VXJDMXVR?oc=5",
+      "date": "2026-08-11",
+      "source": "Google News ES",
+      "desc": "Sanidad vigila seis contactos tras el caso importado de hantavirus Andes&nbsp;&nbsp;Gaceta Médica"
+    },
+    {
+      "title": "Hantavirus and Pregnancy : Obstetrics & Gynecology - Ovid",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMXVRUklsd0F3ZTBQZWxRVUl6UUZpSURrVDk0cld5SXlRSE1pX2FvYXk0S1FmaW1hR1pnblQ2WHB4R2h4MS12MnNGSVZ6TDE1TUxvenRsd3lITEcxb2dsSnFLa1ZUNWM2ZmVJUm1SWnZoTmpCcmZOWDc0ZFp3TTBxVWFOcHo5NF9zRWtQZkJKVEdDNkxaZXlrUXlnT3NVLWJoZ1dscTJZdmNtVkRwNGNQTi1SdjBPYlFvNnNrT0JrRDNuQVZxU3MtQjhTRG8?oc=5",
+      "date": "2026-08-11",
+      "source": "Google News EN",
+      "desc": "Hantavirus and Pregnancy : Obstetrics & Gynecology&nbsp;&nbsp;Ovid"
+    },
+    {
+      "title": "El turista contagiado de hantavirus recibe el alta y regresa a su domicilio tras dar negativo en PCR - La Vanguardia",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTlZrNFc0UlRvRHZaTXNVeWhndGg2SVpsdGhXNG5xejhYN3FJR2tiWVkzUkQtdkdpVEEwRTRmeWdmMEFHRW5uc3hIMjhvVEVMOTZCX3FGYjNGNmZmS3pyeldSc0VOVm5LQjhGQTdpNG5OaXE4UnU5a1BIYW84YnByYzY5bklZaGx4dUlvNjR4VHpqMTEwS1RiOHlBb0lOQ0I2YWw5eWN3UXJYd0VNNW5YMzhJMEF6Tnk0X0xCX3RBTkxqY0JXM2xfT2YzMUFVUdIB0wFBVV95cUxPNDVKZkRzNHlWVkc1RnBQLWFrMlhHU2tJU0pxeXJQazQ0U0k5a2VOME9ZaC1zaU5aUnJ6TXliTnFSdnlPNWw5Ri1sY2NvQ0ZydXFPcUJvRVdBOG43QUpQNU9ySWk4NFdmaUNacGdvOE1zU1BFSDFsdDNCU0RSb2s3c2JHZFEySHJGdlduX3l3Y01XeTdFbHg3a1JIT3lYWmNmREh0dHBsOFpMTVFIVkViM3Z6dDRheHJWQ1dQcDJ6dGhpR3U4YnBKRTlZeVRpTnFiOTI4?oc=5",
+      "date": "2026-08-10",
+      "source": "La Vanguardia",
+      "desc": "El turista contagiado de hantavirus recibe el alta y regresa a su domicilio tras dar negativo en PCR&nbsp;&nbsp;La Vanguardia"
+    },
+    {
+      "title": "El turista con hantavirus está aislado con dos contactos estrechos, todos asintomáticos - El Mundo",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03RE5FeEdROXI5Mno3ZEFwTl9rWUF1WFNTOG5PRU1ESzZYRGJuS3ZpMWFaVDI1Ty1Oc0VRanpXeDVYTVpvSEhMcG1QNVVUOW1FdlM3aWpsVkdVeGY2ZjB1ckQ5aVRHcVM0dDhLMXNmTm5PeGM2NFlEVNIBeEFVX3lxTFA4N0ZPT3VCN25Ydlp6XzZwZF94a01ybmNyZE9OM1l4SUpyMEFVUzNLN1VQTE11WnFTc2lpSl8yQnNRY0ZHcWlvZDB3ZXVnTUhOLUlFTC1MZklVamJsSzlQVnJSb0UteE1nZjdiQkNtQk00T2gwSVE3YQ?oc=5",
+      "date": "2026-08-07",
+      "source": "El Mundo",
+      "desc": "El turista con hantavirus está aislado con dos contactos estrechos, todos asintomáticos&nbsp;&nbsp;El Mundo"
+    },
+    {
+      "title": "El contagiado de Hantavirus aislado junto a dos contactos estrechos, todos asintomáticos - ABC",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMnlsZDBDazFQaDBMZklKV3Y1TE1hdEQ0dHFEQ0xMN3c5T3pCa1lOTHlRVW1lLW04ZnJRV0xHZWxlNmtuMlFhMWZ5ckxRaE1VZlVpNGRHU2FZc1pndGVoSTFqRWhRZGduNmlrLWJnTjdHQTNYQUd2MVVZUExSTTlqRHZKRF8xYmFQUW5ZRUlsRVN3ek4wWF9yV2M5TlVHOVpucV9kQjZOTWhQaUcyZ1Fz?oc=5",
+      "date": "2026-08-07",
+      "source": "ABC",
+      "desc": "El contagiado de Hantavirus aislado junto a dos contactos estrechos, todos asintomáticos&nbsp;&nbsp;ABC"
     }
   ],
   "countries": [
