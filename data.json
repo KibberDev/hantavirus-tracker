@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-10-21 19:29 UTC"
+    "updated": "2026-10-21 22:40 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,25 +1124,11 @@
   ],
   "news": [
     {
-      "title": "Descubren el peligroso \"punto débil\" del hantavirus andino y cómo consigue entrar en las células humanas - 20Minutos",
+      "title": "Descubren el \"punto débil\" del hantavirus andino y cómo consigue entrar en las células humanas - 20Minutos",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaXc4SlpjU2hBaFBNcE9BbUxydFlELTNJYjVJV1JKcFJFdVBSTHAxVG9FU1RnSDNFdjdya194TkYyWF9mNHg2QjBKczhSV0dnMzJNQktHVGVOSjlRZ0dpb1RjMzUwU2hqdGlacWcydUF5RWU5VFlPVGdZOEVsbFI1TlVFUlQ1VkJaY25SUXVwZTNaX2owWVh0MVd2TEN3UmRZUnJBOEx4enJSYnV0TXNlcHoyQk03M3JaR2ktYXUtOXVxOXdXcHI5RGJ6bXV2dU9wQ0E?oc=5",
       "date": "2026-10-21",
       "source": "20 Minutos",
-      "desc": "Descubren el peligroso \"punto débil\" del hantavirus andino y cómo consigue entrar en las células humanas&nbsp;&nbsp;20Minutos"
-    },
-    {
-      "title": "Kilian Sánchez (PSOE): «Viví la crisis del hantavirus con rabia por los palos en la rueda que puso el Gobierno canario de Clavijo - Gaceta Médica",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSnk1YVhNQ0l4NlF0NHh5em05U3dSRzlveHdETjJjS0JhckF5ZmVfaVFrT2pKSGp3eGpxOE05MGtVM2hQdmFVaDlfcUJfMUZEN1d5cmRzTDQtLTdfUnJTdmRBTzhwVjJfbE5maTlQVkdZME9lU2JOSkJqSXBmWUY4aDRtM0Z4OC1RbjNONGdrZU93aUlrT05DWGNxeGlDb2VEVkc0akJPcHg?oc=5",
-      "date": "2026-10-21",
-      "source": "Google News ES",
-      "desc": "Kilian Sánchez (PSOE): «Viví la crisis del hantavirus con rabia por los palos en la rueda que puso el Gobierno canario de Clavijo&nbsp;&nbsp;Gaceta Médica"
-    },
-    {
-      "title": "Descubren el punto débil del hantavirus de los Andes que puede ayudar a combatirlo - La Razón",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZngyMklTNVROSmdyVFNRN25aN09JZlJhdVZBUDYzemNPcVRsblNaY1piUUxPMW51UUVfTXFoaUJwbURfQk03cmZ1ZUctdC12cDBzZ2dYY3UwdEh0S2FYbmNqbi1lZW95MEZFZncyNl9tRkVsZFZ4WWwtRE05TVdDTmpJWjBaTXVFMzVxTDl5bk42RmU0a0ZkdWNUYkpBTzM5TFA4TnRELVN4QlhhQlBGODgxR08zZDVqX2pTaGM1Sk9XektJdVdicGhfQ1lQZ9IB4gFBVV95cUxPZ3cxMXJYVWFNN21sRFN0TjNWVl9kX0VRejVGZWptN05tMmpaUWttVDRlZTAxQURqZnBsQWg2XzhIaVM1bTVmN2pYTmZJd2lIRFlRWGd6YXRoR2p5czU4cmxXYXBKRHN3VEVyWXdJTFpUb3NjbzhoQzkyWFExSnJabDY5c3hjUzVvakE1cmF6emk3WDBVTTdrbERmMVRvUVhMN0VHWDdUbFZNa0F1d0V1UFp1NWtqSmlZNlFNMzNGTHFCZEh2VTNwSV92c3VpazY1ZzROdjhnYXBzckVBTEFVenlB?oc=5",
-      "date": "2026-10-21",
-      "source": "Google News ES",
-      "desc": "Descubren el punto débil del hantavirus de los Andes que puede ayudar a combatirlo&nbsp;&nbsp;La Razón"
+      "desc": "Descubren el \"punto débil\" del hantavirus andino y cómo consigue entrar en las células humanas&nbsp;&nbsp;20Minutos"
     },
     {
       "title": "Científicos revelan cómo ataca el hantavirus andino que dejó tres muertos en un crucero - Libertad Digital",
@@ -1152,6 +1138,20 @@
       "desc": "Científicos revelan cómo ataca el hantavirus andino que dejó tres muertos en un crucero&nbsp;&nbsp;Libertad Digital"
     },
     {
+      "title": "Descubren el punto débil del hantavirus de los Andes que puede ayudar a combatirlo - La Razón",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZngyMklTNVROSmdyVFNRN25aN09JZlJhdVZBUDYzemNPcVRsblNaY1piUUxPMW51UUVfTXFoaUJwbURfQk03cmZ1ZUctdC12cDBzZ2dYY3UwdEh0S2FYbmNqbi1lZW95MEZFZncyNl9tRkVsZFZ4WWwtRE05TVdDTmpJWjBaTXVFMzVxTDl5bk42RmU0a0ZkdWNUYkpBTzM5TFA4TnRELVN4QlhhQlBGODgxR08zZDVqX2pTaGM1Sk9XektJdVdicGhfQ1lQZ9IB4gFBVV95cUxPZ3cxMXJYVWFNN21sRFN0TjNWVl9kX0VRejVGZWptN05tMmpaUWttVDRlZTAxQURqZnBsQWg2XzhIaVM1bTVmN2pYTmZJd2lIRFlRWGd6YXRoR2p5czU4cmxXYXBKRHN3VEVyWXdJTFpUb3NjbzhoQzkyWFExSnJabDY5c3hjUzVvakE1cmF6emk3WDBVTTdrbERmMVRvUVhMN0VHWDdUbFZNa0F1d0V1UFp1NWtqSmlZNlFNMzNGTHFCZEh2VTNwSV92c3VpazY1ZzROdjhnYXBzckVBTEFVenlB?oc=5",
+      "date": "2026-10-21",
+      "source": "Google News ES",
+      "desc": "Descubren el punto débil del hantavirus de los Andes que puede ayudar a combatirlo&nbsp;&nbsp;La Razón"
+    },
+    {
+      "title": "Kilian Sánchez (PSOE): «Viví la crisis del hantavirus con rabia por los palos en la rueda que puso el Gobierno canario de Clavijo - Gaceta Médica",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSnk1YVhNQ0l4NlF0NHh5em05U3dSRzlveHdETjJjS0JhckF5ZmVfaVFrT2pKSGp3eGpxOE05MGtVM2hQdmFVaDlfcUJfMUZEN1d5cmRzTDQtLTdfUnJTdmRBTzhwVjJfbE5maTlQVkdZME9lU2JOSkJqSXBmWUY4aDRtM0Z4OC1RbjNONGdrZU93aUlrT05DWGNxeGlDb2VEVkc0akJPcHg?oc=5",
+      "date": "2026-10-21",
+      "source": "Google News ES",
+      "desc": "Kilian Sánchez (PSOE): «Viví la crisis del hantavirus con rabia por los palos en la rueda que puso el Gobierno canario de Clavijo&nbsp;&nbsp;Gaceta Médica"
+    },
+    {
       "title": "Hantavirus: detectar la enfermedad a tiempo es clave para salvar vidas - La Web de la Salud",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbmY2ZlFsc2duWW5TTlhlRzF0WFJBMks3Tm1iVUs5WjRvQ3FxWlJDOUNreHZQSUc3SEtlYTlvR2d0VmlveGdvZ0JZZ1FwTl84cXJoUGZNaWxvd29mck1nTnNYS2VBNVhWc2paN1piSmQxNWJUek5sLUkwa1RtY2txWU0yQ3Z4TERaTTRCQ2Q4YnREZXJrdzRfcFgyM2pQZw?oc=5",
       "date": "2026-10-21",
@@ -1159,18 +1159,18 @@
       "desc": "Hantavirus: detectar la enfermedad a tiempo es clave para salvar vidas&nbsp;&nbsp;La Web de la Salud"
     },
     {
-      "title": "Hallan el mecanismo que permite al hantavirus andino iniciar la infección en células humanas - El Universo",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVnlTa1ZkR1Y2UzVZeDFaVGJXakY4VUJUNTNHbnpKVUZrSDB5cU12SWQwSWxwV2hMajBYMzVvV1dwSUZkU0VPQTRlcmc5ODJwWnZfd19wX1N5LXF5ZUdzemRLQmpRWXZfMjZPZ3NxelJHQ2dZc3B6Y09DdzJLYTEzVVVXbVFKSVJ5T2E4akR6VVlnWHpDUy1Jb2lKemlqdWM2cm9nVm1PdWVNaG5HR2NnNndHMGxFdjdFUGt5U3VxemNZMU9pUW1WcklpQ3RNck5IRmJSVW5McmnSAewBQVVfeXFMT0RGVDdIUlpDTDNma1FEZWdtR2xqMXotZG8tS0k0ZzBJdTQzYVJhTjlwa2RDbjU1anBiMXRGaTFPNmF1MDJRdUFtRDQ0NlI2ejMyR3Y2bEdwZTVabkNiNm5ZSFVKMWgzWU9KZzlKWFc3eDVyVmphUzlWUlBHQmY4NEpudjAzckpNSnBqR3Q5bVdtdWN6Qmp0UkIzS0JuV1piaDhFSGo1bVJULUtkNHhHWFh3Z2ZrbFBfSFJFcXIzMVNfUUlGSXFFTzgySUthcEwyMU13ZmlzM21EaERxbEFZZUt1ZmNrY1BwV2dUanM?oc=5",
-      "date": "2026-10-21",
-      "source": "Google News ES",
-      "desc": "Hallan el mecanismo que permite al hantavirus andino iniciar la infección en células humanas&nbsp;&nbsp;El Universo"
-    },
-    {
       "title": "Científicos descubren el 'punto débil' del hantavirus andino y abren vía para posibles tratamientos - Noticias Venevisión",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeDZBbzFTVHZ0SXZLZFVEczVxek44NU1qNXlKWG9LX2o3c2lid2lHZkUtSEMzaVc0M0FkMFNzc2JmeUtyVWp6RzM5MFFUazBrQ0lubGVubWZreThENWttbjl3b092MHlfX25KWlppNl9Cd1lNeU5pTTM0U0hnOV9HUUZubXJSdkU4V2QycF9IU0tMNTFGalR2TUxSNlNrSzk3SU5Ca2dnYUdfdm4yYnAzNi1KQUM1MVdjVmtud1VCUXdYNTRxVUhtbjI1VlQyTU9iQmladGFoME9vX2c?oc=5",
       "date": "2026-10-21",
       "source": "Google News ES",
       "desc": "Científicos descubren el 'punto débil' del hantavirus andino y abren vía para posibles tratamientos&nbsp;&nbsp;Noticias Venevisión"
+    },
+    {
+      "title": "Hallan el mecanismo que permite al hantavirus andino iniciar la infección en células humanas - El Universo",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVnlTa1ZkR1Y2UzVZeDFaVGJXakY4VUJUNTNHbnpKVUZrSDB5cU12SWQwSWxwV2hMajBYMzVvV1dwSUZkU0VPQTRlcmc5ODJwWnZfd19wX1N5LXF5ZUdzemRLQmpRWXZfMjZPZ3NxelJHQ2dZc3B6Y09DdzJLYTEzVVVXbVFKSVJ5T2E4akR6VVlnWHpDUy1Jb2lKemlqdWM2cm9nVm1PdWVNaG5HR2NnNndHMGxFdjdFUGt5U3VxemNZMU9pUW1WcklpQ3RNck5IRmJSVW5McmnSAewBQVVfeXFMT0RGVDdIUlpDTDNma1FEZWdtR2xqMXotZG8tS0k0ZzBJdTQzYVJhTjlwa2RDbjU1anBiMXRGaTFPNmF1MDJRdUFtRDQ0NlI2ejMyR3Y2bEdwZTVabkNiNm5ZSFVKMWgzWU9KZzlKWFc3eDVyVmphUzlWUlBHQmY4NEpudjAzckpNSnBqR3Q5bVdtdWN6Qmp0UkIzS0JuV1piaDhFSGo1bVJULUtkNHhHWFh3Z2ZrbFBfSFJFcXIzMVNfUUlGSXFFTzgySUthcEwyMU13ZmlzM21EaERxbEFZZUt1ZmNrY1BwV2dUanM?oc=5",
+      "date": "2026-10-21",
+      "source": "Google News ES",
+      "desc": "Hallan el mecanismo que permite al hantavirus andino iniciar la infección en células humanas&nbsp;&nbsp;El Universo"
     },
     {
       "title": "Confirman tres casos de hantavirus en una misma familia de la Patagonia, con contagio por contacto estrecho - Lmneuquen.com",
@@ -1194,11 +1194,11 @@
       "desc": "Nuevo estudio revela cómo el hantavirus andino reconoce y se adhiere a las células humanas&nbsp;&nbsp;Sabes.cl"
     },
     {
-      "title": "Tres casos de hantavirus en una familia: qué reveló el estudio en Chubut - Canal 12 Web",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORUN3eEg2VjdHdGNLYzNXOHpDWVFEaVdsTXRVRHl0TGRsbkZUYlBTWHptS2F5N05Fd09qZVlFeWxZYnFxekVJUjI3V0dsZWdCcG1nSkdMdWxLRUtueGdTYmEwcDJYTmlDVFA0QlpjSEZEeXBvMldBTG80VFpHNWVhR0V1Zy1XQzRVUmtnZUNaaDRQSVQwVnB1Mk1hVQ?oc=5",
+      "title": "Structural basis for protocadherin-1 recognition by New World hantaviruses - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LMlU0MmtKTXVLOWtHeTlyZEYtSHVMemdBVktNRWkxeTM1NjhHVThlR28tUEZ6UmlpcU1RT3NoaVR5MWJVSzhyVEY2Mi0zV1dSU2F1dDNLLWJmcEs1ZGE4?oc=5",
       "date": "2026-10-21",
-      "source": "Google News ES",
-      "desc": "Tres casos de hantavirus en una familia: qué reveló el estudio en Chubut&nbsp;&nbsp;Canal 12 Web"
+      "source": "Google News EN",
+      "desc": "Structural basis for protocadherin-1 recognition by New World hantaviruses&nbsp;&nbsp;Nature"
     },
     {
       "title": "Scientists reveal how deadly Andes hantavirus attaches to human cells - Phys.org",
@@ -1208,11 +1208,11 @@
       "desc": "Scientists reveal how deadly Andes hantavirus attaches to human cells&nbsp;&nbsp;Phys.org"
     },
     {
-      "title": "Structural basis for protocadherin-1 recognition by New World hantaviruses - Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LMlU0MmtKTXVLOWtHeTlyZEYtSHVMemdBVktNRWkxeTM1NjhHVThlR28tUEZ6UmlpcU1RT3NoaVR5MWJVSzhyVEY2Mi0zV1dSU2F1dDNLLWJmcEs1ZGE4?oc=5",
+      "title": "LSU Health Shreveport Researchers Help Unlock How Deadly Hantavirus Infects Human Cells - klax-tv.com",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQMmRWdkxkVHRldGN3cjN0NzF5SjhiSVM1T3NHVUtOWDAxS1QxYkctZHVleE1jcF9nUXF2R2F1eXhhZmRGQXBLZ29BSzU3TEh5dUJXZ0Q2YUl3dFc4OWR4VHRaTDFKT1J2TnRkaEhoUXJSY0JBbFQ2bTdXYWNGM00tb1JXSnYtQkVRUXNlRzFQOHRUTHBIWFNTQm52RUtHdFByakNLVTRrTXpmUU1uWDNTTk04VHdMOU14WW91WkQ3UU82eW8yODFIdkV1ZDhiNXVBN0RPNmwybVF5NHJJclBGZml0TEdzQWFKa18xMDZDMzc0MXdaTjBrZzBB?oc=5",
       "date": "2026-10-21",
       "source": "Google News EN",
-      "desc": "Structural basis for protocadherin-1 recognition by New World hantaviruses&nbsp;&nbsp;Nature"
+      "desc": "LSU Health Shreveport Researchers Help Unlock How Deadly Hantavirus Infects Human Cells&nbsp;&nbsp;klax-tv.com"
     },
     {
       "title": "Confirman caso de hantavirus en Panamá y autoridades descartan relación con el terremoto de 7.5 - Infobae",
