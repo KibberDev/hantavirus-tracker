@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-10-25 01:27 UTC"
+    "updated": "2026-10-25 06:41 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,6 +1124,13 @@
   ],
   "news": [
     {
+      "title": "Descubren el ‘punto débil’ del hantavirus andino y abren la vía para posibles tratamientos - NotiCel",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR1cwVHNLWjBaVFlIRFhlQkNXdGpSX2l3djE0azd2TlhzMG13UXJxdW1VWUxxcUlwU2dBVEdsNTM2RmNUNndzNjU5c1ZQWjZxcE5FOVUyWmcyS3FJSGhDN0RSaHVLbExYNmlPa1NqMjJsOVczWVc2bXlDUy1wT3JPWi1OSFhuN1hOLUNlUGRrM181eXVxdHFjQ1NQZWV3ZXMyeVJQdGc4WnBjcEV0Tl9hbmRCQ2NCeWc3MG5zbVZta0thZGttOXc?oc=5",
+      "date": "2026-10-25",
+      "source": "Google News ES",
+      "desc": "Descubren el ‘punto débil’ del hantavirus andino y abren la vía para posibles tratamientos&nbsp;&nbsp;NotiCel"
+    },
+    {
       "title": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaVFxQTZQbEFJdm9jTU5qVFFlbUh1Z2tCRDhCZHBlY3NneVhwN0VEV1lJOUlZVjVoNUxfMGVsbmVpcGkwVTF6TWVRWTlhb0xSamJaZU5QMFJoZ0lNME1BT0FoRlJCSmNnWW81cXN0QVBqb2RhSWhJTDRmYWE4eW4tcUdMVlFjcTBVVTVCMGFKOF9RMjhUX2ZJTFRnTzVyLW0zbk930gGoAUFVX3lxTE50VnEwRi1SSDJvaTZ0Z2VjVjZaNWlrZGlZa3BneElvZjJzcUZoRWlIZ0hXTzV4QW1TY21oVVRuMVRGZHB5X09fU3NFVWhtVVpNN3Q2aWR3UkpUM3lOamItODI2R2VWdnhjRnhQNC1ub1hqQzhmUUVRVG5idWt1Q0VIcVQ2NzRVWUF4N1NWclk4ZVZqSEF4RHBFYUpzNnl5SHZMbDhYdHlRMw?oc=5",
       "date": "2026-10-24",
@@ -1136,13 +1143,6 @@
       "date": "2026-10-23",
       "source": "Google News EN",
       "desc": "Andes Hantavirus: What New Research Means for Clinical Preparedness&nbsp;&nbsp;National Emerging Special Pathogens Training & Education Center"
-    },
-    {
-      "title": "Andes hantavirus has a secret pocket - C&EN",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa0tPRWhiRHZFLUJyZDRDbFV3NUtURzMybl9PWGNFTE5qVExWc182QzdCeS1YZjd1bWpvQ0dvd2VuUEhKcmFBU2xpdzJuamdGYjd6bFNzbHlSbEV1dXZTTHBSOVBZZ01mM3l0R0IzUDlNQVJRYXJxZVcyMDNNNUpMQV8yaXhtdGF2UmNoUlI5Sk03UzFRTW1nTG5MeTNVdmo5cXhxX3Jlaw?oc=5",
-      "date": "2026-10-23",
-      "source": "Google News EN",
-      "desc": "Andes hantavirus has a secret pocket&nbsp;&nbsp;C&amp;EN"
     },
     {
       "title": "Descubren el \"punto débil\" del hantavirus andino y cómo consigue entrar en las células humanas - 20Minutos",
@@ -1164,6 +1164,13 @@
       "date": "2026-10-21",
       "source": "Google News EN",
       "desc": "Structural basis for protocadherin-1 recognition by New World hantaviruses&nbsp;&nbsp;Nature"
+    },
+    {
+      "title": "Andes hantavirus has a secret pocket - C&EN",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa0tPRWhiRHZFLUJyZDRDbFV3NUtURzMybl9PWGNFTE5qVExWc182QzdCeS1YZjd1bWpvQ0dvd2VuUEhKcmFBU2xpdzJuamdGYjd6bFNzbHlSbEV1dXZTTHBSOVBZZ01mM3l0R0IzUDlNQVJRYXJxZVcyMDNNNUpMQV8yaXhtdGF2UmNoUlI5Sk03UzFRTW1nTG5MeTNVdmo5cXhxX3Jlaw?oc=5",
+      "date": "2026-10-21",
+      "source": "Google News EN",
+      "desc": "Andes hantavirus has a secret pocket&nbsp;&nbsp;C&amp;EN"
     },
     {
       "title": "Scientists reveal how deadly Andes hantavirus attaches to human cells - Phys.org",
@@ -1201,6 +1208,13 @@
       "desc": "Of mice and men: Examining how hantavirus leaps from rodent to human&nbsp;&nbsp;Virginia Tech News"
     },
     {
+      "title": "Catalunya identifica tres contactos estrechos de un caso de infección de hantavirus detectado en Galicia - 20Minutos",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQN0poY245N0Q3OWt3VXJwRGN5ME9DR2Y3SElvTGNtaUdCUURIMTcyS2hKT25NUi1UN2tLVndIU1pJMGs3bnVveEp3VDdadTVuUGN0Q0RBMzFrNE95Tzk5QTJWUjE4d3VERmpJcTRhdkFORkxfZWFwWGNsbVpDRU1LQ3I2a3djQ01ZVXRkNnRBT0RDaVZjWkhrWVlpLXFmdFVSVFVZTW41MUxfVHR3UnpqaWp0X0JWalpnOS1qRXQzQ09ZbFpUdzRiUUl5c2FzaVh6V2RMNFFPaXM?oc=5",
+      "date": "2026-08-14",
+      "source": "20 Minutos",
+      "desc": "Catalunya identifica tres contactos estrechos de un caso de infección de hantavirus detectado en Galicia&nbsp;&nbsp;20Minutos"
+    },
+    {
       "title": "Sanidad vigila seis contactos tras el caso importado de hantavirus Andes - Gaceta Médica",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObUI3N29YMVBQeEM4RWlUeTBPOXBORUN1aTktZ2VkNzQ4QTZpQzJQWmVETUROcDdiTkNYMEFmNEtrZzVUNWxTV0lBdTUxUWw0M0VOMC1FTHhJSjFXTnRQQ1lLZG5maE5uWkdBcktENkVxQUZLMFdwZkhNb1Bjcm9QTHN3a2Q2RE1WRkY1UDEyYURCREJzUVFISWVpWmJNOEZEUjh4cnQ4SmNHMmZ3VXJDMXVR?oc=5",
       "date": "2026-08-11",
@@ -1234,20 +1248,6 @@
       "date": "2026-08-07",
       "source": "Google News ES",
       "desc": "La Xunta informa de que el caso de hantavirus permanece aislado en Galicia y sin síntomas&nbsp;&nbsp;Xunta de Galicia"
-    },
-    {
-      "title": "Hantavirus: qué es, síntomas y cómo se puede contagiar entre personas - El Periódico",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbENaYlBCelQ2QU51bS1tRGZrRTJ5TXBnRmo2WkxJSG1YNU9mRGpzeDhMbkRDaGhvQkRyQ3NzT1phV3FyeXd1WFZyWFZXaU9BVThIVmxvTlNjeVBhUWF2M0xrQzZSVm03Um01U1FxOWxtaUhWUVdvaFI1RzZnNERaUVUtcTJiaHpLUVVfeFg4LURteGI2Tkh2TnpCcmxyR0lG0gGgAUFVX3lxTFAxN2lKNFBoRXg0bGZndFA3dER5ZmhVdDBMNGFsYzFDVVNWX0VieFVaVTRWT3hxY1hUOGpLRVJLcEs0SXBZWVIxVmRjYU1uXzFQQUEwbXRITl9ySEllaE43NzFKaVo2TGRYeWRBSEVCTkt5cFJ5RThVR1gxdUVNUHVVVmw1Zm16YzhlZV9LcVBhLXZXMG5wcFE3V3hvZndHMVo?oc=5",
-      "date": "2026-08-07",
-      "source": "Google News ES",
-      "desc": "Hantavirus: qué es, síntomas y cómo se puede contagiar entre personas&nbsp;&nbsp;El Periódico"
-    },
-    {
-      "title": "Galicia descarta más contactos en la comunidad, mientras el positivo en hantavirus guarda cuarentena junto a dos familiares - iSanidad",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdGJiZGZBZ3oybDYxaC1hRXdEZ3Nma0stTm0zbEZHM3Zxci1QWDhQNkZ5SlVpSWxBSXV2RnlXZGdlc1JLcW9SU0xmN0lBOFhZOHNPRUN2cG1Xdloya0JUWTloSjdTTVdGR3RsNm1BVWVkQ18tRGpXeVpzRFF2MDg1NEdVTkJsN2VRc2Z1ajlNT2NoajkwNml6NEowN3lmeVZwTDdrQzNKQVNHMUlCcW5jY0RnRUx0anpjbkR4bGFxQXluVDlqZm45Q0NERGRkUmg5RG9FWlVzSy1FUHVxSFlwaFRYWlMwZw?oc=5",
-      "date": "2026-08-07",
-      "source": "Google News ES",
-      "desc": "Galicia descarta más contactos en la comunidad, mientras el positivo en hantavirus guarda cuarentena junto a dos familiares&nbsp;&nbsp;iSanidad"
     }
   ],
   "countries": [
