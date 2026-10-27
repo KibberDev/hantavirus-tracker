@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-10-27 00:44 UTC"
+    "updated": "2026-10-27 05:41 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,13 +1124,6 @@
   ],
   "news": [
     {
-      "title": "Expert analysis of LLM hantavirus outbreak responses finds 11.1% potentially misleading - Bioengineer.org",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTEFZMFZFYUZIZzVMLWp2OWFmRGN5OXdfeVphOHRyekNLTmcySUR5aE4xRy15RE1iVWRrWHh0X3ZWREF0Mm1uZkNlaktYZWpXaTVNbEFVTFhGcktGR3c5a0Z2dl9kaUpvYms3X3ZrbWJuWkxRSlVBUVppQ3hwNFlsVWxaRUVfbk9ZaHc4OWdTNXhUMkF0VWlkUDREbWlKYzFEVndJNkFBam9JWkdpeGVHZw?oc=5",
-      "date": "2026-10-25",
-      "source": "Google News EN",
-      "desc": "Expert analysis of LLM hantavirus outbreak responses finds 11.1% potentially misleading&nbsp;&nbsp;Bioengineer.org"
-    },
-    {
       "title": "Andes hantavirus has a secret pocket - C&EN",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa0tPRWhiRHZFLUJyZDRDbFV3NUtURzMybl9PWGNFTE5qVExWc182QzdCeS1YZjd1bWpvQ0dvd2VuUEhKcmFBU2xpdzJuamdGYjd6bFNzbHlSbEV1dXZTTHBSOVBZZ01mM3l0R0IzUDlNQVJRYXJxZVcyMDNNNUpMQV8yaXhtdGF2UmNoUlI5Sk03UzFRTW1nTG5MeTNVdmo5cXhxX3Jlaw?oc=5",
       "date": "2026-10-23",
@@ -1157,6 +1150,13 @@
       "date": "2026-10-22",
       "source": "Google News EN",
       "desc": "LSU Health Shreveport Scientists Help Unlock Deadly Hantavirus Mysteries&nbsp;&nbsp;Red River Radio"
+    },
+    {
+      "title": "Hantavirus spike structure reveals recessed protocadherin-1 binding pocket - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONE9jVDZweDJEZ2o2Z0J2WG9kT2xPMm0xWVEzWkVmMDdtSEZNRnVnUktrTzViTW9oLTFuRmtPOFFkUTZUaVVzQXV4aGs2YVJjaUlDTVdaVm50Q2pJelNyTkxYWTdnRkhyUFVhaUpjR2ZKVTZtWUN6eUY0eDZ4dzI1LVFnYi1vdW1VblEtc3owYklwTU83NC1iWm5IY3BDYWZ4?oc=5",
+      "date": "2026-10-22",
+      "source": "Google News EN",
+      "desc": "Hantavirus spike structure reveals recessed protocadherin-1 binding pocket&nbsp;&nbsp;Bioengineer.org"
     },
     {
       "title": "Descubren el \"punto débil\" del hantavirus andino y cómo consigue entrar en las células humanas - 20Minutos",
@@ -1187,11 +1187,11 @@
       "desc": "Structural basis for protocadherin-1 recognition by New World hantaviruses&nbsp;&nbsp;Nature"
     },
     {
-      "title": "Scientists Reveal How Deadly Andes Hantavirus Attaches to Human Cells - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbFBtUHhkdmJ1aTRrVy1hc092dzZ2N1o5Y2xpVGwxUE9sRkNRSHRMaTJfczJQS2hIWFAxcnRxLWJfYV9SSkRGYm5FZ3VDLVJ5Rm0wTFdZeXloZFo4ZkhlTElCV21wNG5QSDJ3c1h5OXFncFNObVRMNDIwR2tJekZDTU9UOVhDc0pRVWlXeTVuTktJNWYyU0VHdy1RRTBpak45OGNSUVp6bDY3YmZtNnhKanpiQkFIaU5ibHNqUHFkX2RVNUE?oc=5",
+      "title": "Scientists reveal how deadly Andes hantavirus attaches to human cells - Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZnRKVGJoZWNvRnZFNnBKQmZDSjJQYUxFVFE0MjBiQUxWY1R6MlNVaG52bEpERnZJN0drQmFEeWFrNXNiWFNlbTVDVTJXejJndlBVemVQcms1OVZMLUFTTFhob1l1ZnVQM1NwTnAybjN3alg0S0FXX01iM2V6cVFMUFV3?oc=5",
       "date": "2026-10-21",
       "source": "Google News EN",
-      "desc": "Scientists Reveal How Deadly Andes Hantavirus Attaches to Human Cells&nbsp;&nbsp;PR Newswire"
+      "desc": "Scientists reveal how deadly Andes hantavirus attaches to human cells&nbsp;&nbsp;Phys.org"
     },
     {
       "title": "LSU Health Shreveport researchers unlock how hantavirus infects humans - KTBS 3",
