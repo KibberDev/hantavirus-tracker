@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-11-03 09:55 UTC"
+    "updated": "2026-11-03 17:37 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,11 +1124,25 @@
   ],
   "news": [
     {
-      "title": "Brotes de ébola y hantavirus reavivan llamado de la OMS a un acuerdo mundial contra pandemias - Baja News",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbDhDcWhlNkotY3VQQ09zaWpyZ0s1QWY5R3pvS2x5NklySmdKOHVOa2lfQUVPeG9YcmlfQ09hY3lzaWZES1JKQU92bVRHdFpDRGxtVTk4QmVRSzRJS0xvY2ZFLWJEMUdqQXY4NnVrakhZMm15dTZaallETWlCWVBKWjZRU0ZsUG5kcDE5ZFZfNHNwMnBHMXVsVTVLTTE4RDVMOENGUWdtU2s0eV91SExyZk5yZFNMRmlRSVNHOVUxVERmR0RSSWMzaUNfOEUtZw?oc=5",
+      "title": "Hantavirus en la Patagonia: dónde se concentra el riesgo y qué medidas tomar para evitar el contagio - Canal 12 Web",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS0NjQmdwajg1cktiWHRhTTRkel9YRHUwck5YSDR4X2V0OHZWYVpVS3FNX3RNZmVYN3JGeHhISkdWbTUtaFBhVTJGcEJ6UjhSTDRudUdUUXFkMG5hdDZBeDF6cGVBYm11dEF2cHpDd0tvVWRNYXRxUVYwMkNXUTBNVlNUTTh3SmhFeS1kR19tZXJCNVd6d1hINFJxQjU0cFZxVzlLX3RmYWhWSkFnS1FESDhfbG9VRUhVaEpKSmFOdHo?oc=5",
       "date": "2026-11-03",
       "source": "Google News ES",
-      "desc": "Brotes de ébola y hantavirus reavivan llamado de la OMS a un acuerdo mundial contra pandemias&nbsp;&nbsp;Baja News"
+      "desc": "Hantavirus en la Patagonia: dónde se concentra el riesgo y qué medidas tomar para evitar el contagio&nbsp;&nbsp;Canal 12 Web"
+    },
+    {
+      "title": "Russia records hantavirus outbreak: Local media - Outbreak News Today",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNTR3a0Q1c2ZsQlBZNXhGYy13YlJtVkU5WVJwZWlDX29YLVVfLUNCd2hfT2V5RDNORTBOdEpXNFlUX2Zsa09aNktNTzNJenk3Mi1YUWIzSUN0TlYzZG5LQUkyRnB6WGRjVXhCdlNwWmJCamhHaUg3WkU0TDVwR2M5dQ?oc=5",
+      "date": "2026-11-03",
+      "source": "Google News EN",
+      "desc": "Russia records hantavirus outbreak: Local media&nbsp;&nbsp;Outbreak News Today"
+    },
+    {
+      "title": "Roedores en la nave: el informe que transformó una sospecha de hantavirus en una investigación One Health - Redacción médica",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZUJTUjE4dUhBZlF5ZWNnWFV5YWxWMFlYOVJBM2licVVaSEotbjB0YTZXN25jUkRfc0RnWk8zOW9rUmxvM1NOU2ZvT2FzZjlkYlhPQVFoY2d5TXI5SC1yb0RoYjFqS3k3b0x5Y3I4RmcwbE51SWlzRFhWcE9OZE9BVjA5V1VmbnU4TWJ6LThOaGM2RnBsODljM2RiejNfN1VGMDBUUmtXSXJNYWoxUHl3a0dIQzRIQ3RjTF95ZGNNbG8wN2xSMGRrSlVZVndwZ0ZDUDFQWjJvTW5BT1dERy0xeVpHT1VFLXRjcHAxR0EtdUlTQUh0SVFpTNIB_gFBVV95cUxOaVRTR2JMRkpOMmsxVWRXalZwZ2NTVmN3MkdOWng2X1FpSzM3UWNGQlVBNC1MQUxfSkxNMW0wR25BRjdsSWVPbUZLMGx4MkRiQS1zQWY0X2oyWnBsNVZaRzdWNFdCSExNcmlCUGlBbVVhNUp2SzBCYTdRVzBPZHFjVUhLd0JpN0NqRWo3Um9XU1RDbG5KaDRwWE5NUURwVExmOG04M1RNOERXc3B6THBQbUhrM1g3MElHSEV1ZlhqbVZCMGZvcnVWZ0xUSWlkeVRzVXg1NnFtUGpZekp0by1EREE1NmFoaUozcjM1Q05NYXZyd0FaSFdUaE5HejhYdw?oc=5",
+      "date": "2026-11-02",
+      "source": "Google News ES",
+      "desc": "Roedores en la nave: el informe que transformó una sospecha de hantavirus en una investigación One Health&nbsp;&nbsp;Redacción médica"
     },
     {
       "title": "El director de la OMS urge a un acuerdo para pandemias tras los recientes brotes de ébola y hantavirus - Euronews.com",
@@ -1136,27 +1150,6 @@
       "date": "2026-11-02",
       "source": "Google News ES",
       "desc": "El director de la OMS urge a un acuerdo para pandemias tras los recientes brotes de ébola y hantavirus&nbsp;&nbsp;Euronews.com"
-    },
-    {
-      "title": "Investigadores UDD crean juego de mesa que busca educar para prevenir el hantavirus - Universidad del Desarrollo",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZGVHckZWcHJBbHJwTzZvN1VuSVlRYnpLWlQwN05rSGxBNTBjNWtTRG1OazFlTkJ3WnpteG1zVFZGalkyVTZEYTl6UVViZ3lMaDJiOVZzNXVPNlZEaUwtOVJNTlZ4NWhmUmk2MUxUNDljTUxlNFh5eVNzMHJ6NG8tY2FIbnlkRUw2X1p0VElKNGUxV1psdTkzOEZLdHQ3T1VoUGI5eFVYVnBnR1A5ZWZPbWNGd1VyYzNmM0VBeVE4NXI?oc=5",
-      "date": "2026-11-02",
-      "source": "Google News ES",
-      "desc": "Investigadores UDD crean juego de mesa que busca educar para prevenir el hantavirus&nbsp;&nbsp;Universidad del Desarrollo"
-    },
-    {
-      "title": "Hanta Attack: juego de mesa busca enseñar a prevenir el hantavirus en Chile - 24horas",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZE84UzBCelg2OWY1RjJkcFJXT0VfUE5udVJMTERYeUo1VWhnLTBRY3lOdmtQOWZhLWV0UFloMU5uc2dqUzBNdFBoMkJscDVYNVZTSkc1amdEUGpXMUxwc29ENW1HRzRaRVplX196d2hpOFlHUUFkUHpfbXVacFo0TEJsZHpCWmhxaktZQTBrNll1dllnRlhMbm80dXRkOWh2c0VJS0tVU1ZxVGpyT0RGZ2wzenI2eU43dmh3WDZoNkXSAcYBQVVfeXFMT2xEd3ZDem94V3I1Xzg2eDZUQi1qY3lnUHRYRGUxUEJqVjdqdlpfUE5QeUJjd0FvN3hHUmxJZElETllOcHc2SHRDTUhnRzdCclBxOG5FUmhqOHo1ZndiMm85OGcxM2lvdHlfX25taDhJR0RYbjktdkdpYXFOTHVqQk9WSkx4UENsdDlfSGpXcmZ5VzNrR2czc3hyTzBFOVpJTS1MbHh1RDBRbXRBdVlBaUNIU3VrQVVnaEdqTHlDN0toM2ROVFFn?oc=5",
-      "date": "2026-11-02",
-      "source": "Google News ES",
-      "desc": "Hanta Attack: juego de mesa busca enseñar a prevenir el hantavirus en Chile&nbsp;&nbsp;24horas"
-    },
-    {
-      "title": "Hantavirus: la letalidad llegó al 33,9% y la Patagonia registró casos en zonas cordilleranas - Canal 12 Web",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcnJNa1BqRXJkOUkydHB6YVFOSUZkRURPMmxGMXdWakU2STY0SXo2Y0NXMGpzWXFPOER5SG9FVXNLd1EzWmZod2VzWGRJWGZfM04tTEdNS29XaHIwbEV5Zjk2WlpzTGFja08yZURXMHlwdFQ1NFMzeDUxdDFuOTI2dmhSd0ZsU3hDcUQzQjF6STR5T1BPR0ZGLUdjOUc5WVk4ZkJ3MFI1OVhzUWJkT3VsOEY0UQ?oc=5",
-      "date": "2026-11-02",
-      "source": "Google News ES",
-      "desc": "Hantavirus: la letalidad llegó al 33,9% y la Patagonia registró casos en zonas cordilleranas&nbsp;&nbsp;Canal 12 Web"
     },
     {
       "title": "Brazil: São Paulo reports four cases of hantavirus infection so far this year - Outbreak News Today",
@@ -1194,13 +1187,6 @@
       "desc": "El diccionario de la RAE suma nuevas palabras: de influencer a docuserie y hantavirus&nbsp;&nbsp;Tribuna de Zamora."
     },
     {
-      "title": "Why WHO sounded the alarm on Ebola but not hantavirus - New Zealand Doctor",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS05fdk8xSEQ1elVkYkd1ZDBCeGhlLUVfTkRrRHZENjlVSDRIWm53UFMtQnJuUzdHYXBFUExPOTQwQ3kwR2FiRVdpYmlqY0IxUUpvSDVoLTdxYzNyVXFoa09aMmFyc1hUdTlKdnJwa0FhSFRYV0RpWWZoNHNCWXhwYjVscV9kNTFzQjJXSk9wYUV4UmVjeEtaeW1n?oc=5",
-      "date": "2026-10-29",
-      "source": "Google News EN",
-      "desc": "Why WHO sounded the alarm on Ebola but not hantavirus&nbsp;&nbsp;New Zealand Doctor"
-    },
-    {
       "title": "Descubren el punto débil del hantavirus de los Andes que puede ayudar a combatirlo - La Razón",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZngyMklTNVROSmdyVFNRN25aN09JZlJhdVZBUDYzemNPcVRsblNaY1piUUxPMW51UUVfTXFoaUJwbURfQk03cmZ1ZUctdC12cDBzZ2dYY3UwdEh0S2FYbmNqbi1lZW95MEZFZncyNl9tRkVsZFZ4WWwtRE05TVdDTmpJWjBaTXVFMzVxTDl5bk42RmU0a0ZkdWNUYkpBTzM5TFA4TnRELVN4QlhhQlBGODgxR08zZDVqX2pTaGM1Sk9XektJdVdicGhfQ1lQZ9IB4gFBVV95cUxPZ3cxMXJYVWFNN21sRFN0TjNWVl9kX0VRejVGZWptN05tMmpaUWttVDRlZTAxQURqZnBsQWg2XzhIaVM1bTVmN2pYTmZJd2lIRFlRWGd6YXRoR2p5czU4cmxXYXBKRHN3VEVyWXdJTFpUb3NjbzhoQzkyWFExSnJabDY5c3hjUzVvakE1cmF6emk3WDBVTTdrbERmMVRvUVhMN0VHWDdUbFZNa0F1d0V1UFp1NWtqSmlZNlFNMzNGTHFCZEh2VTNwSV92c3VpazY1ZzROdjhnYXBzckVBTEFVenlB?oc=5",
       "date": "2026-10-21",
@@ -1222,13 +1208,6 @@
       "desc": "Científicos revelan cómo ataca el hantavirus andino que dejó tres muertos en un crucero&nbsp;&nbsp;Libertad Digital"
     },
     {
-      "title": "Hantavirus and the mouth: Review maps early oral warning signs, salivary clues, and precautions for dental teams - EurekAlert!",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5POTFBTWNZMF9hVVBZZVd3Y1p3NVdvR041MFZMUjN4MElrQUFCR2xkMXJ3M0l3ajRNZnlsS0tJWTd3V1E2X0xJWXpHNzdsZlFsYXNwWElSVmdONk8x?oc=5",
-      "date": "2026-10-19",
-      "source": "Google News EN",
-      "desc": "Hantavirus and the mouth: Review maps early oral warning signs, salivary clues, and precautions for dental teams&nbsp;&nbsp;EurekAlert!"
-    },
-    {
       "title": "Hantavirus, tuberculosis o mpox, las diez infecciones que pueden cambiar el mundo en una década: \"Van a venir con más rapidez\" - 20Minutos",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZlpzbXl2YXBsbEQ4LWZtbFZ0YlNNY2stX1h6VnJvaFhaWkdVeFNPS1EwSmkza0NicGRFUUFKdGRrbWEwbk1ydlo4azN6M0RkZF9Pc2ZHeEFBSS1rXzRwU2daV2xxQnRFZ1ZsVFNtc2dUcUdlU2RaNmlYbnpOTGhVdlZaM3VmV2NQdnhYQ2t2TEFzUXFodG9Ea0swWVFLMUJYalJkU3pCSFV6a1JiVFUtWHo1VnRUYXhiRzNkUmNuX3czSE5BYm9jbVRzX1djbFlwMHpTS3k5RnBqLTlmN1FIUlExRmFWWThkZVNKd0t0bFE?oc=5",
       "date": "2026-10-16",
@@ -1248,6 +1227,27 @@
       "date": "2026-10-08",
       "source": "Google News EN",
       "desc": "What is hantavirus? Symptoms, spread and prevention explained by an expert&nbsp;&nbsp;The University of Utah"
+    },
+    {
+      "title": "Of mice and men: Examining how hantavirus leaps from rodent to human - Virginia Tech News",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hVnFvUWlBSFowYVVoQjhwNm9xWXFpbFE1LWNsajZ6aHZweURiWmxyajFHYnVJbnFpOHNvd0p4dFc0czY2MXVZamZDTzdGT3BTX2ZYdWVJcFZpNW9mZkZod252cE10QTlEZDdwWmNibV8?oc=5",
+      "date": "2026-09-24",
+      "source": "Google News EN",
+      "desc": "Of mice and men: Examining how hantavirus leaps from rodent to human&nbsp;&nbsp;Virginia Tech News"
+    },
+    {
+      "title": "Sanidad vigila seis contactos tras el caso importado de hantavirus Andes - Gaceta Médica",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObUI3N29YMVBQeEM4RWlUeTBPOXBORUN1aTktZ2VkNzQ4QTZpQzJQWmVETUROcDdiTkNYMEFmNEtrZzVUNWxTV0lBdTUxUWw0M0VOMC1FTHhJSjFXTnRQQ1lLZG5maE5uWkdBcktENkVxQUZLMFdwZkhNb1Bjcm9QTHN3a2Q2RE1WRkY1UDEyYURCREJzUVFISWVpWmJNOEZEUjh4cnQ4SmNHMmZ3VXJDMXVR?oc=5",
+      "date": "2026-08-11",
+      "source": "Google News ES",
+      "desc": "Sanidad vigila seis contactos tras el caso importado de hantavirus Andes&nbsp;&nbsp;Gaceta Médica"
+    },
+    {
+      "title": "El turista con hantavirus está aislado con dos contactos estrechos, todos asintomáticos - El Mundo",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03RE5FeEdROXI5Mno3ZEFwTl9rWUF1WFNTOG5PRU1ESzZYRGJuS3ZpMWFaVDI1Ty1Oc0VRanpXeDVYTVpvSEhMcG1QNVVUOW1FdlM3aWpsVkdVeGY2ZjB1ckQ5aVRHcVM0dDhLMXNmTm5PeGM2NFlEVNIBeEFVX3lxTFA4N0ZPT3VCN25Ydlp6XzZwZF94a01ybmNyZE9OM1l4SUpyMEFVUzNLN1VQTE11WnFTc2lpSl8yQnNRY0ZHcWlvZDB3ZXVnTUhOLUlFTC1MZklVamJsSzlQVnJSb0UteE1nZjdiQkNtQk00T2gwSVE3YQ?oc=5",
+      "date": "2026-08-07",
+      "source": "El Mundo",
+      "desc": "El turista con hantavirus está aislado con dos contactos estrechos, todos asintomáticos&nbsp;&nbsp;El Mundo"
     }
   ],
   "countries": [
