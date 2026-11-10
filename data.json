@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-11-10 11:35 UTC"
+    "updated": "2026-11-10 18:51 UTC"
   },
   "current": {
     "cases": 13,
@@ -1152,13 +1152,6 @@
       "desc": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos"
     },
     {
-      "title": "Study Identifies How Antibodies Block Hantavirus Entry - EMJ",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONm54TFhvMlBuaGNXQ1hmbFdzVTA3RG9jRlNOaHVwRnZyRm5BZ0JMY0JwSlpLUXBsZVQ4LTc3UTBiOGQ0bE03OHBZbjk4WXROTVhEZmM0N3dNMFhUMGdBUVBZUkhBaElTa0hvNFFYTTh3c01sVWRCMDd5NDFtNUdTbDU0NUVlX0NwbmctX25vODgzTFdvWkVoM1NlbUNMeTVP?oc=5",
-      "date": "2026-11-05",
-      "source": "Google News EN",
-      "desc": "Study Identifies How Antibodies Block Hantavirus Entry&nbsp;&nbsp;EMJ"
-    },
-    {
       "title": "Russia records hantavirus outbreak: Local media - Outbreak News Today",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNTR3a0Q1c2ZsQlBZNXhGYy13YlJtVkU5WVJwZWlDX29YLVVfLUNCd2hfT2V5RDNORTBOdEpXNFlUX2Zsa09aNktNTzNJenk3Mi1YUWIzSUN0TlYzZG5LQUkyRnB6WGRjVXhCdlNwWmJCamhHaUg3WkU0TDVwR2M5dQ?oc=5",
       "date": "2026-11-03",
@@ -1248,6 +1241,13 @@
       "date": "2026-08-06",
       "source": "Antena 3",
       "desc": "Aislado en España un turista tras dar positivo en hantavirus&nbsp;&nbsp;Antena 3 Noticias"
+    },
+    {
+      "title": "Aislado en España con su familia un turista positivo de hantavirus que pasó por Francia - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPc3ZkaEZNU0NydG91N3V1NHh1anBRRG1JVVhORlIwWFd3RVk2RnhyZ3NqbHo2V1BONTJETzJPYXNfS1QwZ2RtdmVQZmJtdnA1TzFDQmgtYnZSa2ZDZ0xYQUdFQlhrOUJyWUl4V1hfSXZtRVR4anBxQ0k5b1JmZ3llaXhGNTZiN3hzS1F5XzIwZUFsTTVSUjVUZHU4X1hXSnh1em5wR1FlcXI3RGp0WW1OMzBJWS1XSnRmaEVWYkRId29IcWwwaml1dTBWa9IB3wFBVV95cUxOQjF3b1pGdkgyc3djam42WEhKUDFrb0kwX3hBb1pKeFZtM2xvaDQ2WHhfRzdwM3lpS1J1bkdYaWQzWFRGNTNzMjM2UGNuQzgxZ2RvVDdyTmtBZVpscmE1LUlZUllDclV2eXRxNWt5RHdQdDJJdHF1TjZEQV92Nm9BSk91eS1NMzRoSFppcVZwd2cweDFiVkt2Mmg1V3BnT1cwZ2RjaUVjSjM4UEpGOThGTFhOQzZLMlJZVzFtRTRBcm5hWmp1X1ljZVlmeGQ4WF82UTBQZmlWQlhCNVJzSjRB?oc=5",
+      "date": "2026-08-06",
+      "source": "El País",
+      "desc": "Aislado en España con su familia un turista positivo de hantavirus que pasó por Francia&nbsp;&nbsp;EL PAÍS"
     }
   ],
   "countries": [
