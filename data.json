@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-11-15 02:11 UTC"
+    "updated": "2026-11-15 09:30 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,6 +1124,13 @@
   ],
   "news": [
     {
+      "title": "SANIDAD | Dos estudios rastrean hasta la Patagonia el brote de hantavirus del crucero MV Hondius - Elblogoferoz",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWjcyY2MzTkh0dnYtMUk4X0RrTnd1eDhkZXpiZWNwQUNHOERRUGpCaHRWZjZaclphTkxGUGxRSkh3QURUR1g5UjJtaDZaYkg4emV5YzRuSU5KMkFKN05HbTBFeDhwNXpER09HWmI5U0RiRHJTbkxwNGJGOFFlSlMxR0RURDFpN3A0c05QWjYzRGJZYnJHb1NnLUcxTE9yeC1NalJTSE8zZXNVY2hnM2R6RFM2R28tWGtabU1PV3NidWtVaVdEaWh0X25zUzRqRzJh?oc=5",
+      "date": "2026-11-15",
+      "source": "Google News ES",
+      "desc": "SANIDAD | Dos estudios rastrean hasta la Patagonia el brote de hantavirus del crucero MV Hondius&nbsp;&nbsp;Elblogoferoz"
+    },
+    {
       "title": "Review Identifies COVID-19 Insights to Strengthen Global Hantavirus Outbreak Preparedness - Bioengineer.org",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRkVaQ2dtTlU3Zi10aUtfeFlEOExHcC1ja1JsQUMyUDdwYk05ZzRlSnpTcTdTT0RRR1RzTDFUY1p4dkFNRUJhc28wNmRrOVB0VHJXN3R1MER1Q04ta3BuZm1XcDFSbDdiRDBQenVEUWMtLUxmYWkxSWxCc0RsMmRnR1RQSmVkY2NNT25vUDIwUTdWUTREaWNDdmxXaHFKUXNSVG1pY0cxblQ5T3lBaG1lVHhpTlA?oc=5",
       "date": "2026-11-14",
@@ -1166,18 +1173,18 @@
       "desc": "Exhaustiva investigación internacional: el “caso 13″, clave del brote de hantavirus en un crucero que conmocionó al mundo&nbsp;&nbsp;La Nación"
     },
     {
-      "title": "Inusual contagio de hantavirus entre pasajeros del crucero MV Hondius procedente de Argentina - Noticias Venevisión",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZENGVGQ5VHZLS0ViOVJrUDJWSEFtYThpblFVNkpTdmoxdTlCOThvT0stVnRDVGNvMUFoaFUyRXFScTJ3WnprdmhvTFJ5bzYyVklsclJXYTRHUGVwWmhhZ0tQeERfVVYyUFRCZjA0SU1Jc3BObDhwc01xMGY3X0lIUGR5SkpZNjVRZGg0dEFwZmN6UWhxVjd4RzFFU2RxRllOMXpUT28wNDIyZWtZMFBFSVZ6SGpEb0RGRm92U3RUM0dxNUhNUThiLU8xRURxTlFzYzQycjB3?oc=5",
-      "date": "2026-11-13",
-      "source": "Google News ES",
-      "desc": "Inusual contagio de hantavirus entre pasajeros del crucero MV Hondius procedente de Argentina&nbsp;&nbsp;Noticias Venevisión"
-    },
-    {
       "title": "El misterio del brote de hantavirus en el crucero: confirmaron que empezó en la Patagonia, pero no se sabe ni dónde ni cómo - Clarin.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYm1HdWdWb2hKcDM0bFFtOE9IMzRmUHgzX3lrUGRDeGpUaWJzUWtqdFFpNE5CSGcwbmZmUl93ZWJnTlM5eFZmUEtjRm5EMWxNWld6SVp5c3VlcEdROTM4MWZ6S2JXMDNqXzEtdy0xcHIycGdOQXJPRmllMzFMbWl4TW9VNmJhcXkzTm9VMlQ3cnVLM2dBYlhMS1BfaTlLZXB3dXo1QWt5SFBYNW5ueE1EM3poLTFrMnhN?oc=5",
       "date": "2026-11-13",
       "source": "Google News ES",
       "desc": "El misterio del brote de hantavirus en el crucero: confirmaron que empezó en la Patagonia, pero no se sabe ni dónde ni cómo&nbsp;&nbsp;Clarin.com"
+    },
+    {
+      "title": "Inusual contagio de hantavirus entre pasajeros del crucero MV Hondius procedente de Argentina - Noticias Venevisión",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZENGVGQ5VHZLS0ViOVJrUDJWSEFtYThpblFVNkpTdmoxdTlCOThvT0stVnRDVGNvMUFoaFUyRXFScTJ3WnprdmhvTFJ5bzYyVklsclJXYTRHUGVwWmhhZ0tQeERfVVYyUFRCZjA0SU1Jc3BObDhwc01xMGY3X0lIUGR5SkpZNjVRZGg0dEFwZmN6UWhxVjd4RzFFU2RxRllOMXpUT28wNDIyZWtZMFBFSVZ6SGpEb0RGRm92U3RUM0dxNUhNUThiLU8xRURxTlFzYzQycjB3?oc=5",
+      "date": "2026-11-13",
+      "source": "Google News ES",
+      "desc": "Inusual contagio de hantavirus entre pasajeros del crucero MV Hondius procedente de Argentina&nbsp;&nbsp;Noticias Venevisión"
     },
     {
       "title": "El hantavirus del crucero Hondius tiene raíces en Meliquina - ANBariloche",
@@ -1194,18 +1201,18 @@
       "desc": "Hantavirus en el crucero Hondius: dos estudios vincularon el brote con casos previos en la Patagonia&nbsp;&nbsp;Ambito"
     },
     {
-      "title": "Investigan el brote de hantavirus en crucero: el Malbrán, clave en la respuesta sanitaria - Cadena 3 Argentina",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZjZoWnBiRTVmRE9uMmlrcEVtMWZwNkhkTi1UMHJQdGgtQzB0VG1taGswM0ljY2k2X2JqQVpPU3YyZjE5YXQ2T1VWX0JITTlvTzBGWHZDS3NKM0tvcHhXSjgwNTk4TlZiVEtueVRZQnhfQkdQQVZ1VTFWdzdKdHZ2cjFUb0FUS21HMjBpSm1laXIxSWRiU0VBSEdwaXpNSGVRcEhqNWJuSG4tdElJZ3FPNEs3WWktd2tJZEVROFBvSUhjUGtqelFIX2R3YzVMTkJX0gHWAUFVX3lxTE1hbkEzakpGVU93bTE5SnlkUHB5NGw0X21nWGtMVnh6aHVfVWVTMjduLUpkUEtGUlU4QkswaThURmFGbHY2dlM3dGJkekd3NlVXeEJ2aHlyd0pISy1GMlpnSTZPWVFKeUpDSUN0ZmhmajJwa2xaNXdBd3FfcVRPYk5UWjVKM2l4Nnk3Vm15Y2RNM0VCcHg3Q3ZMM2Z0Y0VfaVpLeC1XLUZZRWJqT0d1WV96dG9zemU0aTRSYS1IWElPWEhpS3dUMzAxTGdTMHBreGpWcklOSVE?oc=5",
-      "date": "2026-11-13",
-      "source": "Google News ES",
-      "desc": "Investigan el brote de hantavirus en crucero: el Malbrán, clave en la respuesta sanitaria&nbsp;&nbsp;Cadena 3 Argentina"
-    },
-    {
       "title": "Investigan el brote de hantavirus en el crucero neerlandés: confirmaron que se originó en la Patagonia argentina - La Voz del Interior",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcEhWLUIwOHk3bUY3MVFqNGQ0bGRRMFNkNU5CTXF5T0dqYWZoNHlGTDBRRU1Ba1hPU1A1YjZnUV9sbHg3ZENjZEo0ejJJbzQxaE1ndS1IWlJnWTNNZFc3NHg0Zk9RaUdRSU5yNFBhMFVtWlp4XzNpdUZnM0ZMY2JPTU5raTEzTE16S1BacmZZSEhsNXE2aGF3Mlk2enQ4MUVDWS1UUFBXMjdDUHU4MmRyaVYyVVJGVnVRWmN0cVVYZGN4WER1ZnJaMEU0NlRNTE9PZ0QwdXRsN2tKNE9KdFJIdUZR?oc=5",
       "date": "2026-11-13",
       "source": "Google News ES",
       "desc": "Investigan el brote de hantavirus en el crucero neerlandés: confirmaron que se originó en la Patagonia argentina&nbsp;&nbsp;La Voz del Interior"
+    },
+    {
+      "title": "Investigan el brote de hantavirus en crucero: el Malbrán, clave en la respuesta sanitaria - Cadena 3 Argentina",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZjZoWnBiRTVmRE9uMmlrcEVtMWZwNkhkTi1UMHJQdGgtQzB0VG1taGswM0ljY2k2X2JqQVpPU3YyZjE5YXQ2T1VWX0JITTlvTzBGWHZDS3NKM0tvcHhXSjgwNTk4TlZiVEtueVRZQnhfQkdQQVZ1VTFWdzdKdHZ2cjFUb0FUS21HMjBpSm1laXIxSWRiU0VBSEdwaXpNSGVRcEhqNWJuSG4tdElJZ3FPNEs3WWktd2tJZEVROFBvSUhjUGtqelFIX2R3YzVMTkJX0gHWAUFVX3lxTE1hbkEzakpGVU93bTE5SnlkUHB5NGw0X21nWGtMVnh6aHVfVWVTMjduLUpkUEtGUlU4QkswaThURmFGbHY2dlM3dGJkekd3NlVXeEJ2aHlyd0pISy1GMlpnSTZPWVFKeUpDSUN0ZmhmajJwa2xaNXdBd3FfcVRPYk5UWjVKM2l4Nnk3Vm15Y2RNM0VCcHg3Q3ZMM2Z0Y0VfaVpLeC1XLUZZRWJqT0d1WV96dG9zemU0aTRSYS1IWElPWEhpS3dUMzAxTGdTMHBreGpWcklOSVE?oc=5",
+      "date": "2026-11-13",
+      "source": "Google News ES",
+      "desc": "Investigan el brote de hantavirus en crucero: el Malbrán, clave en la respuesta sanitaria&nbsp;&nbsp;Cadena 3 Argentina"
     },
     {
       "title": "Volvió a la Patagonia el crucero de las muertes por hantavirus - Lmneuquen.com",
@@ -1215,11 +1222,11 @@
       "desc": "Volvió a la Patagonia el crucero de las muertes por hantavirus&nbsp;&nbsp;Lmneuquen.com"
     },
     {
-      "title": "Destacan el rol clave del Malbrán por el brote de hantavirus en un crucero - Agencia Noticias Argentinas",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdjY1dlFGRUx0NVVmV1plZjlQa3JQOEtvNXVSTm1id0VLS3hqbG9yaEJLekl2YjN1U3A2cmVqSG5SU1B0S29IMlNyQUc0NjFJYzd1TmRnejBVUEg4b0owSFh1cjliVWxOeFBxRHNBTHlLN2t4QktsS3I4MGl4UDRVUW9SNXB5aG5nRW84eUJzVXoyUDdPSkpmNHE1ZzI3ZVhESnlxa3ZDUWlWeWRoUXhLVGQ4ZDBuY19tX1J3MmdOUy1uRFJpdEZpYW9DODV2RTlMSHlIZXZNNNIB5gFBVV95cUxPaXV0UDJoT3RYa0F2OEduZG4zQW1fSFJlNGllc00zVTdBWWZSRGducUFEU3cwandxNVJldExCSTVjOVFNU3pYX2ZFQ3d5eEJEaDg3TzdkanRSQnJkMjVidFpTMnVfLXFOZU9YLXRQbF9DM2EwTmRhaWRHZjZMVmJCckd3V09yUGI2MEIyQmhJTThTOHFybWtrcm9reGx0VTZqZVVZQjBhT3VTcnQtSTBINmxVRjR4MmhsekhNeXpZdWtKMzlOQzFNa0FvQ05Wa040eDBEVlBid1pObEgzc1BqMGhqOEhGUQ?oc=5",
+      "title": "Brote de hantavirus en un crucero: rol Malbrán - » Cholila Online",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOHVWMnlNOXpsVWl1ZF9EaUducGp0STBZU0s5TFJnMFhBQ3JXeEJvdHZWTzhGNVVIa0xjUkV6Y3NoWFROTWRGclBpUzl4b0VpVGVUMGM1bXQzb0lFeHp6dWd5dkZpOGdrelZLSmR5eFhndWxxQ3QzRXNsRGhrMnpxUktZQXI2UQ?oc=5",
       "date": "2026-11-13",
       "source": "Google News ES",
-      "desc": "Destacan el rol clave del Malbrán por el brote de hantavirus en un crucero&nbsp;&nbsp;Agencia Noticias Argentinas"
+      "desc": "Brote de hantavirus en un crucero: rol Malbrán&nbsp;&nbsp;» Cholila Online"
     },
     {
       "title": "Human-to-human hantavirus spread confirmed on cruise ship - Medical Xpress",
@@ -1241,13 +1248,6 @@
       "date": "2026-11-12",
       "source": "El Mundo",
       "desc": "El enigma del crucero MV Hondius: la ciencia confirma la transmisión humana del hantavirus, pero busca el origen&nbsp;&nbsp;El Mundo"
-    },
-    {
-      "title": "Pedro Sánchez firma en el \"New England Journal of Medicine\" sobre el hantavirus sin citar al equipo de Sanidad - El Mundo",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Ra0tyUFhEeW5kbzdGQmE4TnhvTzdOazkyQlQ3ZUJRMlMzM0JpVEM3elFubFpTMGJDZGNBUGVoSmozMTB4bFE2d1d5TEk1YS1sMHRUdE04Y2NLYTdQeGhUTVlkTUVJcERlMVRzZGY3UUVfZ0NsS1dwLdIBeEFVX3lxTE9Ed2VCN2EwWjJRQVZmdDY5cnlLVEl2bVNXbmt0WHR0N3hOLTRaVWxwOUhWcERuTW4xOUtmRm5sUEhHaExFREs4aFJKbV9GV3FjWmZISktaVE5OeWJmR0RyLUJnczVhQnJ3VWNfbURkRm1nNUF3ZmNGaQ?oc=5",
-      "date": "2026-11-12",
-      "source": "El Mundo",
-      "desc": "Pedro Sánchez firma en el \"New England Journal of Medicine\" sobre el hantavirus sin citar al equipo de Sanidad&nbsp;&nbsp;El Mundo"
     }
   ],
   "countries": [
