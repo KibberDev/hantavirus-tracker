@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-11-16 18:48 UTC"
+    "updated": "2026-11-17 02:22 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,6 +1124,20 @@
   ],
   "news": [
     {
+      "title": "Destacan el rol clave del Malbrán por el brote de hantavirus en un crucero - Así es nuestra vida",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUnQxbjQyeXdkNnJXMGpteC1tUHZJRVRiYlRtN3B2VDZaQ2xCTC1OZjhSWTlQX25FZ1NRVHhyNThjSGgyRkwtdWN1aGw4NVJCNTZTYnpMcFg1a3ktOTVtMS1MUDl5Z29za1RuaWhYeU1JVTc1M3g3b0JHSzlnWnZMcW8tZDZWM0NFdDZyS1ZKb1ZzQkZaSGYtd01FR0ZEcWlndE1iSzU2ZE9YTFE?oc=5",
+      "date": "2026-11-17",
+      "source": "Google News ES",
+      "desc": "Destacan el rol clave del Malbrán por el brote de hantavirus en un crucero&nbsp;&nbsp;Así es nuestra vida"
+    },
+    {
+      "title": "Person-to-Person Hantavirus Transmission Confirmed on Cruise Ship - respiratory-therapy.com",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSjFyaDdKMTI2YnN4YlRVdnBUbnpOLWlhdWkwWXJNb1RXTldpT0NrSU5TU0Z6QkdmakN1V1N4Y3g5a29VcHNGWXNGbkphSEJTek1vZWJtOFNkcmJrOEw1MjRyNTFLeHZVNDlFV29ERWJxZGdZZEswbTRlTGg0YW5JZlRjVjRSOUt0dGFyMDBaYUgxUFIycWp1bkhUd0U2Z1lnTHpEUUNyUlpiN2dQbXphWG1XZ0VYd2VjYzNNOGctVmhkU21hWUxacGpCQ3B0Y01FQTVjbll0X01pd2VYVVJIUWpHNGxUTEZtZkE?oc=5",
+      "date": "2026-11-16",
+      "source": "Google News EN",
+      "desc": "Person-to-Person Hantavirus Transmission Confirmed on Cruise Ship&nbsp;&nbsp;respiratory-therapy.com"
+    },
+    {
       "title": "Hantavirus: el Malbrán tuvo un papel clave en dos investigaciones internacionales - Vet Market",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeGEwSVhja3NXNjl5QUFkT3FzajNmQjFidXNRSC0yRHFqS0p4bmxDWHdCai1XSkdyc1lXMHJGdDg4RFBiZk1ka1ZQa2Q1MVZlRHNaRnRWSjBkSE1pQWw3SmVaMVA1OVhlaXNfV0NENC1Fd2RjQ1RLM29NZGI0MHprYmhQcDZ5VC1TbVM5TkdzbDZoQlhzQ0ktNldHb0Q0NGFESDdVejZXMm5mcDNFeUVUazRYak9PTFVOejJPTC12OA?oc=5",
       "date": "2026-11-15",
@@ -1173,11 +1187,11 @@
       "desc": "Exhaustiva investigación internacional: el “caso 13″, clave del brote de hantavirus en un crucero que conmocionó al mundo&nbsp;&nbsp;La Nación"
     },
     {
-      "title": "El misterio del brote de hantavirus en el crucero: confirmaron que empezó en la Patagonia, pero no se sabe ni dónde ni cómo - Clarín",
+      "title": "El misterio del brote de hantavirus en el crucero: confirmaron que empezó en la Patagonia, pero no se sabe ni dónde ni cómo - Clarin.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYm1HdWdWb2hKcDM0bFFtOE9IMzRmUHgzX3lrUGRDeGpUaWJzUWtqdFFpNE5CSGcwbmZmUl93ZWJnTlM5eFZmUEtjRm5EMWxNWld6SVp5c3VlcEdROTM4MWZ6S2JXMDNqXzEtdy0xcHIycGdOQXJPRmllMzFMbWl4TW9VNmJhcXkzTm9VMlQ3cnVLM2dBYlhMS1BfaTlLZXB3dXo1QWt5SFBYNW5ueE1EM3poLTFrMnhN?oc=5",
       "date": "2026-11-13",
       "source": "Google News ES",
-      "desc": "El misterio del brote de hantavirus en el crucero: confirmaron que empezó en la Patagonia, pero no se sabe ni dónde ni cómo&nbsp;&nbsp;Clarín"
+      "desc": "El misterio del brote de hantavirus en el crucero: confirmaron que empezó en la Patagonia, pero no se sabe ni dónde ni cómo&nbsp;&nbsp;Clarin.com"
     },
     {
       "title": "Inusual contagio de hantavirus entre pasajeros del crucero MV Hondius procedente de Argentina - Noticias Venevisión",
@@ -1194,13 +1208,6 @@
       "desc": "El hantavirus del crucero Hondius tiene raíces en Meliquina&nbsp;&nbsp;ANBariloche"
     },
     {
-      "title": "Hantavirus en el crucero Hondius: dos estudios vincularon el brote con casos previos en la Patagonia - Ambito",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcTlxVFE5RHMwMVJlVmZkRk5fR3VZcDF2cHF4RVY5bHdXZGtJZTltejRvUm1JTUQtdVlmbTRoRzhTbEtpbmJqVEg0UllSOUpGUUJYY2QxcElBZHVPd2h4Q0I5NkQxZVJ0bHA0R0FWTExwN2FZM2JXSHFGcDF3TW9tS3ViQ1BEeVFWdHdDMWt2RnRfNWNkSzJFZEstZU81cDBxNDBOX0k5NGdoMUJHUkd4NmFxbnozR0o5QmNvTEJqQmdmTU0zTUHSAcsBQVVfeXFMT2Q2SlRsaUcyc2plV2NxZWtrN09fVjNsVkZNQ0dpUkFETUJPR1Fna1ducmNTdG5HM2hacXBWMW9rSlRpek5qQjBLaGpFNXBFcTZxb0dsNWEyS2tOZG5OYnlxc3JiTWNnZ0dZUFM0OEgxVmpsbTM3cUZJTkdGdWVfR0dreVFNVWpEbmx1TVUwN0lkWnhrWnpwTDYxaU1neVZMMEFpMFVJMjhMd0ZaZHFKb0ZJajR3N0s3VjVoTTJqaFo3TzJIOGZ4cW9xRlU?oc=5",
-      "date": "2026-11-13",
-      "source": "Google News ES",
-      "desc": "Hantavirus en el crucero Hondius: dos estudios vincularon el brote con casos previos en la Patagonia&nbsp;&nbsp;Ambito"
-    },
-    {
       "title": "Human-to-human hantavirus spread confirmed on cruise ship - Medical Xpress",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qN2FHSG4wendjaTZSTVhVcVVHc1pGZkY1VmVwam1yOGpBT3BkRDlGWTFzT3Vua18zVFhDdXRKb0dXQmIzSkZSbC1NWmxZdGdGTUFONnpESmJrN0dFRzhQYmlDUFNaU19CVE54dlAtdmNXZENPX2pfVmE3QWY?oc=5",
       "date": "2026-11-13",
@@ -1215,27 +1222,6 @@
       "desc": "New Genome Studies Revisit How Andes Hantavirus Spread on a Cruise Ship&nbsp;&nbsp;Nature World News"
     },
     {
-      "title": "El enigma del crucero MV Hondius: la ciencia confirma la transmisión humana del hantavirus, pero busca el origen - El Mundo",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lX1JDdGpodXBJeDRPQURPUUY2NkRIRjJ5WmhQcFpHTjRrdjFJQWR3a3NTNC0xNzZFWVRWQ3A2WnlyX2x5TGtzWkVtTWxUTzFTekw1YTcxQ0lyckIxWFlUTVNoTjQyUEJBQ2ZTRTZjTzZxNUExdFBjMdIBeEFVX3lxTE9ZZm9VcEJhQ3JHNVBhYVpkYk9OT2lmNVhmZE5hV2lESFVlbFZzUk9seW5wYUdCUTItamhvX3UwbDVsenlQMVdmSGY5cXZ5UXBWTFN2WW9TZDRkSFc1cGZEaUFIM19KN0hoaG5yamIwT3hZdGd3dmVKQQ?oc=5",
-      "date": "2026-11-12",
-      "source": "El Mundo",
-      "desc": "El enigma del crucero MV Hondius: la ciencia confirma la transmisión humana del hantavirus, pero busca el origen&nbsp;&nbsp;El Mundo"
-    },
-    {
-      "title": "Pedro Sánchez firma en el \"New England Journal of Medicine\" sobre el hantavirus sin citar al equipo de Sanidad - El Mundo",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Ra0tyUFhEeW5kbzdGQmE4TnhvTzdOazkyQlQ3ZUJRMlMzM0JpVEM3elFubFpTMGJDZGNBUGVoSmozMTB4bFE2d1d5TEk1YS1sMHRUdE04Y2NLYTdQeGhUTVlkTUVJcERlMVRzZGY3UUVfZ0NsS1dwLdIBeEFVX3lxTE9Ed2VCN2EwWjJRQVZmdDY5cnlLVEl2bVNXbmt0WHR0N3hOLTRaVWxwOUhWcERuTW4xOUtmRm5sUEhHaExFREs4aFJKbV9GV3FjWmZISktaVE5OeWJmR0RyLUJnczVhQnJ3VWNfbURkRm1nNUF3ZmNGaQ?oc=5",
-      "date": "2026-11-12",
-      "source": "El Mundo",
-      "desc": "Pedro Sánchez firma en el \"New England Journal of Medicine\" sobre el hantavirus sin citar al equipo de Sanidad&nbsp;&nbsp;El Mundo"
-    },
-    {
-      "title": "El misterio del crucero con hantavirus que fondeó en Tenerife apunta a la Patagonia - ABC",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQclhGRkg1aXMwOEgyMEpxcWY4WjRDa0JhZER2dDMxWUJYOXowX2pZS1lGUDg1NGg3dkdSWXREVWR6aTJVcW9NVHRhcXFGVDk2anllZ0dIOE94aHM1T1hOYXI4c1NsNmtvN0JNdTVtdW1LTWo5SXRqSE04V1VKNUk3VkZ0SWJvYVhUa0JldzM4SWUxTFJHUXotYkxqSkpwQndZeXRqRVJ4QWJXQdIBrwFBVV95cUxOLWFoT2d5UUdpQ3ZVRzBaRldxSVlUcEd3Tm96WFh1SnBaOWhjSkVBZmRoLVRweXZUS0pacU1BRkEyaS1SdnRXWmNWLUoxeTE2YWNxM1VQSVlyQldoN24yMGtLa2VmTWRJaC1zMjgwVDhUbEFJM3RGRkt6ZnlJNjdyUWx0ZTQyUm1GbEJQWXF6aVpQdm5tN1JSdDhRalY1aHlXN1dFVW9ZaElQd3pwM3dr?oc=5",
-      "date": "2026-11-12",
-      "source": "ABC",
-      "desc": "El misterio del crucero con hantavirus que fondeó en Tenerife apunta a la Patagonia&nbsp;&nbsp;ABC"
-    },
-    {
       "title": "Dos estudios rastrean hasta la Patagonia el brote de hantavirus del crucero MV Hondius - SINC",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYnlJWXotVlh1aTJwSFJZZEgtWk95YnRaY055NjJacy1jT0lmUUNCWGd3bzF3Z1h1QVp0VnpHN1RnS21JRmZ2bFNFQWp0X0Z6V1NJajB5OEtGMU9TUjRSdUstd2pCX0FuSzhDWmZKWmtSekJTVUt0UnV4N1Y2TGluRHRGZlYtZXRZRnIxblhtSDUwWTlSLTRmVUtLSm9Ga09ac0Y2NURtNjBQTGFTZjlGcVYtUXpkNVVZenZ1akR3?oc=5",
       "date": "2026-11-12",
@@ -1248,6 +1234,20 @@
       "date": "2026-11-12",
       "source": "Google News ES",
       "desc": "Revelan cómo se propagó el brote de hantavirus y remontan su historia genética hasta la Patagonia&nbsp;&nbsp;Salud a Diario"
+    },
+    {
+      "title": "El hantavirus del MV Hondius se transmitió a bordo y procede de un linaje argentino de los años cuarenta - Cadena SER",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOEx5cklpdHZlS1ZRNXdIZ3VMTGh2bDFmUDFCZ1Q1bHY4T2ZBT3NNWGVFVnJxR3J6QnNKUzQySW5tc0xhY2JlWDFLV2Rod2NFNmdVRzhqSWpHSUpBbHVKMGFrVGkzZkJMNGNGVjAzREFwU1FtcUlIUldYWFlSYnJGNERLYWZaQXUyOHRFN1kzcW5FUmhRSzZaZjl4RTFrazlSal96S1FZZW9RdHhTemlxZ3VpZTJuZmd2cW0xSVRXZ0FLZzNDYkNWS1ZvNkIwZUxWcUUtQUFCMTk3MkVCYzJDNTlaYjhtZnRGV0FnVnVVd9IBgwJBVV95cUxQWnZSbjdPQmdnNVNvYUdiSFJ2V0N6QU1kZnlsQ094SXBPQVZGcmlHU1hHMmZmRktzWG84QmNGVkxjcjZRbFliSmdlYU1tcmEzdWZzOTFNTVZ5Z1VXSHZfM1pBME1TMzh3a29JbWhmemkzN1VrT2c4bnBQbG1DR2RSeGg4NU9kQjMxZHcyVHVrWlBuOWthUnJzTjhyNlZkbVFjWFVhdktiZHFmMm1WV0VnWS1OR1RpcWdmNGNfVUZzMjdLdlhSMmhtX2xnb3RTU3dub0x0bFFiMXhhOXZ1cUdITjhvZmZUTUVVYUxuMlBvaFVoN2x4QXNSc0ZjYzREUkRGOU5z?oc=5",
+      "date": "2026-11-12",
+      "source": "Google News ES",
+      "desc": "El hantavirus del MV Hondius se transmitió a bordo y procede de un linaje argentino de los años cuarenta&nbsp;&nbsp;Cadena SER"
+    },
+    {
+      "title": "La ciencia reconstruye el brote de hantavirus del crucero Hondius y sitúa su origen genético en la Patagonia - La Voz de Galicia",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeDV1ekJland3U01RZlY4b2lnM2VHMk9hdFZnX1lDczRWNlhobUdQenBUY1ZsZFo0R1VVVFpZY3R6Zlczd3VSc1V1Sl9fbEJGbkpLYVlSaWREZW1WbU5kV05zOTgwbVNEUFlXVEczY3J0bGZPUHhScUtlN3RaeTV6VEdfWWNmY3BPdjhpSkEtcF9EQ3lZMTF1WkZIVTFKMUdCUlRodjZtT3R2dGhlbzZwS1ROX3Y3WXo0ZWkxRzFjbFhGbzhneEVyUEF6QkxiQmRvbW0yWEtsUFZJZWFxZ3RRNmtWNXkxUk85RTlQQVhIMHpnS3PSAY8CQVVfeXFMTlBHWTR4blRQejl4N3VpS21Bb05WUU0zajFlanI0R2VuXy1TQ2IxQWpzenJ6QzhzTFFFZ1VreW1VTzdWM245TG56cGlRSUI1NGhoRG9YQl9wUHhaczNYUUVVT2wzZld1ZjZOcmZ3emM1WTUtb3hTWDBGbVplUXlOSGhyOE1XeV9TS0FRemV5MmtlTXJwT1NCWDVwQTloaDBTVjYwZU5EdTlLRFJROWc1SXNmd1IxaUxWMW9ObWhLWmFkbHEzNnhhTkRHYXVwNk14eW9sOUd0SlNqcEZSS0lUV0tidUtETkZreGkyZUdFRXI3Q05JQnpTdmNvQkh5Ynd1RTZTMXg4UjY1NFNkYXQxbw?oc=5",
+      "date": "2026-11-12",
+      "source": "Google News ES",
+      "desc": "La ciencia reconstruye el brote de hantavirus del crucero Hondius y sitúa su origen genético en la Patagonia&nbsp;&nbsp;La Voz de Galicia"
     }
   ],
   "countries": [
