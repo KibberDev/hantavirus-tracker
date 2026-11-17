@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-11-17 10:59 UTC"
+    "updated": "2026-11-17 19:45 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,11 +1124,18 @@
   ],
   "news": [
     {
-      "title": "Destacan el rol clave del Malbrán por el brote de hantavirus en un crucero - Así es nuestra vida",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUnQxbjQyeXdkNnJXMGpteC1tUHZJRVRiYlRtN3B2VDZaQ2xCTC1OZjhSWTlQX25FZ1NRVHhyNThjSGgyRkwtdWN1aGw4NVJCNTZTYnpMcFg1a3ktOTVtMS1MUDl5Z29za1RuaWhYeU1JVTc1M3g3b0JHSzlnWnZMcW8tZDZWM0NFdDZyS1ZKb1ZzQkZaSGYtd01FR0ZEcWlndE1iSzU2ZE9YTFE?oc=5",
+      "title": "De Meliquina al crucero: la conexión genética que permitió reconstruir la historia de los casos de hantavirus - Diario Río Negro",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWG5abmJyMmVUZU9Bc3F0Y2lXVlBMSTQwbVloc0VhVlFwRFNfNU9zLTYwOTNaRmNCcTZ0c0tOTlhtb0REd0VIMkF1VzZPM3BWSmpPaDE3MEFlVUVrcGlodVdyaDJCUk12QkVUUTdYTjZFUVNoX1Jpam1CQ2ZTV1k4X2RYbktNWnFHVDNrLU9KMnNGd1dhUXVfODJlelpaaEw0WUxQOVJ5MDl6N2RVbEJLTW9sY0NnWTNMSVE2UDhxZS1WX0psOGJEWkxydXZYSG55RlJTb3BxZmY0UWdqT2U40gHnAUFVX3lxTE1xWldJRFJaTl9way01VHhEaGpmbzBwMTBuRXJ1RklaTUVaWldENTZ2bkVWbHZkLTR3OW0tZ18zTllXbkJGZ1lNY1U2UUtqWnljU241NFlVMWVqeklQN3E0VllUd1JGaEtSRUFvS21yYTQ0bS1Lc0tVVHlpNmhiMUsyamJXbmtuaV9Gc3FzeExMbS16Z3pHVl9GS0dkV3drVG1pZ0xwM0tiV2FQTEkzZUFyOGVWcEo4RnppRi12TlY5bXZwdGlxSjJ0R0lsU2o3R2pPRzh3Q3pYTjdYV1hZSXRoTm8zWDBLOA?oc=5",
       "date": "2026-11-17",
       "source": "Google News ES",
-      "desc": "Destacan el rol clave del Malbrán por el brote de hantavirus en un crucero&nbsp;&nbsp;Así es nuestra vida"
+      "desc": "De Meliquina al crucero: la conexión genética que permitió reconstruir la historia de los casos de hantavirus&nbsp;&nbsp;Diario Río Negro"
+    },
+    {
+      "title": "Hantavirus infections: Review examines oral signs and risks for dental practice - Dental Tribune US",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZm1tRGZGbVlBQUZpVThaRVdlekF5UjA5QVpVZ0htdnlkYWJ0LXRLbE5ULTJIbHhkSVYyb3pkMU8yT2VReGFnWUpmVEVGd0UzRXpaUkVKQlhSS2FmeW50cHo1c1RXQ09JYi1CTlBScVpvODB5V2h5SmZJRG1KM3YwclNHUXljb2c1QXdJNGgtMWI1ZFBDX0FQT28wZnY3ZnlkTlMwMHdXeXBka1FGOFdRRFpHOElYQQ?oc=5",
+      "date": "2026-11-17",
+      "source": "Google News EN",
+      "desc": "Hantavirus infections: Review examines oral signs and risks for dental practice&nbsp;&nbsp;Dental Tribune US"
     },
     {
       "title": "One Health Frameworks Propose Integrated Surveillance for Hantavirus Prevention - Bioengineer.org",
@@ -1150,13 +1157,6 @@
       "date": "2026-11-16",
       "source": "Google News EN",
       "desc": "Person-to-Person Hantavirus Transmission Confirmed on Cruise Ship&nbsp;&nbsp;Respiratory Therapy"
-    },
-    {
-      "title": "Hantavirus infections: Review examines oral signs and risks for dental practice - Dental Tribune US",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZm1tRGZGbVlBQUZpVThaRVdlekF5UjA5QVpVZ0htdnlkYWJ0LXRLbE5ULTJIbHhkSVYyb3pkMU8yT2VReGFnWUpmVEVGd0UzRXpaUkVKQlhSS2FmeW50cHo1c1RXQ09JYi1CTlBScVpvODB5V2h5SmZJRG1KM3YwclNHUXljb2c1QXdJNGgtMWI1ZFBDX0FQT28wZnY3ZnlkTlMwMHdXeXBka1FGOFdRRFpHOElYQQ?oc=5",
-      "date": "2026-11-16",
-      "source": "Google News EN",
-      "desc": "Hantavirus infections: Review examines oral signs and risks for dental practice&nbsp;&nbsp;Dental Tribune US"
     },
     {
       "title": "Hantavirus: el Malbrán tuvo un papel clave en dos investigaciones internacionales - Vet Market",
@@ -1229,13 +1229,6 @@
       "desc": "El hantavirus del crucero Hondius tiene raíces en Meliquina&nbsp;&nbsp;ANBariloche"
     },
     {
-      "title": "Human-to-human hantavirus spread confirmed on cruise ship - Medical Xpress",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qN2FHSG4wendjaTZSTVhVcVVHc1pGZkY1VmVwam1yOGpBT3BkRDlGWTFzT3Vua18zVFhDdXRKb0dXQmIzSkZSbC1NWmxZdGdGTUFONnpESmJrN0dFRzhQYmlDUFNaU19CVE54dlAtdmNXZENPX2pfVmE3QWY?oc=5",
-      "date": "2026-11-13",
-      "source": "Google News EN",
-      "desc": "Human-to-human hantavirus spread confirmed on cruise ship&nbsp;&nbsp;Medical Xpress"
-    },
-    {
       "title": "New Genome Studies Revisit How Andes Hantavirus Spread on a Cruise Ship - Nature World News",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOekF0SjJsRkFQNUstSU9ORFkwTTBrNGtXaVIxM3ZVQ1IzYjU3eXctbTNRUVByYnRpeXVrUktIamZaajhZTmloVFpuZldmTDF6UDMwUldITmxDSjQ5QjBubTRqbE5LT2ZuaV9PVjUzQUt6bWJPbUZHSXFQWlJzWE9sTEs4MFVxa1l2UVFfWEpFNkxjVl9JdEFKWmZ2STI0dXNGRDlvWDBQS2FfM3ppRWVvSXUxZWxUZDNoS0xmUnZNSGtZUlpV?oc=5",
       "date": "2026-11-13",
@@ -1248,6 +1241,13 @@
       "date": "2026-11-12",
       "source": "El Mundo",
       "desc": "El enigma del crucero MV Hondius: la ciencia confirma la transmisión humana del hantavirus, pero busca el origen&nbsp;&nbsp;El Mundo"
+    },
+    {
+      "title": "Pedro Sánchez firma en el \"New England Journal of Medicine\" sobre el hantavirus sin citar al equipo de Sanidad - El Mundo",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Ra0tyUFhEeW5kbzdGQmE4TnhvTzdOazkyQlQ3ZUJRMlMzM0JpVEM3elFubFpTMGJDZGNBUGVoSmozMTB4bFE2d1d5TEk1YS1sMHRUdE04Y2NLYTdQeGhUTVlkTUVJcERlMVRzZGY3UUVfZ0NsS1dwLdIBeEFVX3lxTE9Ed2VCN2EwWjJRQVZmdDY5cnlLVEl2bVNXbmt0WHR0N3hOLTRaVWxwOUhWcERuTW4xOUtmRm5sUEhHaExFREs4aFJKbV9GV3FjWmZISktaVE5OeWJmR0RyLUJnczVhQnJ3VWNfbURkRm1nNUF3ZmNGaQ?oc=5",
+      "date": "2026-11-12",
+      "source": "El Mundo",
+      "desc": "Pedro Sánchez firma en el \"New England Journal of Medicine\" sobre el hantavirus sin citar al equipo de Sanidad&nbsp;&nbsp;El Mundo"
     }
   ],
   "countries": [
