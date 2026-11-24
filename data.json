@@ -3,7 +3,7 @@
     "virus": "Hantavirus — Cepa Andes",
     "day0": "2026-04-01",
     "source": "OMS, medios internacionales",
-    "updated": "2026-11-23 21:41 UTC"
+    "updated": "2026-11-24 05:34 UTC"
   },
   "current": {
     "cases": 13,
@@ -1124,46 +1124,11 @@
   ],
   "news": [
     {
-      "title": "Hantavirus (San Carlos): realizan tareas de acondicionamiento en el Hospital Alvariza. - Cadena del Mar",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcnp5RS1tSDhMUnJUQmFObFZjWUpxOEdfc0NTVzhnVHo1bTNSTlJtVVMwT2owRHVYYTBwejlrSlFzaFJLY0ZMLVA2dFkzZ0lkM0kyemxqVmZxckZsandPZ2Z5WDByQnhrY3hwSmxmTFd3MnVaMzJDU1o0b1JJMjFTY2NUNUVWY2VzampRNXo1bWFLOWNOMDByeDAxUTJIV0lyMnBIX3ZlcVdaNHBzNE5RUXBDX0FLeWVXRkE?oc=5",
-      "date": "2026-11-23",
-      "source": "Google News ES",
-      "desc": "Hantavirus (San Carlos): realizan tareas de acondicionamiento en el Hospital Alvariza.&nbsp;&nbsp;Cadena del Mar"
-    },
-    {
-      "title": "Detectaron un caso de hantavirus en un trabajador de la salud en el departamento de Maldonado - subrayado.com.uy",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcjVDRWg2ZktubTZoOGdqY0tkOUhIdXZjZE14Z01Ka1BuVTlIVXN0eVpTbklrVUJaUVYtRWUwSmUtb1VrU3dCQ2llSmFSWTJ0OUpBRlNrRGc0SjhwYi1za1pTdEVrRXA3cGV1RGZsNXptY1VPU19FcG43am9ucXY4WHo1b0J5S3BhR3BDdVlFckw0WGRJaHduOEVVQy0yOEsyZ3ItdEpVWVFBM3VQeUUxcmZITjB3bUXSAbwBQVVfeXFMTVAtREtlc0ZUUjVqc2MxQU5BSGZOYlNYZEI2bVNTRDJERXN0akhFLVFuVm9PRWQ4Mnozc0ZubklLWGQzdEV5bkF0c3N1UHFFVlF4VnNSTW5hTU9IRW1lX0RYS0oxMzU2c2VISDVqQjlzdkJKczJzb19vWUd2U1JKaXR0bk1Gbm5BQnc1MHlEUG1LYmlVenFLa1gxNlAwanFKZ3RIUTJ1ZTR1QWYtaEc4NzYzOVR0TWlJZDAydy0?oc=5",
-      "date": "2026-11-23",
-      "source": "Google News ES",
-      "desc": "Detectaron un caso de hantavirus en un trabajador de la salud en el departamento de Maldonado&nbsp;&nbsp;subrayado.com.uy"
-    },
-    {
-      "title": "Hantavirus en Maldonado: qué se sabe del único caso confirmado y qué medidas adoptaron las autoridades sanitarias - FM Gente",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb1ZGNFdFaXZ1RU5tUTg4N3pkQjRQcGQ3YkswWTZxRnVaaEYwRnRESHVGb3JnMV93OHVIelVUbkpTZ09KM3JhTzg1b1BIZFpWN1ZoQXdGbzdMZk5tOUEwZ2pVRi1RSHpKOW50bXhmMVNKdW0ycmFPZkk0R003QWc3SlRqb1JHUG9fekdr?oc=5",
-      "date": "2026-11-23",
-      "source": "Google News ES",
-      "desc": "Hantavirus en Maldonado: qué se sabe del único caso confirmado y qué medidas adoptaron las autoridades sanitarias&nbsp;&nbsp;FM Gente"
-    },
-    {
-      "title": "Salud refuerza campaña contra el hantavirus en la Región del Biobío tras seis casos y dos fallecidos - La Tribuna",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSnF3dG54dkJOdzBFcWtQaGJGSlhDeUU4Zm5zVFJKemdzdm1lMkVHdjZVNU9SQkI3TGlHeU9YMl80cjdTd1N5YTlCMG03dmIwOS0xdk9NNmw5ZjMyX1ItTURTX2ptcy1SSzZMNzZUd2pVdkM2blh1a1FrVnJzRXdWaTNxX040WFhWQkZqcWFvUnNXV2Q2OGRmZ1MzUHlNOXdPTmFtS1NpZ3lxMzhBUWQxSVp6Z2ZQQ1A1c083RE40c3JKaXpYNGxVN0tHT09OdjE0RzJxc3dzRGdkc3djdEFfSNIB6AFBVV95cUxOeXhyM2hxcFJXc0tyVC1Ta01GcDQwT21VblBjOHVrbEFrX3QtVTd4WlFMc2tJVVdzMGJfM2Z0dGVhbFItVUtfN0h5RWlQVVgtREdFMWdPYnVBMmtQTVFNSU1BQ0JvZzNEc3BrNFBGOFdLanpONjlpT0tUU1BLSFZRQjhjcjJ4UHFSRzZJd1RmR0JJVEYxc0pCb19GeFFRSTcwcUZHLXVtbVNib3ZtN3lhVFFxYWxkbDlNYkZ6TDZKb3k3NEdXYmtNa3FCNW5vY1RsWmZSenVUUmJxdVhrMzRQNkoxQzhBV0Rr?oc=5",
-      "date": "2026-11-23",
-      "source": "Google News ES",
-      "desc": "Salud refuerza campaña contra el hantavirus en la Región del Biobío tras seis casos y dos fallecidos&nbsp;&nbsp;La Tribuna"
-    },
-    {
       "title": "What Genomic Analysis Reveals About the MV Hondius Hantavirus - Medscape",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTDZaVTJGY0lkcVhXQnJUVEtlRWkwM1o0clQ1Ql9nc0Jmanc1dW9QN1V6RVFIc0pBVUJMUDRsRHI4OU96MUN2MzdLUE9TRzhRRHVoTjF3YnFkSnMxQWhVT09WWXB4alhEMG9neWlrcWNXS0p3SzZqQ25DakFlb2d1QkFwOE1WYWZrWTdkS05pNHNyYXFaZl9OUEluc2Jfc05PWkN1LUpWT3ljb2c?oc=5",
       "date": "2026-11-23",
       "source": "Google News EN",
       "desc": "What Genomic Analysis Reveals About the MV Hondius Hantavirus&nbsp;&nbsp;Medscape"
-    },
-    {
-      "title": "UN ENFERMO DE HANTAVIRUS EN NUESTRA CIUDAD. ES ÉPOCA DE CUIDARSE Y PREVENIR - Bariloche Digital",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRktwaEtBbjlKUFlNblVKUjN2aXU1SHV0NDd4YjQ0bzF0anFTVDdZVFNEeWwtVy1UVU1UQWJ5cHhXRG1DaGxEWTM3VF9KQk1KNE9wYW5Vd3BiTnVsVUU3M3RxMWhVdmg0RGE3aTJHSXk3VXN4VUt4cVR0eWgzbjFHN3F1OWgzb3ZTdGdURlgwMU90NmJWR0xJel90a1hURkdHNWpEME50SQ?oc=5",
-      "date": "2026-11-22",
-      "source": "Google News ES",
-      "desc": "UN ENFERMO DE HANTAVIRUS EN NUESTRA CIUDAD. ES ÉPOCA DE CUIDARSE Y PREVENIR&nbsp;&nbsp;Bariloche Digital"
     },
     {
       "title": "Death on the high seas: scientists unravel how hantavirus spread aboard the MV Hondius - Gavi, the Vaccine Alliance",
@@ -1187,11 +1152,11 @@
       "desc": "Person-to-Person Hantavirus Transmission Confirmed on Cruise Ship&nbsp;&nbsp;Respiratory Therapy"
     },
     {
-      "title": "Exhaustiva investigación internacional: el “caso 13″, clave del brote de hantavirus en un crucero que conmocionó al mundo - La Nación",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcE9TSlhUemdPbWp1Q05wT0JEb09zZDVIZ3diMXVmRDg5dFpLd2Rqc3RyTG0waHNWdHlmY1FneWc5bUdRUHdteC1sVkhBNmJuR0pyUGRvQmM4TnlZUEVjeGpGLTZZWlJxMU5BQ3FIcFVLQzNnZjJDWk5Xa0FuQ3FoOVFqZVdFX1U1MHJJU1VpQ3Y2UVMwVXdJVXpUNDFtcHk4bU15TjRFWTVzWkVqOFprMU5IRFczY3pMVlhhZ0c0OG1xUnBIcmlKRjhSS0tWWlZjYjRjdU5ya1ZxbDJxeXFILW1LZw?oc=5",
+      "title": "Descifran la propagación del hantavirus a bordo del Hondius: confirman que su origen genético apunta a la Patagonia - Gaceta Médica",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbURCOFoyWVlrcEdqQXRPZUZyXzdqU18td0YwaGk0eXVyMk13YVBMdFo5QmNnSzFOZGZHSkdkeWpfQ2RrVEhWQlA0WDJPN1J2eXJRN0tGWFprTG1CUFZpVF9xSURaN2lkNExFN2lTWnRXSTZDdWpuQmNRMWZyUFdDR1hJYzMzZGwxMzBFNl9ZY2diTE5HN3JJWVdpZmxkRmRkRmx1ck1FTkJiUQ?oc=5",
       "date": "2026-11-13",
       "source": "Google News ES",
-      "desc": "Exhaustiva investigación internacional: el “caso 13″, clave del brote de hantavirus en un crucero que conmocionó al mundo&nbsp;&nbsp;La Nación"
+      "desc": "Descifran la propagación del hantavirus a bordo del Hondius: confirman que su origen genético apunta a la Patagonia&nbsp;&nbsp;Gaceta Médica"
     },
     {
       "title": "Hantavirus on Board the M/V Hondius: Human-to-Human Transmission Confirmed | Newswise - Newswise",
@@ -1201,18 +1166,25 @@
       "desc": "Hantavirus on Board the M/V Hondius: Human-to-Human Transmission Confirmed | Newswise&nbsp;&nbsp;Newswise"
     },
     {
-      "title": "Pedro Sánchez firma en el \"New England Journal of Medicine\" sobre el hantavirus sin citar al equipo de Sanidad - El Mundo",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Ra0tyUFhEeW5kbzdGQmE4TnhvTzdOazkyQlQ3ZUJRMlMzM0JpVEM3elFubFpTMGJDZGNBUGVoSmozMTB4bFE2d1d5TEk1YS1sMHRUdE04Y2NLYTdQeGhUTVlkTUVJcERlMVRzZGY3UUVfZ0NsS1dwLdIBeEFVX3lxTE9Ed2VCN2EwWjJRQVZmdDY5cnlLVEl2bVNXbmt0WHR0N3hOLTRaVWxwOUhWcERuTW4xOUtmRm5sUEhHaExFREs4aFJKbV9GV3FjWmZISktaVE5OeWJmR0RyLUJnczVhQnJ3VWNfbURkRm1nNUF3ZmNGaQ?oc=5",
-      "date": "2026-11-12",
-      "source": "El Mundo",
-      "desc": "Pedro Sánchez firma en el \"New England Journal of Medicine\" sobre el hantavirus sin citar al equipo de Sanidad&nbsp;&nbsp;El Mundo"
-    },
-    {
       "title": "El misterio del crucero con hantavirus que fondeó en Tenerife apunta a la Patagonia - ABC",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQclhGRkg1aXMwOEgyMEpxcWY4WjRDa0JhZER2dDMxWUJYOXowX2pZS1lGUDg1NGg3dkdSWXREVWR6aTJVcW9NVHRhcXFGVDk2anllZ0dIOE94aHM1T1hOYXI4c1NsNmtvN0JNdTVtdW1LTWo5SXRqSE04V1VKNUk3VkZ0SWJvYVhUa0JldzM4SWUxTFJHUXotYkxqSkpwQndZeXRqRVJ4QWJXQdIBrwFBVV95cUxOLWFoT2d5UUdpQ3ZVRzBaRldxSVlUcEd3Tm96WFh1SnBaOWhjSkVBZmRoLVRweXZUS0pacU1BRkEyaS1SdnRXWmNWLUoxeTE2YWNxM1VQSVlyQldoN24yMGtLa2VmTWRJaC1zMjgwVDhUbEFJM3RGRkt6ZnlJNjdyUWx0ZTQyUm1GbEJQWXF6aVpQdm5tN1JSdDhRalY1aHlXN1dFVW9ZaElQd3pwM3dr?oc=5",
       "date": "2026-11-12",
       "source": "ABC",
       "desc": "El misterio del crucero con hantavirus que fondeó en Tenerife apunta a la Patagonia&nbsp;&nbsp;ABC"
+    },
+    {
+      "title": "Dos estudios rastrean hasta la Patagonia el brote de hantavirus del crucero MV Hondius - SINC",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYnlJWXotVlh1aTJwSFJZZEgtWk95YnRaY055NjJacy1jT0lmUUNCWGd3bzF3Z1h1QVp0VnpHN1RnS21JRmZ2bFNFQWp0X0Z6V1NJajB5OEtGMU9TUjRSdUstd2pCX0FuSzhDWmZKWmtSekJTVUt0UnV4N1Y2TGluRHRGZlYtZXRZRnIxblhtSDUwWTlSLTRmVUtLSm9Ga09ac0Y2NURtNjBQTGFTZjlGcVYtUXpkNVVZenZ1akR3?oc=5",
+      "date": "2026-11-12",
+      "source": "Google News ES",
+      "desc": "Dos estudios rastrean hasta la Patagonia el brote de hantavirus del crucero MV Hondius&nbsp;&nbsp;SINC"
+    },
+    {
+      "title": "Dos estudios detallan cómo se propagó el brote de hantavirus a bordo del Hondius - Science Media Centre España",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU0NKSTEwUUdEVEo2N3FUbTdCZmVqMF9ybGY2V1FEMFo0UVUzZkFPc0VGYlRLNnowTnJUZXVvMDlIWjFscWpRZnUxMWZtQTBWV3BoaVZSTXNnMEZCUEd3dUM2R2pWU0dES2RLWkY5ZFd2S1JaZVR4UURJbHBUUlp5ZWZnRGltclRMQzMxLVdPNUwzbEhxaWJOYVNnYWxqekRQb2RDeGVCTWlSV1R4UG8xVTIzXzVGRi1WOUVDN1g2VUpUWmtsdzM2cQ?oc=5",
+      "date": "2026-11-12",
+      "source": "Google News ES",
+      "desc": "Dos estudios detallan cómo se propagó el brote de hantavirus a bordo del Hondius&nbsp;&nbsp;Science Media Centre España"
     },
     {
       "title": "¿Cómo se propagó el hantavirus en el crucero que llegó a Canarias? Investigadores españoles participan en dos estudios internacionales - Animalshealth.es",
@@ -1222,11 +1194,18 @@
       "desc": "¿Cómo se propagó el hantavirus en el crucero que llegó a Canarias? Investigadores españoles participan en dos estudios internacionales&nbsp;&nbsp;Animalshealth.es"
     },
     {
-      "title": "What is hantavirus? Symptoms, spread and prevention explained by an expert - The University of Utah",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM0ZpWjFYVHdhSERqNHVzd3l0MXJlNVdycWhBd1F2eTNIQkh3MmwwaEhuVzNyUGUxTzFadmxQVmhwcHJFU21tWHk4MHd5R3ZKSklKU1FGOGw2Tm5LRmk0MU11Y1hKb3dpaExUaEZUOUZESEk1ekFfSHdrbk41bHZGZmhSalByX2JSSk9xVWhJazllVVBDRXprTGhtVW5BV3dBTi1HdXhhSk5JUmktdjk0?oc=5",
+      "title": "Roedores en la nave: el informe que transformó una sospecha de hantavirus en una investigación One Health - Redacción Médica",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZUJTUjE4dUhBZlF5ZWNnWFV5YWxWMFlYOVJBM2licVVaSEotbjB0YTZXN25jUkRfc0RnWk8zOW9rUmxvM1NOU2ZvT2FzZjlkYlhPQVFoY2d5TXI5SC1yb0RoYjFqS3k3b0x5Y3I4RmcwbE51SWlzRFhWcE9OZE9BVjA5V1VmbnU4TWJ6LThOaGM2RnBsODljM2RiejNfN1VGMDBUUmtXSXJNYWoxUHl3a0dIQzRIQ3RjTF95ZGNNbG8wN2xSMGRrSlVZVndwZ0ZDUDFQWjJvTW5BT1dERy0xeVpHT1VFLXRjcHAxR0EtdUlTQUh0SVFpTNIB_gFBVV95cUxOaVRTR2JMRkpOMmsxVWRXalZwZ2NTVmN3MkdOWng2X1FpSzM3UWNGQlVBNC1MQUxfSkxNMW0wR25BRjdsSWVPbUZLMGx4MkRiQS1zQWY0X2oyWnBsNVZaRzdWNFdCSExNcmlCUGlBbVVhNUp2SzBCYTdRVzBPZHFjVUhLd0JpN0NqRWo3Um9XU1RDbG5KaDRwWE5NUURwVExmOG04M1RNOERXc3B6THBQbUhrM1g3MElHSEV1ZlhqbVZCMGZvcnVWZ0xUSWlkeVRzVXg1NnFtUGpZekp0by1EREE1NmFoaUozcjM1Q05NYXZyd0FaSFdUaE5HejhYdw?oc=5",
+      "date": "2026-11-02",
+      "source": "Google News ES",
+      "desc": "Roedores en la nave: el informe que transformó una sospecha de hantavirus en una investigación One Health&nbsp;&nbsp;Redacción Médica"
+    },
+    {
+      "title": "Pedro Sánchez utiliza una revista científica para presumir de la gestión del hantavirus - ABC",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPemlWZmFpcjl0ellWcTRzUlRRSmpxYVBXMzdROVdNUnhkY2JObmNIdnV6WVFVd08zbXhaV1JWamtnRW5nRHFSaEpCY2tRbS1ISzh1VWZJRXpCY2NJNXM0R0VQTkhGUGY3OU9ucFQ2cDhPRjIwRWlEUnZWTGVLajdzZllQWm4yVHZwR0FrVWY0YnZCVGtKWkZpQ2pySDhkSl9uSDhIOExSb9IBrAFBVV95cUxQWjU3WnNBRy1MTEJ0VzlEMzZvSG0wM0FpLThsTUkyREZqOEN4X2dMNXJXVzdBbUZBZjNkaWhncTE2bGlmalpCRGZ2RmVfRTY1TFd3d2lKcG10VDVycUd0X0t3djZOaFNpajhCb2VRR2xjb3NuSkMxS1VVWS1ucDB2cjZRand3ZVFEN2pwYTdUZVFfMmx4NEFtVzZfT3VrdXBVcXBnWlBhTTRXTVlr?oc=5",
       "date": "2026-10-08",
-      "source": "Google News EN",
-      "desc": "What is hantavirus? Symptoms, spread and prevention explained by an expert&nbsp;&nbsp;The University of Utah"
+      "source": "ABC",
+      "desc": "Pedro Sánchez utiliza una revista científica para presumir de la gestión del hantavirus&nbsp;&nbsp;ABC"
     },
     {
       "title": "Of mice and men: Examining how hantavirus leaps from rodent to human - Virginia Tech News",
@@ -1236,18 +1215,39 @@
       "desc": "Of mice and men: Examining how hantavirus leaps from rodent to human&nbsp;&nbsp;Virginia Tech News"
     },
     {
-      "title": "Cataluña mantiene bajo vigilancia a tres contactos estrechos del turista con hantavirus - ABC",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTTF4Zi1wVEZKN0dndzhNTkpSTlV6eGl5N3pRVFQxQWxCMTRfeDN6aVZkd25lMUg4bjU1QW9CamxLLXc3RXpya3RhSmNPRlNTWHpzT1RiRXluOFlYb2Z1MmZzUjhNOE41QlllYkctVmc4VmhNOS1EdU5ILVcwR0kxZjN0cVpqYlZUTHN1dEdmcUZYa0xqeUtEYTBPNnpxTWxyTG01aWl4QVFzZ9IBrwFBVV95cUxPazBHRGFLbVltWTY4Y3d2cUNCVVV4OUtsTWluRHNYM0xQT1ptNVBvdUdaa1FrN2hSUVY4RGpaODM1cVFWZ04tSXZrS3VuWVJ6MGJQQXd2YjRndnotMDV2WFBndUctNmpsNWhjQ3Q1bHVHSEdZS01EaENlQ1FCUHlCTEMtT1NhanNySUtyZUdXX0swSVpRdUZieUNJcmlqcGV0TkFMT2FKTElkR2NnQkhB?oc=5",
-      "date": "2026-08-14",
-      "source": "ABC",
-      "desc": "Cataluña mantiene bajo vigilancia a tres contactos estrechos del turista con hantavirus&nbsp;&nbsp;ABC"
-    },
-    {
       "title": "Catalunya identifica tres contactos estrechos de un caso de infección de hantavirus detectado en Galicia - 20 Minutos",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQN0poY245N0Q3OWt3VXJwRGN5ME9DR2Y3SElvTGNtaUdCUURIMTcyS2hKT25NUi1UN2tLVndIU1pJMGs3bnVveEp3VDdadTVuUGN0Q0RBMzFrNE95Tzk5QTJWUjE4d3VERmpJcTRhdkFORkxfZWFwWGNsbVpDRU1LQ3I2a3djQ01ZVXRkNnRBT0RDaVZjWkhrWVlpLXFmdFVSVFVZTW41MUxfVHR3UnpqaWp0X0JWalpnOS1qRXQzQ09ZbFpUdzRiUUl5c2FzaVh6V2RMNFFPaXM?oc=5",
       "date": "2026-08-14",
       "source": "20 Minutos",
       "desc": "Catalunya identifica tres contactos estrechos de un caso de infección de hantavirus detectado en Galicia&nbsp;&nbsp;20 Minutos"
+    },
+    {
+      "title": "Cataluña descarta que los tres contactos de hantavirus en la comunidad se hayan infectado - 20 Minutos",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN1lUbnQxUWFEWGpUMlhsTWlXa0ZiUlFuUlFGRHJtc1M0S3BWTmV5clYxRG1LSGRxVEZvblczVGstVm4xUjdHZzdaUmlfMHFNazJZX3pKbm54cERiSVBqUFE0UnRwRlVfWi1IdS10TGtWc0dQZUhTdVByLWEzbjhteGM2S1FXRjNTdmtjZjR6N1ZCUGJadzg5NHNMeS1DUDV6VGJnazNFZ0xsNW42Mjh5azZvREVNQnNTcWJqRWVkRXB5ZlVoQVM3Sg?oc=5",
+      "date": "2026-08-14",
+      "source": "20 Minutos",
+      "desc": "Cataluña descarta que los tres contactos de hantavirus en la comunidad se hayan infectado&nbsp;&nbsp;20 Minutos"
+    },
+    {
+      "title": "Los cuatro contactos del turista con hantavirus continúan guardando cuarentena en Madrid, Castilla y León y Cataluña - El Mundo",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYcHlpYjg4WXNVMXhQSmU5MmVvckJzYzQtUWlENjA5NFJRTUlTY3VEckR3MlR3M1ZfM1phdVUwM0d2RjlxRWNHaEd3VFpTLXh0ZVZUSmVoaXBiZm9XYmJWYzl6dnFQY3Vuc1J2d09oRjNZZzdjUGY5SdIBeEFVX3lxTE5fUkFnODFZb3lvSFlMdlNQMDZNUzZQRi0wOVFURC1YUnJqMlpaNXJPb0RJYXhUTVV1V3lEZ2NxMHA0R2ZkQmxBeVotWFFsTjkzWjVCX3N3RzZMVEdYcXA5VzVHdnZWZHIxb3hlX1M4YXI1NWpWMGhhZw?oc=5",
+      "date": "2026-08-13",
+      "source": "El Mundo",
+      "desc": "Los cuatro contactos del turista con hantavirus continúan guardando cuarentena en Madrid, Castilla y León y Cataluña&nbsp;&nbsp;El Mundo"
+    },
+    {
+      "title": "Sanidad vigila seis contactos tras el caso importado de hantavirus Andes - Gaceta Médica",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObUI3N29YMVBQeEM4RWlUeTBPOXBORUN1aTktZ2VkNzQ4QTZpQzJQWmVETUROcDdiTkNYMEFmNEtrZzVUNWxTV0lBdTUxUWw0M0VOMC1FTHhJSjFXTnRQQ1lLZG5maE5uWkdBcktENkVxQUZLMFdwZkhNb1Bjcm9QTHN3a2Q2RE1WRkY1UDEyYURCREJzUVFISWVpWmJNOEZEUjh4cnQ4SmNHMmZ3VXJDMXVR?oc=5",
+      "date": "2026-08-11",
+      "source": "Google News ES",
+      "desc": "Sanidad vigila seis contactos tras el caso importado de hantavirus Andes&nbsp;&nbsp;Gaceta Médica"
+    },
+    {
+      "title": "El turista contagiado de hantavirus recibe el alta y regresa a su domicilio tras dar negativo en PCR - La Vanguardia",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTlZrNFc0UlRvRHZaTXNVeWhndGg2SVpsdGhXNG5xejhYN3FJR2tiWVkzUkQtdkdpVEEwRTRmeWdmMEFHRW5uc3hIMjhvVEVMOTZCX3FGYjNGNmZmS3pyeldSc0VOVm5LQjhGQTdpNG5OaXE4UnU5a1BIYW84YnByYzY5bklZaGx4dUlvNjR4VHpqMTEwS1RiOHlBb0lOQ0I2YWw5eWN3UXJYd0VNNW5YMzhJMEF6Tnk0X0xCX3RBTkxqY0JXM2xfT2YzMUFVUdIB0wFBVV95cUxPNDVKZkRzNHlWVkc1RnBQLWFrMlhHU2tJU0pxeXJQazQ0U0k5a2VOME9ZaC1zaU5aUnJ6TXliTnFSdnlPNWw5Ri1sY2NvQ0ZydXFPcUJvRVdBOG43QUpQNU9ySWk4NFdmaUNacGdvOE1zU1BFSDFsdDNCU0RSb2s3c2JHZFEySHJGdlduX3l3Y01XeTdFbHg3a1JIT3lYWmNmREh0dHBsOFpMTVFIVkViM3Z6dDRheHJWQ1dQcDJ6dGhpR3U4YnBKRTlZeVRpTnFiOTI4?oc=5",
+      "date": "2026-08-10",
+      "source": "La Vanguardia",
+      "desc": "El turista contagiado de hantavirus recibe el alta y regresa a su domicilio tras dar negativo en PCR&nbsp;&nbsp;La Vanguardia"
     }
   ],
   "countries": [
